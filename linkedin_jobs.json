@@ -1,68 +1,28 @@
 {
-  "scraped_at": "2026-05-03 19:55 UTC",
-  "total": 8,
+  "scraped_at": "2026-05-03 22:45 UTC",
+  "total": 3,
   "jobs": [
     {
-      "company": "kadence",
-      "title": "Staff Applied ML Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4389453277/",
+      "company": "Protingent",
+      "title": "Staff Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408397012/",
       "date_posted": "2026-05-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "Machine Learning Engineer",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406566974/",
+      "company": "Haystack",
+      "title": "Senior AI Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403749110/",
       "date_posted": "2026-05-03",
       "ats": "LinkedIn"
     },
     {
-      "company": "Inside Higher Ed",
-      "title": "ML Engineer \u2013 Healthcare Data Curation &amp; Model Workflows",
-      "location": "Stanford, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409862828/",
-      "date_posted": "2026-05-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Machine Learning Engineer, Search - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409873624/",
-      "date_posted": "2026-05-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406574912/",
-      "date_posted": "2026-05-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Agoda",
-      "title": "Staff Machine Learning Engineer (India based, relocation provided)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4302804201/",
-      "date_posted": "2026-05-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Manager, Data Scientist - Recommendation & Personalization Systems",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4359276672/",
-      "date_posted": "2026-05-03",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Capital One",
-      "title": "Manager, Data Science - Consumer Identity Machine Learning",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4388716628/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer (Agents)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408383809/",
       "date_posted": "2026-05-03",
       "ats": "LinkedIn"
     }
