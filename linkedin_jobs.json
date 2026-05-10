@@ -1,103 +1,247 @@
 {
-  "scraped_at": "2026-05-10 19:58 UTC",
-  "total": 8,
-  "new_count": 4,
+  "scraped_at": "2026-05-10 21:47 UTC",
+  "total": 15,
+  "new_count": 15,
   "jobs": [
     {
-      "company": "Zscaler",
-      "title": "Principal Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4389256350/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (Data Scientist/Engineer, Online Metrics)",
+      "company": "Gem",
+      "title": "AI/ML Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4372003249/",
+      "url": "https://www.linkedin.com/jobs/view/4378358230/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "fal",
-      "title": "Senior Data Scientist, Product Intelligence\nSan Francisco",
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Data & Systems",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374695018/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Data & Systems",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412609146/",
+      "url": "https://www.linkedin.com/jobs/view/4374689248/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "American Express",
-      "title": "Staff AI Engineering - Agentic AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412391491/",
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Model Optimization",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374686604/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "American Express",
-      "title": "AI Engineer II - Agentic AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412387978/",
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Model Optimization",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374685706/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "American Express",
-      "title": "AI Engineer III - Agentic AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412390541/",
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, 3D Object Detection (PhD New Grad)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4359071618/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "American Express",
-      "title": "Senior AI Engineer I - Agentic AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412602180/",
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Driver Understanding and Evaluation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344712134/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "American Express",
-      "title": "Senior AI Engineer II - Agentic AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412392487/",
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, 3D Object Detection (PhD New Grad)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4357631678/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Machine Learning Engineer, Driver Understanding and Evaluation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344582871/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Product Data Scientist, Operation Center",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4370615121/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Product Data Scientist, Operation Center",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4370616079/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Data Scientist, Launch Evaluation Quality",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4328353419/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Data Scientist, Launch Evaluation Quality",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4328214600/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Machine Learning Engineer, Perception LLM/VLM",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4383256530/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Autodesk",
+      "title": "Distinguished Applied AI Engineer, AI Transformation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4330618546/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Zscaler",
-      "title": "Principal Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4389256350/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "fal",
-      "title": "Senior Data Scientist, Product Intelligence\nSan Francisco",
+      "company": "Gem",
+      "title": "AI/ML Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412609146/",
+      "url": "https://www.linkedin.com/jobs/view/4378358230/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "American Express",
-      "title": "Staff AI Engineering - Agentic AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412391491/",
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Data & Systems",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374695018/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     },
     {
-      "company": "American Express",
-      "title": "Senior AI Engineer II - Agentic AI",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412392487/",
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Data & Systems",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374689248/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Model Optimization",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374686604/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Model Optimization",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4374685706/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, 3D Object Detection (PhD New Grad)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4359071618/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, Driver Understanding and Evaluation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344712134/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer, 3D Object Detection (PhD New Grad)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4357631678/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Machine Learning Engineer, Driver Understanding and Evaluation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344582871/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Product Data Scientist, Operation Center",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4370615121/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Product Data Scientist, Operation Center",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4370616079/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Data Scientist, Launch Evaluation Quality",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4328353419/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Data Scientist, Launch Evaluation Quality",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4328214600/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Machine Learning Engineer, Perception LLM/VLM",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4383256530/",
+      "date_posted": "2026-05-10",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Autodesk",
+      "title": "Distinguished Applied AI Engineer, AI Transformation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4330618546/",
       "date_posted": "2026-05-10",
       "ats": "LinkedIn"
     }
