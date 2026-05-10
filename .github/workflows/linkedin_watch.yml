@@ -2,8 +2,9 @@ name: LinkedIn MLE/DS Watcher
 
 on:
   schedule:
-    # Every 3 hours, 8 AM–8 PM PST (UTC-8): 16, 19, 22, 01, 04 UTC
-    - cron: "0 1,4,16,19,22 * * *"
+    # Every 2h, 8am–10pm PDT (UTC-7): 15, 17, 19, 21, 23, 01, 03, 05 UTC.
+    # In PST (UTC-8) this maps to 7am–9pm PT — acceptable seasonal drift.
+    - cron: "0 1,3,5,15,17,19,21,23 * * *"
 
   workflow_dispatch:
 
@@ -62,7 +63,19 @@ jobs:
           git pull --rebase origin main
           git push
 
+      - name: Check whether to send email
+        id: email_gate
+        run: |
+          python - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json
+          with open("linkedin_jobs.json") as f:
+              data = json.load(f)
+          new_count = int(data.get("new_count", 0))
+          print(f"should_email={'true' if new_count > 0 else 'false'}")
+          EOF
+
       - name: Send email with results
+        if: steps.email_gate.outputs.should_email == 'true'
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
@@ -84,6 +97,7 @@ jobs:
           with open("linkedin_jobs.html") as f:
               body_html = f.read()
 
+          new_count = data["new_count"]
           total = data["total"]
           scraped_at = data["scraped_at"]
 
@@ -92,7 +106,7 @@ jobs:
           suffix = "AM" if now_pt.hour < 12 else "PM"
           slot = f"{hour}{suffix} PT"
 
-          subject = f"🔥 LinkedIn {slot} — {total} role(s) in last hour [{scraped_at[:10]}]"
+          subject = f"🔥 LinkedIn {slot} — {new_count} new role(s) [{scraped_at[:10]}]"
 
           msg = MIMEMultipart("alternative")
           msg["Subject"] = subject

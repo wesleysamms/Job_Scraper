@@ -4,19 +4,17 @@ Two GitHub Actions workflows that scrape **Machine Learning Engineer, Data Scien
 
 ## What It Does
 
-### 1. Curated Bay Area biotech sweep — daily at 6pm PT
-Probes a hand-picked list of Bay Area biotech career boards directly:
+### 1. Biotech LinkedIn digest — daily at 8pm PT, last 24h
+Hits LinkedIn's public guest endpoint for SF Bay Area MLE/DS roles posted in the last 24 hours, then post-filters results to a **biotech company allowlist** derived from `CURATED_BIOTECHS` in `scrape_jobs.py` (10x Genomics, Twist, Maze, Freenome, Cytokinetics, Natera, Inceptive, Atomwise, Profluent, Eikon, Altos Labs, Arc Institute, Caribou, Octant, Genentech, Gilead). Add to that list to expand coverage.
 
-- **Greenhouse** — 10x Genomics, Twist Bioscience, Maze Therapeutics, Freenome, Cytokinetics, Natera, Inceptive, Atomwise, Profluent, Eikon Therapeutics, Altos Labs, Arc Institute, Caribou Biosciences, Octant Bio
-- **Workday** — Gilead Sciences (multi-term search across the Workday CXS API)
-- **Phenom** — Genentech (HTML + JSON-LD parse of the careers page)
+Output goes to `jobs.json`, `jobs.md`, and `jobs.html`. Each run dedupes against the previously-committed `jobs.json` so the email surfaces only postings new since the last run.
 
-Results are filtered to Bay Area locations and reliable posting dates from the last 24 hours only. Output goes to `jobs.json`, `jobs.md`, and `jobs.html`, then auto-committed when changed. The workflow skips the email when there are no fresh biotech roles.
+> Why allowlist instead of LinkedIn's industry filter? The `f_I` industry parameter is silently ignored on the public guest endpoint (verified by probing IDs 12, 14, 16, 1763, 1862 — all returned identical non-biotech results).
 
-### 2. LinkedIn last-hour watcher — every 3 hours through 8pm PT
-Hits LinkedIn's public guest endpoint for SF Bay Area roles posted in **the last hour** across multiple search terms, dedupes by job ID, and sorts by recency. Output goes to `linkedin_jobs.json`, `linkedin_jobs.md`, and `linkedin_jobs.html`.
+### 2. LinkedIn MLE/DS watcher — every 2 hours, last 2h
+Hits LinkedIn's public guest endpoint for SF Bay Area roles posted in **the last 2 hours** across multiple search terms, dedupes by job ID, and sorts by recency. Output goes to `linkedin_jobs.json`, `linkedin_jobs.md`, and `linkedin_jobs.html`.
 
-Runs at **8am, 11am, 2pm, 5pm, and 8pm Pacific time**. The workflow uses a Pacific-time gate so the cadence stays correct across PDT/PST daylight saving changes.
+Runs every 2 hours from **8am to 10pm Pacific time**. Cron is fixed in UTC; in PST (UTC-8) the schedule shifts to 7am–9pm PT — acceptable seasonal drift. Each run dedupes against the previous run so empty windows don't trigger an email.
 
 > ⚠️ Uses the unauthenticated public guest endpoint only — **never** signs in with a user account and does not use LinkedIn cookies, tokens, or credentials.
 
@@ -30,8 +28,8 @@ A title is included if it contains any of:
 
 | File | Source | Description |
 |---|---|---|
-| `jobs.json` / `.md` / `.html` | Curated biotech sweep | Bay-Area-filtered MLE/DS roles posted in the last 24 hours |
-| `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | Roles posted in the last hour |
+| `jobs.json` / `.md` / `.html` | Biotech LinkedIn digest | Allowlisted biotech-company roles in the last 24h, deduped against the previous run |
+| `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | Roles posted in the last 2h, deduped against the previous run |
 | `checked_companies.json` | (legacy) | Tracking file from earlier Wikipedia-based discovery |
 
 The `.html` files are styled email-ready digests; the `.md` files render nicely on GitHub.
@@ -54,13 +52,14 @@ Both workflows email `GMAIL_USER` from `GMAIL_USER` via `smtp.gmail.com:465`.
 ### Run manually
 
 From the **Actions** tab:
-- *Biotech MLE Job Scraper* → Run workflow (full sweep)
-- *LinkedIn MLE/DS Watcher* → Run workflow (last hour only)
+- *Biotech MLE Job Scraper* → Run workflow (biotech LinkedIn, last 24h)
+- *LinkedIn MLE/DS Watcher* → Run workflow (general LinkedIn, last 2h)
 
 Or locally:
 ```bash
-python scrape_jobs.py                  # full curated sweep
-python scrape_jobs.py --linkedin-only  # LinkedIn last-hour only
+python scrape_jobs.py --biotech-only   # biotech LinkedIn, last 24h, allowlist-filtered
+python scrape_jobs.py --linkedin-only  # general MLE/DS LinkedIn, last 2h
+python scrape_jobs.py                  # legacy curated Greenhouse/Workday/Phenom sweep
 ```
 
 No third-party Python deps — uses only the standard library.
@@ -74,8 +73,8 @@ No third-party Python deps — uses only the standard library.
 ├── checked_companies.json          # Legacy tracking file
 ├── deep-dive/                      # Notes / analysis
 └── .github/workflows/
-    ├── scrape_jobs.yml             # Daily 6pm PT — fresh curated sweep
-    └── linkedin_watch.yml          # 8am / 11am / 2pm / 5pm / 8pm PT — LinkedIn
+    ├── scrape_jobs.yml             # Daily 8pm PT — biotech LinkedIn (last 24h, allowlist)
+    └── linkedin_watch.yml          # Every 2h, 8am–10pm PT — general LinkedIn (last 2h)
 ```
 
 ## ATS Endpoints Used

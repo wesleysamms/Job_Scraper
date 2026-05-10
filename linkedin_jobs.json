@@ -1,54 +1,64 @@
 {
-  "scraped_at": "2026-05-10 04:45 UTC",
-  "total": 6,
+  "scraped_at": "2026-05-09 17:23 UTC",
+  "total": 7,
+  "new_count": 0,
   "jobs": [
+    {
+      "company": "Lyft",
+      "title": "Data Scientist, Algorithms - Lyft Ads",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4343202353/",
+      "date_posted": "2026-05-09",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Latent",
       "title": "Machine Learning Engineer",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4399578384/",
-      "date_posted": "2026-05-10",
+      "date_posted": "2026-05-09",
       "ats": "LinkedIn"
     },
     {
-      "company": "Bot Auto",
-      "title": "Software Engineer, Machine Learning Infrastructure",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4383831734/",
-      "date_posted": "2026-05-10",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist II, AWS Agentic AI",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4391522232/",
+      "date_posted": "2026-05-09",
       "ats": "LinkedIn"
     },
     {
-      "company": "Federato",
-      "title": "Forward Deployed Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4409107814/",
-      "date_posted": "2026-05-10",
+      "company": "Amazon Web Services (AWS)",
+      "title": "Applied Scientist III, AWS Elemental",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403547648/",
+      "date_posted": "2026-05-09",
       "ats": "LinkedIn"
     },
     {
-      "company": "Autodesk",
-      "title": "Sr Principal ML Engineer \u2013 eCommerce & Personalization",
+      "company": "Anthropic",
+      "title": "Research Engineer, Safeguards Labs",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4303833548/",
-      "date_posted": "2026-05-10",
+      "url": "https://www.linkedin.com/jobs/view/4402798158/",
+      "date_posted": "2026-05-09",
       "ats": "LinkedIn"
     },
     {
-      "company": "Autodesk",
-      "title": "Distinguished Applied AI Engineer, AI Transformation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4330618546/",
-      "date_posted": "2026-05-10",
+      "company": "Tanium",
+      "title": "Corporate AI Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4391185948/",
+      "date_posted": "2026-05-09",
       "ats": "LinkedIn"
     },
     {
-      "company": "BioSpace",
-      "title": "Principal ML Scientist II - Biotherapeutics and Genetic Medicine",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412344871/",
-      "date_posted": "2026-05-10",
+      "company": "People In AI",
+      "title": "Staff AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4412488242/",
+      "date_posted": "2026-05-09",
       "ats": "LinkedIn"
     }
-  ]
+  ],
+  "new_jobs": []
 }

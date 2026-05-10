@@ -516,8 +516,22 @@ LINKEDIN_SEARCH_TERMS = [
     "cheminformatics",
 ]
 
-# Only the past hour — fresh roles, no noise
-LINKEDIN_LOOKBACK_SECONDS = 3600
+LINKEDIN_LOOKBACK_SECONDS = 7200          # 2h — matches every-2h watcher cadence
+LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
+
+# Biotech allowlist derived from CURATED_BIOTECHS — single source of truth.
+# Match is case-insensitive on alphanum-stripped names so "10x Genomics" matches
+# "10x Genomics, Inc." and "Genentech" matches "Genentech, Inc.".
+BIOTECH_COMPANY_ALLOWLIST = frozenset(
+    re.sub(r'[^a-z0-9]', '', e["name"].lower()) for e in CURATED_BIOTECHS
+)
+
+
+def _is_biotech_company(name: str) -> bool:
+    norm = re.sub(r'[^a-z0-9]', '', (name or "").lower())
+    if not norm:
+        return False
+    return any(b in norm or norm in b for b in BIOTECH_COMPANY_ALLOWLIST)
 
 
 def _parse_linkedin_cards(html: str) -> list[dict]:
@@ -556,15 +570,14 @@ def _parse_linkedin_cards(html: str) -> list[dict]:
     return parsed
 
 
-def scrape_linkedin_recent() -> list:
+def _linkedin_search(terms: list[str], lookback_seconds: int) -> list[dict]:
     """
-    Hits LinkedIn's public guest endpoint for SF Bay Area MLE/DS roles
-    posted in the last hour. Returns a flat, deduped, recency-sorted list.
+    Per-term, paginated LinkedIn guest-endpoint search. Dedupes by job ID and
+    sorts by recency. Used by both the general MLE/DS watcher and the biotech
+    allowlist-filtered scrape.
     """
-    print("🔎 Scraping LinkedIn (last 1h)...")
     jobs_by_id: dict[str, dict] = {}
-
-    for term in LINKEDIN_SEARCH_TERMS:
+    for term in terms:
         for start in range(0, 75, 25):
             time.sleep(REQUEST_DELAY)
             url = (
@@ -572,7 +585,7 @@ def scrape_linkedin_recent() -> list:
                 f"?keywords={urllib.parse.quote(term)}"
                 "&location=San%20Francisco%20Bay%20Area"
                 "&geoId=90000084"
-                f"&f_TPR=r{LINKEDIN_LOOKBACK_SECONDS}"
+                f"&f_TPR=r{lookback_seconds}"
                 f"&start={start}"
             )
             html = fetch(url)
@@ -595,7 +608,26 @@ def scrape_linkedin_recent() -> list:
 
     jobs = list(jobs_by_id.values())
     jobs.sort(key=lambda j: -_iso_to_ts(j.get("date_posted", "")))
-    print(f"  ✅ LinkedIn: {len(jobs)} role(s) in last hour")
+    return jobs
+
+
+def scrape_linkedin_recent() -> list:
+    print(f"🔎 Scraping LinkedIn (last {LINKEDIN_LOOKBACK_SECONDS // 3600}h)...")
+    jobs = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_LOOKBACK_SECONDS)
+    print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
+    return jobs
+
+
+def scrape_linkedin_biotech() -> list:
+    """
+    Last 24h on LinkedIn, filtered to companies on the biotech allowlist.
+    LinkedIn's f_I industry filter is silently ignored on the public guest
+    endpoint, so we use general MLE/DS keywords + a company allowlist.
+    """
+    print(f"🧬 Scraping LinkedIn biotech allowlist (last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h)...")
+    raw = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_BIOTECH_LOOKBACK_SECONDS)
+    jobs = [j for j in raw if _is_biotech_company(j["company"])]
+    print(f"  ✅ Biotech LinkedIn: {len(jobs)} role(s) (from {len(raw)} total)")
     return jobs
 
 
@@ -608,36 +640,102 @@ def _iso_to_ts(iso: str) -> float:
         return 0.0
 
 
-def save_linkedin_results(jobs: list):
+def _extract_linkedin_id(url: str) -> str:
+    m = re.search(r'/jobs/view/(\d+)', url or "")
+    return m.group(1) if m else ""
+
+
+def _load_prev_ids(json_path: str) -> set[str]:
+    """Read previously-saved jobs JSON and return the set of LinkedIn job IDs."""
+    try:
+        with open(json_path) as f:
+            data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return set()
+    ids = set()
+    for j in data.get("jobs", []):
+        i = _extract_linkedin_id(j.get("url", ""))
+        if i:
+            ids.add(i)
+    return ids
+
+
+def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
+                     accent: str, empty_message: str, window_label: str):
+    """
+    Save jobs to {basename}.{json,md,html}. Dedupes against the previous JSON at
+    the same path so each email surfaces only postings new to this run.
+    """
+    json_path = os.path.join(SCRIPT_DIR, f"{basename}.json")
+    md_path = os.path.join(SCRIPT_DIR, f"{basename}.md")
+    html_path = os.path.join(SCRIPT_DIR, f"{basename}.html")
+
+    prev_ids = _load_prev_ids(json_path)
+    new_jobs = [j for j in jobs if _extract_linkedin_id(j.get("url", "")) not in prev_ids]
+
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    output = {"scraped_at": timestamp, "total": len(jobs), "jobs": jobs}
-    with open(os.path.join(SCRIPT_DIR, "linkedin_jobs.json"), "w") as f:
+
+    output = {
+        "scraped_at": timestamp,
+        "total": len(jobs),
+        "new_count": len(new_jobs),
+        "jobs": jobs,
+        "new_jobs": new_jobs,
+    }
+    with open(json_path, "w") as f:
         json.dump(output, f, indent=2)
 
     lines = [
-        "# 🔥 LinkedIn — Last Hour MLE / DS Roles (SF Bay Area)",
+        f"# {title}",
         f"*Last updated: {timestamp}*\n",
-        f"**{len(jobs)} role(s) posted in the last hour**\n",
+        f"**{len(new_jobs)} new role(s)** since last run · {len(jobs)} total in {window_label}\n",
     ]
-    for job in jobs:
-        lines.append(f"### [{job['title']}]({job['url']}) — {job['company']}")
-        lines.append(f"- 📍 **Location:** {job['location'] or 'Not specified'}")
-        if job.get("date_posted"):
-            lines.append(f"- 🕒 **Posted:** {job['date_posted']}")
-        lines.append("")
-    with open(os.path.join(SCRIPT_DIR, "linkedin_jobs.md"), "w") as f:
+    if not new_jobs:
+        lines.append(empty_message)
+    else:
+        for job in new_jobs:
+            lines.append(f"### [{job['title']}]({job['url']}) — {job['company']}")
+            lines.append(f"- 📍 **Location:** {job['location'] or 'Not specified'}")
+            if job.get("date_posted"):
+                lines.append(f"- 🕒 **Posted:** {job['date_posted']}")
+            lines.append("")
+    with open(md_path, "w") as f:
         f.write("\n".join(lines))
 
-    with open(os.path.join(SCRIPT_DIR, "linkedin_jobs.html"), "w") as f:
+    with open(html_path, "w") as f:
         f.write(_render_jobs_html(
-            title="🔥 LinkedIn — Last Hour MLE / DS",
-            subtitle="SF Bay Area · posted in the last hour",
+            title=title,
+            subtitle=subtitle,
             timestamp=timestamp,
-            jobs=jobs,
-            empty_message="No new roles posted in the last hour.",
-            accent="#ff6b35",
+            jobs=new_jobs,
+            empty_message=empty_message,
+            accent=accent,
         ))
-    print(f"📄 Saved linkedin_jobs.json/.md/.html ({len(jobs)} roles)")
+    print(f"📄 Saved {basename}.json/.md/.html ({len(new_jobs)} new of {len(jobs)} total)")
+
+
+def save_linkedin_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="linkedin_jobs",
+        title="🔥 LinkedIn — MLE / DS Roles (SF Bay Area)",
+        subtitle=f"SF Bay Area · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
+        accent="#ff6b35",
+        empty_message="No new roles since the last run.",
+        window_label=f"last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
+    )
+
+
+def save_biotech_linkedin_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="jobs",
+        title="🧬 Biotech LinkedIn — MLE / DS Roles",
+        subtitle=f"SF Bay Area biotech allowlist · last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
+        accent="#2ea04f",
+        empty_message="No new biotech roles since the last run.",
+        window_label=f"last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
+    )
 
 
 def _render_jobs_html(*, title: str, subtitle: str, timestamp: str,
@@ -752,10 +850,16 @@ def save_results(jobs: list):
 
 if __name__ == "__main__":
     if "--linkedin-only" in sys.argv:
-        linkedin_jobs = scrape_linkedin_recent()
-        save_linkedin_results(linkedin_jobs)
+        save_linkedin_results(scrape_linkedin_recent())
         sys.exit(0)
 
+    if "--biotech-only" in sys.argv:
+        save_biotech_linkedin_results(scrape_linkedin_biotech())
+        sys.exit(0)
+
+    # Legacy default: curated Greenhouse/Workday/Phenom sweep. Returned 0 roles
+    # consistently because ATS updated_at dates rarely fall inside the 24h window.
+    # CI now uses --biotech-only; this branch is kept for ad-hoc local runs.
     all_jobs = list(scrape_genentech())
     all_jobs.extend(scrape_curated_biotechs())
 

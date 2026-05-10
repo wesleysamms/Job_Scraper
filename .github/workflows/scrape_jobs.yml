@@ -1,9 +1,9 @@
 name: Biotech MLE Job Scraper
 
 on:
-  # 1 AM UTC = 6 PM PDT / 5 PM PST — close enough year-round
   schedule:
-    - cron: "0 1 * * *"
+    # 03:00 UTC = 8 PM PDT (UTC-7). In PST (UTC-8) this fires at 7 PM PT — close enough.
+    - cron: "0 3 * * *"
 
   workflow_dispatch:
 
@@ -28,8 +28,8 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Run scraper
-        run: python scrape_jobs.py
+      - name: Run scraper (biotech LinkedIn, last 24h, allowlist-filtered)
+        run: python scrape_jobs.py --biotech-only
 
       - name: Record workflow run
         run: |
@@ -67,12 +67,10 @@ jobs:
         run: |
           python - <<'EOF' >> "$GITHUB_OUTPUT"
           import json
-
           with open("jobs.json") as f:
               data = json.load(f)
-
-          total = int(data.get("total", 0))
-          print(f"should_email={'true' if total > 0 else 'false'}")
+          new_count = int(data.get("new_count", 0))
+          print(f"should_email={'true' if new_count > 0 else 'false'}")
           EOF
 
       - name: Send email with results
@@ -96,9 +94,9 @@ jobs:
           with open("jobs.html") as f:
               body_html = f.read()
 
-          total = data["total"]
+          new_count = data["new_count"]
           scraped_at = data["scraped_at"]
-          subject = f"🧬 Biotech MLE Jobs — {total} role(s) [{scraped_at[:10]}]"
+          subject = f"🧬 Biotech LinkedIn — {new_count} new role(s) [{scraped_at[:10]}]"
 
           msg = MIMEMultipart("alternative")
           msg["Subject"] = subject
