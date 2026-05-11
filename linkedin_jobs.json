@@ -1,14 +1,14 @@
 {
-  "scraped_at": "2026-05-10 23:52 UTC",
-  "total": 19,
-  "new_count": 7,
+  "scraped_at": "2026-05-11 04:57 UTC",
+  "total": 16,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Waymo",
       "title": "Machine Learning Engineer, Data & Systems",
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4374695018/",
-      "date_posted": "2026-05-10",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
@@ -16,7 +16,7 @@
       "title": "Machine Learning Engineer, Data & Systems",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4374689248/",
-      "date_posted": "2026-05-10",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
@@ -24,7 +24,7 @@
       "title": "Machine Learning Engineer, Model Optimization",
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4374686604/",
-      "date_posted": "2026-05-10",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
@@ -32,7 +32,7 @@
       "title": "Machine Learning Engineer, Model Optimization",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4374685706/",
-      "date_posted": "2026-05-10",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
@@ -40,15 +40,7 @@
       "title": "Machine Learning Engineer, 3D Object Detection (PhD New Grad)",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4359071618/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Machine Learning Engineer, 3D Object Detection (PhD New Grad)",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4357631678/",
-      "date_posted": "2026-05-10",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
@@ -56,39 +48,31 @@
       "title": "Machine Learning Engineer, Driver Understanding and Evaluation",
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4344712134/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "kadence",
-      "title": "Staff Applied ML Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4389453277/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pony.ai",
-      "title": "(Senior) Machine Learning Engineer - Reinforcement Learning",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412608610/",
-      "date_posted": "2026-05-10",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
       "company": "Waymo",
-      "title": "Staff Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
+      "title": "Machine Learning Engineer, 3D Object Detection (PhD New Grad)",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4328447053/",
-      "date_posted": "2026-05-10",
+      "url": "https://www.linkedin.com/jobs/view/4357631678/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Federato",
+      "title": "Forward Deployed Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4409107814/",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
       "company": "Waymo",
-      "title": "Staff Product Data Scientist, Operation Center",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4370615121/",
-      "date_posted": "2026-05-10",
+      "title": "Senior Machine Learning Engineer, Driver Understanding and Evaluation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344582871/",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
@@ -96,7 +80,7 @@
       "title": "Staff Product Data Scientist, Operation Center",
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4370616079/",
-      "date_posted": "2026-05-10",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
@@ -104,39 +88,7 @@
       "title": "Staff Data Scientist, Launch Evaluation Quality",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4328353419/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Staff Data Scientist, Launch Evaluation Quality",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4328214600/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Staff Machine Learning Engineer, Simulation",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4344775158/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior Machine Learning Engineer, Computer Vision/VLM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4366413089/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior Machine Learning Engineer, Computer Vision/VLM",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4366410295/",
-      "date_posted": "2026-05-10",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
@@ -144,41 +96,7 @@
       "title": "Senior Machine Learning Engineer, Perception LLM/VLM",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4383256530/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior Machine Learning Engineer, Perception LLM/VLM",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4383255527/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    }
-  ],
-  "new_jobs": [
-    {
-      "company": "kadence",
-      "title": "Staff Applied ML Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4389453277/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pony.ai",
-      "title": "(Senior) Machine Learning Engineer - Reinforcement Learning",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412608610/",
-      "date_posted": "2026-05-10",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Waymo",
-      "title": "Staff Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4328447053/",
-      "date_posted": "2026-05-10",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
@@ -186,15 +104,23 @@
       "title": "Staff Machine Learning Engineer, Simulation",
       "location": "Mountain View, CA",
       "url": "https://www.linkedin.com/jobs/view/4344775158/",
-      "date_posted": "2026-05-10",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
       "company": "Waymo",
-      "title": "Senior Machine Learning Engineer, Computer Vision/VLM",
+      "title": "Staff Machine Learning Engineer, Simulation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344656081/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4366413089/",
-      "date_posted": "2026-05-10",
+      "url": "https://www.linkedin.com/jobs/view/4328447053/",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
@@ -202,15 +128,33 @@
       "title": "Senior Machine Learning Engineer, Computer Vision/VLM",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4366410295/",
-      "date_posted": "2026-05-10",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Federato",
+      "title": "Forward Deployed Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4409107814/",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
       "company": "Waymo",
-      "title": "Senior Machine Learning Engineer, Perception LLM/VLM",
+      "title": "Senior Machine Learning Engineer, Driver Understanding and Evaluation",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4383255527/",
-      "date_posted": "2026-05-10",
+      "url": "https://www.linkedin.com/jobs/view/4344582871/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Machine Learning Engineer, Simulation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4344656081/",
+      "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     }
   ]
