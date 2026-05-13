@@ -516,14 +516,46 @@ LINKEDIN_SEARCH_TERMS = [
     "cheminformatics",
 ]
 
-LINKEDIN_LOOKBACK_SECONDS = 7200          # 2h — matches every-2h watcher cadence
+LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only emails freshest hour
 LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
 
-# Biotech allowlist derived from CURATED_BIOTECHS — single source of truth.
-# Match is case-insensitive on alphanum-stripped names so "10x Genomics" matches
-# "10x Genomics, Inc." and "Genentech" matches "Genentech, Inc.".
+# Biotech allowlist used by the LinkedIn-side filter. Broader than CURATED_BIOTECHS
+# (which only covers the 15 companies with direct Greenhouse/Workday probes) because
+# the public LinkedIn endpoint surfaces a wider universe of biotech employers.
+# Match is case-insensitive on alphanum-stripped names with bidirectional substring
+# matching, so "Genentech" matches "Genentech, Inc." and vice versa. Avoid names
+# shorter than ~6 chars to limit incidental substring collisions.
+BIOTECH_COMPANY_NAMES = [
+    # Direct-scrape biotechs (kept aligned with CURATED_BIOTECHS)
+    "10x Genomics", "Twist Bioscience", "Maze Therapeutics", "Freenome",
+    "Cytokinetics", "Natera", "Inceptive", "Atomwise", "Profluent",
+    "Eikon Therapeutics", "Altos Labs", "Arc Institute", "Caribou Biosciences",
+    "Octant Bio", "Gilead Sciences",
+    # Big pharma / biotech with Bay Area MLE hiring
+    "Genentech", "AbbVie", "Amgen", "BioMarin", "Vertex Pharmaceuticals",
+    "Bristol Myers Squibb", "Regeneron", "Pfizer",
+    # Sequencing / genomics platforms
+    "Illumina", "Pacific Biosciences", "PacBio", "Element Biosciences",
+    "Ultima Genomics", "Singular Genomics",
+    # Clinical genomics / diagnostics
+    "GRAIL", "Guardant Health", "Invitae", "Color Health", "Tempus AI",
+    "Foundation Medicine", "Veracyte", "Personalis", "Karius",
+    "Adaptive Biotechnologies",
+    # ML-driven drug discovery
+    "Recursion Pharmaceuticals", "Insitro", "Schrodinger", "Schrödinger",
+    "Relay Therapeutics", "Generate Biomedicines", "Isomorphic Labs",
+    "AbCellera", "Iambic Therapeutics", "Lila Sciences",
+    # Cell / gene therapy
+    "Sana Biotechnology", "Allogene Therapeutics", "Cellares",
+    "Beam Therapeutics", "Editas Medicine", "Intellia Therapeutics",
+    "CRISPR Therapeutics",
+    # Bay Area biotech & life-sci research
+    "Verily Life Sciences", "Calico Life Sciences", "Synthego",
+    "Buck Institute", "Chan Zuckerberg Biohub", "Chan Zuckerberg Initiative",
+]
+
 BIOTECH_COMPANY_ALLOWLIST = frozenset(
-    re.sub(r'[^a-z0-9]', '', e["name"].lower()) for e in CURATED_BIOTECHS
+    re.sub(r'[^a-z0-9]', '', n.lower()) for n in BIOTECH_COMPANY_NAMES
 )
 
 
@@ -640,13 +672,23 @@ def _iso_to_ts(iso: str) -> float:
         return 0.0
 
 
-def _extract_linkedin_id(url: str) -> str:
+def _job_identity(url: str) -> str:
+    """
+    Stable identity string for a posting URL, used to dedupe across runs.
+
+    LinkedIn URLs collapse to their numeric posting ID (LinkedIn appends
+    tracking params that vary run-to-run). For ATS URLs (Greenhouse, Workday,
+    Phenom) we strip the query string and trailing slash and use the URL itself.
+    """
     m = re.search(r'/jobs/view/(\d+)', url or "")
-    return m.group(1) if m else ""
+    if m:
+        return f"linkedin:{m.group(1)}"
+    base = (url or "").split("?")[0].rstrip("/")
+    return base
 
 
 def _load_prev_ids(json_path: str) -> set[str]:
-    """Read previously-saved jobs JSON and return the set of LinkedIn job IDs."""
+    """Read previously-saved jobs JSON and return the set of job identities."""
     try:
         with open(json_path) as f:
             data = json.load(f)
@@ -654,7 +696,7 @@ def _load_prev_ids(json_path: str) -> set[str]:
         return set()
     ids = set()
     for j in data.get("jobs", []):
-        i = _extract_linkedin_id(j.get("url", ""))
+        i = _job_identity(j.get("url", ""))
         if i:
             ids.add(i)
     return ids
@@ -671,7 +713,7 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     html_path = os.path.join(SCRIPT_DIR, f"{basename}.html")
 
     prev_ids = _load_prev_ids(json_path)
-    new_jobs = [j for j in jobs if _extract_linkedin_id(j.get("url", "")) not in prev_ids]
+    new_jobs = [j for j in jobs if _job_identity(j.get("url", "")) not in prev_ids]
 
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
@@ -854,7 +896,29 @@ if __name__ == "__main__":
         sys.exit(0)
 
     if "--biotech-only" in sys.argv:
-        save_biotech_linkedin_results(scrape_linkedin_biotech())
+        # Direct ATS gives a stable baseline (LinkedIn's 24h endpoint has been
+        # flaky on GH Actions runners — see workflow_runs.jsonl). LinkedIn is
+        # kept as a supplemental source for biotechs not in CURATED_BIOTECHS.
+        # Cross-run dedupe via _load_prev_ids → save_biotech_linkedin_results
+        # provides "new since last digest" semantics, so we skip the 24h
+        # freshness filter (ATS updated_at is unreliable for that anyway).
+        jobs = list(scrape_genentech())
+        jobs.extend(scrape_curated_biotechs())
+        jobs = [j for j in jobs if is_bay_area(j.get("location", ""))]
+        jobs.extend(scrape_linkedin_biotech())
+
+        seen: set[tuple[str, str]] = set()
+        deduped: list[dict] = []
+        for j in jobs:
+            key = (j["company"].strip().lower(), j["title"].strip().lower())
+            if key in seen:
+                continue
+            seen.add(key)
+            deduped.append(j)
+        print(f"\n🧬 Combined biotech total: {len(deduped)} unique role(s) "
+              f"(from {len(jobs)} across sources)")
+
+        save_biotech_linkedin_results(deduped)
         sys.exit(0)
 
     # Legacy default: curated Greenhouse/Workday/Phenom sweep. Returned 0 roles

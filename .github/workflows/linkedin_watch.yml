@@ -2,9 +2,8 @@ name: LinkedIn MLE/DS Watcher
 
 on:
   schedule:
-    # Every 2h, 8am–10pm PDT (UTC-7): 15, 17, 19, 21, 23, 01, 03, 05 UTC.
-    # In PST (UTC-8) this maps to 7am–9pm PT — acceptable seasonal drift.
-    - cron: "0 1,3,5,15,17,19,21,23 * * *"
+    # Every hour, 8am–8pm PDT (UTC-7) → 15–23 + 0–3 UTC. Drifts 1h earlier under PST.
+    - cron: "0 15-23,0-3 * * *"
 
   workflow_dispatch:
 
@@ -29,7 +28,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Scrape LinkedIn (last 2h)
+      - name: Scrape LinkedIn (last 1h)
         run: python scrape_jobs.py --linkedin-only
 
       - name: Record workflow run
