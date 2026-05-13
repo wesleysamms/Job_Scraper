@@ -1,13 +1,21 @@
 {
-  "scraped_at": "2026-05-13 21:20 UTC",
-  "total": 3,
-  "new_count": 0,
+  "scraped_at": "2026-05-13 22:59 UTC",
+  "total": 9,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "Shields Group Search",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4408335861/",
+      "company": "TheCorporate",
+      "title": "Data Scientist \u2013 Geospatial",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414172933/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mastercard",
+      "title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410658143/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     },
@@ -20,13 +28,118 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Philo",
-      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
+      "company": "Goliath Partners",
+      "title": "Machine Learning/Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414282869/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Instrumental Inc.",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407444700/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ampstek",
+      "title": "AI Architect / Data Scientist || Only US Citizen and Green Card Required",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414176514/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Distyl",
+      "title": "AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4302123397/",
+      "url": "https://www.linkedin.com/jobs/view/4406747300/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Distyl",
+      "title": "AI Engineer, Evaluation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403262723/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Rivian",
+      "title": "Senior Software Engineer, MLOps",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414197170/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "TheCorporate",
+      "title": "Data Scientist \u2013 Geospatial",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414172933/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mastercard",
+      "title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410658143/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Goliath Partners",
+      "title": "Machine Learning/Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414282869/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Instrumental Inc.",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407444700/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Ampstek",
+      "title": "AI Architect / Data Scientist || Only US Citizen and Green Card Required",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414176514/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Distyl",
+      "title": "AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406747300/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Distyl",
+      "title": "AI Engineer, Evaluation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4403262723/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Rivian",
+      "title": "Senior Software Engineer, MLOps",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414197170/",
+      "date_posted": "2026-05-13",
+      "ats": "LinkedIn"
+    }
+  ]
 }
