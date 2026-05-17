@@ -1,40 +1,56 @@
 {
-  "scraped_at": "2026-05-16 23:44 UTC",
-  "total": 2,
-  "new_count": 2,
+  "scraped_at": "2026-05-17 02:28 UTC",
+  "total": 3,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412098545/",
-      "date_posted": "2026-05-16",
+      "company": "Jobs via Dice",
+      "title": "Principal AI/ML Engineer, AV ML Infra",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415422156/",
+      "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415405494/",
-      "date_posted": "2026-05-16",
+      "company": "Jobs via Dice",
+      "title": "Senior Software Engineer, MLOps",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415419673/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer, AV Pipelines & Lineage",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415412804/",
+      "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412098545/",
-      "date_posted": "2026-05-16",
+      "company": "Jobs via Dice",
+      "title": "Principal AI/ML Engineer, AV ML Infra",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415422156/",
+      "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415405494/",
-      "date_posted": "2026-05-16",
+      "company": "Jobs via Dice",
+      "title": "Senior Software Engineer, MLOps",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415419673/",
+      "date_posted": "2026-05-17",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer, AV Pipelines & Lineage",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415412804/",
+      "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     }
   ]
