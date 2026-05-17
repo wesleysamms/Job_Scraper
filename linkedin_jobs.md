@@ -1,16 +1,24 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-17 20:04 UTC*
+*Last updated: 2026-05-17 21:47 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Staff AI / ML Engineer](https://www.linkedin.com/jobs/view/4416059384/) — AACI Group
-- 📍 **Location:** Walnut Creek, CA
+### [Data Scientist, Finance Forecasting](https://www.linkedin.com/jobs/view/4412223913/) — ClickHouse
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-17
 
-### [AI Research Engineer (Applied AI)](https://www.linkedin.com/jobs/view/4416056428/) — Bright Vision Technologies
-- 📍 **Location:** Fremont, CA
+### [Staff Applied ML Engineer](https://www.linkedin.com/jobs/view/4389453277/) — kadence
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-17
 
-### [Edge AI Engineer](https://www.linkedin.com/jobs/view/4416057413/) — Bright Vision Technologies
-- 📍 **Location:** Fremont, CA
+### [Staff Marketing Data Scientist, Machine Learning](https://www.linkedin.com/jobs/view/4416054533/) — SoFi
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-17
+
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4413505381/) — TalentAlly
+- 📍 **Location:** Dublin, CA
+- 🕒 **Posted:** 2026-05-17
+
+### [Principal AI Engineer](https://www.linkedin.com/jobs/view/4413508259/) — TalentAlly
+- 📍 **Location:** Dublin, CA
 - 🕒 **Posted:** 2026-05-17
