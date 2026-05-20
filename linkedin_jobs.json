@@ -1,231 +1,135 @@
 {
-  "scraped_at": "2026-05-20 18:01 UTC",
-  "total": 14,
-  "new_count": 14,
+  "scraped_at": "2026-05-20 20:29 UTC",
+  "total": 8,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "Visa",
-      "title": "Associate Data Scientist, New College Grad - 2026",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410863492/",
+      "company": "TikTok",
+      "title": "Data Scientist - Multimedia",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416322396/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Socure",
-      "title": "Data Scientist II - Client Analysis",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417355490/",
+      "company": "TikTok",
+      "title": "Data Scientist - TikTok Ads",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4390422140/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Assured",
-      "title": "Staff Data Scientist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4386582433/",
+      "company": "BayOne Solutions",
+      "title": "Chief Data Scientist",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416307949/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Socure",
-      "title": "Data Scientist II - Computer Vision",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417354507/",
+      "company": "EY",
+      "title": "Data Scientist - Senior Manager- Consulting - Location OPEN",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413631581/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genentech",
-      "title": "Principal Machine Learning Engineer",
+      "company": "DataVisor",
+      "title": "Senior Data Scientist, Fraud Analytics and Strategy",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417367328/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Allogene Therapeutics",
+      "title": "Associate Director, Data Science",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398022355/",
+      "url": "https://www.linkedin.com/jobs/view/4417384291/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Staff Machine Learning Engineer, ML Infrastructure",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413629691/",
+      "company": "EY",
+      "title": "Data Scientist - Senior Manager- Consulting - Location OPEN",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413638488/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Microsoft AI",
-      "title": "Principal Machine Learning Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4377424828/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Principal Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4377423865/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Socure",
-      "title": "Staff Data Scientist - Fraud & Risk",
+      "company": "EY",
+      "title": "Data Scientist - Senior Manager- Consulting - Location OPEN",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417352496/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Member of Technical Staff, Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4343984090/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Samsung Research America (SRA)",
-      "title": "Senior Research Engineer, Robot Intelligence",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4384790303/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Member of Technical Staff - Data Research Engineer - MAI Superintelligence Team",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4342830177/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tata Consultancy Services",
-      "title": "AI Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416196667/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Workato",
-      "title": "Staff AI Engineer",
-      "location": "East Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417358287/",
+      "url": "https://www.linkedin.com/jobs/view/4413641376/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Visa",
-      "title": "Associate Data Scientist, New College Grad - 2026",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410863492/",
+      "company": "TikTok",
+      "title": "Data Scientist - Multimedia",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416322396/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Socure",
-      "title": "Data Scientist II - Client Analysis",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417355490/",
+      "company": "TikTok",
+      "title": "Data Scientist - TikTok Ads",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4390422140/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Assured",
-      "title": "Staff Data Scientist",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4386582433/",
+      "company": "BayOne Solutions",
+      "title": "Chief Data Scientist",
+      "location": "Oakland, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416307949/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Socure",
-      "title": "Data Scientist II - Computer Vision",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417354507/",
+      "company": "EY",
+      "title": "Data Scientist - Senior Manager- Consulting - Location OPEN",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413631581/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genentech",
-      "title": "Principal Machine Learning Engineer",
+      "company": "DataVisor",
+      "title": "Senior Data Scientist, Fraud Analytics and Strategy",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417367328/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Allogene Therapeutics",
+      "title": "Associate Director, Data Science",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398022355/",
+      "url": "https://www.linkedin.com/jobs/view/4417384291/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Unity South APAC (SEA, ANZ, IND Subcont.)",
-      "title": "Staff Machine Learning Engineer, ML Infrastructure",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413629691/",
+      "company": "EY",
+      "title": "Data Scientist - Senior Manager- Consulting - Location OPEN",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413638488/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Microsoft AI",
-      "title": "Principal Machine Learning Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4377424828/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Principal Data Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4377423865/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Socure",
-      "title": "Staff Data Scientist - Fraud & Risk",
+      "company": "EY",
+      "title": "Data Scientist - Senior Manager- Consulting - Location OPEN",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417352496/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Member of Technical Staff, Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4343984090/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Samsung Research America (SRA)",
-      "title": "Senior Research Engineer, Robot Intelligence",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4384790303/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft",
-      "title": "Member of Technical Staff - Data Research Engineer - MAI Superintelligence Team",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4342830177/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tata Consultancy Services",
-      "title": "AI Engineer",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416196667/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Workato",
-      "title": "Staff AI Engineer",
-      "location": "East Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417358287/",
+      "url": "https://www.linkedin.com/jobs/view/4413641376/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     }
