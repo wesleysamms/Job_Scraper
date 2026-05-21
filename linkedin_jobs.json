@@ -1,14 +1,38 @@
 {
-  "scraped_at": "2026-05-20 23:17 UTC",
-  "total": 7,
-  "new_count": 3,
+  "scraped_at": "2026-05-21 00:17 UTC",
+  "total": 11,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "Data Capital Incorporation",
-      "title": "Senior Data Scientist",
-      "location": "San Bruno, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416338224/",
-      "date_posted": "2026-05-20",
+      "company": "Amazon",
+      "title": "Senior Applied Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417412654/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417428213/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist II, Foundation Model, Robotics",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417431148/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist II, Foundation Model, Robotics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417410971/",
+      "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
@@ -20,26 +44,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Uber",
-      "title": "Staff Machine Learning Engineer - Ranking & Recommendations (Generative AI)",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417400633/",
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413660059/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "UCSF Health",
-      "title": "AI Engineer (AI Accelerator Program)",
+      "company": "Nth AI",
+      "title": "Founding AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414957295/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Uber",
-      "title": "Staff Machine Learning Engineer - Ranking & Recommendations (Generative AI)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417412107/",
+      "url": "https://www.linkedin.com/jobs/view/4416337212/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
@@ -52,36 +68,92 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Insight Global",
+      "title": "Sr. Applied AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408919972/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Manhattan Labs",
       "title": "Founding AI Engineer - Manhattan Labs",
       "location": "San Francisco Bay Area",
       "url": "https://www.linkedin.com/jobs/view/4417401857/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416342373/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Saturn Search",
-      "title": "Senior Data Scientist - Series B Startup",
+      "company": "Amazon",
+      "title": "Senior Applied Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413649779/",
+      "url": "https://www.linkedin.com/jobs/view/4417412654/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417428213/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist II, Foundation Model, Robotics",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417431148/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist II, Foundation Model, Robotics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417410971/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413660059/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Salient",
-      "title": "Applied AI Engineer",
+      "company": "Nth AI",
+      "title": "Founding AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417410569/",
+      "url": "https://www.linkedin.com/jobs/view/4416337212/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
     {
-      "company": "Manhattan Labs",
-      "title": "Founding AI Engineer - Manhattan Labs",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4417401857/",
+      "company": "Insight Global",
+      "title": "Sr. Applied AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4408919972/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416342373/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     }
