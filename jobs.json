@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-20 06:56 UTC",
-  "total": 9,
-  "new_count": 3,
+  "scraped_at": "2026-05-21 07:01 UTC",
+  "total": 6,
+  "new_count": 1,
   "jobs": [
     {
       "company": "10x Genomics",
@@ -29,14 +29,6 @@
     },
     {
       "company": "Profluent",
-      "title": "Machine Learning Engineer ",
-      "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
-      "url": "https://job-boards.greenhouse.io/profluent/jobs/5195933008",
-      "date_posted": "2026-04-27",
-      "ats": "Greenhouse"
-    },
-    {
-      "company": "Profluent",
       "title": "ML Platform / MLOps Engineer",
       "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
       "url": "https://job-boards.greenhouse.io/profluent/jobs/5154049008",
@@ -52,53 +44,21 @@
       "ats": "Greenhouse"
     },
     {
-      "company": "Allogene Therapeutics",
-      "title": "Associate Director, Data Science",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413398332/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Principal Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407840308/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Genentech",
-      "title": "Principal Bioinformatics Scientist",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398017590/",
-      "date_posted": "2026-05-19",
+      "title": "Principal Computational Scientist, Discovery Chemistry",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417050372/",
+      "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Allogene Therapeutics",
-      "title": "Associate Director, Data Science",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413398332/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lila Sciences",
-      "title": "Principal Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407840308/",
-      "date_posted": "2026-05-19",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Genentech",
-      "title": "Principal Bioinformatics Scientist",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398017590/",
-      "date_posted": "2026-05-19",
+      "title": "Principal Computational Scientist, Discovery Chemistry",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417050372/",
+      "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     }
   ]
