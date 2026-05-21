@@ -1,135 +1,119 @@
 {
-  "scraped_at": "2026-05-21 20:17 UTC",
-  "total": 8,
-  "new_count": 8,
+  "scraped_at": "2026-05-21 21:17 UTC",
+  "total": 7,
+  "new_count": 7,
   "jobs": [
     {
-      "company": "TheCorporate",
+      "company": "Asana",
       "title": "Data Scientist",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416703738/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Neuralink",
-      "title": "Machine Learning Engineer",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416716600/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Neuralink",
-      "title": "Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416702737/",
+      "url": "https://www.linkedin.com/jobs/view/4414025862/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Neuralink",
-      "title": "Machine Learning Engineer Intern",
+      "company": "Flexton Inc.",
+      "title": "AI/ML Engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418005659/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sony",
+      "title": "Senior Research Engineer \u2013 3D Graphics Compression",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414031794/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Stott and May",
+      "title": "Staff AI Engineer-Agentic",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416712707/",
+      "url": "https://www.linkedin.com/jobs/view/4416722010/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Neuralink",
-      "title": "Machine Learning Engineer Intern",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416715734/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416703955/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Imprint",
-      "title": "Staff Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417788983/",
+      "company": "True Classic",
+      "title": "AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416598954/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416712613/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Great Question",
-      "title": "AI Engineer Intern",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418004263/",
+      "company": "True Classic",
+      "title": "AI Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416595982/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "TheCorporate",
+      "company": "Asana",
       "title": "Data Scientist",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416703738/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Neuralink",
-      "title": "Machine Learning Engineer",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416716600/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Neuralink",
-      "title": "Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416702737/",
+      "url": "https://www.linkedin.com/jobs/view/4414025862/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Neuralink",
-      "title": "Machine Learning Engineer Intern",
+      "company": "Flexton Inc.",
+      "title": "AI/ML Engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418005659/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Sony",
+      "title": "Senior Research Engineer \u2013 3D Graphics Compression",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414031794/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Stott and May",
+      "title": "Staff AI Engineer-Agentic",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416712707/",
+      "url": "https://www.linkedin.com/jobs/view/4416722010/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Neuralink",
-      "title": "Machine Learning Engineer Intern",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416715734/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416703955/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Imprint",
-      "title": "Staff Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417788983/",
+      "company": "True Classic",
+      "title": "AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416598954/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416712613/",
-      "date_posted": "2026-05-21",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Great Question",
-      "title": "AI Engineer Intern",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418004263/",
+      "company": "True Classic",
+      "title": "AI Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416595982/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
