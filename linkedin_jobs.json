@@ -1,21 +1,21 @@
 {
-  "scraped_at": "2026-05-22 17:17 UTC",
-  "total": 8,
-  "new_count": 6,
+  "scraped_at": "2026-05-22 18:17 UTC",
+  "total": 12,
+  "new_count": 10,
   "jobs": [
     {
-      "company": "SB Telecom America Corp.",
-      "title": "AI/ML Engineer, AI Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418176243/",
+      "company": "Hydrogen Group",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418179635/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Gridware",
-      "title": "Senior Data Scientist, Fleet Performance Optimization",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4385700423/",
+      "company": "Microsoft AI",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4407894462/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
@@ -28,10 +28,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Amplitude",
-      "title": "Senior Data Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4412170780/",
+      "company": "Calix",
+      "title": "Staff Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398639834/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
@@ -44,36 +44,68 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Workato",
-      "title": "Intern, AI Engineering",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400379081/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "FANUC America Corporation",
+      "company": "scalr",
       "title": "Research Engineer",
-      "location": "Union City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402069022/",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414344844/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Kickmaker",
-      "title": "AI Engineer",
+      "company": "Hedra",
+      "title": "Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387393753/",
+      "url": "https://www.linkedin.com/jobs/view/4402096673/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roche",
+      "title": "Principal Data Scientist",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409088512/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Samsung Semiconductor",
+      "title": "Senior, CPU Architecture & Performance Research Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4368781801/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Principal Applied Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418171709/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "OSI Engineering",
+      "title": "Senior AI Engineer",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417169562/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Open Talent",
+      "title": "Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414055269/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "SB Telecom America Corp.",
-      "title": "AI/ML Engineer, AI Infrastructure",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418176243/",
+      "company": "Hydrogen Group",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418179635/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
@@ -81,39 +113,71 @@
       "company": "Microsoft AI",
       "title": "Senior Machine Learning Engineer",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408006253/",
+      "url": "https://www.linkedin.com/jobs/view/4407894462/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amplitude",
-      "title": "Senior Data Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4412170780/",
+      "company": "Calix",
+      "title": "Staff Data Scientist",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398639834/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "SoFi",
-      "title": "Senior Data Scientist",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387493657/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "FANUC America Corporation",
+      "company": "scalr",
       "title": "Research Engineer",
-      "location": "Union City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402069022/",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414344844/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Kickmaker",
-      "title": "AI Engineer",
+      "company": "Hedra",
+      "title": "Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387393753/",
+      "url": "https://www.linkedin.com/jobs/view/4402096673/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roche",
+      "title": "Principal Data Scientist",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409088512/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Samsung Semiconductor",
+      "title": "Senior, CPU Architecture & Performance Research Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4368781801/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Microsoft AI",
+      "title": "Principal Applied Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418171709/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "OSI Engineering",
+      "title": "Senior AI Engineer",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417169562/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Open Talent",
+      "title": "Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4414055269/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }

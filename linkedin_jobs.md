@@ -1,28 +1,44 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-22 17:17 UTC*
+*Last updated: 2026-05-22 18:17 UTC*
 
-**6 new role(s)** since last run · 8 total in last 1h
+**10 new role(s)** since last run · 12 total in last 1h
 
-### [AI/ML Engineer, AI Infrastructure](https://www.linkedin.com/jobs/view/4418176243/) — SB Telecom America Corp.
-- 📍 **Location:** Sunnyvale, CA
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4418179635/) — Hydrogen Group
+- 📍 **Location:** San Francisco County, CA
 - 🕒 **Posted:** 2026-05-22
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4408006253/) — Microsoft AI
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4407894462/) — Microsoft AI
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-22
 
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4412170780/) — Amplitude
+### [Staff Data Scientist](https://www.linkedin.com/jobs/view/4398639834/) — Calix
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-22
+
+### [Research Engineer](https://www.linkedin.com/jobs/view/4414344844/) — scalr
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-22
 
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4387493657/) — SoFi
+### [Research Engineer](https://www.linkedin.com/jobs/view/4402096673/) — Hedra
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-22
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4402069022/) — FANUC America Corporation
-- 📍 **Location:** Union City, CA
+### [Principal Data Scientist](https://www.linkedin.com/jobs/view/4409088512/) — Roche
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-22
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4387393753/) — Kickmaker
-- 📍 **Location:** San Francisco, CA
+### [Senior, CPU Architecture & Performance Research Engineer](https://www.linkedin.com/jobs/view/4368781801/) — Samsung Semiconductor
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-22
+
+### [Principal Applied Scientist](https://www.linkedin.com/jobs/view/4418171709/) — Microsoft AI
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-22
+
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4417169562/) — OSI Engineering
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-05-22
+
+### [Founding AI Engineer | LLM Systems | $500k+ & Equity | Hybrid | SF](https://www.linkedin.com/jobs/view/4414055269/) — Open Talent
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-22
