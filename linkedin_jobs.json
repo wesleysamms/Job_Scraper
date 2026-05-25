@@ -1,23 +1,39 @@
 {
-  "scraped_at": "2026-05-25 20:17 UTC",
-  "total": 1,
-  "new_count": 1,
+  "scraped_at": "2026-05-25 21:17 UTC",
+  "total": 2,
+  "new_count": 2,
   "jobs": [
     {
-      "company": "ComfyUI",
-      "title": "Senior/Staff ML Engineer, Model Integration",
+      "company": "Liquid AI",
+      "title": "Member of Technical Staff - ML Research Engineer, Data",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418994319/",
+      "url": "https://www.linkedin.com/jobs/view/4418224014/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405083386/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "ComfyUI",
-      "title": "Senior/Staff ML Engineer, Model Integration",
+      "company": "Liquid AI",
+      "title": "Member of Technical Staff - ML Research Engineer, Data",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418994319/",
+      "url": "https://www.linkedin.com/jobs/view/4418224014/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jack & Jill",
+      "title": "AI/ML Engineer ($250k\u2013$400k + Equity) at $10M Seed consumer AI dating startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405083386/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     }
