@@ -1,95 +1,71 @@
 {
-  "scraped_at": "2026-05-25 18:17 UTC",
-  "total": 7,
+  "scraped_at": "2026-05-25 19:06 UTC",
+  "total": 4,
   "new_count": 4,
   "jobs": [
     {
-      "company": "scalr",
-      "title": "Research Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4415245104/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Recruiting from Scratch",
-      "title": "Founding ML Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414770487/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Goldman Sachs",
-      "title": "Engineering- Menlo Park-Vice President-AI / ML Engineering",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4305813800/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ambience Healthcare",
-      "title": "Staff ML Engineer, AI Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4341094975/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Enigma",
-      "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
+      "company": "Affirm",
+      "title": "Machine Learning Engineer II",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417893692/",
+      "url": "https://www.linkedin.com/jobs/view/4417880946/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     },
     {
-      "company": "Meltwater",
-      "title": "Senior Machine Learning Engineer*",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417883786/",
+      "company": "Affirm",
+      "title": "Machine Learning Engineer II",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417893888/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
+      "company": "TalentAlly",
+      "title": "AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418974921/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Affirm",
+      "title": "Machine Learning Engineer II",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417899690/",
+      "url": "https://www.linkedin.com/jobs/view/4418203291/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "scalr",
-      "title": "Research Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4415245104/",
+      "company": "Affirm",
+      "title": "Machine Learning Engineer II",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417880946/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     },
     {
-      "company": "Recruiting from Scratch",
-      "title": "Founding ML Engineer",
+      "company": "Affirm",
+      "title": "Machine Learning Engineer II",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417893888/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TalentAlly",
+      "title": "AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418974921/",
+      "date_posted": "2026-05-25",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Affirm",
+      "title": "Machine Learning Engineer II",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414770487/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Goldman Sachs",
-      "title": "Engineering- Menlo Park-Vice President-AI / ML Engineering",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4305813800/",
-      "date_posted": "2026-05-25",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ambience Healthcare",
-      "title": "Staff ML Engineer, AI Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4341094975/",
+      "url": "https://www.linkedin.com/jobs/view/4418203291/",
       "date_posted": "2026-05-25",
       "ats": "LinkedIn"
     }

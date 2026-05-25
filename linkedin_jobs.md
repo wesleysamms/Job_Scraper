@@ -1,20 +1,20 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-25 18:17 UTC*
+*Last updated: 2026-05-25 19:06 UTC*
 
-**4 new role(s)** since last run · 7 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4415245104/) — scalr
-- 📍 **Location:** San Francisco Bay Area
+### [Machine Learning Engineer II](https://www.linkedin.com/jobs/view/4417880946/) — Affirm
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-25
 
-### [Founding ML Engineer](https://www.linkedin.com/jobs/view/4414770487/) — Recruiting from Scratch
-- 📍 **Location:** San Francisco, CA
+### [Machine Learning Engineer II](https://www.linkedin.com/jobs/view/4417893888/) — Affirm
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-05-25
 
-### [Engineering- Menlo Park-Vice President-AI / ML Engineering](https://www.linkedin.com/jobs/view/4305813800/) — Goldman Sachs
-- 📍 **Location:** Menlo Park, CA
+### [AI Engineer](https://www.linkedin.com/jobs/view/4418974921/) — TalentAlly
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-25
 
-### [Staff ML Engineer, AI Platform](https://www.linkedin.com/jobs/view/4341094975/) — Ambience Healthcare
+### [Machine Learning Engineer II](https://www.linkedin.com/jobs/view/4418203291/) — Affirm
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-25
