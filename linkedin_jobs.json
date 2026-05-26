@@ -1,61 +1,37 @@
 {
-  "scraped_at": "2026-05-26 21:17 UTC",
-  "total": 10,
-  "new_count": 7,
+  "scraped_at": "2026-05-26 22:08 UTC",
+  "total": 14,
+  "new_count": 12,
   "jobs": [
     {
-      "company": "PlusAI",
-      "title": "Machine Learning Infrastructure Engineer Intern",
+      "company": "GMI Cloud",
+      "title": "Machine Learning Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419524862/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402752370/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Machine Learning Engineer, Prediction & Planning, System Architecture",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402343518/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412847585/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Machine Learning Engineer - Ads Pangle - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402091358/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PlusAI",
-      "title": "Research Engineer Intern",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416852559/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Thomson Reuters",
-      "title": "Senior Data Scientist \u2013 Election & News Products",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418501474/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Combinely",
-      "title": "Founding AI Engineer (US)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419522176/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genesys",
-      "title": "Principal Applied AI Engineer, Finance",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4415962405/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tatari",
-      "title": "Data Science Manager",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380025313/",
+      "url": "https://www.linkedin.com/jobs/view/4418507483/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
@@ -70,74 +46,170 @@
     {
       "company": "Genesys",
       "title": "Principal Applied AI Engineer, Finance",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415960666/",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4415962405/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "KPI Partners",
-      "title": "Gen AI Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416851674/",
+      "company": "American Arbitration Association",
+      "title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419518656/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Machine Learning Engineer, Prediction & Planning, System Architecture",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402760215/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418502793/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418523141/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418510507/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418506550/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Machine Learning Engineer, Prediction & Planning, System Architecture",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402751810/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402772054/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "TikTok USDS Joint Venture",
-      "title": "Senior Machine Learning Engineer - Ads Pangle - USDS",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402091358/",
+      "company": "GMI Cloud",
+      "title": "Machine Learning Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419524862/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Combinely",
-      "title": "Founding AI Engineer (US)",
+      "company": "Waymo",
+      "title": "Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402752370/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Staff Machine Learning Engineer, Prediction & Planning, System Architecture",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419522176/",
+      "url": "https://www.linkedin.com/jobs/view/4402343518/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genesys",
-      "title": "Principal Applied AI Engineer, Finance",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4415962405/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418507483/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Tatari",
-      "title": "Data Science Manager",
+      "company": "American Arbitration Association",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380025313/",
+      "url": "https://www.linkedin.com/jobs/view/4419518656/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genesys",
-      "title": "Principal Applied AI Engineer, Finance",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415967253/",
+      "company": "Waymo",
+      "title": "Senior Machine Learning Engineer, Prediction & Planning, System Architecture",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402760215/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "Genesys",
-      "title": "Principal Applied AI Engineer, Finance",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415960666/",
+      "company": "Waymo",
+      "title": "Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418502793/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
     {
-      "company": "KPI Partners",
-      "title": "Gen AI Engineer",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416851674/",
+      "company": "Waymo",
+      "title": "Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418523141/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418510507/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418506550/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Machine Learning Engineer, Prediction & Planning, System Architecture",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402751810/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Waymo",
+      "title": "Senior Machine Learning Engineer (Infra), Driver Understanding and Evaluation",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402772054/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
