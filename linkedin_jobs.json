@@ -1,21 +1,53 @@
 {
-  "scraped_at": "2026-05-27 17:17 UTC",
-  "total": 7,
-  "new_count": 5,
+  "scraped_at": "2026-05-27 18:11 UTC",
+  "total": 9,
+  "new_count": 8,
   "jobs": [
     {
-      "company": "Kikoff",
-      "title": "Senior Machine Learning Engineer",
+      "company": "Samba TV",
+      "title": "Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4379931734/",
+      "url": "https://www.linkedin.com/jobs/view/4401794091/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Analytic Recruiting Inc.",
-      "title": "Founding Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4419909051/",
+      "company": "Lyft",
+      "title": "Data Scientist, Algorithms, Optimization - Fulfillment",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410726944/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Calico Life Sciences",
+      "title": "Senior Machine Learning Research Engineer (ML Platform)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410786496/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lyft",
+      "title": "Data Science Manager, Machine Learning - Lyft Ads",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401799733/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419556662/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419571464/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
@@ -28,76 +60,84 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Data Scientist, AWS Quick Data",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408834403/",
+      "company": "Socure",
+      "title": "Head of Data Science - Identity & Compliance",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419914438/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "SPECTRAFORCE",
-      "title": "Data Scientist",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419908010/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Williams-Sonoma, Inc.",
-      "title": "Research Engineering Internship - AI, Computer Vision, & Visualization",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4279104491/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Acceler8 Talent",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4417234182/",
+      "company": "Mastercard",
+      "title": "Director of Data Science (AdTech)",
+      "location": "San Carlos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385498445/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Kikoff",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4379931734/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Analytic Recruiting Inc.",
-      "title": "Founding Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4419909051/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418826218/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Data Scientist, AWS Quick Data",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408834403/",
-      "date_posted": "2026-05-27",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SPECTRAFORCE",
+      "company": "Samba TV",
       "title": "Data Scientist",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419908010/",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401794091/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lyft",
+      "title": "Data Scientist, Algorithms, Optimization - Fulfillment",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410726944/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Calico Life Sciences",
+      "title": "Senior Machine Learning Research Engineer (ML Platform)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4410786496/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lyft",
+      "title": "Data Science Manager, Machine Learning - Lyft Ads",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401799733/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419556662/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Data Scientist",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419571464/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Socure",
+      "title": "Head of Data Science - Identity & Compliance",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419914438/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Mastercard",
+      "title": "Director of Data Science (AdTech)",
+      "location": "San Carlos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4385498445/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
