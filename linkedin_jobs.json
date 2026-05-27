@@ -1,21 +1,21 @@
 {
-  "scraped_at": "2026-05-27 21:17 UTC",
-  "total": 3,
-  "new_count": 2,
+  "scraped_at": "2026-05-27 22:17 UTC",
+  "total": 5,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Pride Health",
-      "title": "Image Data Scientist \u2013 Digital Pathology",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417238959/",
+      "company": "Cellanome",
+      "title": "Machine Learning Engineer",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416891052/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "Stealth Mode",
-      "title": "AI Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418564679/",
+      "company": "Bobyard",
+      "title": "Computer Vision Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4388119842/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
@@ -24,24 +24,56 @@
       "title": "Staff AI Engineer",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4419971456/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Autodesk",
+      "title": "Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418866082/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418857282/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Pride Health",
-      "title": "Image Data Scientist \u2013 Digital Pathology",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417238959/",
+      "company": "Cellanome",
+      "title": "Machine Learning Engineer",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416891052/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     },
     {
-      "company": "SoFi",
-      "title": "Staff AI Engineer",
+      "company": "Bobyard",
+      "title": "Computer Vision Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419971456/",
+      "url": "https://www.linkedin.com/jobs/view/4388119842/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Autodesk",
+      "title": "Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418866082/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418857282/",
       "date_posted": "2026-05-27",
       "ats": "LinkedIn"
     }
