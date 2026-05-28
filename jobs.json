@@ -1,14 +1,22 @@
 {
-  "scraped_at": "2026-05-27 07:13 UTC",
-  "total": 5,
-  "new_count": 0,
+  "scraped_at": "2026-05-28 07:02 UTC",
+  "total": 17,
+  "new_count": 12,
   "jobs": [
+    {
+      "company": "10x Genomics",
+      "title": "Senior Data Platform Engineer",
+      "location": "Pleasanton, California, USA HQ",
+      "url": "https://boards.greenhouse.io/10xgenomics/jobs/7852216?gh_jid=7852216",
+      "date_posted": "2026-04-24",
+      "ats": "Greenhouse"
+    },
     {
       "company": "10x Genomics",
       "title": "Staff Data Scientist, Sales Analytics",
       "location": "Pleasanton, California, USA HQ",
       "url": "https://boards.greenhouse.io/10xgenomics/jobs/7922933?gh_jid=7922933",
-      "date_posted": "2026-05-17",
+      "date_posted": "2026-05-27",
       "ats": "Greenhouse"
     },
     {
@@ -17,6 +25,14 @@
       "location": "Brisbane, California",
       "url": "https://job-boards.greenhouse.io/freenome/jobs/8013673002",
       "date_posted": "2026-03-24",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Freenome",
+      "title": "Senior Software Engineer II",
+      "location": "Brisbane, California",
+      "url": "https://job-boards.greenhouse.io/freenome/jobs/8519753002",
+      "date_posted": "2026-05-05",
       "ats": "Greenhouse"
     },
     {
@@ -36,13 +52,190 @@
       "ats": "Greenhouse"
     },
     {
+      "company": "Profluent",
+      "title": "Principal Security & Infrastructure Engineer",
+      "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+      "url": "https://job-boards.greenhouse.io/profluent/jobs/5159563008",
+      "date_posted": "2026-05-06",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Profluent",
+      "title": "Senior Software Engineer, Data Platform",
+      "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+      "url": "https://job-boards.greenhouse.io/profluent/jobs/5210793008",
+      "date_posted": "2026-05-11",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Profluent",
+      "title": "Software Engineering Manager, Lab Informatics Platform",
+      "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+      "url": "https://job-boards.greenhouse.io/profluent/jobs/4905081008",
+      "date_posted": "2026-05-05",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Eikon Therapeutics",
+      "title": "Software Engineer 2, Algorithms and Biological Analysis",
+      "location": "Millbrae, CA",
+      "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5100652007",
+      "date_posted": "2026-05-08",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Eikon Therapeutics",
+      "title": "Software Engineering Manager, Data Engineering",
+      "location": "Millbrae, CA",
+      "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5129843007",
+      "date_posted": "2026-05-08",
+      "ats": "Greenhouse"
+    },
+    {
       "company": "Altos Labs",
       "title": "Machine Learning Engineer/Machine Learning Scientist , Multi Modality",
       "location": "San Diego, CA; San Francisco Bay Area, CA",
       "url": "https://job-boards.greenhouse.io/altoslabs/jobs/5709084004",
       "date_posted": "2026-03-31",
       "ats": "Greenhouse"
+    },
+    {
+      "company": "Altos Labs",
+      "title": "Senior Cybersecurity Engineer",
+      "location": "San Francisco Bay Area, CA",
+      "url": "https://job-boards.greenhouse.io/altoslabs/jobs/5838128004",
+      "date_posted": "2026-03-31",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Arc Institute",
+      "title": "Full Stack Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/5821381004",
+      "date_posted": "2026-03-19",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Executive Director of Clinical Data Engineering & Analytics (CDEA)",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540",
+      "date_posted": "Posted 13 Days Ago",
+      "ats": "Workday"
+    },
+    {
+      "company": "Science",
+      "title": "DevOps Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417258925/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Data Scientist II, Outcomes Research",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418871090/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "10x Genomics",
+      "title": "Senior Data Platform Engineer",
+      "location": "Pleasanton, California, USA HQ",
+      "url": "https://boards.greenhouse.io/10xgenomics/jobs/7852216?gh_jid=7852216",
+      "date_posted": "2026-04-24",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Freenome",
+      "title": "Senior Software Engineer II",
+      "location": "Brisbane, California",
+      "url": "https://job-boards.greenhouse.io/freenome/jobs/8519753002",
+      "date_posted": "2026-05-05",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Profluent",
+      "title": "Principal Security & Infrastructure Engineer",
+      "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+      "url": "https://job-boards.greenhouse.io/profluent/jobs/5159563008",
+      "date_posted": "2026-05-06",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Profluent",
+      "title": "Senior Software Engineer, Data Platform",
+      "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+      "url": "https://job-boards.greenhouse.io/profluent/jobs/5210793008",
+      "date_posted": "2026-05-11",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Profluent",
+      "title": "Software Engineering Manager, Lab Informatics Platform",
+      "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+      "url": "https://job-boards.greenhouse.io/profluent/jobs/4905081008",
+      "date_posted": "2026-05-05",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Eikon Therapeutics",
+      "title": "Software Engineer 2, Algorithms and Biological Analysis",
+      "location": "Millbrae, CA",
+      "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5100652007",
+      "date_posted": "2026-05-08",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Eikon Therapeutics",
+      "title": "Software Engineering Manager, Data Engineering",
+      "location": "Millbrae, CA",
+      "url": "https://job-boards.greenhouse.io/eikontherapeutics/jobs/5129843007",
+      "date_posted": "2026-05-08",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Altos Labs",
+      "title": "Senior Cybersecurity Engineer",
+      "location": "San Francisco Bay Area, CA",
+      "url": "https://job-boards.greenhouse.io/altoslabs/jobs/5838128004",
+      "date_posted": "2026-03-31",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Arc Institute",
+      "title": "Full Stack Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/5821381004",
+      "date_posted": "2026-03-19",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Executive Director of Clinical Data Engineering & Analytics (CDEA)",
+      "location": "United States - California - Foster City",
+      "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540",
+      "date_posted": "Posted 13 Days Ago",
+      "ats": "Workday"
+    },
+    {
+      "company": "Science",
+      "title": "DevOps Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417258925/",
+      "date_posted": "2026-05-28",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tempus AI",
+      "title": "Data Scientist II, Outcomes Research",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418871090/",
+      "date_posted": "2026-05-27",
+      "ats": "LinkedIn"
+    }
+  ]
 }
