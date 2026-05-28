@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Deep dive — triage.html</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #fafaf7;
+    --panel: #ffffff;
+    --ink: #1a1a1a;
+    --muted: #6b6b6b;
+    --line: #e8e6e1;
+    --linkedin: #ff6b35;
+    --biotech: #2ea04f;
+    --indeed: #6366f1;
+    --accent: #d94f1e;
+    --pill-bg: #f3f1ec;
+    --add: #059669;
+    --warn: #d97706;
+    --shadow: 0 1px 2px rgba(0,0,0,0.04), 0 1px 3px rgba(0,0,0,0.04);
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 0; background: var(--bg); color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    line-height: 1.6; -webkit-font-smoothing: antialiased; }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 28px 24px 80px; }
+  h1 { font-size: 28px; margin: 0 0 6px 0; letter-spacing: -0.01em; }
+  h2 { font-size: 19px; margin: 36px 0 12px 0; letter-spacing: -0.005em;
+    padding-bottom: 6px; border-bottom: 1px solid var(--line); }
+  h3 { font-size: 15px; margin: 22px 0 6px 0; }
+  h4 { font-size: 13px; margin: 14px 0 4px 0; text-transform: uppercase;
+    letter-spacing: 0.06em; color: var(--muted); font-weight: 600; }
+  p { margin: 8px 0 12px 0; font-size: 14px; }
+  ul, ol { font-size: 14px; }
+  li { margin: 4px 0; }
+  code { background: var(--pill-bg); padding: 1px 6px; border-radius: 3px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12.5px; }
+  pre { background: #1c1c19; color: #ece9e2; padding: 14px 16px; border-radius: 8px;
+    overflow-x: auto; font-size: 12.5px; line-height: 1.55;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+  pre code { background: none; padding: 0; color: inherit; font-size: inherit; }
+  pre .add { color: #5eead4; }
+  pre .ctx { color: #888; }
+  pre .kw { color: #fb923c; }
+  pre .str { color: #a3e635; }
+  pre .com { color: #6b7280; font-style: italic; }
+  a { color: var(--accent); }
+  .sub { color: var(--muted); font-size: 13px; }
+
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+    padding: 16px 20px; box-shadow: var(--shadow); margin: 12px 0; }
+  .ctx-card { background: #fffaf3; border-color: #f3d8b8; }
+  .ctx-card h3 { margin-top: 0; }
+  .why-card { background: #f0faf3; border-color: #b8e4c5; }
+  .alt-card { background: #fdf2f0; border-color: #f3c7be; }
+
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 10px 0; }
+  .grid2 > div { padding: 12px 14px; border-radius: 8px; border: 1px solid var(--line);
+    background: var(--panel); }
+  .grid2 h4 { margin-top: 0; }
+
+  .toc { background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+    padding: 16px 20px; box-shadow: var(--shadow); margin: 12px 0 24px; }
+  .toc h3 { margin: 0 0 8px 0; font-size: 13px; text-transform: uppercase;
+    letter-spacing: 0.06em; color: var(--muted); }
+  .toc ol { margin: 0; padding-left: 20px; columns: 2; column-gap: 24px; font-size: 13px; }
+  .toc li { padding: 2px 0; break-inside: avoid; }
+
+  .pill { display: inline-block; background: var(--pill-bg); color: var(--ink);
+    padding: 2px 9px; border-radius: 10px; font-size: 11px; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.04em; margin-right: 4px;
+    vertical-align: middle; }
+  .pill.what { background: rgba(99,102,241,0.12); color: var(--indeed); }
+  .pill.why { background: rgba(5,150,105,0.12); color: var(--add); }
+  .pill.when { background: rgba(217,119,6,0.12); color: var(--warn); }
+  .pill.alt { background: rgba(255,107,53,0.12); color: var(--linkedin); }
+
+  .resources { display: grid; gap: 8px; margin: 10px 0; }
+  .resource { background: var(--panel); border: 1px solid var(--line); border-radius: 8px;
+    padding: 10px 14px; font-size: 13px; }
+  .resource .rtitle { font-weight: 600; color: var(--ink); display: block; }
+  .resource .rmeta { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  .resource .rdesc { font-size: 13px; margin-top: 4px; color: var(--ink); }
+
+  .arch { background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+    padding: 14px; margin: 12px 0; overflow-x: auto; box-shadow: var(--shadow); }
+  .arch svg { display: block; margin: 0 auto; }
+
+  .keyterm { color: var(--accent); font-weight: 500; }
+  .analogy { background: #fffaf3; padding: 10px 14px; border-left: 3px solid var(--warn);
+    border-radius: 4px; font-size: 13px; margin: 10px 0; }
+  .analogy strong { color: var(--warn); }
+
+  table { width: 100%; border-collapse: collapse; margin: 10px 0; font-size: 13px; }
+  th, td { padding: 8px 10px; text-align: left; border-bottom: 1px solid var(--line);
+    vertical-align: top; }
+  th { font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em;
+    color: var(--muted); font-weight: 600; }
+
+  @media (max-width: 720px) {
+    .grid2 { grid-template-columns: 1fr; }
+    .toc ol { columns: 1; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>Anti-vibe deep dive — <code>triage.html</code></h1>
+<div class="sub">2026-05-27 · Job_Scraper · understand <em>why</em> this code looks the way it does, not just <em>what</em> it does</div>
+
+<div class="card ctx-card">
+  <h3>What we built and why this doc exists</h3>
+  <p>You now have a 721-line single-file dashboard at <a href="https://ernestod1998.github.io/Job_Scraper/triage.html">ernestod1998.github.io/Job_Scraper/triage.html</a> that fetches your three job scraper JSONs, merges them, and lets you triage roles on your iPhone or laptop with persistent state. That's the <em>what</em>.</p>
+  <p>This doc is the <em>why</em> — every non-obvious design decision in <code>triage.html</code>, explained well enough that next time you write something similar you can reason from first principles instead of copying patterns. Each section follows the format:</p>
+  <ul>
+    <li><span class="pill what">What</span> the pattern is, in plain language</li>
+    <li><span class="pill why">Why</span> we chose it for this dashboard (the real motivation)</li>
+    <li><span class="pill when">When</span> to reach for it elsewhere</li>
+    <li><span class="pill alt">Alternatives</span> we rejected and why</li>
+  </ul>
+  <p>Your background is ML/data science. Where useful, I'll bridge web concepts to Python analogues you already know — async/await ≈ asyncio, fetch ≈ requests, Promise.allSettled ≈ <code>asyncio.gather(return_exceptions=True)</code>, and so on.</p>
+</div>
+
+<div class="toc">
+  <h3>Contents</h3>
+  <ol>
+    <li><a href="#arch">Architecture: fetch-at-view-time</a></li>
+    <li><a href="#promise">Promise.allSettled (fail-soft fetching)</a></li>
+    <li><a href="#localstorage">localStorage + additive merge</a></li>
+    <li><a href="#map">Map for URL-keyed dedupe</a></li>
+    <li><a href="#cache">Cache-busting via query strings</a></li>
+    <li><a href="#xss">Defensive coding: HTML escape + URL guard</a></li>
+    <li><a href="#delegation">Event delegation</a></li>
+    <li><a href="#theming">CSS custom properties for theming</a></li>
+    <li><a href="#mobile">Mobile gotchas (iOS WebKit reality)</a></li>
+    <li><a href="#a11y">Accessibility primitives</a></li>
+    <li><a href="#visualviewport">visualViewport API for keyboards</a></li>
+    <li><a href="#focus-visible"><code>:focus-visible</code></a></li>
+    <li><a href="#glossary">Concepts glossary</a></li>
+    <li><a href="#resources">Curated learning resources</a></li>
+    <li><a href="#next">Next steps</a></li>
+  </ol>
+</div>
+
+<!-- =============================================== -->
+<h2 id="arch">1. Architecture: fetch-at-view-time</h2>
+
+<p>The dashboard could have been built two fundamentally different ways. We picked one. Here's the choice space:</p>
+
+<div class="grid2">
+  <div>
+    <h4>Option A — bake-on-cron <span class="pill alt">rejected</span></h4>
+    <p>Every cron fire (LinkedIn :17, Indeed :47, biotech daily) regenerates <code>triage.html</code> with the latest data inlined as a JSON blob in a <code>&lt;script&gt;</code> tag. Commit the rebuilt HTML on every push.</p>
+    <ul>
+      <li>+ Works offline (open the file directly)</li>
+      <li>– ~30 commits/day just for the dashboard</li>
+      <li>– Couples Python scraper to dashboard format</li>
+    </ul>
+  </div>
+  <div>
+    <h4>Option B — fetch-at-view-time <span class="pill why">chosen</span></h4>
+    <p>The HTML is static. When the browser loads it, JavaScript runs <code>fetch('./jobs.json')</code>, <code>fetch('./linkedin_jobs.json')</code>, <code>fetch('./indeed_jobs.json')</code> in parallel from the same origin, merges them, and renders.</p>
+    <ul>
+      <li>+ HTML committed once, never modified by automation</li>
+      <li>+ Decouples dashboard from scraper</li>
+      <li>– Requires HTTP (won't work from <code>file://</code>)</li>
+    </ul>
+  </div>
+</div>
+
+<div class="arch">
+<svg width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#6b6b6b"/>
+    </marker>
+    <style>
+      .box { fill: #fff; stroke: #e8e6e1; stroke-width: 1; }
+      .bio { fill: #f0faf3; stroke: #2ea04f; }
+      .lin { fill: #fff3ec; stroke: #ff6b35; }
+      .ind { fill: #eef0ff; stroke: #6366f1; }
+      .lbl { font: 600 12px -apple-system, system-ui, sans-serif; fill: #1a1a1a; }
+      .sub { font: 11px -apple-system, system-ui, sans-serif; fill: #6b6b6b; }
+      .arrow { stroke: #6b6b6b; stroke-width: 1.4; fill: none; }
+      .arrow.fetch { stroke: #d94f1e; stroke-dasharray: 4 3; }
+    </style>
+  </defs>
+
+  <text class="lbl" x="20" y="20">Scrapers commit JSON to repo</text>
+  <rect class="box bio" x="20" y="40" width="160" height="40" rx="6"/>
+  <text class="lbl" x="100" y="64" text-anchor="middle">jobs.json</text>
+  <rect class="box lin" x="20" y="90" width="160" height="40" rx="6"/>
+  <text class="lbl" x="100" y="114" text-anchor="middle">linkedin_jobs.json</text>
+  <rect class="box ind" x="20" y="140" width="160" height="40" rx="6"/>
+  <text class="lbl" x="100" y="164" text-anchor="middle">indeed_jobs.json</text>
+
+  <text class="lbl" x="240" y="20">GitHub Pages (CDN)</text>
+  <rect class="box" x="240" y="40" width="160" height="140" rx="6"/>
+  <text class="sub" x="320" y="70" text-anchor="middle">Serves repo files</text>
+  <text class="sub" x="320" y="90" text-anchor="middle">at github.io URL</text>
+  <text class="sub" x="320" y="120" text-anchor="middle">Auto-deploys on push</text>
+  <text class="sub" x="320" y="140" text-anchor="middle">~10 min cache TTL</text>
+
+  <path class="arrow" d="M180,60  L240,100" marker-end="url(#arr)"/>
+  <path class="arrow" d="M180,110 L240,110" marker-end="url(#arr)"/>
+  <path class="arrow" d="M180,160 L240,120" marker-end="url(#arr)"/>
+
+  <text class="lbl" x="460" y="20">Browser (your iPhone)</text>
+  <rect class="box" x="460" y="40" width="160" height="140" rx="6"/>
+  <text class="sub" x="540" y="70" text-anchor="middle">Loads triage.html</text>
+  <text class="sub" x="540" y="90" text-anchor="middle">JS fires 3 fetches</text>
+  <text class="sub" x="540" y="110" text-anchor="middle">in parallel</text>
+  <text class="sub" x="540" y="140" text-anchor="middle">Merges + renders</text>
+
+  <path class="arrow fetch" d="M400,110 L460,110" marker-end="url(#arr)"/>
+
+  <rect class="box" x="680" y="80" width="100" height="60" rx="6"/>
+  <text class="lbl" x="730" y="105" text-anchor="middle">localStorage</text>
+  <text class="sub" x="730" y="125" text-anchor="middle">triage state</text>
+  <path class="arrow" d="M620,110 L680,110" marker-end="url(#arr)" stroke-dasharray="3 2"/>
+
+  <text class="sub" x="220" y="218">Dashed orange = fetch over HTTPS at view time</text>
+</svg>
+</div>
+
+<div class="card why-card">
+  <h4>Why this is the right call for personal projects</h4>
+  <p>The pivot point is whether you have a server. If you don't (and you don't — Pages is static file hosting, not a runtime), the data has to live <em>somewhere</em>. Either you compile-time-inline it (Option A) or you fetch-time-load it (Option B). Option B is cheaper because the data is already in the repo as JSON; you just point at it.</p>
+  <p>This pattern is common in static-site dashboards: <a href="https://observablehq.com">Observable</a> notebooks, <a href="https://d3js.org">D3</a> demos, Datasette, and most "single-page apps backed by static files" use it. You're now in good company.</p>
+</div>
+
+<!-- =============================================== -->
+<h2 id="promise">2. <code>Promise.allSettled</code> — fail-soft parallel fetching</h2>
+
+<p>The code:</p>
+<pre><span class="kw">const</span> settled = <span class="kw">await</span> Promise.allSettled(
+  SOURCES.map(s =&gt; fetch(s.name + bust).then(r =&gt; {
+    <span class="kw">if</span> (!r.ok) <span class="kw">throw new</span> Error(<span class="str">`${s.name}: ${r.status}`</span>);
+    <span class="kw">return</span> r.json();
+  }))
+);</pre>
+
+<div class="card">
+  <p><span class="pill what">What</span> <code>Promise.allSettled</code> takes an array of promises and waits for <em>all of them</em> to either resolve or reject. It returns an array of result objects: <code>{status: 'fulfilled', value: ...}</code> or <code>{status: 'rejected', reason: ...}</code>. <strong>No matter what any individual promise does, the outer promise never rejects.</strong></p>
+
+  <p><span class="pill why">Why we chose it</span> The 3 sources are independent. If <code>indeed_jobs.json</code> doesn't exist yet (first deploy before the Indeed cron has fired), <code>fetch()</code> returns a 404 and our <code>r.ok</code> check throws. With <code>Promise.all</code>, that throw would reject the whole batch — you'd see zero jobs even though biotech + LinkedIn loaded fine. With <code>Promise.allSettled</code>, the 404 is contained: the per-source loop just skips it.</p>
+
+  <p><span class="pill when">When to reach for it</span> Any time you're fanning out independent requests and partial success is acceptable. Common cases: dashboards aggregating multiple APIs, batch operations, anything where "best effort" beats "all or nothing".</p>
+</div>
+
+<div class="analogy">
+  <strong>Python analogue:</strong> <code>asyncio.gather(*tasks, return_exceptions=True)</code>. Same semantics — return both results and exceptions, you decide what to do with each. Without <code>return_exceptions=True</code>, gather aborts the whole batch on the first exception, just like <code>Promise.all</code>.
+</div>
+
+<h3>Why not <code>Promise.all</code>?</h3>
+<table>
+  <tr><th>API</th><th>Behavior on failure</th><th>Returns</th></tr>
+  <tr><td><code>Promise.all</code></td><td>Rejects whole batch on first rejection</td><td>Array of values, or throws</td></tr>
+  <tr><td><code>Promise.allSettled</code></td><td>Always resolves, never rejects</td><td>Array of {status, value/reason}</td></tr>
+  <tr><td><code>Promise.race</code></td><td>Resolves/rejects with first to finish</td><td>Single value</td></tr>
+  <tr><td><code>Promise.any</code></td><td>Resolves with first success; rejects only if all fail</td><td>Single value, or AggregateError</td></tr>
+</table>
+
+<p>The decision tree: <strong>need all results, OK if some fail</strong> → <code>allSettled</code>. <strong>Need all results, abort on any failure</strong> → <code>all</code>. <strong>Want fastest one</strong> → <code>race</code>. <strong>Want any one to succeed</strong> → <code>any</code>.</p>
+
+<!-- =============================================== -->
+<h2 id="localstorage">3. <code>localStorage</code> + additive merge pattern</h2>
+
+<p><code>localStorage</code> is a browser-provided key/value store that persists across page loads. It's synchronous (no async API), strings-only (so we JSON-stringify objects), and ~5MB per origin.</p>
+
+<pre><span class="kw">const</span> state = (() =&gt; {
+  <span class="kw">try</span> { <span class="kw">return</span> JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; }
+  <span class="kw">catch</span> { <span class="kw">return</span> {}; }
+})();
+state.triage = state.triage || {};
+state.jobs = state.jobs || [];</pre>
+
+<div class="card">
+  <p><span class="pill what">What</span> An immediately-invoked function expression (IIFE) reads the saved state on page load. If the parse fails (corrupted storage, first visit), we fall back to an empty object. Defensive coding for browser storage — never assume your data is intact.</p>
+  <p><span class="pill why">Why JSON.parse with try/catch</span> Browser storage can be corrupted by extensions, manually edited, or in private/incognito mode where some browsers silently fail. The try/catch is cheaper than the alternative (handling broken state mid-render).</p>
+</div>
+
+<h3>The additive-merge pattern</h3>
+<p>The harder design question: when fresh data arrives, do you <em>replace</em> the in-memory jobs list, or <em>merge</em> into it?</p>
+
+<pre><span class="kw">function</span> mergeJobs(incoming) {
+  <span class="kw">const</span> seen = <span class="kw">new</span> Map(state.jobs.map(j =&gt; [j.url, j]));
+  <span class="kw">let</span> added = 0;
+  <span class="kw">for</span> (<span class="kw">const</span> j <span class="kw">of</span> incoming) {
+    <span class="kw">if</span> (!seen.has(j.url)) {
+      state.jobs.push(j);
+      seen.set(j.url, j);   <span class="com">// prevent internal dupes within same call</span>
+      added++;
+    }
+  }
+  <span class="kw">return</span> added;
+}</pre>
+
+<div class="card why-card">
+  <h4>Why <em>additive</em>, not replace?</h4>
+  <p>Each scraper has a small lookback window (LinkedIn: 1h, Indeed: 1h, biotech: 24h). If you replace <code>state.jobs</code> with each fresh fetch, jobs you triaged yesterday vanish from the visible list — but your <code>state.triage[url] = 'applied'</code> decision still exists in localStorage, just orphaned. Your "Applied: 5" KPI would silently drop to "Applied: 0" overnight.</p>
+  <p>Additive merge keeps every job you've ever seen. The lookback windows give you fresh data while your historical decisions stay anchored. The cost is unbounded growth — but at 39 jobs per hour and ~200 bytes each, you'd hit 5MB after about 4 months. We'll cross that bridge if/when we get there.</p>
+</div>
+
+<h3>localStorage vs alternatives</h3>
+<table>
+  <tr><th>Storage</th><th>Capacity</th><th>API</th><th>Use case</th></tr>
+  <tr><td><code>localStorage</code></td><td>~5MB</td><td>Sync, string-only</td><td>Small JSON blobs, settings, simple state</td></tr>
+  <tr><td><code>sessionStorage</code></td><td>~5MB</td><td>Sync, string-only</td><td>Tab-lifetime only — cleared on close</td></tr>
+  <tr><td><code>IndexedDB</code></td><td>~50% of disk</td><td>Async, structured</td><td>Large datasets, offline-first apps</td></tr>
+  <tr><td><code>Cookies</code></td><td>~4KB total</td><td>Sent on every HTTP request</td><td>Auth tokens, server-side session</td></tr>
+  <tr><td><code>Cache API</code></td><td>Origin-quota</td><td>Async, request/response</td><td>Service workers, offline assets</td></tr>
+</table>
+
+<p>For our scale (a few KB of triage state), <code>localStorage</code> is right. For a Kaggle-sized dataset or anything you want offline-first, <code>IndexedDB</code> is the move — but it has a steep API.</p>
+
+<!-- =============================================== -->
+<h2 id="map">4. <code>Map</code> keyed by URL — why not plain object?</h2>
+
+<pre><span class="kw">const</span> byUrl = <span class="kw">new</span> Map();
+<span class="ctx">// ...</span>
+<span class="kw">if</span> (!byUrl.has(j.url)) byUrl.set(j.url, j);
+<span class="ctx">// ...</span>
+<span class="kw">const</span> jobs = [...byUrl.values()];</pre>
+
+<div class="card">
+  <p><span class="pill what">What</span> ES6 <code>Map</code> is a key/value container where keys can be any type (not just strings) and iteration order matches insertion order. <code>has</code>, <code>set</code>, <code>get</code>, <code>delete</code>, <code>values()</code>, <code>keys()</code>, <code>entries()</code>, <code>size</code> — all the standard collection ops.</p>
+  <p><span class="pill why">Why over <code>{}</code></span> Three reasons: (1) explicit semantics — <code>Map</code> is clearly a collection, an object isn't always; (2) no prototype-key collisions (object keys conflict with <code>toString</code>, <code>hasOwnProperty</code>, etc.); (3) <code>.size</code> is O(1) where <code>Object.keys(o).length</code> is O(n).</p>
+  <p><span class="pill when">When</span> Any time the keys are dynamic strings (especially URLs, IDs, or user-supplied values). Use plain objects only when the shape is fixed and known at write-time.</p>
+</div>
+
+<div class="analogy">
+  <strong>Python analogue:</strong> <code>dict</code>. JavaScript objects were dual-purpose (record + dict) for years; ES6 split them into proper <code>Object</code> (record) and <code>Map</code> (dict). Modern JS strongly prefers <code>Map</code> for dictionary use cases.
+</div>
+
+<!-- =============================================== -->
+<h2 id="cache">5. Cache-busting via <code>?v=Date.now()</code></h2>
+
+<pre><span class="kw">const</span> bust = <span class="str">`?v=${Date.now()}`</span>;
+fetch(s.name + bust);   <span class="com">// /jobs.json?v=1748391982371</span></pre>
+
+<div class="card">
+  <p><span class="pill what">What</span> Appending a unique query string to a URL makes it look "new" to caches (browser, CDN, ISP). Same content, but the cache key changes per request, so a fresh fetch is forced.</p>
+  <p><span class="pill why">Why we need it</span> GitHub Pages serves static files with <code>Cache-Control: max-age=600</code> — the browser will reuse the cached copy for 10 minutes before re-checking. After a cron commits new JSON, you'd see stale data for up to 10 min. The query bust skips browser cache; whether it skips the upstream CDN depends on the CDN's cache-key rules (Fastly typically respects query strings).</p>
+  <p><span class="pill when">When</span> Static-hosted dynamic data (Pages, S3, Netlify with default cache). Avoid for hashed-build assets like <code>app.a1b2c3.js</code> — those should be cached aggressively because the hash <em>is</em> the bust.</p>
+</div>
+
+<h3>Better alternatives if you control the server</h3>
+<ul>
+  <li><strong>ETag + If-None-Match</strong>: server says "still the same, here's a 304" without re-sending the file. Standard HTTP, no client work needed.</li>
+  <li><strong><code>Cache-Control: no-cache</code></strong> on the server: force revalidation every request. Cleaner than query bust but requires server config.</li>
+  <li><strong>Versioned URLs</strong> (<code>/v2/jobs.json</code>): when content changes, you change the path. Works great for build pipelines.</li>
+</ul>
+
+<!-- =============================================== -->
+<h2 id="xss">6. Defensive coding: HTML escape + URL protocol guard</h2>
+
+<p>Two layered defenses against malicious or malformed data.</p>
+
+<h3>HTML escape</h3>
+<pre><span class="kw">function</span> escape(s) {
+  <span class="kw">return</span> String(s == <span class="kw">null</span> ? <span class="str">''</span> : s).replace(/[&amp;&lt;&gt;"']/g, c =&gt;
+    ({ <span class="str">'&amp;'</span>: <span class="str">'&amp;amp;'</span>, <span class="str">'&lt;'</span>: <span class="str">'&amp;lt;'</span>, <span class="str">'&gt;'</span>: <span class="str">'&amp;gt;'</span>,
+       <span class="str">'"'</span>: <span class="str">'&amp;quot;'</span>, <span class="str">"'"</span>: <span class="str">'&amp;#39;'</span> }[c]));
+}</pre>
+
+<div class="card">
+  <p>Any time data goes into <code>.innerHTML</code> or a template literal that gets injected as HTML, it must be escaped. A job title containing <code>&lt;script&gt;alert(1)&lt;/script&gt;</code> would otherwise execute as JavaScript. Five chars are dangerous: <code>&amp; &lt; &gt; " '</code>. The replace function maps each to its named/numeric entity.</p>
+  <p><strong>Production note:</strong> if you find yourself writing escape functions, consider using <code>.textContent</code> (auto-escapes) or a templating library (Lit, Preact, etc.) that escapes by default. We use <code>.innerHTML</code> here for batched template literal rendering performance with small DOM nodes — a deliberate trade-off.</p>
+</div>
+
+<h3>URL protocol whitelist</h3>
+<pre>(d.jobs || []).forEach(j =&gt; {
+  <span class="kw">if</span> (!j || !j.url || !/^https?:\/\//i.test(j.url)) <span class="kw">return</span>;
+  <span class="kw">if</span> (!byUrl.has(j.url)) byUrl.set(j.url, j);
+});</pre>
+
+<div class="card">
+  <p>The regex <code>/^https?:\/\//i</code> requires URLs to start with <code>http://</code> or <code>https://</code> (case-insensitive). A malicious or buggy scraper that produced <code>javascript:alert(1)</code> would otherwise become a clickable link in the UI — tap it on iPhone, code executes. The guard prevents that whole class of attack.</p>
+  <p><strong>Real-world incidence:</strong> very low for personal scrapers hitting LinkedIn/Indeed/Greenhouse. But the guard costs one regex test and prevents a footgun. Cheap insurance.</p>
+</div>
+
+<!-- =============================================== -->
+<h2 id="delegation">7. Event delegation</h2>
+
+<pre>$(<span class="str">'jobs'</span>).addEventListener(<span class="str">'click'</span>, e =&gt; {
+  <span class="kw">const</span> btn = e.target.closest(<span class="str">'.act'</span>);
+  <span class="kw">if</span> (!btn) <span class="kw">return</span>;
+  <span class="kw">const</span> card = btn.closest(<span class="str">'.job'</span>);
+  <span class="kw">const</span> url = card.dataset.url;
+  <span class="kw">const</span> act = btn.dataset.act;
+  <span class="ctx">// toggle triage state</span>
+});</pre>
+
+<div class="card">
+  <p><span class="pill what">What</span> One <code>click</code> listener on the parent <code>#jobs</code> container catches clicks from any descendant. We use <code>e.target.closest('.act')</code> to find the nearest matching ancestor (or self) of the actual clicked element. If null, the click wasn't on a triage button — bail out.</p>
+  <p><span class="pill why">Why</span> Each render produces N jobs × 3 buttons = up to ~120 buttons. Attaching 120 individual listeners costs memory and slows DOM mutations. One listener handles them all. More importantly, jobs render multiple times (filter changes, refreshes), and you'd otherwise need to wire/unwire listeners constantly. Event delegation works automatically for elements created after the listener was attached.</p>
+  <p><span class="pill when">When</span> Anytime you have dynamic lists with interactive items. Tables, cards, list rows, autocomplete dropdowns — all benefit. <code>closest()</code> is the key API: it lets you write the listener once and match by class/tag regardless of nesting.</p>
+</div>
+
+<h3>How events propagate (so this works)</h3>
+<p>When you click an element, the browser runs a <em>bubble phase</em>: the event fires on the target, then on its parent, then grandparent, all the way up to <code>document</code>. Each ancestor's listeners get called in order. Our listener on <code>#jobs</code> sees clicks bubbled up from any descendant button. Add <code>e.stopPropagation()</code> if you ever need to prevent this — but usually you want it.</p>
+
+<!-- =============================================== -->
+<h2 id="theming">8. CSS custom properties for theming</h2>
+
+<pre>:root {
+  --bg: #fafaf7;
+  --ink: #1a1a1a;
+  --accent: #d94f1e;
+  <span class="ctx">/* ... */</span>
+}
+[data-theme=<span class="str">"dark"</span>] {
+  --bg: #131310;
+  --ink: #ece9e2;
+  <span class="ctx">/* ... */</span>
+}
+body { background: var(--bg); color: var(--ink); }</pre>
+
+<div class="card">
+  <p><span class="pill what">What</span> CSS variables (formal name: "custom properties") declared on <code>:root</code> cascade everywhere. Override them at any nested scope and descendants get the new value. <code>var(--name)</code> reads the closest declaration.</p>
+  <p><span class="pill why">Why for theming</span> You define every theme-able value once at <code>:root</code>, then a single class/attribute change at the top of the tree flips the whole UI. No re-running JS, no rebuilding the DOM, no SCSS mixins compiled per-theme. The dark mode toggle is literally <code>html.dataset.theme = 'dark'</code> — one assignment, the entire palette swaps.</p>
+  <p><span class="pill when">When</span> Theming, spacing scales, density modes, brand variants, anywhere you want "change one thing, everything updates". CSS variables compose with media queries (<code>prefers-color-scheme</code>), data attributes, and JS, so you can wire them however you need.</p>
+</div>
+
+<h3>System preference + manual override</h3>
+<pre>applyTheme(localStorage.getItem(<span class="str">'jobTriage:theme'</span>) ||
+  (window.matchMedia(<span class="str">'(prefers-color-scheme: dark)'</span>).matches ? <span class="str">'dark'</span> : <span class="str">'light'</span>));</pre>
+<p>The user's saved choice wins; falling back to the system preference if they've never toggled. <code>matchMedia</code> returns a <code>MediaQueryList</code> you can also subscribe to (for live updates if the OS changes its theme), though we don't bother here.</p>
+
+<!-- =============================================== -->
+<h2 id="mobile">9. Mobile gotchas — the iOS WebKit reality</h2>
+
+<div class="card ctx-card">
+  <h4>The one thing to internalize</h4>
+  <p><strong>iOS Chrome is not Chrome.</strong> Apple App Store policy requires every iOS browser to use WebKit (Safari's engine) for HTML/CSS/JS rendering. Chrome, Firefox, Edge on iPhone share the WebKit reality. So when we say "test on iPhone Chrome", we're really testing on Safari with a Chrome wrapper.</p>
+  <p>Every quirk below is a WebKit quirk that affects all iOS browsers equally.</p>
+</div>
+
+<h3>iOS auto-zoom on input focus (the most famous one)</h3>
+<pre>@media (max-width: 760px) {
+  .search, .modal textarea { font-size: 16px; }
+}</pre>
+<p>Any <code>&lt;input&gt;</code> or <code>&lt;textarea&gt;</code> with <code>font-size</code> <strong>less than 16px</strong> triggers iOS to auto-zoom the page when the user taps to focus. The page stays zoomed in until they manually pinch-zoom out. Bumping to 16px (or larger) on mobile prevents this. <strong>Memorize this rule.</strong> You'll hit it in every mobile project.</p>
+
+<h3>Touch targets — Apple HIG 44pt minimum</h3>
+<pre>.act { padding: 10px 14px; min-height: 44px; }</pre>
+<p>Apple's Human Interface Guidelines mandate 44×44pt minimum for interactive elements. Anything smaller is realistically un-tappable with a finger — mishits become the norm. The 44pt comes from research on the average fingertip contact area (~10mm) and screen pixel density.</p>
+
+<h3>Safe area insets</h3>
+<pre>.export-bar {
+  padding-bottom: calc(10px + env(safe-area-inset-bottom));
+}</pre>
+<p>iPhones with home indicators or notches expose CSS environment variables: <code>env(safe-area-inset-top/right/bottom/left)</code>. These are the pixel distances you should respect to avoid your content hiding behind the notch/indicator. <code>viewport-fit=cover</code> in the meta tag opts in to using the full screen, and these env vars let you reclaim usable space.</p>
+
+<h3>position: sticky vs fixed</h3>
+<p>WebKit has historic bugs with <code>position: sticky</code> inside scrolling containers, and it interacts badly with iOS Chrome's auto-hiding bottom toolbar. We use <code>sticky</code> on desktop (cheaper, scrolls with content) but switch to <code>position: fixed</code> on mobile for the export-bar specifically. Worth knowing if you ever debug "why doesn't my sticky element stick on iPhone".</p>
+
+<h3><code>-webkit-tap-highlight-color: transparent</code></h3>
+<p>iOS draws a translucent gray rectangle over any clickable element when you tap it. Looks crude on a custom-styled UI. Setting <code>-webkit-tap-highlight-color: transparent</code> removes it. Your CSS hover/active states should provide tap feedback instead.</p>
+
+<!-- =============================================== -->
+<h2 id="a11y">10. Accessibility primitives</h2>
+
+<p>The dashboard had several a11y bugs in the v1 prototype that pass 7 of the audit caught. Each fix maps to a learnable concept.</p>
+
+<h3>Real <code>&lt;button&gt;</code> vs <code>&lt;span onclick&gt;</code></h3>
+<p>Filter pills were originally <code>&lt;span class="pill"&gt;</code> with <code>onclick</code> handlers. They <em>worked</em> with mouse and touch but were invisible to:</p>
+<ul>
+  <li><strong>Keyboard nav</strong> (Tab key skips them — not focusable by default)</li>
+  <li><strong>Screen readers</strong> (announced as "Source LinkedIn" instead of "Source LinkedIn, button, pressed")</li>
+  <li><strong>Voice control</strong> ("Show numbers" / "Show grid" doesn't tag them as interactive)</li>
+</ul>
+<p>Switching to <code>&lt;button type="button"&gt;</code> fixes all three for free. Real semantic HTML is almost always the right answer.</p>
+
+<h3>ARIA state attributes</h3>
+<table>
+  <tr><th>Attribute</th><th>What it does</th><th>Used here for</th></tr>
+  <tr><td><code>aria-pressed</code></td><td>Announces toggle state ("pressed" vs "not pressed")</td><td>Filter pills, Save/Applied/Dismiss buttons</td></tr>
+  <tr><td><code>aria-live="polite"</code></td><td>Tells SR to announce changes to this region without interrupting</td><td>Snapshot line ("loaded just now · 39 jobs")</td></tr>
+  <tr><td><code>aria-modal="true"</code></td><td>Tells SR everything outside this dialog is inert</td><td>Paste-fresh-JSON modal</td></tr>
+  <tr><td><code>aria-labelledby</code></td><td>Points to an element that labels this one</td><td>Modal title</td></tr>
+  <tr><td><code>role="dialog"</code></td><td>Tells AT this is a dialog, not just a div</td><td>Modal container</td></tr>
+</table>
+
+<h3>Focus management for modals</h3>
+<pre><span class="kw">let</span> _modalPrevFocus = <span class="kw">null</span>;
+<span class="kw">function</span> openModal() {
+  _modalPrevFocus = document.activeElement;
+  $(<span class="str">'modal-bg'</span>).classList.add(<span class="str">'show'</span>);
+  setTimeout(() =&gt; $(<span class="str">'paste-area'</span>).focus(), 0);
+}
+<span class="kw">function</span> closeModal() {
+  $(<span class="str">'modal-bg'</span>).classList.remove(<span class="str">'show'</span>);
+  <span class="kw">if</span> (_modalPrevFocus &amp;&amp; _modalPrevFocus.focus) _modalPrevFocus.focus();
+}</pre>
+<p>When a modal opens: save where focus currently is, then move focus into the modal (so screen readers and keyboard users land there). When it closes: restore focus to where it was. Without this, keyboard users get dumped at the top of the page after dismissing a dialog. Universally expected behavior; trivially easy to miss.</p>
+
+<!-- =============================================== -->
+<h2 id="visualviewport">11. <code>visualViewport</code> API — detecting the soft keyboard</h2>
+
+<pre><span class="kw">if</span> (window.visualViewport) {
+  window.visualViewport.addEventListener(<span class="str">'resize'</span>, () =&gt; {
+    <span class="kw">const</span> kbOpen = window.innerHeight - window.visualViewport.height &gt; 100;
+    bar.style.display = kbOpen ? <span class="str">'none'</span> : <span class="str">''</span>;
+  });
+}</pre>
+
+<div class="card">
+  <p><span class="pill what">What</span> <code>window.visualViewport</code> is the part of the screen currently visible to the user — which shrinks when the soft keyboard pops up. <code>window.innerHeight</code> is the layout viewport (full document area). The difference between the two equals approximately the keyboard height.</p>
+  <p><span class="pill why">Why we need it</span> Our export-bar is <code>position: fixed</code> at the bottom on mobile. When the user taps the search input, the iOS keyboard appears — and the export-bar gets pushed up... over the search input itself. Hiding the bar while the keyboard is up fixes this.</p>
+  <p><span class="pill when">When</span> Any mobile-aware UI with bottom-fixed elements. Chat apps, search overlays, sticky CTAs.</p>
+</div>
+
+<!-- =============================================== -->
+<h2 id="focus-visible">12. <code>:focus-visible</code> — keyboard-only focus rings</h2>
+
+<pre>.pill:focus-visible, .act:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}</pre>
+
+<div class="card">
+  <p>The plain <code>:focus</code> pseudo-class fires on <em>any</em> focus — including mouse clicks, which is why developers historically wrote <code>outline: none</code> to hide the "ugly" focus ring after clicks. That broke keyboard users.</p>
+  <p><code>:focus-visible</code> is browser-heuristic: it fires only when the browser thinks the user is navigating by keyboard (Tab key, arrow keys, etc.), not when they click. Now you can show a visible focus ring without it appearing on every click. It's the modern correct answer.</p>
+</div>
+
+<!-- =============================================== -->
+<h2 id="glossary">13. Concepts glossary</h2>
+
+<div class="resources">
+  <div class="resource">
+    <span class="rtitle">Same-origin policy</span>
+    <span class="rmeta">browser security model</span>
+    <div class="rdesc">JavaScript can only fetch resources from the same scheme + host + port that served the page. <code>github.io/Job_Scraper/triage.html</code> can fetch <code>github.io/Job_Scraper/jobs.json</code> freely. Cross-origin fetches require CORS headers from the target server. This is why our fetch-at-view-time architecture works without any CORS dance — everything is same-origin.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">CDN / edge cache</span>
+    <span class="rmeta">distribution layer</span>
+    <div class="rdesc">A network of geo-distributed servers that cache content close to users. GitHub Pages uses Fastly. When your phone requests <code>jobs.json</code>, Fastly's nearest edge serves the cached copy unless the cache TTL has expired, then it re-fetches from origin (the GitHub repo).</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">IIFE — Immediately Invoked Function Expression</span>
+    <span class="rmeta">JS pattern</span>
+    <div class="rdesc"><code>(() =&gt; { ... })()</code> — declare and call a function in one expression. Used to scope variables locally and return a value. Less common since ES6 modules and <code>let/const</code> blocks, but still useful for one-off initialization.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">Optional chaining (<code>?.</code>) and nullish coalescing (<code>??</code>)</span>
+    <span class="rmeta">ES2020 syntax</span>
+    <div class="rdesc"><code>r.reason?.message</code> evaluates to <code>undefined</code> if <code>r.reason</code> is null/undefined, instead of throwing. <code>a ?? b</code> returns <code>b</code> only if <code>a</code> is null or undefined (not just falsy). Together they make defensive coding terse.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">Bubble phase / event delegation</span>
+    <span class="rmeta">DOM event model</span>
+    <div class="rdesc">When you click an element, the event fires on the target, then on each ancestor up to <code>document</code>. A listener high up the tree can catch clicks from any descendant — that's delegation. <code>e.target</code> is the actual clicked element; <code>e.currentTarget</code> is the one with the listener.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">localeCompare</span>
+    <span class="rmeta">string comparison</span>
+    <div class="rdesc"><code>"a".localeCompare("b")</code> returns -1, 0, or 1 — usable directly as a sort comparator. Handles Unicode/locale-specific ordering (e.g. accented characters) correctly, unlike plain <code>a &lt; b</code> which compares UTF-16 code units.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">CSS Grid vs Flexbox</span>
+    <span class="rmeta">layout systems</span>
+    <div class="rdesc">Grid is 2D (rows + columns simultaneously). Flexbox is 1D (one axis at a time). Use Grid for page-level layouts, KPIs, card grids. Use Flexbox for navigation bars, form rows, anything in a single line. They compose: a Grid cell can contain a Flex container, vice versa.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">Reactive vs imperative rendering</span>
+    <span class="rmeta">UI paradigms</span>
+    <div class="rdesc">React/Vue/etc. are <em>reactive</em>: you describe what the UI should look like given state, the framework figures out DOM mutations. Our dashboard is <em>imperative</em>: <code>renderAll()</code> explicitly rebuilds DOM via <code>innerHTML</code>. Imperative is simpler for tiny apps; reactive is essential past ~5 interactive components.</div>
+  </div>
+</div>
+
+<!-- =============================================== -->
+<h2 id="resources">14. Curated learning resources</h2>
+
+<h3>For everything you saw above</h3>
+<div class="resources">
+  <div class="resource">
+    <span class="rtitle">MDN Web Docs — JavaScript reference</span>
+    <span class="rmeta">documentation · the canonical reference</span>
+    <div class="rdesc"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">developer.mozilla.org</a> · MDN is to web what cppreference is to C++. Use it instead of W3Schools, instead of random Medium posts. Search MDN first, always.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">javascript.info</span>
+    <span class="rmeta">tutorial · book-length, free</span>
+    <div class="rdesc"><a href="https://javascript.info">javascript.info</a> · The best modern JS tutorial. Goes deep on async/await, prototypes, modules. The "Promises, async/await" chapter explains everything we did with fetch.</div>
+  </div>
+</div>
+
+<h3>For the architecture choice (fetch-at-view-time)</h3>
+<div class="resources">
+  <div class="resource">
+    <span class="rtitle">"JAMstack" architecture overview</span>
+    <span class="rmeta">concept · pattern name</span>
+    <div class="rdesc"><a href="https://jamstack.org">jamstack.org</a> · JavaScript + APIs + Markup. The umbrella name for static-site + client-side-fetch apps. The pattern you just used has a name and a community.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">Static site + client-side data — Simon Willison</span>
+    <span class="rmeta">case study · datasette</span>
+    <div class="rdesc"><a href="https://simonwillison.net/series/datasette/">simonwillison.net</a> · Simon's blog is full of "static-site dashboards backed by JSON files" patterns, including his Datasette and Datasette-Lite projects. Same architectural shape as triage.html, much more sophisticated.</div>
+  </div>
+</div>
+
+<h3>For mobile / iOS web</h3>
+<div class="resources">
+  <div class="resource">
+    <span class="rtitle">Web on iOS — WebKit blog</span>
+    <span class="rmeta">official · Apple/WebKit team</span>
+    <div class="rdesc"><a href="https://webkit.org/blog/">webkit.org/blog</a> · Read the iOS Safari release notes here. New web platform features ship 1-2 major iOS versions after Chrome/Firefox; the WebKit blog is where you learn what's new.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">"Designing Websites for iPhone X" — WebKit</span>
+    <span class="rmeta">guide · safe-area-inset</span>
+    <div class="rdesc"><a href="https://webkit.org/blog/7929/designing-websites-for-iphone-x/">webkit.org/blog/7929</a> · The original article on <code>viewport-fit=cover</code> and <code>env(safe-area-inset-*)</code>. Apple-authored, definitive.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">Apple Human Interface Guidelines</span>
+    <span class="rmeta">design spec · touch targets</span>
+    <div class="rdesc"><a href="https://developer.apple.com/design/human-interface-guidelines">developer.apple.com/design/human-interface-guidelines</a> · The 44pt touch target rule lives here, along with much else. Mobile design specs in general are short and dense; worth a skim.</div>
+  </div>
+</div>
+
+<h3>For accessibility</h3>
+<div class="resources">
+  <div class="resource">
+    <span class="rtitle">"Inclusive Components" — Heydon Pickering</span>
+    <span class="rmeta">book · free online</span>
+    <div class="rdesc"><a href="https://inclusive-components.design">inclusive-components.design</a> · The best book on building accessible web components. Each chapter is a real component (modal, tab, menu) with the a11y considerations explained. The "Notifications" and "Dialogs" chapters cover patterns we used.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">ARIA Authoring Practices Guide (APG)</span>
+    <span class="rmeta">official · W3C</span>
+    <div class="rdesc"><a href="https://www.w3.org/WAI/ARIA/apg/">w3.org/WAI/ARIA/apg</a> · Worked examples of every common widget (modal, listbox, combobox, tabs, etc.) with full keyboard + screen-reader support. The reference when "what ARIA attributes do I need?" comes up.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">"Reset.css gone wrong — the focus outline" — Adrian Roselli</span>
+    <span class="rmeta">blog · focus-visible</span>
+    <div class="rdesc"><a href="https://adrianroselli.com">adrianroselli.com</a> · Adrian writes extensively on a11y. Search his blog for "focus" — multiple deep articles on why <code>outline: none</code> harms users and how <code>:focus-visible</code> fixes the trade-off.</div>
+  </div>
+</div>
+
+<h3>For CSS</h3>
+<div class="resources">
+  <div class="resource">
+    <span class="rtitle">"A Complete Guide to CSS Grid" + "Flexbox" — CSS-Tricks</span>
+    <span class="rmeta">reference · cheat sheet</span>
+    <div class="rdesc"><a href="https://css-tricks.com/snippets/css/complete-guide-grid/">css-tricks.com/snippets/css/complete-guide-grid/</a> and <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">/a-guide-to-flexbox/</a>. Bookmark both. Visual cheatsheets for every property.</div>
+  </div>
+  <div class="resource">
+    <span class="rtitle">"Every Layout" — Heydon Pickering &amp; Andy Bell</span>
+    <span class="rmeta">book · layout patterns</span>
+    <div class="rdesc"><a href="https://every-layout.dev">every-layout.dev</a> · Composable layout primitives (Stack, Cluster, Sidebar, Switcher). Once you internalize these, CSS becomes a small alphabet of reusable pieces.</div>
+  </div>
+</div>
+
+<!-- =============================================== -->
+<h2 id="next">15. Next steps for deeper study</h2>
+
+<div class="card">
+  <h4>If this clicked and you want more</h4>
+  <ol>
+    <li><strong>Reactive frameworks:</strong> the imperative <code>renderAll()</code> pattern works for ~5 components; past that you want React, Vue, Svelte, or Solid. Start with Svelte if you want minimum ceremony, React if you want the largest ecosystem.</li>
+    <li><strong>TypeScript:</strong> the defensive guards we added (URL protocol check, null fallbacks) are the kind of thing TypeScript catches at compile time. Worth learning before your next non-trivial JS project.</li>
+    <li><strong>Service workers:</strong> turn the dashboard into a PWA — works offline, installable on iOS home screen, push notifications possible. <a href="https://web.dev/learn/pwa">web.dev/learn/pwa</a>.</li>
+    <li><strong>Web Components:</strong> if you want to package the triage card / filter pill / chart as reusable elements, native Custom Elements + <code>&lt;template&gt;</code> are the no-framework path. Lit is the lightest abstraction over them.</li>
+    <li><strong>Observable / D3:</strong> if you ever want richer visualizations than the bar charts here, Observable is the playground and D3 is the deep tool. The job market visualization use case is a perfect fit.</li>
+  </ol>
+</div>
+
+<div class="card why-card">
+  <h4>The meta-lesson</h4>
+  <p>The dashboard you have is ~700 lines of HTML/CSS/JS that does what would be a typical mid-sized React app. The reason it's small is that we picked patterns that compose:</p>
+  <ul>
+    <li>Static hosting + fetch instead of a server</li>
+    <li>localStorage instead of a database</li>
+    <li>CSS custom properties instead of a CSS-in-JS theme system</li>
+    <li>Event delegation instead of N listeners</li>
+    <li>Real HTML buttons instead of a UI library</li>
+  </ul>
+  <p>Each of these is "boring tech" — Web Platform features that ship in every browser. The lesson: lots of "JavaScript framework" features exist because the platform was insufficient <em>at the time</em>. The platform has caught up substantially. For small/personal projects, the framework-less path is often the simplest and most durable.</p>
+</div>
+
+</div>
+</body>
+</html>
