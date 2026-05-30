@@ -1,80 +1,76 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-05-30 17:17 UTC*
+*Last updated: 2026-05-30 18:17 UTC*
 
-**19 new role(s)** since last run · 30 total in last 1h
+**18 new role(s)** since last run · 28 total in last 1h
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4422517876/) — Infotree Global Solutions
+### [Senior Frontend Software Engineer - AI Platform Leader](https://www.linkedin.com/jobs/view/4380638250/) — Andiamo
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Software Engineer, AI Agents](https://www.linkedin.com/jobs/view/4412432900/) — Arm
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4317469113/) — Opal Security
-- 📍 **Location:** San Francisco, CA
+### [Senior Machine Learning Engineer, Agentic AI Systems - Moveworks](https://www.linkedin.com/jobs/view/4369053877/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4402327592/) — Docusign
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Software Engineer, Lyft Business](https://www.linkedin.com/jobs/view/4380966305/) — Lyft
+### [Senior Software Engineer, Self-Serve Intelligence](https://www.linkedin.com/jobs/view/4403546870/) — Lyft
 - 📍 **Location:** San Francisco County, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Software Engineer, AI Gateway](https://www.linkedin.com/jobs/view/4372128856/) — Vercel
-- 📍 **Location:** San Francisco, CA
+### [Senior Software Engineer — Mobile (Flutter / KMP)](https://www.linkedin.com/jobs/view/4421368017/) — Afero
+- 📍 **Location:** Los Altos, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Sr. Software Engineer, DevOps](https://www.linkedin.com/jobs/view/4286184304/) — AKASA
-- 📍 **Location:** San Francisco, CA
+### [Associate Software Engineer, Core Infrastructure - Moveworks](https://www.linkedin.com/jobs/view/4369288501/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4422525757/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Applied Scientist- Pricing, Dynamic Pricing & Offer Selection](https://www.linkedin.com/jobs/view/4371638246/) — Lyft
+- 📍 **Location:** San Francisco County, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [AI Security Software Engineer (Starshield)](https://www.linkedin.com/jobs/view/4392002407/) — SpaceX
+### [Principal Applied Scientist](https://www.linkedin.com/jobs/view/4391599926/) — Microsoft AI
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4402777166/) — Broadcom
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Senior Manager, Data Science](https://www.linkedin.com/jobs/view/4402996386/) — Abridge
+### [GenAI Python Systems Engineer-Director](https://www.linkedin.com/jobs/view/4412310409/) — PwC
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Software Engineer 2, Algorithms and Biological Analysis](https://www.linkedin.com/jobs/view/4411788239/) — Eikon Therapeutics
-- 📍 **Location:** Millbrae, CA
+### [Principal Software Engineer](https://www.linkedin.com/jobs/view/4403541856/) — Microsoft AI
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4391960294/) — F5
-- 📍 **Location:** San Jose, CA
+### [Senior Engineer, Platform Engineering, AI](https://www.linkedin.com/jobs/view/4403144877/) — ICE
+- 📍 **Location:** Pleasanton, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4402315659/) — Docusign
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4421351935/) — Supio
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Staff Software Engineer, Product](https://www.linkedin.com/jobs/view/4402740882/) — Aptos Labs
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Staff Infrastructure Engineer](https://www.linkedin.com/jobs/view/4411246142/) — Replit
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Manager, Site Reliability Engineering (Global)](https://www.linkedin.com/jobs/view/4378986258/) — Palo Alto Networks
+### [Senior Staff Software Engineer - Agentic Automation](https://www.linkedin.com/jobs/view/4402765651/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Sr. AI Security Software Engineer (Starshield)](https://www.linkedin.com/jobs/view/4392000550/) — SpaceX
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Analytics Engineer](https://www.linkedin.com/jobs/view/4400836758/) — Okta
+### [Senior Cloud Engineer AI](https://www.linkedin.com/jobs/view/4403507894/) — BMO U.S.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [GenAI Python Systems Engineer – Senior Associate](https://www.linkedin.com/jobs/view/4411727554/) — PwC
+### [Sr Staff Site Reliability Engineer](https://www.linkedin.com/jobs/view/4422535369/) — Archer
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Software Engineer, DevOps](https://www.linkedin.com/jobs/view/4411953561/) — IXL Learning
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Director, AI Platforms](https://www.linkedin.com/jobs/view/4403570918/) — SoFi
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Embedded Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4402755737/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-30
