@@ -1,200 +1,140 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-05-30 15:17 UTC*
+*Last updated: 2026-05-30 16:17 UTC*
 
-**49 new role(s)** since last run · 49 total in last 1h
+**34 new role(s)** since last run · 44 total in last 1h
 
-### [Senior Machine Learning, AI Software Engineer - AI Platform Leader](https://www.linkedin.com/jobs/view/4380637294/) — Andiamo
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Machine Learning Engineer, GAI Search Platform - Moveworks](https://www.linkedin.com/jobs/view/4411693179/) — ServiceNow
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Software Engineer (Nextest, San Jose)](https://www.linkedin.com/jobs/view/4318082662/) — Teradyne
+### [Senior Machine Learning, AI Software Engineer - AI Platform Leader](https://www.linkedin.com/jobs/view/4380639248/) — Andiamo
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Data Scientist  (Guest Experience)](https://www.linkedin.com/jobs/view/4421345704/) — ektello
+### [Big Data Software Engineer - Intelligent DataOps Software Leader](https://www.linkedin.com/jobs/view/4380640233/) — Andiamo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Full Stack Software Engineer - AI Platform Leader](https://www.linkedin.com/jobs/view/4380630616/) — Andiamo
+### [Data Scientist, Product Analytics](https://www.linkedin.com/jobs/view/4327061575/) — Whatnot
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Software Engineer, GenAI](https://www.linkedin.com/jobs/view/4381149263/) — Abridge
+### [Software Engineer, Sweeps - Weights & Biases](https://www.linkedin.com/jobs/view/4341602798/) — Weights & Biases
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Backend Software Engineer - AI Platform Leader](https://www.linkedin.com/jobs/view/4380635479/) — Andiamo
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4267854541/) — Merge
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Software Engineer, Robotic Applications](https://www.linkedin.com/jobs/view/4379326847/) — Atomic Machines
-- 📍 **Location:** Emeryville, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Software Engineer - Data Engineering](https://www.linkedin.com/jobs/view/4370725029/) — CHAOS Industries
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Data Scientist - Growth Measurement](https://www.linkedin.com/jobs/view/4344733586/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Life Cycle Engineer, PyTorch - Deep Learning](https://www.linkedin.com/jobs/view/4402330638/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Data Engineer, PXT Central Science](https://www.linkedin.com/jobs/view/4412472208/) — Amazon
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Principal Machine Learning Engineer, Engineering Acceleration](https://www.linkedin.com/jobs/view/4379412920/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Applied Scientist, Sponsored Products and Brands](https://www.linkedin.com/jobs/view/4403545745/) — Amazon
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Member of Technical Staff - Reinforcement Learning, AGI Autonomy](https://www.linkedin.com/jobs/view/4365425623/) — Amazon
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Staff Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4403168668/) — Form Energy
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Technical Program Manager, Data Science & Analytics (Short Term)](https://www.linkedin.com/jobs/view/4412197564/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Applied Scientist, Delivery Foundation Model](https://www.linkedin.com/jobs/view/4380791783/) — Amazon
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [[2026] Senior Machine Learning Engineer, Multimodal AI, Computer Vision and Graphics - PhD Early Career](https://www.linkedin.com/jobs/view/4323180047/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Research Engineer, Cybersecurity Reinforcement Learning](https://www.linkedin.com/jobs/view/4326580146/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [AI Engineer, Agent Product (Full-time/Part-time)](https://www.linkedin.com/jobs/view/4422514627/) — Jobright.ai
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Principal Analytics & ML Engineer](https://www.linkedin.com/jobs/view/4391942361/) — LiveRamp
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4412143476/) — Applied Materials
-- 📍 **Location:** Benicia, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4296093604/) — Wealthfront
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Software Engineer - Data Platform Team at AI native Startup](https://www.linkedin.com/jobs/view/4412411414/) — Eightfold AI
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Software Engineer - Engine Systems](https://www.linkedin.com/jobs/view/4412400327/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Software Engineer, Menu Platform - Mountain View, CA](https://www.linkedin.com/jobs/view/4412416643/) — Otter
+### [Software Engineer - Workflow Platform](https://www.linkedin.com/jobs/view/4412155298/) — Addepar
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Staff Software Engineer - Agentic AI Product](https://www.linkedin.com/jobs/view/4380593277/) — Eightfold AI
+### [Senior Full Stack Software Engineer - AI Platform Leader](https://www.linkedin.com/jobs/view/4380642228/) — Andiamo
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4412197835/) — Joby Aviation
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Software Engineer, Launch & Sandboxes - Weights & Biases](https://www.linkedin.com/jobs/view/4391949178/) — Weights & Biases
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Software Engineer, Flight Simulator](https://www.linkedin.com/jobs/view/4288829362/) — Joby Aviation
+- 📍 **Location:** Santa Cruz, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Software Engineer, Manufacturing Test Automation](https://www.linkedin.com/jobs/view/4412411385/) — Joby Aviation
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4403125470/) — Instawork
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Staff Software Engineer, Big Data, tvScientific](https://www.linkedin.com/jobs/view/4403493685/) — Pinterest
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Staff Machine Learning Engineer, Agentic Systems - Moveworks](https://www.linkedin.com/jobs/view/4369053878/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Applied Scientist III, AWS Elemental](https://www.linkedin.com/jobs/view/4403547648/) — Amazon Web Services (AWS)
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Senior Software Engineer - Avatar Personalization](https://www.linkedin.com/jobs/view/4362116983/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Staff + Sr. Software Engineer, Cloud Inference Launch Engineering](https://www.linkedin.com/jobs/view/4411928070/) — Anthropic
+### [Software Engineer, Fraud](https://www.linkedin.com/jobs/view/4319403802/) — Whatnot
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Senior Full Stack Engineer, Product-Led Growth - San Francisco, CA](https://www.linkedin.com/jobs/view/4402334161/) — Otter
+### [Analytics Data Engineer](https://www.linkedin.com/jobs/view/4411763173/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Senior Software Engineer, Fullstack (Risk Engineering)](https://www.linkedin.com/jobs/view/4411700854/) — Flex
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4418340385/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4422512718/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Virtual Platform Software Engineer, Annapurna Labs Machine Learning Accelerators, AWS](https://www.linkedin.com/jobs/view/4392028366/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Data Engineer, Notifications](https://www.linkedin.com/jobs/view/4391913936/) — Whatnot
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4422518566/) — Jobright.ai
+### [Quantitative Software Engineer - Data-Driven Global Investment Firm](https://www.linkedin.com/jobs/view/4380622926/) — Andiamo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Staff Software Engineer, Fullstack (Marketing)](https://www.linkedin.com/jobs/view/4411703440/) — Flex
+### [Software Engineer, AI Dev Tools](https://www.linkedin.com/jobs/view/4380033977/) — Whatnot
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Senior Frontend Engineer, Developer Monetization](https://www.linkedin.com/jobs/view/4362636175/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Frontend Software Engineer, Ads Experience](https://www.linkedin.com/jobs/view/4323180049/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4403180496/) — BillionToOne
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Software Engineer, Monetization](https://www.linkedin.com/jobs/view/4403193753/) — Postman
+### [Software Engineer, AI SDK](https://www.linkedin.com/jobs/view/4342963837/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Staff iOS Engineer (React Native)](https://www.linkedin.com/jobs/view/4391221417/) — VSCO®
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Software Engineer, Developer Monetization (C++)](https://www.linkedin.com/jobs/view/4362024979/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Security Engineer, Application & Platform Security](https://www.linkedin.com/jobs/view/4403561605/) — Sentry
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [[2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career](https://www.linkedin.com/jobs/view/4390764988/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Software Engineer – Developer Productivity](https://www.linkedin.com/jobs/view/4300582934/) — Zipline
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Software Engineer, At Scale Compute Analysis](https://www.linkedin.com/jobs/view/4402775288/) — NVIDIA
+### [Staff Data Platform Software Engineer, Graph — Veza](https://www.linkedin.com/jobs/view/4402539543/) — ServiceNow
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [GenAI Python Systems Engineer-Manager](https://www.linkedin.com/jobs/view/4411738272/) — PwC
+### [Software Engineer - Founder's Office](https://www.linkedin.com/jobs/view/4390284472/) — CommerceIQ
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Software Engineer, Research Data Platform](https://www.linkedin.com/jobs/view/4402338149/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-30
 
-### [Principal Core Systems Software Engineer - Game Engine (C++)](https://www.linkedin.com/jobs/view/4326401566/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Software Engineer – Rust Language Maintainer](https://www.linkedin.com/jobs/view/4300979715/) — Zipline
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-05-30
-
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4422515569/) — Jobright.ai
+### [Principal Staff Backend Engineer](https://www.linkedin.com/jobs/view/4380628887/) — Andiamo
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4365159736/) — Scribe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4422530720/) — Jobright.ai
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Atlassian Cloud Engineer](https://www.linkedin.com/jobs/view/4372149933/) — Crusoe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Software Engineer, Launch & Sandboxes - Weights & Biases](https://www.linkedin.com/jobs/view/4391947199/) — Weights & Biases
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Site Reliability Engineer / HPC - Pre-IPO Tech Leader](https://www.linkedin.com/jobs/view/4380633519/) — Andiamo
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Sr. Data Infrastructure Engineer, Amazon Interactive Video Service (IVS)](https://www.linkedin.com/jobs/view/4381117805/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-30
+
+### [Senior Software Engineer, Experiment Insights - Weights & Biases](https://www.linkedin.com/jobs/view/4341682637/) — Weights & Biases
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-05-30
