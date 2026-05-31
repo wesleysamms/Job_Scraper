@@ -1,20 +1,24 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-05-31 22:17 UTC*
+*Last updated: 2026-05-31 23:17 UTC*
 
-**4 new role(s)** since last run · 9 total in last 1h
+**5 new role(s)** since last run · 7 total in last 1h
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4422565837/) — Haystack
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4422565974/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-31
+
+### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4422586089/) — Jobright.ai
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-05-31
+
+### [Data Scientist - Health AIML](https://www.linkedin.com/jobs/view/4418397802/) — ChatGPT Jobs
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-31
+
+### [Product Security Engineer](https://www.linkedin.com/jobs/view/4419075553/) — Cypress HCM
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-31
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4422581822/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-05-31
-
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4422575864/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-05-31
-
-### [Splz Senior Infra Engineer](https://www.linkedin.com/jobs/view/4418587377/) — TalentAlly
-- 📍 **Location:** San Francisco, CA
+### [Lecturer/Senior Lecturer (Education Focussed) in Software Engineering](https://www.linkedin.com/jobs/view/4418387754/) — UNSW
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-31
