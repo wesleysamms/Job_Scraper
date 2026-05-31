@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-31 18:47 UTC",
-  "total": 105,
+  "scraped_at": "2026-05-31 20:39 UTC",
+  "total": 103,
   "new_count": 0,
   "jobs": [
     {
@@ -217,14 +217,6 @@
       "location": "Menlo Park, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=6d064c0908b5a5a7",
       "date_posted": "2023-08-21",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Saga Legal AI",
-      "title": "Senior AI Engineer",
-      "location": "Los Altos, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=e7257d4e62878fb9",
-      "date_posted": "2026-05-30",
       "ats": "Indeed"
     },
     {
@@ -617,14 +609,6 @@
       "location": "Oakland, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=7ee1653bc864275b",
       "date_posted": "2026-05-31",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Saga Legal AI",
-      "title": "Senior Platform Engineer",
-      "location": "Los Altos, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=49c30745d08fc927",
-      "date_posted": "2026-05-30",
       "ats": "Indeed"
     },
     {
