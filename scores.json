@@ -1,0 +1,54 @@
+{
+  "scores": {
+    "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540": {
+      "score": 12,
+      "verdict": "skip",
+      "role_family": "data-eng",
+      "seniority_fit": "far above band \u2014 executive leadership vs. early-to-mid IC",
+      "why": "An Executive Director role leading clinical data engineering and analytics sits multiple levels above an early-to-mid IC, despite the appealing biotech/health-data domain.",
+      "flags": [
+        "green: biotech/health-data domain match",
+        "red: executive-level seniority, far above IC band",
+        "red: leadership/management role, not hands-on modeling"
+      ],
+      "outreach_opener": "I'm an ML engineer with biomedical depth (medical-imaging deep learning and health/enviro tabular ML) and strong interest in Gilead's clinical data work. While the Executive Director scope is beyond my current level, I'd love to connect about early-to-mid IC openings in clinical data engineering or ML on your team.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-04 19:13 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4417695559/": {
+      "score": 58,
+      "verdict": "maybe",
+      "role_family": "swe",
+      "seniority_fit": "early-to-mid IC, likely aligned",
+      "why": "A software engineering role on an AI product team that is ML-adjacent but not a hands-on modeling position, making it a secondary rather than primary fit.",
+      "flags": [
+        "green: AI-focused product team",
+        "green: SF-based, no sponsorship issue",
+        "yellow: SWE family, not core ML/biotech",
+        "yellow: no JD to confirm ML hands-on depth"
+      ],
+      "outreach_opener": "I'm an ML engineer with an MLOps and modeling background (PyTorch, FastAPI, MLflow, AWS) and I'm excited about building AI-powered product features like those in Asana's AI Studio. I'd love to learn how the team balances applied ML and product engineering, and where my experience shipping end-to-end ML services could contribute.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-04 19:14 UTC"
+    },
+    "https://www.linkedin.com/jobs/view/4420681236/": {
+      "score": 62,
+      "verdict": "maybe",
+      "role_family": "ml-ai",
+      "seniority_fit": "early-to-mid IC; title says 'Software Engineer' with no level, likely open",
+      "why": "An ML performance optimization role that draws on real ML engineering and infrastructure skills, though it leans toward systems/inference-optimization at a robotics/AV company rather than the candidate's biomedical modeling sweet spot.",
+      "flags": [
+        "green: ML-focused SWE role aligned with ml-ai target",
+        "green: MLOps/infra background (Docker, K8s, CUDA/GPU) is relevant",
+        "yellow: autonomous-vehicle/robotics domain is off the health/biotech sweet spot",
+        "yellow: 'performance optimization' may want low-level systems/inference depth",
+        "yellow: no JD available, so scope and seniority are inferred"
+      ],
+      "outreach_opener": "I'm an ML engineer with hands-on PyTorch/GPU and MLOps experience (Docker, Kubernetes, MLflow) and I'm excited by the ML Performance Optimization role at Zoox. I'd love to learn how the team approaches squeezing latency and throughput out of production ML models.",
+      "jd": "metadata-only",
+      "scored_at": "2026-06-04 19:14 UTC"
+    }
+  },
+  "scored_at": "2026-06-04 19:14 UTC",
+  "model": "claude-cli"
+}

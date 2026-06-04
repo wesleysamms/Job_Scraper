@@ -62,7 +62,7 @@ jobs:
         run: |
           git config user.name  "ernestod1998"
           git config user.email "61074783+ernestod1998@users.noreply.github.com"
-          git add indeed_jobs.json indeed_jobs.md indeed_jobs.html workflow_runs.jsonl
+          git add indeed_jobs.json indeed_jobs.md indeed_jobs.html workflow_runs.jsonl all_jobs.json
           git diff --cached --quiet || git commit -m "chore: update indeed listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase origin main
           git push

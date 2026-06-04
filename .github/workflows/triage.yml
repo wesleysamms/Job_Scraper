@@ -1,0 +1,55 @@
+name: Nightly Job Triage
+
+on:
+  schedule:
+    # 09:00 UTC ≈ 1–2am PT — safely after the day's last scrapes (the biotech
+    # digest actually lands ~07:00 UTC under GH cron delay; LinkedIn's last
+    # hourly run is ~04:17 UTC). Exact timing isn't critical: the agent scores
+    # every not-yet-scored role in all_jobs.json, so stragglers from a delayed
+    # scrape simply roll into the next night's run.
+    - cron: "0 9 * * *"
+
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  triage:
+    name: Score new roles vs candidate profile
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Anthropic SDK
+        run: pip install anthropic
+
+      # Profile/resume arrive as env vars straight from Actions secrets —
+      # never written to disk, never committed (the repo is public).
+      # --limit bounds worst-case daily spend; raise/lower as the cost knob.
+      - name: Run triage agent
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
+          CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
+        run: python triage_agent.py --limit 300
+
+      - name: Commit scores to repo
+        run: |
+          git config user.name  "ernestod1998"
+          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          git add scores.json
+          git diff --cached --quiet || git commit -m "chore: update fit scores [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --rebase origin main
+          git push

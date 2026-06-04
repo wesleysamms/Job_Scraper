@@ -179,6 +179,16 @@
   .empty { text-align: center; padding: 40px; color: var(--muted); font-style: italic;
     background: var(--panel); border: 1px dashed var(--line); border-radius: 10px; }
 
+  /* Fit scores (triage agent → scores.json) */
+  .scorechip { display: inline-block; min-width: 30px; text-align: center; font-weight: 700;
+    font-size: 11px; border-radius: 10px; padding: 2px 8px; vertical-align: middle;
+    margin-right: 7px; font-variant-numeric: tabular-nums; }
+  .scorechip.hi  { background: rgba(5,150,105,0.14); color: var(--applied); }
+  .scorechip.mid { background: rgba(217,119,6,0.14); color: var(--save); }
+  .scorechip.lo  { background: var(--pill-bg); color: var(--muted); }
+  .why { font-size: 12px; color: var(--muted); margin-top: 5px; font-style: italic; }
+  #rank-info { font-size: 12.5px; color: var(--muted); margin: 0 0 10px; }
+
   /* Mobile (iPhone 16 Pro + Chrome / iOS Safari WebKit) */
   @media (max-width: 760px) {
     .wrap { padding: 16px 14px 96px; }
@@ -248,6 +258,13 @@
     <button type="button" class="iconbtn" id="clear-filters">Clear filters</button>
   </div>
   <div class="controls-row">
+    <span class="pillgroup-label">View</span>
+    <div class="controls-row" style="gap:6px">
+      <button type="button" class="pill on" id="view-browse" aria-pressed="true">Browse</button>
+      <button type="button" class="pill" id="view-rank" aria-pressed="false">★ Rank</button>
+    </div>
+  </div>
+  <div class="controls-row">
     <span class="pillgroup-label">Source</span>
     <div id="filter-source" class="controls-row" style="gap:6px"></div>
   </div>
@@ -265,6 +282,7 @@
   </div>
 </div>
 
+<div id="rank-info" hidden></div>
 <div class="jobs" id="jobs"></div>
 
 <div class="export-bar">
@@ -297,7 +315,13 @@
     { name: 'jobs.json',          src: 'Biotech'  },
     { name: 'linkedin_jobs.json', src: 'LinkedIn' },
     { name: 'indeed_jobs.json',   src: 'Indeed'   },
+    // Cumulative master kept by the scrapers (the rolling files above only hold
+    // their latest window). Lets the Rank tab show every recently-seen role.
+    { name: 'all_jobs.json',      src: 'Master'   },
   ];
+
+  // Fit scores from the nightly triage agent, keyed by job URL (optional file).
+  let SCORES = {};
 
   // ---------- Persistence ----------
   const STORAGE_KEY = 'jobTriage:v1';
@@ -339,6 +363,13 @@
     j._role = classifyRole(j.title);
     j._sen  = classifySeniority(j.title);
     j._src  = classifySource(j);
+    // Agent verdict, when this URL has been scored (see scores.json).
+    const s = SCORES[j.url] || {};
+    j._score   = (typeof s.score === 'number') ? s.score : null;
+    j._verdict = s.verdict || null;
+    j._family  = s.role_family || null;
+    j._why     = s.why || '';
+    j._opener  = s.outreach_opener || '';
   }
 
   // ---------- Data loading ----------
@@ -346,6 +377,11 @@
 
   async function loadJobs() {
     const bust = `?v=${Date.now()}`;
+    // Fit scores are optional — a 404 (no triage run yet) must never break loading.
+    try {
+      const r = await fetch('scores.json' + bust);
+      SCORES = r.ok ? ((await r.json()).scores || {}) : {};
+    } catch { SCORES = {}; }
     const settled = await Promise.allSettled(
       SOURCES.map(s => fetch(s.name + bust).then(r => {
         if (!r.ok) throw new Error(`${s.name}: ${r.status}`);
@@ -399,6 +435,9 @@
     state: new Set(['active', 'saved', 'applied']),
     q: '',
   };
+
+  // 'browse' = the classic date-ordered list; 'rank' = fit-score order.
+  let viewMode = 'browse';
 
   function visibleJobs() {
     const q = filters.q.trim().toLowerCase();
@@ -508,8 +547,26 @@
       ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   }
 
+  function scoreChip(j) {
+    if (j._score == null) return viewMode === 'rank'
+      ? '<span class="scorechip lo" title="not scored yet">–</span>' : '';
+    const cls = j._score >= 75 ? 'hi' : j._score >= 50 ? 'mid' : 'lo';
+    const tip = `${j._verdict || ''}${j._family ? ' · ' + j._family : ''}`;
+    return `<span class="scorechip ${cls}" title="${escape(tip)}">${j._score}</span>`;
+  }
+
   function renderJobs() {
-    const jobs = visibleJobs();
+    let jobs = visibleJobs();
+    const info = $('rank-info');
+    if (viewMode === 'rank') {
+      // Fit-score order; unscored sink to the bottom (never hidden).
+      jobs = jobs.slice().sort((a, b) => (b._score ?? -1) - (a._score ?? -1));
+      const scored = jobs.filter(j => j._score != null).length;
+      info.hidden = false;
+      info.textContent = `★ Rank: ${scored} of ${jobs.length} visible roles scored by the nightly agent — unscored roles sink to the bottom.`;
+    } else {
+      info.hidden = true;
+    }
     const el = $('jobs');
     if (!jobs.length) {
       el.innerHTML = '<div class="empty">No jobs match the current filters.</div>';
@@ -520,15 +577,17 @@
       const srcCls = j._src.toLowerCase();
       return `<div class="job" data-url="${escape(j.url)}" data-state="${st}">
         <div class="job-main">
-          <div class="title"><a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
+          <div class="title">${scoreChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
           <div class="meta">
             <span class="co">${escape(j.company)}<span class="src ${srcCls}">${j._src}</span></span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
             <span>🕒 ${escape(j.date_posted || '')}</span>
-            <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span></span>
+            <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span>${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
           </div>
+          ${j._why ? `<div class="why">${escape(j._why)}</div>` : ''}
         </div>
         <div class="actions">
+          ${j._opener ? '<button type="button" class="act" data-act="opener">✉ Opener</button>' : ''}
           <button type="button" class="act save ${st==='saved'?'on':''}" data-act="saved" aria-pressed="${st==='saved'}">★ Save</button>
           <button type="button" class="act applied ${st==='applied'?'on':''}" data-act="applied" aria-pressed="${st==='applied'}">✓ Applied</button>
           <button type="button" class="act dismiss ${st==='dismissed'?'on':''}" data-act="dismissed" aria-pressed="${st==='dismissed'}">✕ Dismiss</button>
@@ -593,10 +652,27 @@
     const card = btn.closest('.job');
     const url = card.dataset.url;
     const act = btn.dataset.act;
+    if (act === 'opener') {
+      const s = SCORES[url] || {};
+      if (s.outreach_opener) copy(s.outreach_opener);
+      return;
+    }
     if (state.triage[url] === act) delete state.triage[url];
     else state.triage[url] = act;
     renderAll();
   });
+
+  // Browse / Rank view toggle
+  function setView(mode) {
+    viewMode = mode;
+    $('view-browse').classList.toggle('on', mode === 'browse');
+    $('view-rank').classList.toggle('on', mode === 'rank');
+    $('view-browse').setAttribute('aria-pressed', String(mode === 'browse'));
+    $('view-rank').setAttribute('aria-pressed', String(mode === 'rank'));
+    renderJobs();
+  }
+  $('view-browse').onclick = () => setView('browse');
+  $('view-rank').onclick = () => setView('rank');
 
   $('search').addEventListener('input', e => {
     filters.q = e.target.value;

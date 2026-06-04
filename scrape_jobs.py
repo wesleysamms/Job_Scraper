@@ -846,6 +846,47 @@ def _load_prev_ids(json_path: str) -> set[str]:
     return ids
 
 
+ALL_JOBS_PRUNE_DAYS = 14
+
+
+def _merge_into_all_jobs(new_jobs: list) -> int:
+    """
+    Maintain all_jobs.json — a cumulative, URL-deduped master of every role the
+    scrapers surface, each stamped with first_seen. The per-source JSONs are
+    rolling windows that overwrite every run (LinkedIn keeps only ~1h), so this
+    master is what the triage agent and the dashboard's Rank tab read to see
+    everything from the last ALL_JOBS_PRUNE_DAYS days. Returns count added.
+    """
+    path = os.path.join(SCRIPT_DIR, "all_jobs.json")
+    try:
+        with open(path) as f:
+            master = json.load(f).get("jobs", [])
+    except (FileNotFoundError, json.JSONDecodeError):
+        master = []
+
+    now = datetime.now(timezone.utc)
+    stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+    by_url = {j.get("url"): j for j in master if j.get("url")}
+    added = 0
+    for j in new_jobs:
+        url = j.get("url")
+        if url and url not in by_url:  # first writer wins on first_seen
+            entry = dict(j)
+            entry["first_seen"] = stamp
+            by_url[url] = entry
+            added += 1
+
+    cutoff = (now - timedelta(days=ALL_JOBS_PRUNE_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    kept = [j for j in by_url.values() if j.get("first_seen", stamp) >= cutoff]
+    kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
+
+    with open(path, "w") as f:
+        json.dump({"updated_at": now.strftime("%Y-%m-%d %H:%M UTC"), "jobs": kept},
+                  f, indent=2)
+    print(f"🗂  all_jobs.json: +{added} new, {len(kept)} total (last {ALL_JOBS_PRUNE_DAYS}d)")
+    return added
+
+
 def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
                      accent: str, empty_message: str, window_label: str):
     """
@@ -858,6 +899,13 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
 
     prev_ids = _load_prev_ids(json_path)
     new_jobs = [j for j in jobs if _job_identity(j.get("url", "")) not in prev_ids]
+
+    # Accumulate into the cumulative master. Guarded: a bug here must never
+    # break the scrape/commit path that the digests and dashboard depend on.
+    try:
+        _merge_into_all_jobs(new_jobs)
+    except Exception as e:
+        print(f"  ⚠️  all_jobs.json accumulator failed (non-fatal): {e}")
 
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
