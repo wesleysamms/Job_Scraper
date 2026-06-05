@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-06-05 22:17 UTC",
+  "updated_at": "2026-06-05 22:46 UTC",
   "jobs": [
+    {
+      "company": "Abbott",
+      "title": "Systems Engineer III",
+      "location": "Alameda, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e081be01851f5b3f",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
+    {
+      "company": "Gatik",
+      "title": "Senior/Staff Research Engineer, Perception",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=b622202f08c88601",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
+    {
+      "company": "Tata Consultancy Services (TCS)",
+      "title": "Applied AI Engineer",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=9374872d1ed90c75",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
+    {
+      "company": "Google",
+      "title": "Applied AI Staff Software Engineer, Looker",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0f7b52780796f2a5",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
+    {
+      "company": "ZEDEDA",
+      "title": "Software Engineer - Core team - San Jose, CA",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=4763769a1eac71c8",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
+    {
+      "company": "ZEDEDA",
+      "title": "Senior Software Engineer - Core Team - San Jose, CA",
+      "location": "San Jose, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e397b047701e84a7",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
+    {
+      "company": "Workday",
+      "title": "Sr. Software Engineer, Security (Pipedream)",
+      "location": "Pleasanton, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7831a1df17489458",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Agentic Search Infrastructure Engineer - Moveworks",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=ce5db2466c3de3fc",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Sr GPU Infrastructure Software Engineer",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=7ed3b8c0f849eb58",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
+    {
+      "company": "Decagon",
+      "title": "Platform Engineer, Security",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e2c909005415e813",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
+    {
+      "company": "Decagon",
+      "title": "Senior Platform Engineer, Security",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=a85e1d813fc9871f",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
+    {
+      "company": "Google",
+      "title": "Staff Audio Systems Engineer",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e38f266cc5935f04",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
+    {
+      "company": "Visa",
+      "title": "Software Engineer",
+      "location": "Foster City, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=b9bfe386027a5078",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-05T22:46:11Z"
+    },
     {
       "company": "Lawrence Livermore National Laboratory",
       "title": "Research Scientist - Computer Vision and Machine Learning",

@@ -1,48 +1,56 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-05 21:12 UTC*
+*Last updated: 2026-06-05 22:46 UTC*
 
-**11 new role(s)** since last run · 119 total in last 24h
+**13 new role(s)** since last run · 121 total in last 24h
 
-### [Software Engineering Intern, Mapping Autonomous Vehicles - Fall 2026](https://www.indeed.com/viewjob?jk=bebb9989e8f75d30) — NVIDIA
-- 📍 **Location:** Santa Clara, CA, US
+### [Systems Engineer III](https://www.indeed.com/viewjob?jk=e081be01851f5b3f) — Abbott
+- 📍 **Location:** Alameda, CA, US
 - 🕒 **Posted:** 2026-06-05
 
-### [High Performance Computing Software Engineer](https://www.indeed.com/viewjob?jk=e937a762a99ba2e9) — Zendar
-- 📍 **Location:** Berkeley, CA, US
-- 🕒 **Posted:** 2026-06-01
-
-### [Research Engineer - Speech & Realtime Models](https://www.indeed.com/viewjob?jk=ad3ef5be2574883f) — OpenAI
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-02-17
-
-### [Analytics Engineer, Safety Systems](https://www.indeed.com/viewjob?jk=0855b2dbe983f687) — OpenAI
-- 📍 **Location:** San Francisco, CA, US
+### [Senior/Staff Research Engineer, Perception](https://www.indeed.com/viewjob?jk=b622202f08c88601) — Gatik
+- 📍 **Location:** Mountain View, CA, US
 - 🕒 **Posted:** 2026-06-05
 
-### [Systems Engineer III (E3)](https://www.indeed.com/viewjob?jk=83c3a51f6a201074) — Applied Materials
-- 📍 **Location:** Santa Clara, CA, US
+### [Applied AI Engineer](https://www.indeed.com/viewjob?jk=9374872d1ed90c75) — Tata Consultancy Services (TCS)
+- 📍 **Location:** Cupertino, CA, US
 - 🕒 **Posted:** 2026-06-05
 
-### [Systems Engineer II](https://www.indeed.com/viewjob?jk=0705313be2292cc2) — Applied Materials
-- 📍 **Location:** Santa Clara, CA, US
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior Platform Security Engineer - HP IQ](https://www.indeed.com/viewjob?jk=4e56612f53dcd27a) — HP
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-05
-
-### [Software Engineering Technical Leader](https://www.indeed.com/viewjob?jk=c19e097ae05806d4) — Cisco
-- 📍 **Location:** Milpitas, CA, US
-- 🕒 **Posted:** 2026-06-05
-
-### [Senior, Software Engineer (Backend Java/Rust)](https://www.indeed.com/viewjob?jk=1c9c822a9e37978e) — Walmart
+### [Applied AI Staff Software Engineer, Looker](https://www.indeed.com/viewjob?jk=0f7b52780796f2a5) — Google
 - 📍 **Location:** Sunnyvale, CA, US
 - 🕒 **Posted:** 2026-06-05
 
-### [Robotics Software Engineer II, Mission](https://www.indeed.com/viewjob?jk=e76fdd8b1fe7da7c) — Bear Robotics
-- 📍 **Location:** Redwood City, CA, US
-- 🕒 **Posted:** 2026-06-01
+### [Software Engineer - Core team - San Jose, CA](https://www.indeed.com/viewjob?jk=4763769a1eac71c8) — ZEDEDA
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-05
 
-### [Senior Linux Platform Engineer](https://www.indeed.com/viewjob?jk=e09e60c4c31e48a9) — Intuitive (Intuitive Surgical)
+### [Senior Software Engineer - Core Team - San Jose, CA](https://www.indeed.com/viewjob?jk=e397b047701e84a7) — ZEDEDA
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-05
+
+### [Sr. Software Engineer, Security (Pipedream)](https://www.indeed.com/viewjob?jk=7831a1df17489458) — Workday
+- 📍 **Location:** Pleasanton, CA, US
+- 🕒 **Posted:** 2026-06-05
+
+### [Agentic Search Infrastructure Engineer - Moveworks](https://www.indeed.com/viewjob?jk=ce5db2466c3de3fc) — ServiceNow
+- 📍 **Location:** Mountain View, CA, US
+- 🕒 **Posted:** 2026-06-05
+
+### [Sr GPU Infrastructure Software Engineer](https://www.indeed.com/viewjob?jk=7ed3b8c0f849eb58) — CoreWeave
 - 📍 **Location:** Sunnyvale, CA, US
+- 🕒 **Posted:** 2026-06-05
+
+### [Platform Engineer, Security](https://www.indeed.com/viewjob?jk=e2c909005415e813) — Decagon
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior Platform Engineer, Security](https://www.indeed.com/viewjob?jk=a85e1d813fc9871f) — Decagon
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-06-05
+
+### [Staff Audio Systems Engineer](https://www.indeed.com/viewjob?jk=e38f266cc5935f04) — Google
+- 📍 **Location:** Mountain View, CA, US
+- 🕒 **Posted:** 2026-06-05
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=b9bfe386027a5078) — Visa
+- 📍 **Location:** Foster City, CA, US
 - 🕒 **Posted:** 2026-06-05
