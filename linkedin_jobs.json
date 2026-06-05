@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-05 00:17 UTC",
-  "total": 41,
-  "new_count": 30,
+  "scraped_at": "2026-06-05 01:17 UTC",
+  "total": 33,
+  "new_count": 11,
   "jobs": [
     {
       "company": "NVIDIA",
@@ -20,42 +20,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Randstad Digital Americas",
-      "title": "Software Engineer 4",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424108282/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Qcells North America",
-      "title": "Applied AI Engineer",
+      "company": "Docusign",
+      "title": "Senior Data Scientist - Growth Marketing",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424472677/",
+      "url": "https://www.linkedin.com/jobs/view/4424476492/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Qcells North America",
-      "title": "Applied AI Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424473647/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, DGX Cloud AI Infrastructure",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424480478/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior AI Infrastructure Engineer - DGX Cloud",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424478488/",
+      "company": "Box",
+      "title": "Software Engineer III, Reliability",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414683770/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
@@ -69,33 +45,25 @@
     },
     {
       "company": "NVIDIA",
-      "title": "Senior Software Engineer, Subnet Management",
+      "title": "Senior Software Engineer, DGX Cloud AI Infrastructure",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424473603/",
+      "url": "https://www.linkedin.com/jobs/view/4424480478/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Verkada",
-      "title": "Senior Frontend Engineer - Web Platform",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424110020/",
+      "company": "Deloitte",
+      "title": "AI and Data Science Engineer III",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423597854/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Docusign",
-      "title": "Software Engineer Intern",
+      "company": "Deloitte",
+      "title": "AI and Data Science Engineer III",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424489338/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Qcells North America",
-      "title": "Lead Data Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424487413/",
+      "url": "https://www.linkedin.com/jobs/view/4424114036/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
@@ -109,6 +77,94 @@
     },
     {
       "company": "NVIDIA",
+      "title": "Senior Software Engineer - NVIDIA Warp",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424487349/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Randstad Digital Americas",
+      "title": "Software Engineer 4",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424108282/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Qcells North America",
+      "title": "Applied AI Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424473647/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Qcells North America",
+      "title": "Applied AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424472677/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior AI Infrastructure Engineer - DGX Cloud",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424478488/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Senior Security Engineer II, Cloud Security",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420759828/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Staff GPU Infrastructure Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420770277/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Subnet Management",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424473603/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lightspeed",
+      "title": "Senior Frontend Engineer - Web Platform",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424483666/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Verkada",
+      "title": "Senior Frontend Engineer - Web Platform",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424110020/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "CareDx, Inc.",
+      "title": "Staff Software Engineer",
+      "location": "Brisbane, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424123100/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
       "title": "Senior Software Engineer - XR Physical AI Partners Engagement",
       "location": "Santa Clara, CA",
       "url": "https://www.linkedin.com/jobs/view/4424491311/",
@@ -116,18 +172,42 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Docusign",
-      "title": "Senior Data Scientist - Growth Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424476492/",
+      "company": "Hireteq Solutions Inc.",
+      "title": "Security Engineer",
+      "location": "Los Altos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412847312/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420764589/",
+      "company": "ServiceNow",
+      "title": "Staff Agentic Search Infrastructure Engineer - Moveworks",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424123222/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Qcells North America",
+      "title": "Lead Data Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424487413/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cube Hub Inc.",
+      "title": "Bioinformatics Engineer",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423255011/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Socure",
+      "title": "Software Engineer - II",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424106360/",
       "date_posted": "2026-06-04",
       "ats": "LinkedIn"
     },
@@ -140,90 +220,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Block",
-      "title": "Staff Applied Machine Learning Engineer - Fraud & Abuse",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4423598442/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Eurofins | EAG Laboratories",
-      "title": "Data Scientist - Materials Characterization, Analytical Sciences & AI Agents",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424107332/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424476442/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Software Engineer, TikTok LIVE - Foundation - Governance",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424479340/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Senior Software Engineer, AI & Agent - TikTok Ecosystem & Platform",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424483279/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Business Data Scientist, Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424475083/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Google",
-      "title": "Business Data Scientist, Marketing",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424457897/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Dyna Robotics",
-      "title": "Software Engineer, Data Infrastructure",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424457911/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Block",
-      "title": "Staff Applied Machine Learning Engineer - Intelligent Data, Signals & Systems",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4424108032/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Netflix",
       "title": "Software Engineer 5 - Foundation Tech & Embedded Graphics",
       "location": "Los Gatos, CA",
       "url": "https://www.linkedin.com/jobs/view/4420768269/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Senior Software Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423597581/",
       "date_posted": "2026-06-04",
       "ats": "LinkedIn"
     },
@@ -236,30 +236,6 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "ByteDance",
-      "title": "Cloud Site Reliability Engineer - DCS Cloud",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424478179/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Supio",
-      "title": "Senior Site Reliability Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424106161/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Socure",
-      "title": "Software Engineer - II",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424106360/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "Sentry",
       "title": "Senior Software Engineer, Developer Infrastructure",
       "location": "San Francisco, CA",
@@ -268,34 +244,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Backend Developer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420764588/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CyberArk",
-      "title": "Senior Staff Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420763501/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Software Engineer, Full Stack - Cybersecurity Products",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424482136/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Oracle",
+      "company": "Microsoft AI",
       "title": "Senior Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420772032/",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423597581/",
       "date_posted": "2026-06-04",
       "ats": "LinkedIn"
     },
@@ -312,265 +264,97 @@
       "title": "Senior Software Engineer, Events Analytics Platform",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4424106331/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ivo",
-      "title": "Senior Security Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424472584/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Roblox",
-      "title": "Principal Software Engineer, GPU Compute",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424473520/",
       "date_posted": "2026-06-04",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "NVIDIA",
-      "title": "Senior Machine Learning Engineer, Perception - Autonomous Driving",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424478481/",
+      "company": "Box",
+      "title": "Software Engineer III, Reliability",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414683770/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Docusign",
-      "title": "Software Engineer",
+      "company": "Deloitte",
+      "title": "AI and Data Science Engineer III",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423597854/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Deloitte",
+      "title": "AI and Data Science Engineer III",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424471577/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Randstad Digital Americas",
-      "title": "Software Engineer 4",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424108282/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Qcells North America",
-      "title": "Applied AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424472677/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Qcells North America",
-      "title": "Applied AI Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424473647/",
+      "url": "https://www.linkedin.com/jobs/view/4424114036/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
       "company": "NVIDIA",
-      "title": "Senior Software Engineer, DGX Cloud AI Infrastructure",
+      "title": "Senior Software Engineer - NVIDIA Warp",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424480478/",
+      "url": "https://www.linkedin.com/jobs/view/4424487349/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior AI Infrastructure Engineer - DGX Cloud",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424478488/",
+      "company": "CoreWeave",
+      "title": "Senior Security Engineer II, Cloud Security",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420759828/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Software Engineer, CAD Automation",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424494288/",
+      "company": "CoreWeave",
+      "title": "Staff GPU Infrastructure Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420770277/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer, Subnet Management",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424473603/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Verkada",
+      "company": "Lightspeed",
       "title": "Senior Frontend Engineer - Web Platform",
       "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424110020/",
+      "url": "https://www.linkedin.com/jobs/view/4424483666/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Docusign",
-      "title": "Software Engineer Intern",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424489338/",
+      "company": "CareDx, Inc.",
+      "title": "Staff Software Engineer",
+      "location": "Brisbane, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424123100/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Qcells North America",
-      "title": "Lead Data Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424487413/",
+      "company": "Hireteq Solutions Inc.",
+      "title": "Security Engineer",
+      "location": "Los Altos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412847312/",
       "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Qcells North America",
-      "title": "Lead Data Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424493334/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Software Engineer - XR Physical AI Partners Engagement",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424491311/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Docusign",
-      "title": "Senior Data Scientist - Growth Marketing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424476492/",
-      "date_posted": "2026-06-05",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420764589/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Veritus",
-      "title": "Forward Deployed Software Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4424485330/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Eurofins | EAG Laboratories",
-      "title": "Data Scientist - Materials Characterization, Analytical Sciences & AI Agents",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424107332/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424476442/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Software Engineer, TikTok LIVE - Foundation - Governance",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424479340/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Netflix",
-      "title": "Software Engineer 5 - Foundation Tech & Embedded Graphics",
-      "location": "Los Gatos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420768269/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Senior Software Engineer",
+      "company": "ServiceNow",
+      "title": "Staff Agentic Search Infrastructure Engineer - Moveworks",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423597581/",
-      "date_posted": "2026-06-04",
+      "url": "https://www.linkedin.com/jobs/view/4424123222/",
+      "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     },
     {
-      "company": "Perplexity",
-      "title": "Member of Technical Staff (Software Engineer, Computer Growth)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424479490/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Socure",
-      "title": "Software Engineer - II",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424106360/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sentry",
-      "title": "Senior Software Engineer, Developer Infrastructure",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424109014/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Backend Developer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420764588/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "CyberArk",
-      "title": "Senior Staff Software Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4420763501/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sentry",
-      "title": "Staff Software Engineer, AI Developer Tooling",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423598582/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Sentry",
-      "title": "Senior Software Engineer, Events Analytics Platform",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424106331/",
-      "date_posted": "2026-06-04",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ivo",
-      "title": "Senior Security Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424472584/",
-      "date_posted": "2026-06-04",
+      "company": "Cube Hub Inc.",
+      "title": "Bioinformatics Engineer",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423255011/",
+      "date_posted": "2026-06-05",
       "ats": "LinkedIn"
     }
   ]

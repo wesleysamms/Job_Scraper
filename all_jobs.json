@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-06-05 00:17 UTC",
+  "updated_at": "2026-06-05 01:17 UTC",
   "jobs": [
+    {
+      "company": "Box",
+      "title": "Software Engineer III, Reliability",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414683770/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T01:17:30Z"
+    },
+    {
+      "company": "Deloitte",
+      "title": "AI and Data Science Engineer III",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423597854/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T01:17:30Z"
+    },
+    {
+      "company": "Deloitte",
+      "title": "AI and Data Science Engineer III",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424114036/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T01:17:30Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer - NVIDIA Warp",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424487349/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T01:17:30Z"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Senior Security Engineer II, Cloud Security",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420759828/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T01:17:30Z"
+    },
+    {
+      "company": "CoreWeave",
+      "title": "Staff GPU Infrastructure Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420770277/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T01:17:30Z"
+    },
+    {
+      "company": "Lightspeed",
+      "title": "Senior Frontend Engineer - Web Platform",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424483666/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T01:17:30Z"
+    },
+    {
+      "company": "CareDx, Inc.",
+      "title": "Staff Software Engineer",
+      "location": "Brisbane, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424123100/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T01:17:30Z"
+    },
+    {
+      "company": "Hireteq Solutions Inc.",
+      "title": "Security Engineer",
+      "location": "Los Altos, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412847312/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T01:17:30Z"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Staff Agentic Search Infrastructure Engineer - Moveworks",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424123222/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T01:17:30Z"
+    },
+    {
+      "company": "Cube Hub Inc.",
+      "title": "Bioinformatics Engineer",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4423255011/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T01:17:30Z"
+    },
     {
       "company": "NVIDIA",
       "title": "Senior Machine Learning Engineer, Perception - Autonomous Driving",
