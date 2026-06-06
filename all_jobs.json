@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-06-05 23:17 UTC",
+  "updated_at": "2026-06-06 00:17 UTC",
   "jobs": [
+    {
+      "company": "NVIDIA",
+      "title": "Senior ML Platform Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424635374/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Software DevOps Engineer, Networking",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424623544/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, DGX Cloud Production Engineering",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424628402/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "Pinterest",
+      "title": "Staff Software Engineer, Big Data Storage",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424942225/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "Prime Video & Amazon MGM Studios",
+      "title": "Applied Scientist, Prime Video - Generative AI",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424944242/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Principal Applied Scientist, AWS Agentic AI",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424935283/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Software Engineering Intern, Mapping Autonomous Vehicles - Fall 2026",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424639360/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "OSI Engineering",
+      "title": "Android Framework Software Engineer (Infotainment Systems)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424641459/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "Amazon Web Services (AWS)",
+      "title": "Senior Software Engineer, AWS Commercial Application Services",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424945201/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Data Science Engineer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421194790/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "eGain Corporation",
+      "title": "Principal Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417663519/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "MBN Solutions",
+      "title": "AI Computer Vision Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4421182804/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "Playsaurus Inc.",
+      "title": "LATAM - Backend Developer",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421197495/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
+    {
+      "company": "NexInfo Solutions, Inc.",
+      "title": "Associate Scientist - Bioinformatics Engineer",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424624389/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T00:17:29Z"
+    },
     {
       "company": "TetraMem - Accelerate The World",
       "title": "Senior Machine Learning Engineer",
