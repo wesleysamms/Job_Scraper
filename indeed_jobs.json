@@ -1,21 +1,13 @@
 {
-  "scraped_at": "2026-06-07 06:51 UTC",
-  "total": 25,
-  "new_count": 0,
+  "scraped_at": "2026-06-07 16:55 UTC",
+  "total": 20,
+  "new_count": 15,
   "jobs": [
     {
       "company": "Astera Labs",
       "title": "Data Analytics Engineer New",
       "location": "San Jose, CA, US",
       "url": "https://www.indeed.com/viewjob?jk=f65f25086660e68f",
-      "date_posted": "2026-06-06",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Intuit",
-      "title": "Sr Staff AI Scientist, Agentic AI & Recommendations",
-      "location": "Mountain View, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=9fb6c8f748b63080",
       "date_posted": "2026-06-06",
       "ats": "Indeed"
     },
@@ -29,74 +21,74 @@
     },
     {
       "company": "Apple",
-      "title": "Senior Software Engineer, Software Developer Foundation",
-      "location": "Cupertino, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=ee00b33447e018cd",
+      "title": "Sr Machine Learning Engineer, Proactive",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=31e799426c1b3f4e",
       "date_posted": "2026-06-03",
       "ats": "Indeed"
     },
     {
       "company": "Apple",
-      "title": "Senior machine learning platform engineer, Evaluation & Privacy",
+      "title": "Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML)",
       "location": "Cupertino, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=107f9d81c9cb3b91",
+      "url": "https://www.indeed.com/viewjob?jk=4b85957522c520be",
       "date_posted": "2026-06-03",
       "ats": "Indeed"
     },
     {
       "company": "Apple",
-      "title": "Machine Learning Engineer, Proactive",
+      "title": "Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML)",
       "location": "Cupertino, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=8308b3c85eee2441",
-      "date_posted": "2026-06-02",
+      "url": "https://www.indeed.com/viewjob?jk=8c717a2dde82f063",
+      "date_posted": "2026-06-03",
       "ats": "Indeed"
     },
     {
       "company": "Apple",
-      "title": "AI Software Engineer, Siri User Experiences",
+      "title": "Machine Learning Engineer, Apple Search & Knowledge Platforms",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=30bc216f5158f818",
+      "date_posted": "2025-04-16",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "Machine Learning/Computer Vision Engineer",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0428b67ce4c47982",
+      "date_posted": "2025-04-03",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "AIML - Senior Machine Learning Infrastructure Engineer -ML Compute, ML Platform & Technology",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e5667a78953e4a7c",
+      "date_posted": "2025-02-13",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Amazon.com",
+      "title": "Sr Data Scientist, Ads-Full-Funnel Agentic Intelligence",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bf399f6d56f73158",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "Senior Data Scientist, Strategic Modeling & Simulation",
       "location": "Cupertino, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=593b727eea6fe022",
-      "date_posted": "2026-06-02",
+      "url": "https://www.indeed.com/viewjob?jk=f933bf7d0515bec2",
+      "date_posted": "2026-06-04",
       "ats": "Indeed"
     },
     {
-      "company": "Cathexis",
-      "title": "AI/ML Software Developer (req-251)",
-      "location": "Redwood City, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=8af4dcfba6194871",
-      "date_posted": "2026-06-06",
-      "ats": "Indeed"
-    },
-    {
-      "company": "PwC",
-      "title": "AI & GenAI Data Scientist - Manager",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=1cebc3aba60d482b",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "PwC",
-      "title": "AI & GenAI Data Scientist - Manager",
-      "location": "Silicon Valley, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=cad946c064834cea",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "PwC",
-      "title": "AI & GenAI Data Scientist-Senior Associate",
-      "location": "Silicon Valley, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=7eb339a09ecb62d3",
-      "date_posted": "2026-06-05",
-      "ats": "Indeed"
-    },
-    {
-      "company": "PwC",
-      "title": "AI & GenAI Data Scientist-Senior Associate",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=b8cac3b220ea9e73",
-      "date_posted": "2026-06-05",
+      "company": "Apple",
+      "title": "Senior Data Scientist, Experimentation & Causal Inference",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=fbe18410f2c65033",
+      "date_posted": "2026-06-04",
       "ats": "Indeed"
     },
     {
@@ -116,43 +108,27 @@
       "ats": "Indeed"
     },
     {
-      "company": "Fireworks AI",
-      "title": "Member of Technical Staff- Full Stack Software Engineer New",
-      "location": "San Mateo, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=5c3a936595a973f4",
-      "date_posted": "2026-06-06",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Intuit",
-      "title": "Senior Software Engineer, AI Builder",
-      "location": "Mountain View, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=bebc94e01eed6ac3",
-      "date_posted": "2026-06-06",
-      "ats": "Indeed"
-    },
-    {
-      "company": "OpenAI",
-      "title": "Software Engineer, Cloud Agents",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=5af2cda8de4a1b7d",
-      "date_posted": "2026-06-06",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Cisco",
-      "title": "Principal Software Engineer",
-      "location": "San Jose, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=db098255b998c5b9",
-      "date_posted": "2026-06-06",
+      "company": "Apple",
+      "title": "Software Engineer - Regulatory AI & Connected Data",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=17acba57e5492718",
+      "date_posted": "2026-06-04",
       "ats": "Indeed"
     },
     {
       "company": "Apple",
-      "title": "Software Engineer (Customer Success), Developer Engagement",
+      "title": "Secure Systems Engineer - Platform Architecture",
       "location": "Cupertino, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=425daeafdea88d8c",
-      "date_posted": "2026-06-02",
+      "url": "https://www.indeed.com/viewjob?jk=40746380c922320d",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Uber",
+      "title": "Staff Software Engineer, Evaluation & Simulation - AV Labs",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=ac25c78c011c071a",
+      "date_posted": "2026-06-07",
       "ats": "Indeed"
     },
     {
@@ -164,45 +140,150 @@
       "ats": "Indeed"
     },
     {
-      "company": "Intuit",
-      "title": "Principal Software Engineer",
-      "location": "Mountain View, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=9d4750151fd8ffff",
-      "date_posted": "2026-06-06",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Waymo",
-      "title": "Senior Software Engineer, Perception Future Sensing Platforms",
-      "location": "Mountain View, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=1bf2c283d6dea3a1",
-      "date_posted": "2026-06-06",
+      "company": "Apple",
+      "title": "Senior iOS Engineer, Ads",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5d050fc143389933",
+      "date_posted": "2025-04-11",
       "ats": "Indeed"
     },
     {
       "company": "Apple",
-      "title": "Senior iOS Engineer, Apple Games",
+      "title": "Platform and Frameworks Software Engineer, SEAR",
       "location": "Cupertino, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=4563502d05c77624",
-      "date_posted": "2026-06-02",
+      "url": "https://www.indeed.com/viewjob?jk=77779cc74d5f8b1e",
+      "date_posted": "2025-02-18",
       "ats": "Indeed"
     },
     {
       "company": "Apple",
-      "title": "Core Audio System Software Engineer",
+      "title": "SoC Security Engineer - Platform Architecture",
       "location": "Cupertino, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=09bb8378ef701635",
-      "date_posted": "2026-06-02",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Apple",
-      "title": "Software Engineer App Store Client",
-      "location": "Cupertino, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=665fd20b614a8573",
-      "date_posted": "2026-01-07",
+      "url": "https://www.indeed.com/viewjob?jk=df6a66c83febc374",
+      "date_posted": "2026-06-03",
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Apple",
+      "title": "Sr Machine Learning Engineer, Proactive",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=31e799426c1b3f4e",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML)",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=4b85957522c520be",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML)",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=8c717a2dde82f063",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "Machine Learning Engineer, Apple Search & Knowledge Platforms",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=30bc216f5158f818",
+      "date_posted": "2025-04-16",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "Machine Learning/Computer Vision Engineer",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0428b67ce4c47982",
+      "date_posted": "2025-04-03",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "AIML - Senior Machine Learning Infrastructure Engineer -ML Compute, ML Platform & Technology",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e5667a78953e4a7c",
+      "date_posted": "2025-02-13",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Amazon.com",
+      "title": "Sr Data Scientist, Ads-Full-Funnel Agentic Intelligence",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bf399f6d56f73158",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "Senior Data Scientist, Strategic Modeling & Simulation",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f933bf7d0515bec2",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "Senior Data Scientist, Experimentation & Causal Inference",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=fbe18410f2c65033",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "Software Engineer - Regulatory AI & Connected Data",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=17acba57e5492718",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "Secure Systems Engineer - Platform Architecture",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=40746380c922320d",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Uber",
+      "title": "Staff Software Engineer, Evaluation & Simulation - AV Labs",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=ac25c78c011c071a",
+      "date_posted": "2026-06-07",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "Senior iOS Engineer, Ads",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5d050fc143389933",
+      "date_posted": "2025-04-11",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "Platform and Frameworks Software Engineer, SEAR",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=77779cc74d5f8b1e",
+      "date_posted": "2025-02-18",
+      "ats": "Indeed"
+    },
+    {
+      "company": "Apple",
+      "title": "SoC Security Engineer - Platform Architecture",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=df6a66c83febc374",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed"
+    }
+  ]
 }

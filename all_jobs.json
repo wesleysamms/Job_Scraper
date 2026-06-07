@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-06-07 16:17 UTC",
+  "updated_at": "2026-06-07 16:55 UTC",
   "jobs": [
+    {
+      "company": "Apple",
+      "title": "Sr Machine Learning Engineer, Proactive",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=31e799426c1b3f4e",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Apple",
+      "title": "Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML)",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=4b85957522c520be",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Apple",
+      "title": "Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML)",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=8c717a2dde82f063",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Apple",
+      "title": "Machine Learning Engineer, Apple Search & Knowledge Platforms",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=30bc216f5158f818",
+      "date_posted": "2025-04-16",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Apple",
+      "title": "Machine Learning/Computer Vision Engineer",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0428b67ce4c47982",
+      "date_posted": "2025-04-03",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Apple",
+      "title": "AIML - Senior Machine Learning Infrastructure Engineer -ML Compute, ML Platform & Technology",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=e5667a78953e4a7c",
+      "date_posted": "2025-02-13",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Amazon.com",
+      "title": "Sr Data Scientist, Ads-Full-Funnel Agentic Intelligence",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=bf399f6d56f73158",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Apple",
+      "title": "Senior Data Scientist, Strategic Modeling & Simulation",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f933bf7d0515bec2",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Apple",
+      "title": "Senior Data Scientist, Experimentation & Causal Inference",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=fbe18410f2c65033",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Apple",
+      "title": "Software Engineer - Regulatory AI & Connected Data",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=17acba57e5492718",
+      "date_posted": "2026-06-04",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Apple",
+      "title": "Secure Systems Engineer - Platform Architecture",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=40746380c922320d",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Uber",
+      "title": "Staff Software Engineer, Evaluation & Simulation - AV Labs",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=ac25c78c011c071a",
+      "date_posted": "2026-06-07",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Apple",
+      "title": "Senior iOS Engineer, Ads",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5d050fc143389933",
+      "date_posted": "2025-04-11",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Apple",
+      "title": "Platform and Frameworks Software Engineer, SEAR",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=77779cc74d5f8b1e",
+      "date_posted": "2025-02-18",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
+    {
+      "company": "Apple",
+      "title": "SoC Security Engineer - Platform Architecture",
+      "location": "Cupertino, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=df6a66c83febc374",
+      "date_posted": "2026-06-03",
+      "ats": "Indeed",
+      "first_seen": "2026-06-07T16:55:45Z"
+    },
     {
       "company": "Character.AI",
       "title": "Software Engineer, Applied ML (Discovery, Recommendation & Search)",
