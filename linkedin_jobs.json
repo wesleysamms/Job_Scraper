@@ -1,48 +1,24 @@
 {
-  "scraped_at": "2026-06-07 00:17 UTC",
-  "total": 3,
-  "new_count": 2,
+  "scraped_at": "2026-06-07 01:17 UTC",
+  "total": 1,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421567887/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Aurelius Systems",
-      "title": "Senior Robotics Software Engineer",
+      "company": "Artos AI",
+      "title": "Backend Software Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4424681696/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Backend Developer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421563905/",
-      "date_posted": "2026-06-06",
+      "url": "https://www.linkedin.com/jobs/view/4425166111/",
+      "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421567887/",
-      "date_posted": "2026-06-06",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Backend Developer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421563905/",
-      "date_posted": "2026-06-06",
+      "company": "Artos AI",
+      "title": "Backend Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425166111/",
+      "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     }
   ]
