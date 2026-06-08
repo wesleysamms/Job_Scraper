@@ -2,8 +2,8 @@ name: Indeed MLE/DS Watcher
 
 on:
   # Scheduling is driven externally by cron-job.org (hourly at :47 PT, 8am-8pm).
-  # Offset from LinkedIn (:17) to spread Gmail sends and reduce contention on
-  # the commit-push concurrency group. Watchdog workflow (linkedin_watch_backup.yml
+  # Offset from LinkedIn (:17) to reduce contention on the commit-push
+  # concurrency group. Watchdog workflow (linkedin_watch_backup.yml
   # at :33) is the in-GH backup in case cron-job.org has an outage.
   workflow_dispatch:
 
@@ -13,7 +13,7 @@ concurrency:
 
 jobs:
   scrape:
-    name: Indeed scrape + email
+    name: Indeed scrape
     runs-on: ubuntu-latest
 
     permissions:
@@ -66,50 +66,3 @@ jobs:
           git diff --cached --quiet || git commit -m "chore: update indeed listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase origin main
           git push
-
-      - name: Send email with results
-        env:
-          GMAIL_USER: ${{ secrets.GMAIL_USER }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        run: |
-          python - <<'EOF'
-          import os, smtplib, json
-          from datetime import datetime
-          from email.mime.multipart import MIMEMultipart
-          from email.mime.text import MIMEText
-          from zoneinfo import ZoneInfo
-
-          user = os.environ["GMAIL_USER"]
-          password = os.environ["GMAIL_APP_PASSWORD"]
-
-          with open("indeed_jobs.json") as f:
-              data = json.load(f)
-          with open("indeed_jobs.md") as f:
-              body_md = f.read()
-          with open("indeed_jobs.html") as f:
-              body_html = f.read()
-
-          new_count = data["new_count"]
-          total = data["total"]
-          scraped_at = data["scraped_at"]
-
-          now_pt = datetime.now(ZoneInfo("America/Los_Angeles"))
-          hour = now_pt.hour % 12 or 12
-          suffix = "AM" if now_pt.hour < 12 else "PM"
-          slot = f"{hour}{suffix} PT"
-
-          subject = f"🟦 Indeed {slot} — {new_count} new role(s) [{scraped_at[:10]}]"
-
-          msg = MIMEMultipart("alternative")
-          msg["Subject"] = subject
-          msg["From"] = user
-          msg["To"] = user
-          msg.attach(MIMEText(body_md, "plain", "utf-8"))
-          msg.attach(MIMEText(body_html, "html", "utf-8"))
-
-          with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
-              smtp.login(user, password)
-              smtp.sendmail(user, user, msg.as_string())
-
-          print(f"✅ Email sent to {user}")
-          EOF

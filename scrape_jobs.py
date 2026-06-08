@@ -66,7 +66,7 @@ KEYWORDS = [
 # Seconds to wait between API probes — keeps us polite
 REQUEST_DELAY = 0.3
 
-# Biotech email should only contain reliably fresh roles.
+# Biotech digest should only contain reliably fresh roles.
 FRESH_JOB_LOOKBACK = timedelta(hours=24)
 
 
@@ -558,7 +558,7 @@ LINKEDIN_SEARCH_TERMS = [
     "cheminformatics",
 ]
 
-LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only emails freshest hour
+LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour
 LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
 
 # Biotech allowlist used by the LinkedIn-side filter. Broader than CURATED_BIOTECHS

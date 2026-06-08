@@ -1,27 +1,27 @@
 # 🧬 Bay Area MLE / DS Job Scraper
 
-Three GitHub Actions workflows that scrape **software engineering, ML/AI, data science, data engineering, platform/infra/security, and biotech informatics roles** in the SF Bay Area and email the results as an HTML digest.
+Three GitHub Actions workflows that scrape **software engineering, ML/AI, data science, data engineering, platform/infra/security, and biotech informatics roles** in the SF Bay Area, commit the results to the repo, and surface them in the [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard.
 
 ## What It Does
 
 ### 1. Biotech LinkedIn digest — daily at 8pm PT, last 24h
 Hits LinkedIn's public guest endpoint for SF Bay Area MLE/DS roles posted in the last 24 hours, then post-filters results to a **biotech company allowlist** derived from `CURATED_BIOTECHS` in `scrape_jobs.py` (10x Genomics, Twist, Maze, Freenome, Cytokinetics, Natera, Inceptive, Atomwise, Profluent, Eikon, Altos Labs, Arc Institute, Caribou, Octant, Genentech, Gilead). Add to that list to expand coverage.
 
-Output goes to `jobs.json`, `jobs.md`, and `jobs.html`. Each run dedupes against the previously-committed `jobs.json` so the email surfaces only postings new since the last run.
+Output goes to `jobs.json`, `jobs.md`, and `jobs.html`. Each run dedupes against the previously-committed `jobs.json` so the output surfaces only postings new since the last run.
 
 > Why allowlist instead of LinkedIn's industry filter? The `f_I` industry parameter is silently ignored on the public guest endpoint (verified by probing IDs 12, 14, 16, 1763, 1862 — all returned identical non-biotech results).
 
 ### 2. LinkedIn MLE/DS watcher — every 2 hours, last 2h
 Hits LinkedIn's public guest endpoint for SF Bay Area roles posted in **the last 2 hours** across multiple search terms, dedupes by job ID, and sorts by recency. Output goes to `linkedin_jobs.json`, `linkedin_jobs.md`, and `linkedin_jobs.html`.
 
-Runs every 2 hours from **8am to 10pm Pacific time**. Cron is fixed in UTC; in PST (UTC-8) the schedule shifts to 7am–9pm PT — acceptable seasonal drift. Each run dedupes against the previous run so empty windows don't trigger an email.
+Runs every 2 hours from **8am to 10pm Pacific time**. Cron is fixed in UTC; in PST (UTC-8) the schedule shifts to 7am–9pm PT — acceptable seasonal drift. Each run dedupes against the previous run so empty windows produce no new listings.
 
 > ⚠️ Uses the unauthenticated public guest endpoint only — **never** signs in with a user account and does not use LinkedIn cookies, tokens, or credentials.
 
 ### 3. Indeed MLE/DS watcher — every 1h, last 24h
 Uses [`python-jobspy`](https://pypi.org/project/python-jobspy/) (Indeed's public RSS and Publisher API were both deprecated in 2026; the site sits behind Cloudflare's top-tier bot product, so stdlib `urllib` is blocked at the edge). JobSpy uses Indeed's mobile-app API internally — no proxies required, no documented rate limit. Output goes to `indeed_jobs.json`, `indeed_jobs.md`, and `indeed_jobs.html`, deduped against the previous run.
 
-Scheduled externally by cron-job.org at :47 PT, offset from the LinkedIn :17 slot to spread Gmail sends and reduce contention on the shared commit-push concurrency group.
+Scheduled externally by cron-job.org at :47 PT, offset from the LinkedIn :17 slot to reduce contention on the shared commit-push concurrency group.
 
 ## Keywords Matched
 
@@ -50,7 +50,7 @@ A title is included if it contains any of (case-insensitive substring match):
 | `indeed_jobs.json` / `.md` / `.html` | Indeed watcher | Indeed-sourced roles posted in the last 24h, deduped against the previous run |
 | `checked_companies.json` | (legacy) | Tracking file from earlier Wikipedia-based discovery |
 
-The `.html` files are styled email-ready digests; the `.md` files render nicely on GitHub.
+The `.html` files are styled standalone digests; the `.md` files render nicely on GitHub. (Both are committed for history/browsing; the `triage.html` dashboard reads the `.json` files directly.)
 
 Both workflows keep a GitHub history of generated digests: result files are committed when changed, and each scheduled workflow still runs `git push`.
 
@@ -71,16 +71,16 @@ Opening from `file://` won't work — the dashboard needs same-origin HTTP to `f
 
 ## Setup
 
-### Gmail secrets (for email delivery)
+### Triage secrets (for the nightly fit-scoring agent)
 
-In **Settings → Secrets and variables → Actions**:
+The scraper workflows need no secrets. The nightly triage workflow (`triage.yml`) reads
+these from **Settings → Secrets and variables → Actions**:
 
 | Secret | Value |
 |---|---|
-| `GMAIL_USER` | Gmail address |
-| `GMAIL_APP_PASSWORD` | [Gmail App Password](https://myaccount.google.com/apppasswords) |
-
-Both workflows email `GMAIL_USER` from `GMAIL_USER` via `smtp.gmail.com:465`.
+| `ANTHROPIC_API_KEY` | Anthropic API key used by `triage_agent.py` |
+| `CANDIDATE_PROFILE` | Candidate profile text (kept out of the public repo) |
+| `CANDIDATE_RESUME` | Resume text (kept out of the public repo) |
 
 ### Run manually
 
