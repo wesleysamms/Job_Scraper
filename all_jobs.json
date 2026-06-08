@@ -1,6 +1,159 @@
 {
-  "updated_at": "2026-06-08 20:43 UTC",
+  "updated_at": "2026-06-08 21:17 UTC",
   "jobs": [
+    {
+      "company": "Chime",
+      "title": "AI/ML Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421996257/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Experis",
+      "title": "Data Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425532088/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Flexton Inc.",
+      "title": "Java Software Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425696739/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Muon Space",
+      "title": "Software Engineer, Flight Software",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4361397162/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Staff Software Engineer, EAA CX",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425901555/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "DriveWealth",
+      "title": "Principal AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425699363/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Principal MarTech SWE / AI Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422213332/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Senior Software Engineer \u2013 Frontend Platform (Machine Identity Management) - hybrid",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421994355/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer (Platform - Identity)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425903431/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Empathy Talent",
+      "title": "Founding Full-Stack Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4421994410/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Palo Alto Networks",
+      "title": "Distinguished Software Engineer - ADEM (Backend)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421994354/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Frontend - Identity",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425695552/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "edkey",
+      "title": "Full Stack Engineer, Applied AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425541149/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Muon Space",
+      "title": "Staff Software Engineer, Simulation Infrastructure",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413753863/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Workers' Compensation Insurance Rating Bureau of California (WCIRB)",
+      "title": "Security Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4425539022/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Notion",
+      "title": "Security Engineer, Corporate Security",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425697736/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
+    {
+      "company": "Spectro Cloud",
+      "title": "Senior Software Security Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425907279/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T21:17:31Z"
+    },
     {
       "company": "Consumer Reports",
       "title": "Senior Research Engineer - Experimental Engineering",
