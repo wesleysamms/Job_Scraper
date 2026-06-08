@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-06-08 23:03 UTC",
+  "updated_at": "2026-06-08 23:17 UTC",
   "jobs": [
+    {
+      "company": "CrowdStrike",
+      "title": "Sr. Software Engineer, Backend - Ingestion (Hybrid)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422207747/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T23:17:35Z"
+    },
+    {
+      "company": "Moloco",
+      "title": "Staff Data Scientist, Growth Data Science",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425935335/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T23:17:35Z"
+    },
+    {
+      "company": "Roblox",
+      "title": "Senior Software Engineer, Content Suitability",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425548562/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T23:17:35Z"
+    },
+    {
+      "company": "Roblox",
+      "title": "Principal Software Engineer, Compute Fleet Management",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425526706/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T23:17:35Z"
+    },
+    {
+      "company": "Coinbase",
+      "title": "Senior Site Reliability Engineer, Identity Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425929365/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T23:17:35Z"
+    },
+    {
+      "company": "Altera",
+      "title": "Virtualization & Cloud Platform Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425920497/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T23:17:35Z"
+    },
+    {
+      "company": "AngelList",
+      "title": "Senior Software Engineer, Accounting",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4279291478/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T23:17:35Z"
+    },
+    {
+      "company": "VARITE INC",
+      "title": "Bioinformatics Engineer - Genome Assembly",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421865414/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T23:17:35Z"
+    },
     {
       "company": "Rivian and Volkswagen Group Technologies",
       "title": "Staff Software Engineer - AI Platform",
