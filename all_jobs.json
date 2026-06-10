@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-06-10 23:14 UTC",
+  "updated_at": "2026-06-10 23:16 UTC",
   "jobs": [
+    {
+      "company": "Uber",
+      "title": "2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1e29484b7fe37ba5",
+      "date_posted": "2026-06-10",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "Uber",
+      "title": "2026 PhD Applied Scientist Intern (Commerce, Trust, Safety and Support), United States",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d25e19c5c9bcd97b",
+      "date_posted": "2026-06-10",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "Newsbreak",
+      "title": "Machine Learning Engineer, LLM Post-Training",
+      "location": "Mountain View, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=40c075a07d429ffb",
+      "date_posted": "2026-06-10",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer (Technical Leadership)",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=b4a2df283a8b4936",
+      "date_posted": "2025-04-21",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "Meta",
+      "title": "Software Engineer (Technical Leadership)",
+      "location": "Menlo Park, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=42396bbdf0b619c6",
+      "date_posted": "2025-04-21",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "Walmart",
+      "title": "Senior Manager, Data Science",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=0bcf916c9e8f0bd9",
+      "date_posted": "2026-06-10",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "InterVenn Biosciences",
+      "title": "Senior Data Scientist",
+      "location": "South San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5b25e7abb6eb0cf2",
+      "date_posted": "2026-06-10",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "Amazon.com",
+      "title": "Principal Applied Scientist, ML Codesign",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1f1e5397d110b67b",
+      "date_posted": "2026-06-02",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "Walmart",
+      "title": "(USA) Senior, Software Engineer",
+      "location": "Sunnyvale, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=4f218e7c10981cce",
+      "date_posted": "2026-06-10",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "Unknown",
+      "title": "Systems Engineer",
+      "location": "Newark, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=f0ef22045f10f793",
+      "date_posted": "2026-06-10",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "Unknown",
+      "title": "Senior Edge / Linux Platform Engineer (Rust)",
+      "location": "Newark, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=60b01c885c5b689c",
+      "date_posted": "2026-06-10",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "Fortinet",
+      "title": "Staff Software Developer",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1f31f914d420507f",
+      "date_posted": "2026-06-10",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "f2",
+      "title": "Staff Software Engineer, Infrastructure",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=18949eeda4f36be3",
+      "date_posted": "2026-06-10",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "Rivian",
+      "title": "Software Engineer, Engineering Applications",
+      "location": "Palo Alto, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=1752866836309783",
+      "date_posted": "2026-06-05",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "DocuSign",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=d09fff868d018122",
+      "date_posted": "2026-06-10",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
+    {
+      "company": "Perficient",
+      "title": "Senior Linux Platform Engineer - Santa Clara",
+      "location": "Santa Clara, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=980117b062c8f4b5",
+      "date_posted": "2026-06-10",
+      "ats": "Indeed",
+      "first_seen": "2026-06-10T23:16:04Z"
+    },
     {
       "company": "Typeface",
       "title": "ML Engineer",
