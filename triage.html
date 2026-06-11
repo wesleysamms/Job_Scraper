@@ -724,16 +724,17 @@
   }
 
   // ---------- Prune (keeps localStorage bounded) ----------
-  // Drops untriaged jobs that are senior-track (excluded at the scraper since
-  // 2026-06) or older than 30 days. Anything saved/applied/dismissed is kept —
-  // that's the user's triage history.
-  const EXCLUDED_SEN = new Set(['Staff', 'Principal', 'Founding']);
+  // Drops untriaged jobs that are senior-track/exec (excluded at the scraper
+  // since 2026-06 — keep this regex in sync with EXCLUDED_SENIORITY_RE in
+  // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
+  // is kept — that's the user's triage history.
+  const EXCLUDED_TITLE_RE = /\b(staff|principal|distinguished|founding|director|vice president|s?vp|chief|head of)\b/i;
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
     state.jobs = state.jobs.filter(j => {
       if (state.triage[j.url]) return true;
-      if (EXCLUDED_SEN.has(classifySeniority(j.title))) return false;
+      if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
       const t = jobFreshMs(j);
       return t == null || t >= cutoff;
     });

@@ -71,11 +71,12 @@ REQUEST_DELAY = 0.3
 # Biotech digest should only contain reliably fresh roles.
 FRESH_JOB_LOOKBACK = timedelta(hours=24)
 
-# Senior-track titles are excluded everywhere: the candidate targets
-# early-to-mid IC roles. ("Chief of Staff"-style titles never matched the
-# include keywords anyway, so \bstaff\b costs nothing there.)
+# Senior-track and executive titles are excluded everywhere: the candidate
+# targets early-to-mid IC roles. Covers IC senior tracks (staff/principal/
+# distinguished/founding) and management/exec tiers (director/VP/chief/head of).
 EXCLUDED_SENIORITY_RE = re.compile(
-    r'\b(staff|principal|distinguished|founding)\b', re.IGNORECASE)
+    r'\b(staff|principal|distinguished|founding|director|vice president|s?vp|chief|head of)\b',
+    re.IGNORECASE)
 
 # Multi-word phrases keep substring semantics; single-word keywords ("mle",
 # "devops") are word-bounded so they can't match inside a word ("Hamlet").

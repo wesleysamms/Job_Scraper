@@ -41,7 +41,7 @@ A title is included if it contains any of (case-insensitive substring match):
 
 **Computational / informatics (biotech):** `computational scientist`, `computational biologist`, `bioinformatics scientist`, `bioinformatics engineer`, `cheminformatics`
 
-**Excluded seniority:** titles containing `staff`, `principal`, `distinguished`, or `founding` are dropped everywhere (mid-level focus). Single-word keywords are word-bounded, so `mle` can't match inside another word.
+**Excluded seniority:** titles containing `staff`, `principal`, `distinguished`, `founding`, `director`, `vice president`, `vp`/`svp`, `chief`, or `head of` are dropped everywhere (mid-level IC focus). Single-word keywords are word-bounded, so `mle` can't match inside another word.
 
 ## Output Files
 
