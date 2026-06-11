@@ -402,9 +402,14 @@
       }
       okCount++;
       const d = r.value;
+      const isMaster = SOURCES[i].src === 'Master';
       (d.jobs || []).forEach(j => {
         if (!j || !j.url || !/^https?:\/\//i.test(j.url)) return;  // defensive URL guard
-        if (!byUrl.has(j.url)) byUrl.set(j.url, j);
+        const existing = byUrl.get(j.url);
+        if (!existing) byUrl.set(j.url, j);
+        // Per-source entries win the dedupe but lack first_seen — backfill it
+        // from the master so sub-day date filters have a real timestamp.
+        else if (isMaster && j.first_seen && !existing.first_seen) existing.first_seen = j.first_seen;
       });
       (d.new_jobs || []).forEach(j => new_jobs.push(j));
       new_count += (d.new_count || 0);
@@ -422,7 +427,10 @@
     const seen = new Map(state.jobs.map(j => [j.url, j]));
     let added = 0;
     for (const j of incoming) {
-      if (!seen.has(j.url)) {
+      const existing = seen.get(j.url);
+      if (existing) {
+        if (j.first_seen && !existing.first_seen) existing.first_seen = j.first_seen;
+      } else {
         state.jobs.push(j);
         seen.set(j.url, j);  // prevent internal dupes within incoming
         added++;
@@ -457,6 +465,18 @@
     return null;
   }
 
+  // Finest freshness signal for sub-day windows: date_posted is day-resolution
+  // across every source, but first_seen (stamped by the scraper's all_jobs
+  // accumulator) is a full timestamp — and the LinkedIn watcher's hourly 1h
+  // lookback makes "first seen within the hour" ≈ "posted within the hour".
+  function jobFreshMs(j) {
+    if (j.first_seen) {
+      const t = Date.parse(j.first_seen);
+      if (!isNaN(t)) return t;
+    }
+    return jobDateMs(j);
+  }
+
   // `except` skips one dimension so a facet's pills don't constrain their own counts.
   function matchesFilters(j, except) {
     if (except !== 'source' && filters.source.size && !filters.source.has(j._src)) return false;
@@ -467,7 +487,7 @@
       if (!filters.state.has(st)) return false;
     }
     if (except !== 'days' && filters.days != null) {
-      const t = jobDateMs(j);
+      const t = filters.days < 1 ? jobFreshMs(j) : jobDateMs(j);
       if (t == null || t < Date.now() - filters.days * 86400000) return false;
     }
     if (except !== 'q') {
@@ -515,6 +535,7 @@
     const el = $('filter-date');
     el.innerHTML = '';
     const opts = [
+      [1/24, 'Last hour'],
       [1,  'Today'],
       [3,  '3 days'],
       [7,  'Week'],
@@ -525,7 +546,7 @@
       const ct = state.jobs.filter(j => {
         if (!matchesFilters(j, 'days')) return false;   // honor Source/Role/Seniority/Show/search
         if (days == null) return true;
-        const t = jobDateMs(j);
+        const t = days < 1 ? jobFreshMs(j) : jobDateMs(j);
         return t != null && t >= Date.now() - days * 86400000;
       }).length;
       const active = filters.days === days;
@@ -662,8 +683,9 @@
     renderFilterGroup('filter-role', 'role',
       ['AI Engineer', 'MLE', 'MLOps/Platform', 'Scientist', 'Data Science',
        'SWE', 'Bioinformatics', 'Other']);
-    renderFilterGroup('filter-sen', 'sen',
-      ['Founding', 'Principal', 'Staff', 'Senior', 'Mid', 'Intern']);
+    // Founding/Principal/Staff are excluded at the scraper (mid-level focus);
+    // pruneState() clears any lingering untriaged ones from older sessions.
+    renderFilterGroup('filter-sen', 'sen', ['Senior', 'Mid', 'Intern']);
     renderDateFilter();
     renderStateFilter();
     renderKpis();
@@ -677,6 +699,25 @@
     catch (e) { console.warn('[save] localStorage write failed:', e.message); }
   }
 
+  // ---------- Prune (keeps localStorage bounded) ----------
+  // Drops untriaged jobs that are senior-track (excluded at the scraper since
+  // 2026-06) or older than 30 days. Anything saved/applied/dismissed is kept —
+  // that's the user's triage history.
+  const EXCLUDED_SEN = new Set(['Staff', 'Principal', 'Founding']);
+  function pruneState() {
+    const cutoff = Date.now() - 30 * 86400000;
+    const before = state.jobs.length;
+    state.jobs = state.jobs.filter(j => {
+      if (state.triage[j.url]) return true;
+      if (EXCLUDED_SEN.has(classifySeniority(j.title))) return false;
+      const t = jobFreshMs(j);
+      return t == null || t >= cutoff;
+    });
+    if (state.jobs.length < before) {
+      console.info(`[pruneState] dropped ${before - state.jobs.length} stale/excluded job(s)`);
+    }
+  }
+
   // ---------- Refresh flow ----------
   async function refresh() {
     $('snapshot-line').textContent = 'Loading…';
@@ -684,6 +725,7 @@
       SEED = await loadJobs();
       SEED.jobs.forEach(enrich);
       mergeJobs(SEED.jobs);
+      pruneState();
       state.jobs.forEach(enrich);  // re-classify all (handles classifier updates)
       state._lastLoaded = Date.now();
       renderAll();

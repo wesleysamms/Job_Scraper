@@ -69,6 +69,22 @@ REQUEST_DELAY = 0.3
 # Biotech digest should only contain reliably fresh roles.
 FRESH_JOB_LOOKBACK = timedelta(hours=24)
 
+# Senior-track titles are excluded everywhere: the candidate targets
+# early-to-mid IC roles. ("Chief of Staff"-style titles never matched the
+# include keywords anyway, so \bstaff\b costs nothing there.)
+EXCLUDED_SENIORITY_RE = re.compile(
+    r'\b(staff|principal|distinguished|founding)\b', re.IGNORECASE)
+
+# Multi-word phrases keep substring semantics; single-word keywords ("mle",
+# "devops") are word-bounded so they can't match inside a word ("Hamlet").
+_KEYWORD_RE = re.compile(
+    "|".join(
+        re.escape(k) if " " in k else rf"\b{re.escape(k)}\b"
+        for k in KEYWORDS
+    ),
+    re.IGNORECASE,
+)
+
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -85,7 +101,9 @@ def fetch(url):
 
 
 def is_mle_role(title: str) -> bool:
-    return any(k in title.lower() for k in KEYWORDS)
+    if EXCLUDED_SENIORITY_RE.search(title):
+        return False
+    return bool(_KEYWORD_RE.search(title))
 
 
 BAY_AREA_LOCATIONS = [
