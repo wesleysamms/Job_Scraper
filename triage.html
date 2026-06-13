@@ -224,6 +224,20 @@
   .salary-ctl .salval { font-variant-numeric: tabular-nums; color: var(--ink); font-size: 12px; min-width: 110px; }
   .salary-ctl label { font-size: 12px; color: var(--muted); display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
 
+  /* Salary distribution histogram (interactive) */
+  .histo { display: flex; align-items: flex-end; gap: 4px; height: 120px; padding-top: 14px; }
+  .histo .hbar { flex: 1 1 0; display: flex; flex-direction: column; align-items: center;
+    justify-content: flex-end; cursor: pointer; min-width: 0; height: 100%; }
+  .histo .hbar .fill { width: 100%; background: var(--applied); border-radius: 3px 3px 0 0;
+    min-height: 2px; transition: background 0.1s, opacity 0.1s; opacity: 0.85; position: relative; }
+  .histo .hbar:hover .fill { background: var(--save); opacity: 1; }
+  .histo .hbar.dim .fill { opacity: 0.3; }
+  .histo .hbar .lab { font-size: 9px; color: var(--muted); margin-top: 4px; white-space: nowrap; }
+  .histo .hbar .cnt { font-size: 9px; color: var(--ink); font-weight: 700;
+    position: absolute; top: -13px; left: 50%; transform: translateX(-50%); }
+  .histo-note { font-size: 11px; color: var(--muted); margin-top: 8px; line-height: 1.5; }
+  .histo-empty { color: var(--muted); font-size: 13px; padding: 30px 0; text-align: center; }
+
   /* Map */
   #map { height: 480px; border: 1px solid var(--line); border-radius: 12px; margin-bottom: 14px; }
   .leaflet-popup-content { font-size: 12px; line-height: 1.4; }
@@ -258,6 +272,11 @@
 <div class="charts">
   <div class="card"><h3>Top companies</h3><div class="barlist" id="chart-companies"></div></div>
   <div class="card"><h3>Role mix</h3><div class="barlist" id="chart-roles"></div></div>
+  <div class="card">
+    <h3>Salary distribution <span style="font-weight:400;color:var(--muted);font-size:11px">· annualized · click to set floor</span></h3>
+    <div class="histo" id="chart-salary"></div>
+    <div class="histo-note" id="salary-note"></div>
+  </div>
 </div>
 
 <div class="controls">
@@ -775,6 +794,49 @@
       '<div style="color:var(--muted);font-size:13px">—</div>';
   }
 
+  // ---------- Interactive salary distribution ----------
+  // Bucketed histogram of the current selection (every filter EXCEPT the salary
+  // floor, so the bars stay put while you drag the slider). Bars are clickable
+  // to set the floor; buckets below the active floor dim out.
+  const SAL_BUCKETS = [
+    [0, 50000, '<50'], [50000, 75000, '50'], [75000, 100000, '75'],
+    [100000, 125000, '100'], [125000, 150000, '125'], [150000, 175000, '150'],
+    [175000, 200000, '175'], [200000, 250000, '200'], [250000, Infinity, '250+'],
+  ];
+  function renderSalaryChart() {
+    const host = $('chart-salary'), note = $('salary-note');
+    if (!host) return;
+    const pool = state.jobs.filter(j => matchesFilters(j, 'salary'));
+    const priced = pool.filter(j => j._salMin != null);
+    if (!priced.length) {
+      host.className = 'histo-empty';
+      host.textContent = pool.length
+        ? `No listed salaries among ${pool.length} selected role(s).`
+        : 'No roles selected.';
+      note.textContent = '';
+      return;
+    }
+    host.className = 'histo';
+    const mids = priced.map(j => (j._salMin + j._salMax) / 2);
+    const counts = SAL_BUCKETS.map(([lo, hi]) => mids.filter(m => m >= lo && m < hi).length);
+    const max = Math.max(...counts, 1);
+    host.innerHTML = SAL_BUCKETS.map(([lo, hi, lab], i) => {
+      const n = counts[i];
+      const h = n ? Math.max(5, Math.round((n / max) * 100)) : 0;
+      const dim = filters.salMin > 0 && lo < filters.salMin ? ' dim' : '';
+      const range = `$${Math.round(lo / 1000)}k` + (hi === Infinity ? '+' : `–$${Math.round(hi / 1000)}k`);
+      return `<div class="hbar${dim}" data-floor="${lo}" title="${range}/yr: ${n} role${n === 1 ? '' : 's'} (click to set floor)">
+        <div class="fill" style="height:${h}%">${n ? `<span class="cnt">${n}</span>` : ''}</div>
+        <span class="lab">${lab}</span></div>`;
+    }).join('');
+    const sorted = mids.slice().sort((a, b) => a - b);
+    const med = sorted[Math.floor(sorted.length / 2)];
+    const unpriced = pool.length - priced.length;
+    note.innerHTML = `${priced.length} priced role(s) · median ≈ <strong>$${Math.round(med / 1000)}k/yr</strong>`
+      + (unpriced ? ` · ${unpriced} with no listed salary` : '')
+      + ' &nbsp;·&nbsp; <span>x-axis = $k floor</span>';
+  }
+
   function escape(s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, c =>
       ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -968,6 +1030,7 @@
     renderSalaryControl();
     renderKpis();
     renderCharts();
+    renderSalaryChart();
     renderJobs();
     save();
   }
@@ -1095,9 +1158,20 @@
   $('sal-min').addEventListener('input', e => {
     filters.salMin = Number(e.target.value) || 0;
     renderSalaryControl();
-    renderJobs();   // map/list update without rebuilding every facet on each tick
+    renderSalaryChart();   // re-dim buckets below the new floor
+    renderJobs();          // map/list update without rebuilding every facet on each tick
   });
   $('sal-min').addEventListener('change', renderAll);
+
+  // Click a histogram bar to set the salary floor to that bucket's bottom.
+  $('chart-salary').addEventListener('click', e => {
+    const bar = e.target.closest('.hbar');
+    if (!bar) return;
+    const floor = Number(bar.dataset.floor) || 0;
+    filters.salMin = (filters.salMin === floor) ? 0 : floor;   // click active bar = clear
+    $('sal-min').value = filters.salMin;
+    renderAll();
+  });
   $('sal-unknown').addEventListener('change', e => {
     filters.salUnknown = e.target.checked;
     renderAll();
