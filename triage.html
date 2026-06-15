@@ -207,6 +207,7 @@
 
   /* ---- Added features: CalCareers source, fit score, salary, map, not-relevant ---- */
   .src.calcareers { background: rgba(180,83,9,0.18); color: #fbbf24; }
+  .src.usajobs { background: rgba(29,78,216,0.18); color: #93c5fd; }
   .src.master { background: var(--pill-bg); color: var(--muted); }
 
   .scorechip.fit { cursor: help; }
@@ -367,6 +368,7 @@
     { name: 'linkedin_jobs.json', src: 'LinkedIn'   },
     { name: 'indeed_jobs.json',   src: 'Indeed'     },
     { name: 'calcareers_jobs.json', src: 'CalCareers' },
+    { name: 'usajobs_jobs.json',  src: 'USAJOBS'    },
     // Cumulative master kept by the scrapers (the rolling files above only hold
     // their latest window). Lets the Rank tab show every recently-seen role.
     { name: 'all_jobs.json',      src: 'Master'   },
@@ -416,6 +418,7 @@
     return 'Mid';
   }
   function classifySource(j) {
+    if (j.ats === 'USAJOBS' || (j.url || '').includes('usajobs.gov')) return 'USAJOBS';
     if (j.ats === 'CalCareers' || (j.url || '').includes('calcareers.ca.gov')) return 'CalCareers';
     if (j.ats === 'LinkedIn') return 'LinkedIn';
     if (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') return 'Priority';
@@ -1134,8 +1137,27 @@
     'queensland': [-22.0, 144.0], 'western australia': [-26.0, 121.0],
     'south australia': [-30.0, 135.0], 'northern territory': [-19.5, 133.0],
     'tasmania': [-42.0, 146.5], 'australian capital territory': [-35.5, 149.0],
+    // ---- Federal hubs / major US cities (USAJOBS roles) ----
+    'washington, district of columbia': [38.9072, -77.0369], 'district of columbia': [38.9072, -77.0369],
+    'bethesda': [38.9847, -77.0947], 'rockville': [39.084, -77.1528],
+    'research triangle park': [35.8989, -78.8636], 'durham, north carolina': [35.994, -78.8986],
+    'raleigh': [35.7796, -78.6382], 'cincinnati': [39.1031, -84.512],
+    'atlanta': [33.749, -84.388], 'denver': [39.7392, -104.9903],
+    'seattle': [47.6062, -122.3321], 'las vegas': [36.1699, -115.1398],
+    'ann arbor': [42.2808, -83.743], 'narragansett': [41.4501, -71.4495],
+    'gulf breeze': [30.357, -87.1641], 'edison, new jersey': [40.5187, -74.4121],
+    'kansas city': [39.0997, -94.5786], 'chicago': [41.8781, -87.6298],
+    'corvallis': [44.5646, -123.262], 'newport, oregon': [44.6368, -124.0535],
+    'boston': [42.3601, -71.0589], 'philadelphia': [39.9526, -75.1652],
+    'new york': [40.7128, -74.006], 'houston': [29.7604, -95.3698],
+    'dallas': [32.7767, -96.797], 'phoenix': [33.4484, -112.074],
+    'anchorage': [61.2181, -149.9003], 'honolulu': [21.3069, -157.8583],
   };
   const CA_CENTER = [37.4, -119.5];
+  const US_CENTROID = [39.5, -98.0];
+  // Full US state names (USAJOBS uses these) → fall back to the US centroid
+  // when no city matched, so federal roles don't pile onto California.
+  const US_STATE_RE = /\b(alabama|alaska|arizona|arkansas|colorado|connecticut|delaware|florida|georgia|hawaii|idaho|illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|minnesota|mississippi|missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|new york|north carolina|north dakota|ohio|oklahoma|pennsylvania|rhode island|south carolina|south dakota|tennessee|texas|utah|vermont|virginia|washington|west virginia|wisconsin|wyoming|district of columbia|puerto rico)\b/;
   let _map = null, _markerLayer = null, _lastFitKey = '';
 
   // Longest-name match wins ("south san francisco" beats "san francisco"). If no
@@ -1150,6 +1172,7 @@
     if (best) return best;
     if (/australia/.test(s)) return [-25.27, 133.77];      // AU centroid
     if (/\boregon\b|,\s*or\b/.test(s)) return [44.0, -120.5]; // OR centroid
+    if (US_STATE_RE.test(s)) return US_CENTROID;            // other US (federal) → US centroid
     return null;
   }
 
@@ -1225,7 +1248,7 @@
 
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed) dupes
-    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'CalCareers']);
+    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'CalCareers', 'USAJOBS']);
     renderFilterGroup('filter-role', 'role',
       ['Toxicology', 'Risk/Exposure', 'Water', 'Contaminants',
        'Environmental Health', 'Environmental Science', 'Policy/Regulatory',

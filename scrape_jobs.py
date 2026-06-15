@@ -57,7 +57,7 @@ KEYWORDS = [
     "environmental scien", "environmental health",
     "environmental chemist", "environmental chemistry",
     "environmental specialist", "environmental analyst",
-    "environmental epidemiolog",
+    "environmental protection", "environmental epidemiolog",
     "environmental data", "environmental monitoring",
     "environmental assessment", "exposure epidemiolog",
     # ---- Water / contaminants ----
@@ -1048,6 +1048,104 @@ def save_calcareers_results(jobs: list):
     )
 
 
+# ---------------------------------------------------------------------------
+# USAJOBS — federal jobs (EPA, NOAA, USGS, FDA, NIEHS, CDC, DOI, ...)
+#
+# Uses the public usajobs.gov website search (NO API key): GET the Results page
+# to seed a session cookie, then POST /Search/ExecuteSearch per keyword. Returns
+# federal env/tox roles WITH salary (SalaryDisplay). Verified working from a
+# plain client. Source surfaced via the OpenPostings ATS catalog
+# (https://github.com/Masterjx9/OpenPostings), which lists usajobs among 80+
+# providers; we query the official public endpoint directly.
+# ---------------------------------------------------------------------------
+
+USAJOBS_RESULTS_URL = "https://www.usajobs.gov/Search/Results?hp=public&s=startdate&sd=desc&p=1"
+USAJOBS_SEARCH_URL = "https://www.usajobs.gov/Search/ExecuteSearch"
+USAJOBS_TERMS = [
+    "toxicologist", "environmental protection specialist", "environmental health",
+    "ecotoxicology", "exposure science", "risk assessment",
+    "environmental scientist", "microplastics", "ecologist",
+]
+USAJOBS_RESULTS_PER_PAGE = 50
+
+
+def _usajobs_date(date_display: str) -> str:
+    """"Open 06/13/2026 to 06/27/2026" → "2026-06-13" (the open date)."""
+    m = re.search(r'(\d{2})/(\d{2})/(\d{4})', date_display or "")
+    return f"{m.group(3)}-{m.group(1)}-{m.group(2)}" if m else ""
+
+
+def scrape_usajobs_recent() -> list:
+    """Federal env/tox roles from usajobs.gov (no API key). Guarded — returns the
+    previous results on any failure so a flaky run never blanks the column."""
+    print("🇺🇸 Scraping USAJOBS (federal env/tox roles)...")
+    jobs_by_url: dict[str, dict] = {}
+    headers = {
+        **HEADERS,
+        "Accept": "application/json, text/plain, */*",
+        "Content-Type": "application/json;charset=UTF-8",
+        "X-Requested-With": "XMLHttpRequest",
+        "Origin": "https://www.usajobs.gov",
+        "Referer": USAJOBS_RESULTS_URL,
+    }
+    try:
+        opener = _calcareers_opener()  # cookie jar — the POST needs the session
+        opener.open(Request(USAJOBS_RESULTS_URL, headers=HEADERS), timeout=25).read()
+        for term in USAJOBS_TERMS:
+            time.sleep(REQUEST_DELAY)
+            body = json.dumps({
+                "Keyword": term, "HiringPath": ["public"],
+                "SortField": "startdate", "SortDirection": "desc",
+                "Page": "1", "ResultsPerPage": USAJOBS_RESULTS_PER_PAGE,
+            }).encode()
+            try:
+                raw = opener.open(Request(USAJOBS_SEARCH_URL, data=body, headers=headers),
+                                  timeout=25).read().decode("utf-8", "ignore")
+                payload = json.loads(raw)
+            except (URLError, TimeoutError, OSError, json.JSONDecodeError) as e:
+                print(f"  ⚠️  USAJOBS ({term!r}): {e}")
+                continue
+            for job in payload.get("Jobs", []):
+                title = (job.get("Title") or "").strip()
+                if not is_mle_role(title):
+                    continue
+                uri = (job.get("PositionURI") or "").replace(":443", "")
+                if not uri and job.get("DocumentID"):
+                    uri = f"https://www.usajobs.gov/job/{job['DocumentID']}"
+                if not uri or uri in jobs_by_url:
+                    continue
+                jobs_by_url[uri] = {
+                    "company": (job.get("Agency") or job.get("Department") or "Federal Government").strip(),
+                    "title": title,
+                    "location": (job.get("LocationName") or "").strip(),
+                    "url": uri,
+                    "date_posted": _usajobs_date(job.get("DateDisplay", "")),
+                    "salary": (job.get("SalaryDisplay") or "").strip(),
+                    "ats": "USAJOBS",
+                }
+    except (URLError, TimeoutError, OSError, ValueError) as e:
+        print(f"  ⛔ USAJOBS unreachable ({e}); preserving previous results")
+        return _load_prev_jobs(os.path.join(SCRIPT_DIR, "usajobs_jobs.json"))
+
+    jobs = list(jobs_by_url.values())
+    print(f"  ✅ USAJOBS: {len(jobs)} federal role(s)")
+    if not jobs:
+        return _load_prev_jobs(os.path.join(SCRIPT_DIR, "usajobs_jobs.json"))
+    return jobs
+
+
+def save_usajobs_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="usajobs_jobs",
+        title="🇺🇸 USAJOBS — Federal Environmental / Toxicology Roles",
+        subtitle="usajobs.gov · federal agencies (EPA, NOAA, USGS, FDA, NIEHS…)",
+        accent="#1d4ed8",
+        empty_message="No new federal roles since the last run.",
+        window_label="current USAJOBS postings",
+    )
+
+
 def format_salary(min_amount, max_amount, interval) -> str:
     """
     Display string for jobspy's Indeed pay fields, e.g. "$150k–$190k/yr" or
@@ -1409,6 +1507,10 @@ if __name__ == "__main__":
 
     if "--calcareers-only" in sys.argv:
         save_calcareers_results(scrape_calcareers_recent())
+        sys.exit(0)
+
+    if "--usajobs-only" in sys.argv:
+        save_usajobs_results(scrape_usajobs_recent())
         sys.exit(0)
 
     if "--biotech-only" in sys.argv:

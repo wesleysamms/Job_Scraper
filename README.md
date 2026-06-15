@@ -119,6 +119,7 @@ geo lists at the top of `scrape_jobs.py` to add/remove regions:
 | `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | California roles posted in the last 1h, deduped |
 | `indeed_jobs.json` / `.md` / `.html` | Indeed watcher | Indeed-sourced California roles, last 24h, deduped |
 | `calcareers_jobs.json` / `.md` / `.html` | CalCareers watcher | California state civil-service roles (calcareers.ca.gov) |
+| `usajobs_jobs.json` / `.md` / `.html` | USAJOBS watcher | Federal roles with salary (EPA, NOAA, USGS, FDA, NIEHS…) via usajobs.gov |
 | `all_jobs.json` | accumulator | Cumulative 14-day master (feeds the dashboard + triage) |
 | `scores.json` | triage agent | Optional fit verdicts keyed by job URL |
 
@@ -138,6 +139,22 @@ form's fields, POSTs the query, and parses the result cards. It is fully guarded
 > parser in `_parse_calcareers_results()` needs a selector tweak — open the
 > committed `calcareers_jobs.json` to check. CA state departments also surface
 > via LinkedIn (priority-employer allowlist) as a backstop.
+
+### USAJOBS (federal jobs)
+
+`scrape_jobs.py --usajobs-only` scrapes [usajobs.gov](https://www.usajobs.gov) —
+federal env/tox roles at EPA, NOAA, USGS, FDA, NIEHS, CDC, DOI, etc., **with
+salary**. It uses the site's public search endpoint (`/Search/ExecuteSearch`),
+so **no API key is required**: it seeds a session, then POSTs each keyword and
+keeps titles that pass the env/tox filter. Runs daily via `usajobs_watch.yml`.
+Federal roles are nationwide; use the dashboard's location filter/map to focus.
+
+> Source identified from the [OpenPostings](https://github.com/Masterjx9/OpenPostings)
+> project's catalog of 80+ ATS providers. OpenPostings is a self-hosted
+> aggregator (not a hosted API), so rather than depend on it we query the
+> official USAJOBS public endpoint directly. Its catalog also lists
+> `governmentjobs` (NEOGOV — county/city air & water districts, environmental
+> health depts) and `calopps` (CA local agencies) as natural future additions.
 
 ### Dashboard features
 
@@ -199,6 +216,7 @@ python scrape_jobs.py --biotech-only     # priority-employer digest (allowlist)
 python scrape_jobs.py --linkedin-only    # general env/tox LinkedIn, last 1h
 python scrape_jobs.py --indeed-only      # general env/tox Indeed, last 24h
 python scrape_jobs.py --calcareers-only  # California state jobs (calcareers.ca.gov)
+python scrape_jobs.py --usajobs-only     # federal jobs (usajobs.gov, no API key)
 ```
 The LinkedIn/priority pipelines use only the standard library. Indeed requires
 `pip install -r requirements.txt` (single dep: `python-jobspy`).
@@ -271,6 +289,7 @@ scrapers and dashboard work fully without them; `scores.json` is optional.
     ├── linkedin_watch.yml          # Hourly :17 PT — general LinkedIn (last 1h)
     ├── indeed_watch.yml            # Hourly :47 PT — Indeed (last 24h)
     ├── calcareers_watch.yml        # Daily — CalCareers (California state jobs)
+    ├── usajobs_watch.yml           # Daily — USAJOBS (federal jobs, no API key)
     ├── linkedin_watch_backup.yml   # Watchdog :33 PT — re-dispatches missed runs
     ├── triage.yml                  # Nightly — optional fit scoring (needs secrets)
     └── evals.yml                   # Triage-agent evals (optional)
