@@ -953,13 +953,24 @@ def _parse_calcareers_results(html: str) -> list[dict]:
         dm = re.search(r'(\d{1,2})/(\d{1,2})/(\d{4})', pub_date or "")
         if dm:
             date = f"{dm.group(3)}-{int(dm.group(1)):02d}-{int(dm.group(2)):02d}"
+        # The card carries a "Salary Range:" field (e.g. "$4418.00 - $9321.00",
+        # usually monthly for CA state). Pull it from the matched card span.
+        card = html[m.start():m.end()]
+        sal_m = re.search(
+            r'Salary Range:\s*</div>\s*<div[^>]*>([\s\S]*?)</div>', card, re.I)
+        salary = ""
+        if sal_m:
+            sm = re.search(
+                r'\$[\d,]+(?:\.\d{2})?\s*-\s*\$[\d,]+(?:\.\d{2})?(?:\s*(?:per|/)\s*\w+)?',
+                _clean(sal_m.group(1)))
+            salary = sm.group(0).strip() if sm else ""
         jobs.append({
             "company": _clean(dept) or "State of California",
             "title": _clean(title),
             "location": _clean(location) or "California",
             "url": _clean(url),
             "date_posted": date,
-            "salary": "",
+            "salary": salary,
             "ats": "CalCareers",
         })
     return jobs
