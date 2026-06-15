@@ -727,12 +727,21 @@
   }
 
   // ---------- Merge (additive — preserves triage history) ----------
+  // Fields refreshed from each fresh scrape onto already-cached jobs (e.g. a
+  // salary backfilled later). Triage lives separately in state.triage (keyed by
+  // URL), so updating the job's content is safe and never loses a decision.
+  const REFRESHABLE = ['salary', 'location', 'company', 'title', 'date_posted', 'description'];
   function mergeJobs(incoming) {
     const seen = new Map(state.jobs.map(j => [j.url, j]));
     let added = 0;
     for (const j of incoming) {
       const existing = seen.get(j.url);
       if (existing) {
+        // Update content from the fresh version (non-empty values only, so a
+        // leaner Master entry can't wipe a per-source salary/description).
+        for (const k of REFRESHABLE) {
+          if (j[k] != null && j[k] !== '' && j[k] !== existing[k]) existing[k] = j[k];
+        }
         if (j.first_seen && !existing.first_seen) existing.first_seen = j.first_seen;
       } else {
         state.jobs.push(j);
