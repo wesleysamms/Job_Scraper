@@ -208,6 +208,8 @@
   /* ---- Added features: CalCareers source, fit score, salary, map, not-relevant ---- */
   .src.calcareers { background: rgba(180,83,9,0.18); color: #fbbf24; }
   .src.usajobs { background: rgba(29,78,216,0.18); color: #93c5fd; }
+  .src.neogov { background: rgba(14,116,144,0.20); color: #67e8f9; }
+  .src.calopps { background: rgba(21,128,61,0.20); color: #86efac; }
   .src.master { background: var(--pill-bg); color: var(--muted); }
 
   .scorechip.fit { cursor: help; }
@@ -369,6 +371,8 @@
     { name: 'indeed_jobs.json',   src: 'Indeed'     },
     { name: 'calcareers_jobs.json', src: 'CalCareers' },
     { name: 'usajobs_jobs.json',  src: 'USAJOBS'    },
+    { name: 'governmentjobs_jobs.json', src: 'NEOGOV' },
+    { name: 'calopps_jobs.json',  src: 'CalOpps'    },
     // Cumulative master kept by the scrapers (the rolling files above only hold
     // their latest window). Lets the Rank tab show every recently-seen role.
     { name: 'all_jobs.json',      src: 'Master'   },
@@ -419,6 +423,8 @@
   }
   function classifySource(j) {
     if (j.ats === 'USAJOBS' || (j.url || '').includes('usajobs.gov')) return 'USAJOBS';
+    if (j.ats === 'NEOGOV' || (j.url || '').includes('governmentjobs.com')) return 'NEOGOV';
+    if (j.ats === 'CalOpps' || (j.url || '').includes('calopps.org')) return 'CalOpps';
     if (j.ats === 'CalCareers' || (j.url || '').includes('calcareers.ca.gov')) return 'CalCareers';
     if (j.ats === 'LinkedIn') return 'LinkedIn';
     if (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') return 'Priority';
@@ -1027,7 +1033,8 @@
         <div class="job-main">
           <div class="title">${star}${fitChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
           <div class="meta">
-            <span class="co">${escape(j.company)}${srcBadges}</span>
+            <span class="co">${escape(j.company)}</span>
+            <span class="src-item">🔗 ${srcBadges}</span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
             ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
             <span>🕒 ${escape(j.date_posted || '')}</span>
@@ -1248,7 +1255,7 @@
 
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed) dupes
-    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'CalCareers', 'USAJOBS']);
+    renderFilterGroup('filter-source', 'source', ['LinkedIn', 'Priority', 'Indeed', 'CalCareers', 'USAJOBS', 'NEOGOV', 'CalOpps']);
     renderFilterGroup('filter-role', 'role',
       ['Toxicology', 'Risk/Exposure', 'Water', 'Contaminants',
        'Environmental Health', 'Environmental Science', 'Policy/Regulatory',

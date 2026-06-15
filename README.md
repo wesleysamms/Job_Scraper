@@ -120,6 +120,8 @@ geo lists at the top of `scrape_jobs.py` to add/remove regions:
 | `indeed_jobs.json` / `.md` / `.html` | Indeed watcher | Indeed-sourced California roles, last 24h, deduped |
 | `calcareers_jobs.json` / `.md` / `.html` | CalCareers watcher | California state civil-service roles (calcareers.ca.gov) |
 | `usajobs_jobs.json` / `.md` / `.html` | USAJOBS watcher | Federal roles with salary (EPA, NOAA, USGS, FDA, NIEHS…) via usajobs.gov |
+| `governmentjobs_jobs.json` / `.md` / `.html` | NEOGOV watcher | CA/OR state & local-gov roles (air & water districts, county env health) via governmentjobs.com |
+| `calopps_jobs.json` / `.md` / `.html` | CalOpps watcher | California local-agency roles (cities, counties, special districts) via calopps.org |
 | `all_jobs.json` | accumulator | Cumulative 14-day master (feeds the dashboard + triage) |
 | `scores.json` | triage agent | Optional fit verdicts keyed by job URL |
 
@@ -152,9 +154,26 @@ Federal roles are nationwide; use the dashboard's location filter/map to focus.
 > Source identified from the [OpenPostings](https://github.com/Masterjx9/OpenPostings)
 > project's catalog of 80+ ATS providers. OpenPostings is a self-hosted
 > aggregator (not a hosted API), so rather than depend on it we query the
-> official USAJOBS public endpoint directly. Its catalog also lists
-> `governmentjobs` (NEOGOV — county/city air & water districts, environmental
-> health depts) and `calopps` (CA local agencies) as natural future additions.
+> official USAJOBS public endpoint directly.
+
+### NEOGOV & CalOpps (state & local government)
+
+Also added from the OpenPostings catalog — the boards that carry county/city
+environmental roles LinkedIn and Indeed miss:
+
+- **`--governmentjobs-only`** ([governmentjobs.com](https://www.governmentjobs.com) /
+  NEOGOV) — state & local agencies nationwide; keyword-searched and **filtered to
+  CA/OR**. Surfaces e.g. air-district Air Quality Specialists, county Hazardous
+  Materials Specialists, water-district roles.
+- **`--calopps-only`** ([calopps.org](https://www.calopps.org)) — California
+  local agencies (cities, counties, special & water districts). CA-only board, so
+  it's title-filtered only (e.g. Water Resources Specialist, Environmental Health
+  Specialist).
+
+Both are HTML scrapes (no API), fully guarded, and run daily via
+`localgov_watch.yml`. Local-gov env roles are sparse, so yield is low but
+high-signal — they catch the occasional perfect agency role that the big boards
+don't list.
 
 ### Dashboard features
 
@@ -217,6 +236,8 @@ python scrape_jobs.py --linkedin-only    # general env/tox LinkedIn, last 1h
 python scrape_jobs.py --indeed-only      # general env/tox Indeed, last 24h
 python scrape_jobs.py --calcareers-only  # California state jobs (calcareers.ca.gov)
 python scrape_jobs.py --usajobs-only     # federal jobs (usajobs.gov, no API key)
+python scrape_jobs.py --governmentjobs-only  # state/local gov (NEOGOV, CA/OR)
+python scrape_jobs.py --calopps-only     # California local agencies (calopps.org)
 ```
 The LinkedIn/priority pipelines use only the standard library. Indeed requires
 `pip install -r requirements.txt` (single dep: `python-jobspy`).
@@ -290,6 +311,7 @@ scrapers and dashboard work fully without them; `scores.json` is optional.
     ├── indeed_watch.yml            # Hourly :47 PT — Indeed (last 24h)
     ├── calcareers_watch.yml        # Daily — CalCareers (California state jobs)
     ├── usajobs_watch.yml           # Daily — USAJOBS (federal jobs, no API key)
+    ├── localgov_watch.yml          # Daily — NEOGOV + CalOpps (state & local gov)
     ├── linkedin_watch_backup.yml   # Watchdog :33 PT — re-dispatches missed runs
     ├── triage.yml                  # Nightly — optional fit scoring (needs secrets)
     └── evals.yml                   # Triage-agent evals (optional)

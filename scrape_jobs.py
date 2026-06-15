@@ -61,15 +61,16 @@ KEYWORDS = [
     "environmental data", "environmental monitoring",
     "environmental assessment", "exposure epidemiolog",
     # ---- Water / contaminants ----
-    "water quality", "drinking water", "watershed",
+    "water quality", "drinking water", "watershed", "water resources",
     "aquatic scien", "limnolog",
     "microplastic", "microplastics", "nanoplastic", "nanomaterial",
     "pfas", "per- and polyfluoro", "emerging contaminant",
     "contaminant", "pollutant", "air pollution", "water pollution",
-    "remediation", "environmental remediation",
+    "air quality", "remediation", "environmental remediation",
     # ---- Chemical safety / product stewardship / regulatory ----
     "chemical safety", "chemical risk", "chemical assess",
     "chemical regulatory", "product steward", "regulatory toxicolog",
+    "hazardous materials", "hazardous waste", "environmental compliance",
     # ---- Ecotoxicology-adjacent ecology / sustainability ----
     "ecotoxicolog", "conservation toxicolog",
 ]
@@ -1146,6 +1147,171 @@ def save_usajobs_results(jobs: list):
     )
 
 
+# ---------------------------------------------------------------------------
+# GovernmentJobs.com / NEOGOV — state, county & city agencies (air & water
+# districts, county environmental health, etc.). HTML search; keyword-filterable.
+# Post-filtered to CA/OR (the board is nationwide). Source from the OpenPostings
+# ATS catalog (https://github.com/Masterjx9/OpenPostings).
+# ---------------------------------------------------------------------------
+
+GOVERNMENTJOBS_BASE = "https://www.governmentjobs.com"
+GOVERNMENTJOBS_TERMS = [
+    "toxicologist", "environmental scientist", "environmental health",
+    "risk assessment", "water quality", "air quality",
+    "hazardous materials", "environmental specialist",
+]
+GOVERNMENTJOBS_DAYS = 21
+GOVERNMENTJOBS_PAGES = 2
+
+
+def scrape_governmentjobs_recent() -> list:
+    """State/local-gov env roles via governmentjobs.com, filtered to CA/OR."""
+    print("🏛  Scraping GovernmentJobs/NEOGOV (state & local gov)...")
+    item_re = re.compile(r'<li[^>]*class=["\'][^"\']*\bjob-item\b[^"\']*["\'][^>]*>([\s\S]*?)</li>', re.I)
+    link_re = re.compile(r'<a[^>]*class=["\'][^"\']*\bjob-details-link\b[^"\']*["\'][^>]*href=["\']([^"\']+)["\'][^>]*>([\s\S]*?)</a>', re.I)
+    org_re = re.compile(r'<div[^>]*class=["\'][^"\']*\bjob-organization\b[^"\']*["\'][^>]*>([\s\S]*?)</div>', re.I)
+    loc_re = re.compile(r'<span[^>]*class=["\'][^"\']*\bjob-location\b[^"\']*["\'][^>]*>([\s\S]*?)</span>', re.I)
+    import html as html_mod
+
+    def _clean(s):
+        return re.sub(r'\s+', ' ', html_mod.unescape(re.sub(r'<[^>]+>', ' ', s or ''))).strip()
+
+    jobs_by_url: dict[str, dict] = {}
+    raw_items = 0
+    for term in GOVERNMENTJOBS_TERMS:
+        for page in range(1, GOVERNMENTJOBS_PAGES + 1):
+            time.sleep(REQUEST_DELAY)
+            url = (f"{GOVERNMENTJOBS_BASE}/jobs?keyword={urllib.parse.quote(term)}"
+                   f"&daysposted={GOVERNMENTJOBS_DAYS}&isFiltered=true&page={page}")
+            page_html = fetch(url)
+            items = item_re.findall(page_html)
+            raw_items += len(items)
+            if not items:
+                break
+            for it in items:
+                lk = link_re.search(it)
+                if not lk:
+                    continue
+                title = _clean(lk.group(2))
+                if not is_mle_role(title):
+                    continue
+                loc_m = loc_re.search(it)
+                location = _clean(loc_m.group(1)) if loc_m else ""
+                if not is_target_location(location):
+                    continue   # board is nationwide — keep CA/OR only
+                href = re.sub(r'\s+', '', lk.group(1))
+                job_url = href if href.startswith("http") else GOVERNMENTJOBS_BASE + "/" + href.lstrip("/")
+                if job_url in jobs_by_url:
+                    continue
+                org_m = org_re.search(it)
+                jobs_by_url[job_url] = {
+                    "company": _clean(org_m.group(1)) if org_m else "Government Agency",
+                    "title": title,
+                    "location": location,
+                    "url": job_url,
+                    "date_posted": "",
+                    "salary": "",
+                    "ats": "NEOGOV",
+                }
+    jobs = list(jobs_by_url.values())
+    print(f"  ✅ NEOGOV: {len(jobs)} CA/OR role(s) (from {raw_items} scanned)")
+    if not jobs and raw_items == 0:
+        return _load_prev_jobs(os.path.join(SCRIPT_DIR, "governmentjobs_jobs.json"))
+    return jobs
+
+
+def save_governmentjobs_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="governmentjobs_jobs",
+        title="🏛 NEOGOV — State & Local Government Environmental Roles",
+        subtitle="governmentjobs.com · CA/OR agencies, air & water districts, county env health",
+        accent="#0e7490",
+        empty_message="No new state/local-gov roles since the last run.",
+        window_label="recent GovernmentJobs postings",
+    )
+
+
+# ---------------------------------------------------------------------------
+# CalOpps — California local-agency jobs (cities, counties, special districts,
+# water associations). HTML list; CA-only, so no geo filter — just title filter.
+# Source from the OpenPostings ATS catalog.
+# ---------------------------------------------------------------------------
+
+CALOPPS_LIST_URL = "https://www.calopps.org/job-search-list"
+CALOPPS_MAX_PAGES = 10
+
+
+def _calopps_company(href: str) -> str:
+    m = re.match(r'/?([^/]+)/', href or "")
+    if not m:
+        return "California Agency"
+    return m.group(1).replace('-', ' ').title()
+
+
+def scrape_calopps_recent() -> list:
+    """California local-agency env/tox roles from calopps.org (CA-only board)."""
+    print("🏛  Scraping CalOpps (California local agencies)...")
+    import html as html_mod
+    row_re = re.compile(r'<tr[^>]*>([\s\S]*?)</tr>', re.I)
+    cell_re = re.compile(r'<td[^>]*>([\s\S]*?)</td>', re.I)
+    link_re = re.compile(r'<a[^>]*href=["\']([^"\']+)["\'][^>]*>([\s\S]*?)</a>', re.I)
+
+    def _clean(s):
+        return re.sub(r'\s+', ' ', html_mod.unescape(re.sub(r'<[^>]+>', ' ', s or ''))).strip()
+
+    jobs_by_url: dict[str, dict] = {}
+    scanned = 0
+    for page in range(CALOPPS_MAX_PAGES):
+        time.sleep(REQUEST_DELAY)
+        url = CALOPPS_LIST_URL + (f"?page={page}" if page else "")
+        page_html = fetch(url)
+        rows = [r for r in row_re.findall(page_html) if "views-field-label" in r.lower()]
+        if not rows:
+            break
+        for r in rows:
+            cells = cell_re.findall(r)
+            if len(cells) < 5:
+                continue
+            lk = link_re.search(cells[0])
+            if not lk:
+                continue
+            scanned += 1
+            title = _clean(lk.group(2))
+            if not is_mle_role(title):
+                continue
+            href = html_mod.unescape(lk.group(1).strip())
+            job_url = href if href.startswith("http") else "https://www.calopps.org" + ("" if href.startswith("/") else "/") + href
+            if job_url in jobs_by_url:
+                continue
+            jobs_by_url[job_url] = {
+                "company": _calopps_company(href),
+                "title": title,
+                "location": _clean(cells[1]) or "California",
+                "url": job_url,
+                "date_posted": "",
+                "salary": "",
+                "ats": "CalOpps",
+            }
+    jobs = list(jobs_by_url.values())
+    print(f"  ✅ CalOpps: {len(jobs)} env/tox role(s) (from {scanned} scanned)")
+    if not jobs and scanned == 0:
+        return _load_prev_jobs(os.path.join(SCRIPT_DIR, "calopps_jobs.json"))
+    return jobs
+
+
+def save_calopps_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="calopps_jobs",
+        title="🏛 CalOpps — California Local-Agency Environmental Roles",
+        subtitle="calopps.org · CA cities, counties, special & water districts",
+        accent="#15803d",
+        empty_message="No new CalOpps roles since the last run.",
+        window_label="recent CalOpps postings",
+    )
+
+
 def format_salary(min_amount, max_amount, interval) -> str:
     """
     Display string for jobspy's Indeed pay fields, e.g. "$150k–$190k/yr" or
@@ -1511,6 +1677,14 @@ if __name__ == "__main__":
 
     if "--usajobs-only" in sys.argv:
         save_usajobs_results(scrape_usajobs_recent())
+        sys.exit(0)
+
+    if "--governmentjobs-only" in sys.argv:
+        save_governmentjobs_results(scrape_governmentjobs_recent())
+        sys.exit(0)
+
+    if "--calopps-only" in sys.argv:
+        save_calopps_results(scrape_calopps_recent())
         sys.exit(0)
 
     if "--biotech-only" in sys.argv:
