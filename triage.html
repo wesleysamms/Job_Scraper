@@ -336,7 +336,7 @@
           aria-label="Minimum annual salary" />
         <span class="salval" id="sal-val">Any</span>
       </div>
-      <label><input type="checkbox" id="sal-unknown" checked /> include unlisted</label>
+      <label><input type="checkbox" id="sal-unknown" /> include unlisted</label>
     </div>
   </div>
 </div>
@@ -760,7 +760,7 @@
     state: new Set(['active', 'saved', 'applied']),
     days: null,   // null = any time; else an integer day-window (7 = last 7 days)
     salMin: 0,    // minimum annual salary (USD); 0 = no floor
-    salUnknown: true,  // include roles with no listed salary
+    salUnknown: false,  // when a floor is set, exclude roles with no listed salary (toggle to include)
     starOnly: false,   // show only priority-topic (starred) roles
     q: '',
   };
@@ -1443,8 +1443,8 @@
     filters.source.clear(); filters.role.clear(); filters.sen.clear();
     filters.state = new Set(['active', 'saved', 'applied']);
     filters.days = null;
-    filters.salMin = 0; filters.salUnknown = true;
-    $('sal-min').value = 0; $('sal-unknown').checked = true;
+    filters.salMin = 0; filters.salUnknown = false;
+    $('sal-min').value = 0; $('sal-unknown').checked = false;
     filters.starOnly = false;
     $('star-only').classList.remove('on'); $('star-only').setAttribute('aria-pressed', 'false');
     filters.q = ''; $('search').value = '';

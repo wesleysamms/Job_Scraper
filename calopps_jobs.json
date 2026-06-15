@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-15 04:09 UTC",
+  "scraped_at": "2026-06-15 04:38 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Redwood City",
@@ -9,19 +9,9 @@
       "location": "San Francisco/Peninsula",
       "url": "https://www.calopps.org/redwood-city/job-20739377",
       "date_posted": "",
-      "salary": "",
+      "salary": "$9,272.00-$11,275.00 Monthly",
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Redwood City",
-      "title": "Water Resources Specialist #26A-20",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/redwood-city/job-20739377",
-      "date_posted": "",
-      "salary": "",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }

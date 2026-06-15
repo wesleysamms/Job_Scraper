@@ -1202,13 +1202,19 @@ def scrape_governmentjobs_recent() -> list:
                 if job_url in jobs_by_url:
                     continue
                 org_m = org_re.search(it)
+                # NEOGOV cards carry pay inline, e.g. "$67,296.24 - $100,098.72
+                # Annually" (or Monthly/Hourly) — the dashboard annualizes it.
+                sal_m = re.search(
+                    r'\$[\d,]+(?:\.\d{2})?\s*-\s*\$[\d,]+(?:\.\d{2})?'
+                    r'\s*(?:Annually|Monthly|Hourly|Biweekly|Bi-Weekly|Weekly|Daily)?',
+                    _clean(it), re.I)
                 jobs_by_url[job_url] = {
                     "company": _clean(org_m.group(1)) if org_m else "Government Agency",
                     "title": title,
                     "location": location,
                     "url": job_url,
                     "date_posted": "",
-                    "salary": "",
+                    "salary": sal_m.group(0).strip() if sal_m else "",
                     "ats": "NEOGOV",
                 }
     jobs = list(jobs_by_url.values())
@@ -1292,6 +1298,20 @@ def scrape_calopps_recent() -> list:
                 "ats": "CalOpps",
             }
     jobs = list(jobs_by_url.values())
+    # Salary is on the posting page (e.g. "Salary $9,272.00-$11,275.00 Monthly"),
+    # not the list — backfill it (few matches, so one fetch each is cheap).
+    for job in jobs:
+        time.sleep(REQUEST_DELAY)
+        try:
+            ph = fetch(job["url"])
+        except (URLError, TimeoutError, OSError):
+            continue
+        sm = re.search(
+            r'Salary\s*(\$[\d,]+(?:\.\d{2})?\s*-\s*\$[\d,]+(?:\.\d{2})?'
+            r'\s*(?:Monthly|Annually|Hourly|Biweekly|Bi-Weekly|Weekly|Daily)?)',
+            re.sub(r'<[^>]+>', ' ', ph), re.I)
+        if sm:
+            job["salary"] = re.sub(r'\s+', ' ', sm.group(1)).strip()
     print(f"  ✅ CalOpps: {len(jobs)} env/tox role(s) (from {scanned} scanned)")
     if not jobs and scanned == 0:
         return _load_prev_jobs(os.path.join(SCRIPT_DIR, "calopps_jobs.json"))

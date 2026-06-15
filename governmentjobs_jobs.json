@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-15 04:09 UTC",
+  "scraped_at": "2026-06-15 04:38 UTC",
   "total": 4,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Palo Alto",
@@ -9,7 +9,7 @@
       "location": "Palo Alto, CA",
       "url": "https://www.governmentjobs.com/jobs/5192494-0/electrician-regional-water-quality-control-plant",
       "date_posted": "",
-      "salary": "",
+      "salary": "$119,953.60 - $146,702.40 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -18,7 +18,7 @@
       "location": "Sacramento, CA",
       "url": "https://www.governmentjobs.com/jobs/5348244-0/utilities-operations-and-maintenance-superintendent-water-quality-lab-and-rd",
       "date_posted": "",
-      "salary": "",
+      "salary": "$114,176.67 - $160,658.04 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -27,7 +27,7 @@
       "location": "San Francisco, CA",
       "url": "https://www.governmentjobs.com/jobs/5370135-0/senior-air-quality-specialist-ambient-air-quality-analysis",
       "date_posted": "",
-      "salary": "",
+      "salary": "$125,685.16 - $152,771.09 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -36,46 +36,9 @@
       "location": "City of Mountain View",
       "url": "https://www.governmentjobs.com/jobs/5345724-0/senior-hazardous-materials-specialist",
       "date_posted": "",
-      "salary": "",
+      "salary": "$171,085.46 - $231,468.38 Annually",
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Palo Alto",
-      "title": "Electrician (Regional Water Quality Control Plant)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5192494-0/electrician-regional-water-quality-control-plant",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Sacramento",
-      "title": "Utilities Operations and Maintenance Superintendent (Water Quality Lab and R&D)",
-      "location": "Sacramento, CA",
-      "url": "https://www.governmentjobs.com/jobs/5348244-0/utilities-operations-and-maintenance-superintendent-water-quality-lab-and-rd",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Bay Area Air District",
-      "title": "Senior Air Quality Specialist (Ambient Air Quality Analysis)",
-      "location": "San Francisco, CA",
-      "url": "https://www.governmentjobs.com/jobs/5370135-0/senior-air-quality-specialist-ambient-air-quality-analysis",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Mountain View (CA)",
-      "title": "Senior Hazardous Materials Specialist",
-      "location": "City of Mountain View",
-      "url": "https://www.governmentjobs.com/jobs/5345724-0/senior-hazardous-materials-specialist",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }
