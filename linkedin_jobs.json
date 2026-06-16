@@ -1,44 +1,8 @@
 {
-  "scraped_at": "2026-06-16 22:04 UTC",
-  "total": 8,
-  "new_count": 8,
+  "scraped_at": "2026-06-16 22:56 UTC",
+  "total": 10,
+  "new_count": 3,
   "jobs": [
-    {
-      "company": "H2O America",
-      "title": "Director of Water Quality",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4429712552/",
-      "date_posted": "2026-06-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Triumvirate Environmental",
-      "title": "Environmental Specialist",
-      "location": "Burbank, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422478417/",
-      "date_posted": "2026-06-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Triumvirate Environmental",
-      "title": "Environmental Specialist",
-      "location": "Santa Fe Springs, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422489281/",
-      "date_posted": "2026-06-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Veridian Tech Solutions, Inc.",
-      "title": "Environmental Health Safety Specialist",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428401326/",
-      "date_posted": "2026-06-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
     {
       "company": "Veridian Tech Solutions, Inc.",
       "title": "Environmental Health Safety Specialist",
@@ -55,6 +19,60 @@
       "url": "https://www.linkedin.com/jobs/view/4428093322/",
       "date_posted": "2026-06-16",
       "salary": "$65,000.00/yr - $65,000.00/yr",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Veridian Tech Solutions, Inc.",
+      "title": "Environmental Health Safety Specialist",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428401326/",
+      "date_posted": "2026-06-16",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tata Consultancy Services",
+      "title": "Environmental Health Safety Specialist",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428409412/",
+      "date_posted": "2026-06-16",
+      "salary": "$50,000.00/yr - $60,000.00/yr",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Triumvirate Environmental",
+      "title": "Environmental Specialist",
+      "location": "Santa Fe Springs, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422489281/",
+      "date_posted": "2026-06-16",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Triumvirate Environmental",
+      "title": "Environmental Specialist",
+      "location": "Burbank, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422478417/",
+      "date_posted": "2026-06-16",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SOCOTEC US",
+      "title": "Project Manager \u2013 Environmental Scientist (Hazardous Building Materials)",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4429733341/",
+      "date_posted": "2026-06-16",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "City and County of San Francisco",
+      "title": "Air Quality &amp; Compliance Lead (5642) - San Francisco International Airport - (163094)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4429724274/",
+      "date_posted": "2026-06-16",
+      "salary": "",
       "ats": "LinkedIn"
     },
     {
@@ -78,73 +96,28 @@
   ],
   "new_jobs": [
     {
-      "company": "H2O America",
-      "title": "Director of Water Quality",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4429712552/",
-      "date_posted": "2026-06-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Triumvirate Environmental",
-      "title": "Environmental Specialist",
-      "location": "Burbank, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422478417/",
-      "date_posted": "2026-06-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Triumvirate Environmental",
-      "title": "Environmental Specialist",
-      "location": "Santa Fe Springs, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422489281/",
-      "date_posted": "2026-06-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Veridian Tech Solutions, Inc.",
+      "company": "Tata Consultancy Services",
       "title": "Environmental Health Safety Specialist",
       "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428401326/",
+      "url": "https://www.linkedin.com/jobs/view/4428409412/",
+      "date_posted": "2026-06-16",
+      "salary": "$50,000.00/yr - $60,000.00/yr",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SOCOTEC US",
+      "title": "Project Manager \u2013 Environmental Scientist (Hazardous Building Materials)",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4429733341/",
       "date_posted": "2026-06-16",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "Veridian Tech Solutions, Inc.",
-      "title": "Environmental Health Safety Specialist",
-      "location": "San Diego, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428404297/",
-      "date_posted": "2026-06-16",
-      "salary": "$60,000.00/yr - $60,000.00/yr",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Veridian Tech Solutions, Inc.",
-      "title": "Environmental Health Safety Specialist",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4428093322/",
-      "date_posted": "2026-06-16",
-      "salary": "$65,000.00/yr - $65,000.00/yr",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "WSP in the U.S.",
-      "title": "Environmental Data Analytics Specialist",
-      "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4429717302/",
-      "date_posted": "2026-06-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "WSP in the U.S.",
-      "title": "Environmental Data Analytics Specialist",
-      "location": "Tigard, OR",
-      "url": "https://www.linkedin.com/jobs/view/4429705770/",
+      "company": "City and County of San Francisco",
+      "title": "Air Quality &amp; Compliance Lead (5642) - San Francisco International Airport - (163094)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4429724274/",
       "date_posted": "2026-06-16",
       "salary": "",
       "ats": "LinkedIn"
