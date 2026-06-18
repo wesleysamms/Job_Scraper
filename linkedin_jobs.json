@@ -1,7 +1,81 @@
 {
-  "scraped_at": "2026-06-18 20:02 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-06-18 21:10 UTC",
+  "total": 4,
+  "new_count": 4,
+  "jobs": [
+    {
+      "company": "worldswin",
+      "title": "Hazardous Materials & Occupational Hygiene Consultant - Senior to Senior Associate-levelHybrid",
+      "location": "Newcastle, New South Wales, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4430727996/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "worldswin",
+      "title": "Associate Environmental Scientist - Contaminated Land ManagementHybrid",
+      "location": "Gold Coast",
+      "url": "https://www.linkedin.com/jobs/view/4430747504/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "worldswin",
+      "title": "Hazardous Materials & Occupational Hygiene ConsultantHybrid",
+      "location": "Coffs Harbour, New South Wales, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4430737614/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "worldswin",
+      "title": "Senior Associate, Hazardous Materials & Occupational Hygiene - Newcastle or SydneyHybrid",
+      "location": "Sydney, New South Wales, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4430743545/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "worldswin",
+      "title": "Hazardous Materials & Occupational Hygiene Consultant - Senior to Senior Associate-levelHybrid",
+      "location": "Newcastle, New South Wales, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4430727996/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "worldswin",
+      "title": "Associate Environmental Scientist - Contaminated Land ManagementHybrid",
+      "location": "Gold Coast",
+      "url": "https://www.linkedin.com/jobs/view/4430747504/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "worldswin",
+      "title": "Hazardous Materials & Occupational Hygiene ConsultantHybrid",
+      "location": "Coffs Harbour, New South Wales, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4430737614/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "worldswin",
+      "title": "Senior Associate, Hazardous Materials & Occupational Hygiene - Newcastle or SydneyHybrid",
+      "location": "Sydney, New South Wales, Australia",
+      "url": "https://www.linkedin.com/jobs/view/4430743545/",
+      "date_posted": "2026-06-18",
+      "salary": "",
+      "ats": "LinkedIn"
+    }
+  ]
 }
