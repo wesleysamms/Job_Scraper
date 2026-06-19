@@ -1,9 +1,13 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-19 16:17 UTC*
+*Last updated: 2026-06-19 17:58 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Mid-Level Environmental Scientist/Ecological Risk Assessor](https://www.linkedin.com/jobs/view/4402614450/) — Jacobs
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $98,900.00/yr - $149,600.00/yr
+### [Environmental Health Specialist I-II-III - Consumer Protection Programs](https://www.linkedin.com/jobs/view/4376567852/) — County of San Mateo
+- 📍 **Location:** San Mateo County, CA
+- 💰 **Salary:** $7,579.87/mo - $11,778.00/mo
+- 🕒 **Posted:** 2026-06-19
+
+### [Environmental Scientist/Geologist](https://www.linkedin.com/jobs/view/4430992749/) — APTIM
+- 📍 **Location:** Concord, CA
 - 🕒 **Posted:** 2026-06-19

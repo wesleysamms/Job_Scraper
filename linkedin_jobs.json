@@ -1,26 +1,44 @@
 {
-  "scraped_at": "2026-06-19 16:17 UTC",
-  "total": 1,
-  "new_count": 1,
+  "scraped_at": "2026-06-19 17:58 UTC",
+  "total": 2,
+  "new_count": 2,
   "jobs": [
     {
-      "company": "Jacobs",
-      "title": "Mid-Level Environmental Scientist/Ecological Risk Assessor",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402614450/",
+      "company": "County of San Mateo",
+      "title": "Environmental Health Specialist I-II-III - Consumer Protection Programs",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4376567852/",
       "date_posted": "2026-06-19",
-      "salary": "$98,900.00/yr - $149,600.00/yr",
+      "salary": "$7,579.87/mo - $11,778.00/mo",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "APTIM",
+      "title": "Environmental Scientist/Geologist",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4430992749/",
+      "date_posted": "2026-06-19",
+      "salary": "",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Jacobs",
-      "title": "Mid-Level Environmental Scientist/Ecological Risk Assessor",
-      "location": "Irvine, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402614450/",
+      "company": "County of San Mateo",
+      "title": "Environmental Health Specialist I-II-III - Consumer Protection Programs",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4376567852/",
       "date_posted": "2026-06-19",
-      "salary": "$98,900.00/yr - $149,600.00/yr",
+      "salary": "$7,579.87/mo - $11,778.00/mo",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "APTIM",
+      "title": "Environmental Scientist/Geologist",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4430992749/",
+      "date_posted": "2026-06-19",
+      "salary": "",
       "ats": "LinkedIn"
     }
   ]
