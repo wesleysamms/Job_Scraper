@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-22 21:41 UTC",
-  "total": 45,
-  "new_count": 0,
+  "scraped_at": "2026-06-22 22:32 UTC",
+  "total": 47,
+  "new_count": 5,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -14,8 +14,8 @@
       "salary": "$122k–$158k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "State of Washington",
@@ -28,8 +28,8 @@
       "salary": "$79k–$106k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
     },
     {
       "company": "Robson Forensic",
@@ -42,8 +42,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
     },
     {
       "company": "Insmed",
@@ -56,22 +56,36 @@
       "salary": "$133k–$173k/yr",
       "job_type": "Full Time",
       "is_remote": true,
-      "ats": "HiringCafe",
-      "work_arrangement": "Remote in-state eligible"
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
     },
     {
       "company": "Other Agencies and Independent Organizations",
       "title": "Pharmacologist/Physiologist/Toxicologist",
       "location": "Rockville, Maryland, United States",
-      "url": "https://www.usajobs.gov/job/872779100",
-      "direct_url": "https://www.usajobs.gov/job/872779100",
-      "date_posted": "2026-06-11T15:08:14.100Z",
-      "description": "U.S. citizen required; background investigation and Public Trust. Mandatory degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework. Minimum 52 weeks specialized experience in toxicology, pharmacology, or physiology; ability to perform hazard analyses and prepare technical reports.",
+      "url": "https://www.usajobs.gov/job/872778700",
+      "direct_url": "https://www.usajobs.gov/job/872778700",
+      "date_posted": "2026-06-11T15:06:50.420Z",
+      "description": "U.S. citizen required; Public Trust background investigation; degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework; 1+ year specialized experience in toxicology/pharmacology/physiology analyses and report preparation; transcripts required.",
       "salary": "$85k–$158k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Exponent",
+      "title": "Public Health Toxicologist (Ph.D.)",
+      "location": "Austin, Texas, United States",
+      "url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
+      "direct_url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
+      "date_posted": "2026-06-19T04:00:00.000Z",
+      "description": "Ph.D. in toxicology/public health or related field, strong human health toxicology and risk assessment expertise, excellent writing and communication, ability to manage multiple projects and work independently or in teams; must be authorized to work in the U.S.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "Consumer Reports",
@@ -84,22 +98,8 @@
       "salary": "$65k–$70k/yr",
       "job_type": "Part Time, Temporary",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Tricounty Health Department",
-      "title": "Environmental Health Scientist",
-      "location": "Roosevelt or Vernal",
-      "url": "https://tricountyhealth.bamboohr.com/careers/127",
-      "direct_url": "https://tricountyhealth.bamboohr.com/careers/127",
-      "date_posted": "2026-05-27T00:00:00.000Z",
-      "description": "Bachelor of Science in a scientific field; Utah Environmental Health Scientist License or ability to obtain within 1 year.",
-      "salary": "$48k–$81k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
     },
     {
       "company": "GHD",
@@ -112,8 +112,8 @@
       "salary": "$60k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
     },
     {
       "company": "Oneida Total Integrated Enterprises",
@@ -126,8 +126,8 @@
       "salary": "$65k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "Trilon Group",
@@ -140,8 +140,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "Tucsonaz",
@@ -154,8 +154,8 @@
       "salary": "$61k–$91k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "Crystal Clean",
@@ -168,8 +168,8 @@
       "salary": "$75k–$95k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "J.S. Held LLC",
@@ -182,8 +182,8 @@
       "salary": "$68k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": true,
-      "ats": "HiringCafe",
-      "work_arrangement": "Remote in-state eligible"
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
     },
     {
       "company": "Terracon Career Site",
@@ -196,8 +196,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "Arcadis",
@@ -210,22 +210,8 @@
       "salary": "$50k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "HDR",
-      "title": "Environmental Scientist II",
-      "location": "Seattle or Everett or Olympia or Bellevue or Gig Harbor",
-      "url": "https://hdr.taleo.net/careersection/hdr_mobile/jobdetail.ftl?job=193572&lang=en",
-      "direct_url": "https://hdr.taleo.net/careersection/hdr_mobile/jobdetail.ftl?job=193572&lang=en",
-      "date_posted": "2026-06-08T10:36:53.000Z",
-      "description": "Bachelor's in Environmental Science, 5+ years technical/field experience preparing environmental documents, ability to lead wetland/stream delineations and habitat surveys, prepare environmental permitting documentation, strong writing and MS Office skills.",
-      "salary": "$80k–$126k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "Arcadis",
@@ -238,8 +224,36 @@
       "salary": "$50k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "HDR",
+      "title": "Environmental Scientist II",
+      "location": "Seattle or Everett or Olympia or Bellevue or Gig Harbor",
+      "url": "https://hdr.taleo.net/careersection/hdr_mobile/jobdetail.ftl?job=193572&lang=en",
+      "direct_url": "https://hdr.taleo.net/careersection/hdr_mobile/jobdetail.ftl?job=193572&lang=en",
+      "date_posted": "2026-06-08T10:36:53.000Z",
+      "description": "Bachelor's in Environmental Science, 5+ years technical/field experience preparing environmental documents, ability to lead wetland/stream delineations and habitat surveys, prepare environmental permitting documentation, strong writing and MS Office skills.",
+      "salary": "$80k–$126k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "King County, WA",
+      "title": "Environmental Scientist IV",
+      "location": "Renton or Seattle or Washington",
+      "url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5383386",
+      "direct_url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5383386",
+      "date_posted": "2026-06-22T05:13:57.000Z",
+      "description": "Requires 5+ years progressive environmental experience and 5+ years supervisory experience leading multidisciplinary scientific staff; knowledge of environmental regulations, permitting, monitoring, project and budget management; valid WA driver’s license and pre-employment physical; must reside in Washington State.",
+      "salary": "$130k–$165k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
     },
     {
       "company": "Energy & Environment Cabinet",
@@ -252,8 +266,8 @@
       "salary": "$52k–$71k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "Dewberry",
@@ -266,8 +280,8 @@
       "salary": "$62k–$78k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "Alliance Technical Group",
@@ -280,8 +294,8 @@
       "salary": "$68k–$72k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "Johnson, Mirmiran & Thompson, Inc.",
@@ -294,8 +308,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "VRX, Inc.",
@@ -308,8 +322,8 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "South Dakota State Government",
@@ -322,8 +336,8 @@
       "salary": "$59k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "Verdantas",
@@ -336,22 +350,22 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
-      "company": "CDR Maguire",
+      "company": "CDR Companies",
       "title": "Environmental Scientist II - Williamsport",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "url": "https://jobs.workable.com/view/eypyBf7f6uFfTdTWeF1Qk6/environmental-scientist-ii---williamsport-in-pittsburgh-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/eypyBf7f6uFfTdTWeF1Qk6/environmental-scientist-ii---williamsport-in-pittsburgh-at-cdr-companies",
-      "date_posted": "2026-06-15T14:42:22.940Z",
-      "description": "5+ years environmental experience, B.S. in Environmental Science/Ecology/Biology, independent wetland/stream delineation, PADEP/USACE permit preparation experience, sub‑meter GPS use, valid driver’s license, MS Office proficiency.",
+      "location": "Elmira, New York, United States",
+      "url": "https://jobs.workable.com/view/n5vPdWvbMi9uRMKtA2wMP9/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
+      "direct_url": "https://jobs.workable.com/view/n5vPdWvbMi9uRMKtA2wMP9/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
+      "date_posted": "2026-06-22T15:14:28.011Z",
+      "description": "B.S. in environmental science or related field, 5+ years environmental experience, independent wetland/stream delineation, sub‑meter GPS experience, knowledge of PADEP/USACE regulations, Microsoft Office proficiency, valid driver’s license.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "Olsson",
@@ -364,8 +378,8 @@
       "salary": "$80k–$140k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "Remote in-state eligible"
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
     },
     {
       "company": "Spheros Environmental",
@@ -378,246 +392,8 @@
       "salary": "$52k–$73k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Usbank",
-      "title": "Risk Assessment Lead - Cybersecurity Risk Oversight",
-      "location": "Minneapolis or Cincinnati or Charlotte or Tempe or Saint Louis or Irving",
-      "url": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Minneapolis-MN/Risk-Assessment-Lead---Cybersecurity-Risk-Oversight_2026-0013878",
-      "direct_url": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Minneapolis-MN/Risk-Assessment-Lead---Cybersecurity-Risk-Oversight_2026-0013878",
-      "date_posted": "2026-06-12T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience, typically 10+ years in technology/cybersecurity risk; strong knowledge of information security domains and regulatory frameworks; ability to perform independent risk assessments and influence stakeholders.",
-      "salary": "$133k–$157k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Ulse",
-      "title": "Lead Risk Assessment Research Scientist",
-      "location": "Morrisville, North Carolina, United States",
-      "url": "https://ulse.wd5.myworkdayjobs.com/ulricareers/job/Morrisville-NC/Lead-Risk-Assessment-Research-Scientist_JR1515-2",
-      "direct_url": "https://ulse.wd5.myworkdayjobs.com/ulricareers/job/Morrisville-NC/Lead-Risk-Assessment-Research-Scientist_JR1515-2",
-      "date_posted": "2026-05-28T00:00:00.000Z",
-      "description": "Lead risk assessment researcher with toxicology & risk assessment expertise; develops human health risk assessments and communicates findings; strong leadership and collaboration.",
-      "salary": "$119k–$164k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Td",
-      "title": "Compliance Risk Assessment Manager",
-      "location": "Charlotte or New York or Greenville or Mount Laurel or Portland",
-      "url": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/Charlotte-North-Carolina/Compliance-Risk-Assessment-Manager_R_1495493",
-      "direct_url": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/Charlotte-North-Carolina/Compliance-Risk-Assessment-Manager_R_1495493",
-      "date_posted": "2026-06-18T00:00:00.000Z",
-      "description": "Undergraduate degree or equivalent experience and 7+ years in regulatory/compliance/risk management; familiarity with compliance risk assessment, US banking regulations, strong analytical and communication skills, and advanced desktop tool proficiency.",
-      "salary": "$91k–$146k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Cambridge Healthcare Services",
-      "title": "Director of Risk Assessment",
-      "location": "Buena Park, California, United States",
-      "url": "https://jobs.apploi.com/view/1460294?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=170c0f98b2594afaa82c44aabc6ab278&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1460294&ajs_prop_doc_type=job&ajs_prop_job_location_lat=33.856305&ajs_prop_job_location_lon=-118.0184372&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1460294?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=170c0f98b2594afaa82c44aabc6ab278&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1460294&ajs_prop_doc_type=job&ajs_prop_job_location_lat=33.856305&ajs_prop_job_location_lon=-118.0184372&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-06-01T00:00:00.000Z",
-      "description": "RN or Licensed Nurse with 5+ years in long-term care; nursing administration in California; risk assessment and regulatory compliance; willingness to travel across California.",
-      "salary": "$165k–$180k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "CLS-Group",
-      "title": "Compliance Risk Assessment Contractor",
-      "location": "New York City, New York, United States",
-      "url": "https://www.cls-group.com/people/your-career/jobs/job-detail?gh_jid=6017720004",
-      "direct_url": "https://www.cls-group.com/people/your-career/jobs/job-detail?gh_jid=6017720004",
-      "date_posted": "2026-06-18T17:19:18.000Z",
-      "description": "Bachelor's degree required, 3+ years regulatory/compliance experience in financial services, experience writing compliance risk assessments, strong communication and organisational skills, Microsoft Office and GRC tool familiarity, interest in ICA/CAMS.",
-      "salary": "",
-      "job_type": "Contract",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Common Sense Media",
-      "title": "Risk Assessment Associate (Youth AI Safety Institute)",
-      "location": "San Francisco, California, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159738&clientkey=4AA7E7402507528EEEA6308617BB1F08",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159738&clientkey=4AA7E7402507528EEEA6308617BB1F08",
-      "date_posted": "2026-06-02T00:00:00.000Z",
-      "description": "Bachelor's degree; 2+ years in research/tech; analytical, strong communication; technical aptitude with AI tools; ability to handle sensitive content.",
-      "salary": "$62k–$79k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "CoBank",
-      "title": "Senior Enterprise Risk Analyst, Risk Assessment",
-      "location": "Greenwood Village, Colorado, United States",
-      "url": "https://cobank.jibeapply.com/jobs/7834",
-      "direct_url": "https://cobank.jibeapply.com/jobs/7834",
-      "date_posted": "2026-06-16T13:53:29.000Z",
-      "description": "6+ years financial risk management experience, 3+ years with SAS/R/Python/SQL/Matlab, Bachelor's required (relevant fields), FRM/CFA preferred, strong quantitative, analytical, and communication skills.",
-      "salary": "$110k–$135k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Regions",
-      "title": "Enterprise Compliance and Operational Risk Analyst - Risk Assessment",
-      "location": "Birmingham or Charlotte or Atlanta",
-      "url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Enterprise-Compliance-and-Operational-Risk-Analyst---Risk-Assessment_R103532",
-      "direct_url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Enterprise-Compliance-and-Operational-Risk-Analyst---Risk-Assessment_R103532",
-      "date_posted": "2026-06-18T00:00:00.000Z",
-      "description": "Bachelor's + 6 years in risk/audit or HS/GED + 7 years; experience in risk assessments, testing, reporting, GRC tools, data analysis, and strong communication; Microsoft Office proficiency.",
-      "salary": "$81k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "JPMorgan Chase",
-      "title": "Vice President - RFP Risk Assessment Manager - Payments",
-      "location": "Columbus or Chicago or Plano",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210751940",
-      "direct_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210751940",
-      "date_posted": "2026-06-10T15:53:44.000Z",
-      "description": "Experience with TS or Commercial Card services, strong proposal/technical/business writing, intermediate-advanced Microsoft Word and Adobe Professional, detail-oriented, able to multi-task and work varying hours to meet deadlines.",
-      "salary": "$92k–$140k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Cognizant",
-      "title": "GRC-Risk Assessment",
-      "location": "United States",
-      "url": "https://cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00069164714&lang=en",
-      "direct_url": "https://cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00069164714&lang=en",
-      "date_posted": "2026-06-04T05:27:12.395Z",
-      "description": "9+ years experience in business operations or similar; advanced Microsoft Excel, Microsoft SharePoint, and Jira skills; hands-on risk assessment experience; strong written and verbal communication; hybrid day-shift work experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Stantec",
-      "title": "Environmental Scientist",
-      "location": "Honolulu, Hawaii, United States",
-      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006278",
-      "direct_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006278",
-      "date_posted": "2026-06-12T16:13:39.000Z",
-      "description": "Bachelor's in a related field, minimum 5 years water quality experience with surface/groundwater sampling, Hawaii-specific knowledge, field sampling and instrumentation experience, MS Office proficiency, valid driver’s license, ability to perform fieldwork in remote/storm conditions; occasional evenings/weekends.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Apex Companies",
-      "title": "Environmental Scientist Manager ",
-      "location": "Fullerton, California, United States",
-      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5272602008",
-      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5272602008",
-      "date_posted": "2026-06-19T23:09:14.000Z",
-      "description": "BS in environmental science/engineering, 10+ years' professional experience, knowledge of stormwater permitting and water quality monitoring, CPSWQ/CPESC and QSD/QSP/QISP certifications preferred, California driver's license, proficiency with Microsoft Office.",
-      "salary": "$104k–$146k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Trinity River Authority of Texas",
-      "title": "Environmental Scientist I",
-      "location": "Arlington, Texas, United States",
-      "url": "https://recruiting.ultipro.com/tri1018/JobBoard/2172ba69-3733-a300-e248-8c98670ef85b/OpportunityDetail?opportunityId=4732f4b5-c11a-4b25-9b39-83b7bdb23027",
-      "direct_url": "https://recruiting.ultipro.com/tri1018/JobBoard/2172ba69-3733-a300-e248-8c98670ef85b/OpportunityDetail?opportunityId=4732f4b5-c11a-4b25-9b39-83b7bdb23027",
-      "date_posted": "2026-06-10T13:57:13.899Z",
-      "description": "Bachelor's in natural science required; some field or water-quality monitoring experience desired. Must be able to swim, hold a valid Texas driver\\u0019s license, complete Texas Boater Education within 6 months, and have skills in field data collection, QA/QC, GIS, and data analysis.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Son",
-      "title": "Environmental Health Scientist I - Environmental Safety",
-      "location": "Lincoln or Lincoln County or Dawson County or Frontier County or Red Willow County or Buffalo County or Perkins County or Chase County or Hayes County or Dundy County or Hitchcock County or Gosper County or Furnas County",
-      "url": "https://son.wd108.myworkdayjobs.com/nebraskastatecareers/job/Lincoln-NE/Environmental-Health-Scientist-I---Environmental-Safety_JR2026-00027091",
-      "direct_url": "https://son.wd108.myworkdayjobs.com/nebraskastatecareers/job/Lincoln-NE/Environmental-Health-Scientist-I---Environmental-Safety_JR2026-00027091",
-      "date_posted": "2026-06-11T00:00:00.000Z",
-      "description": "Post-high-school coursework in physical/life sciences or environmental health; valid driver's license or independent transportation; ability to travel for fieldwork (≈80%), walk uneven terrain, lift 20 lbs, climb ladders, and work outdoors.",
-      "salary": "$43k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "WSP",
-      "title": "Lead Environmental Scientist",
-      "location": "Durham or Charlotte or Wilmington",
-      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
-      "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
-      "date_posted": "2026-06-19T14:02:18.000Z",
-      "description": "Bachelor's in environmental or related life science, 7+ years environmental science experience, knowledge of environmental laws and compliance, leadership and communication skills, proficiency with office technology, occasional travel.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Department of Environmental Quality",
-      "title": "Environmental Scientist (Health Physicist)",
-      "location": "Salt Lake City, Utah, United States",
-      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1368?c=utdgohcm",
-      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1368?c=utdgohcm",
-      "date_posted": "2026-06-16T00:00:00.000Z",
-      "description": "Working knowledge of nuclear physics, radioactive materials handling, internal dosimetry, radiation detection and calibration, dose and shielding calculations, knowledge of Utah Radiation Control rules and US NRC regs, and strong oral/written communication skills.",
-      "salary": "$53k–$109k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
-    },
-    {
-      "company": "Apex Companies",
-      "title": "Environmental Scientist 1",
-      "location": "Fullerton, California, United States",
-      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5272472008",
-      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5272472008",
-      "date_posted": "2026-06-19T23:07:01.000Z",
-      "description": "Bachelor's in environmental science or related field required. Experience with environmental sampling, regulatory compliance, inspections, data management, Microsoft Office and ArcGIS. Valid CA driver's license and ability to lift 50 lbs.",
-      "salary": "$70k–$86k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
       "company": "Audubon",
@@ -630,9 +406,332 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe",
-      "work_arrangement": "On-site"
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Usbank",
+      "title": "Risk Assessment Lead - Cybersecurity Risk Oversight",
+      "location": "Minneapolis or Cincinnati or Charlotte or Tempe or Saint Louis or Irving",
+      "url": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Minneapolis-MN/Risk-Assessment-Lead---Cybersecurity-Risk-Oversight_2026-0013878",
+      "direct_url": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Minneapolis-MN/Risk-Assessment-Lead---Cybersecurity-Risk-Oversight_2026-0013878",
+      "date_posted": "2026-06-12T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience, typically 10+ years in technology/cybersecurity risk; strong knowledge of information security domains and regulatory frameworks; ability to perform independent risk assessments and influence stakeholders.",
+      "salary": "$133k–$157k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ulse",
+      "title": "Lead Risk Assessment Research Scientist",
+      "location": "Morrisville, North Carolina, United States",
+      "url": "https://ulse.wd5.myworkdayjobs.com/ulricareers/job/Morrisville-NC/Lead-Risk-Assessment-Research-Scientist_JR1515-2",
+      "direct_url": "https://ulse.wd5.myworkdayjobs.com/ulricareers/job/Morrisville-NC/Lead-Risk-Assessment-Research-Scientist_JR1515-2",
+      "date_posted": "2026-05-28T00:00:00.000Z",
+      "description": "Lead risk assessment researcher with toxicology & risk assessment expertise; develops human health risk assessments and communicates findings; strong leadership and collaboration.",
+      "salary": "$119k–$164k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "RAM Partners, LLC",
+      "title": "Risk Assessment Manager",
+      "location": "Atlanta, Georgia, United States",
+      "url": "http://rampartners.applytojob.com/apply/UXoPXnsdG7/Risk-Assessment-Manager",
+      "direct_url": "http://rampartners.applytojob.com/apply/UXoPXnsdG7/Risk-Assessment-Manager",
+      "date_posted": "2026-06-17T00:00:00.000Z",
+      "description": "Minimum 3 years' risk management experience; bachelor's degree preferred; knowledge of Fair Housing, OSHA, insurance/claims, and risk principles; proficiency with Microsoft Office/Excel; strong analytical, investigative, leadership, and communication skills; legal authorization to work in the US.",
+      "salary": "$80k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Td",
+      "title": "Compliance Risk Assessment Manager",
+      "location": "Charlotte or New York or Greenville or Mount Laurel or Portland",
+      "url": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/Charlotte-North-Carolina/Compliance-Risk-Assessment-Manager_R_1495493",
+      "direct_url": "https://td.wd3.myworkdayjobs.com/td_bank_careers/job/Charlotte-North-Carolina/Compliance-Risk-Assessment-Manager_R_1495493",
+      "date_posted": "2026-06-18T00:00:00.000Z",
+      "description": "Undergraduate degree or equivalent experience and 7+ years in regulatory/compliance/risk management; familiarity with compliance risk assessment, US banking regulations, strong analytical and communication skills, and advanced desktop tool proficiency.",
+      "salary": "$91k–$146k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Cambridge Healthcare Services",
+      "title": "Director of Risk Assessment",
+      "location": "Buena Park, California, United States",
+      "url": "https://jobs.apploi.com/view/1460294?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=170c0f98b2594afaa82c44aabc6ab278&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1460294&ajs_prop_doc_type=job&ajs_prop_job_location_lat=33.856305&ajs_prop_job_location_lon=-118.0184372&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1460294?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=170c0f98b2594afaa82c44aabc6ab278&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1460294&ajs_prop_doc_type=job&ajs_prop_job_location_lat=33.856305&ajs_prop_job_location_lon=-118.0184372&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-01T00:00:00.000Z",
+      "description": "RN or Licensed Nurse with 5+ years in long-term care; nursing administration in California; risk assessment and regulatory compliance; willingness to travel across California.",
+      "salary": "$165k–$180k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "CLS-Group",
+      "title": "Compliance Risk Assessment Contractor",
+      "location": "New York City, New York, United States",
+      "url": "https://www.cls-group.com/people/your-career/jobs/job-detail?gh_jid=6017720004",
+      "direct_url": "https://www.cls-group.com/people/your-career/jobs/job-detail?gh_jid=6017720004",
+      "date_posted": "2026-06-18T17:19:18.000Z",
+      "description": "Bachelor's degree required, 3+ years regulatory/compliance experience in financial services, experience writing compliance risk assessments, strong communication and organisational skills, Microsoft Office and GRC tool familiarity, interest in ICA/CAMS.",
+      "salary": "",
+      "job_type": "Contract",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Common Sense Media",
+      "title": "Risk Assessment Associate (Youth AI Safety Institute)",
+      "location": "San Francisco, California, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159738&clientkey=4AA7E7402507528EEEA6308617BB1F08",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=159738&clientkey=4AA7E7402507528EEEA6308617BB1F08",
+      "date_posted": "2026-06-02T00:00:00.000Z",
+      "description": "Bachelor's degree; 2+ years in research/tech; analytical, strong communication; technical aptitude with AI tools; ability to handle sensitive content.",
+      "salary": "$62k–$79k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "CoBank",
+      "title": "Senior Enterprise Risk Analyst, Risk Assessment",
+      "location": "Greenwood Village, Colorado, United States",
+      "url": "https://cobank.jibeapply.com/jobs/7834",
+      "direct_url": "https://cobank.jibeapply.com/jobs/7834",
+      "date_posted": "2026-06-16T13:53:29.000Z",
+      "description": "6+ years financial risk management experience, 3+ years with SAS/R/Python/SQL/Matlab, Bachelor's required (relevant fields), FRM/CFA preferred, strong quantitative, analytical, and communication skills.",
+      "salary": "$110k–$135k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Regions",
+      "title": "Enterprise Compliance and Operational Risk Analyst - Risk Assessment",
+      "location": "Birmingham or Charlotte or Atlanta",
+      "url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Enterprise-Compliance-and-Operational-Risk-Analyst---Risk-Assessment_R103532",
+      "direct_url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Birmingham-AL---Regions-Center/Enterprise-Compliance-and-Operational-Risk-Analyst---Risk-Assessment_R103532",
+      "date_posted": "2026-06-18T00:00:00.000Z",
+      "description": "Bachelor's + 6 years in risk/audit or HS/GED + 7 years; experience in risk assessments, testing, reporting, GRC tools, data analysis, and strong communication; Microsoft Office proficiency.",
+      "salary": "$81k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "title": "Vice President - RFP Risk Assessment Manager - Payments",
+      "location": "Columbus or Chicago or Plano",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210751940",
+      "direct_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/job/210751940",
+      "date_posted": "2026-06-10T15:53:44.000Z",
+      "description": "Experience with TS or Commercial Card services, strong proposal/technical/business writing, intermediate-advanced Microsoft Word and Adobe Professional, detail-oriented, able to multi-task and work varying hours to meet deadlines.",
+      "salary": "$92k–$140k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Cognizant",
+      "title": "GRC-Risk Assessment",
+      "location": "United States",
+      "url": "https://cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00069164714&lang=en",
+      "direct_url": "https://cognizant.taleo.net/careersection/lateral/jobdetail.ftl?job=00069164714&lang=en",
+      "date_posted": "2026-06-04T05:27:12.395Z",
+      "description": "9+ years experience in business operations or similar; advanced Microsoft Excel, Microsoft SharePoint, and Jira skills; hands-on risk assessment experience; strong written and verbal communication; hybrid day-shift work experience.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Environmental Scientist",
+      "location": "Honolulu, Hawaii, United States",
+      "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006278",
+      "direct_url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/1006278",
+      "date_posted": "2026-06-12T16:13:39.000Z",
+      "description": "Bachelor's in a related field, minimum 5 years water quality experience with surface/groundwater sampling, Hawaii-specific knowledge, field sampling and instrumentation experience, MS Office proficiency, valid driver’s license, ability to perform fieldwork in remote/storm conditions; occasional evenings/weekends.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Apex Companies",
+      "title": "Environmental Scientist Manager ",
+      "location": "Fullerton, California, United States",
+      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5272602008",
+      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5272602008",
+      "date_posted": "2026-06-19T23:09:14.000Z",
+      "description": "BS in environmental science/engineering, 10+ years' professional experience, knowledge of stormwater permitting and water quality monitoring, CPSWQ/CPESC and QSD/QSP/QISP certifications preferred, California driver's license, proficiency with Microsoft Office.",
+      "salary": "$104k–$146k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Trinity River Authority of Texas",
+      "title": "Environmental Scientist I",
+      "location": "Arlington, Texas, United States",
+      "url": "https://recruiting.ultipro.com/tri1018/JobBoard/2172ba69-3733-a300-e248-8c98670ef85b/OpportunityDetail?opportunityId=4732f4b5-c11a-4b25-9b39-83b7bdb23027",
+      "direct_url": "https://recruiting.ultipro.com/tri1018/JobBoard/2172ba69-3733-a300-e248-8c98670ef85b/OpportunityDetail?opportunityId=4732f4b5-c11a-4b25-9b39-83b7bdb23027",
+      "date_posted": "2026-06-10T13:57:13.899Z",
+      "description": "Bachelor's in natural science required; some field or water-quality monitoring experience desired. Must be able to swim, hold a valid Texas driver\\u0019s license, complete Texas Boater Education within 6 months, and have skills in field data collection, QA/QC, GIS, and data analysis.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Son",
+      "title": "Environmental Health Scientist I - Environmental Safety",
+      "location": "Lincoln or Lincoln County or Dawson County or Frontier County or Red Willow County or Buffalo County or Perkins County or Chase County or Hayes County or Dundy County or Hitchcock County or Gosper County or Furnas County",
+      "url": "https://son.wd108.myworkdayjobs.com/nebraskastatecareers/job/Lincoln-NE/Environmental-Health-Scientist-I---Environmental-Safety_JR2026-00027091",
+      "direct_url": "https://son.wd108.myworkdayjobs.com/nebraskastatecareers/job/Lincoln-NE/Environmental-Health-Scientist-I---Environmental-Safety_JR2026-00027091",
+      "date_posted": "2026-06-11T00:00:00.000Z",
+      "description": "Post-high-school coursework in physical/life sciences or environmental health; valid driver's license or independent transportation; ability to travel for fieldwork (≈80%), walk uneven terrain, lift 20 lbs, climb ladders, and work outdoors.",
+      "salary": "$43k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "WSP",
+      "title": "Lead Environmental Scientist",
+      "location": "Durham or Charlotte or Wilmington",
+      "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
+      "direct_url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/requisitions/job/89439",
+      "date_posted": "2026-06-19T14:02:18.000Z",
+      "description": "Bachelor's in environmental or related life science, 7+ years environmental science experience, knowledge of environmental laws and compliance, leadership and communication skills, proficiency with office technology, occasional travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Department of Environmental Quality",
+      "title": "Environmental Scientist (Health Physicist)",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1368?c=utdgohcm",
+      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1368?c=utdgohcm",
+      "date_posted": "2026-06-16T00:00:00.000Z",
+      "description": "Working knowledge of nuclear physics, radioactive materials handling, internal dosimetry, radiation detection and calibration, dose and shielding calculations, knowledge of Utah Radiation Control rules and US NRC regs, and strong oral/written communication skills.",
+      "salary": "$53k–$109k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Apex Companies",
+      "title": "Environmental Scientist 1",
+      "location": "Fullerton, California, United States",
+      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5272472008",
+      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5272472008",
+      "date_posted": "2026-06-19T23:07:01.000Z",
+      "description": "Bachelor's in environmental science or related field required. Experience with environmental sampling, regulatory compliance, inspections, data management, Microsoft Office and ArcGIS. Valid CA driver's license and ability to lift 50 lbs.",
+      "salary": "$70k–$86k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Other Agencies and Independent Organizations",
+      "title": "Pharmacologist/Physiologist/Toxicologist",
+      "location": "Rockville, Maryland, United States",
+      "url": "https://www.usajobs.gov/job/872778700",
+      "direct_url": "https://www.usajobs.gov/job/872778700",
+      "date_posted": "2026-06-11T15:06:50.420Z",
+      "description": "U.S. citizen required; Public Trust background investigation; degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework; 1+ year specialized experience in toxicology/pharmacology/physiology analyses and report preparation; transcripts required.",
+      "salary": "$85k–$158k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Exponent",
+      "title": "Public Health Toxicologist (Ph.D.)",
+      "location": "Austin, Texas, United States",
+      "url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
+      "direct_url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
+      "date_posted": "2026-06-19T04:00:00.000Z",
+      "description": "Ph.D. in toxicology/public health or related field, strong human health toxicology and risk assessment expertise, excellent writing and communication, ability to manage multiple projects and work independently or in teams; must be authorized to work in the U.S.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "King County, WA",
+      "title": "Environmental Scientist IV",
+      "location": "Renton or Seattle or Washington",
+      "url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5383386",
+      "direct_url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5383386",
+      "date_posted": "2026-06-22T05:13:57.000Z",
+      "description": "Requires 5+ years progressive environmental experience and 5+ years supervisory experience leading multidisciplinary scientific staff; knowledge of environmental regulations, permitting, monitoring, project and budget management; valid WA driver’s license and pre-employment physical; must reside in Washington State.",
+      "salary": "$130k–$165k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "CDR Companies",
+      "title": "Environmental Scientist II - Williamsport",
+      "location": "Elmira, New York, United States",
+      "url": "https://jobs.workable.com/view/n5vPdWvbMi9uRMKtA2wMP9/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
+      "direct_url": "https://jobs.workable.com/view/n5vPdWvbMi9uRMKtA2wMP9/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
+      "date_posted": "2026-06-22T15:14:28.011Z",
+      "description": "B.S. in environmental science or related field, 5+ years environmental experience, independent wetland/stream delineation, sub‑meter GPS experience, knowledge of PADEP/USACE regulations, Microsoft Office proficiency, valid driver’s license.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "RAM Partners, LLC",
+      "title": "Risk Assessment Manager",
+      "location": "Atlanta, Georgia, United States",
+      "url": "http://rampartners.applytojob.com/apply/UXoPXnsdG7/Risk-Assessment-Manager",
+      "direct_url": "http://rampartners.applytojob.com/apply/UXoPXnsdG7/Risk-Assessment-Manager",
+      "date_posted": "2026-06-17T00:00:00.000Z",
+      "description": "Minimum 3 years' risk management experience; bachelor's degree preferred; knowledge of Fair Housing, OSHA, insurance/claims, and risk principles; proficiency with Microsoft Office/Excel; strong analytical, investigative, leadership, and communication skills; legal authorization to work in the US.",
+      "salary": "$80k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
