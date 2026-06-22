@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-22 22:32 UTC",
+  "scraped_at": "2026-06-22 23:28 UTC",
   "total": 47,
-  "new_count": 5,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -662,76 +662,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Other Agencies and Independent Organizations",
-      "title": "Pharmacologist/Physiologist/Toxicologist",
-      "location": "Rockville, Maryland, United States",
-      "url": "https://www.usajobs.gov/job/872778700",
-      "direct_url": "https://www.usajobs.gov/job/872778700",
-      "date_posted": "2026-06-11T15:06:50.420Z",
-      "description": "U.S. citizen required; Public Trust background investigation; degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework; 1+ year specialized experience in toxicology/pharmacology/physiology analyses and report preparation; transcripts required.",
-      "salary": "$85k–$158k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Exponent",
-      "title": "Public Health Toxicologist (Ph.D.)",
-      "location": "Austin, Texas, United States",
-      "url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
-      "direct_url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
-      "date_posted": "2026-06-19T04:00:00.000Z",
-      "description": "Ph.D. in toxicology/public health or related field, strong human health toxicology and risk assessment expertise, excellent writing and communication, ability to manage multiple projects and work independently or in teams; must be authorized to work in the U.S.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "King County, WA",
-      "title": "Environmental Scientist IV",
-      "location": "Renton or Seattle or Washington",
-      "url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5383386",
-      "direct_url": "https://www.governmentjobs.com/careers/kingcounty/jobs/5383386",
-      "date_posted": "2026-06-22T05:13:57.000Z",
-      "description": "Requires 5+ years progressive environmental experience and 5+ years supervisory experience leading multidisciplinary scientific staff; knowledge of environmental regulations, permitting, monitoring, project and budget management; valid WA driver’s license and pre-employment physical; must reside in Washington State.",
-      "salary": "$130k–$165k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "CDR Companies",
-      "title": "Environmental Scientist II - Williamsport",
-      "location": "Elmira, New York, United States",
-      "url": "https://jobs.workable.com/view/n5vPdWvbMi9uRMKtA2wMP9/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/n5vPdWvbMi9uRMKtA2wMP9/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
-      "date_posted": "2026-06-22T15:14:28.011Z",
-      "description": "B.S. in environmental science or related field, 5+ years environmental experience, independent wetland/stream delineation, sub‑meter GPS experience, knowledge of PADEP/USACE regulations, Microsoft Office proficiency, valid driver’s license.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "RAM Partners, LLC",
-      "title": "Risk Assessment Manager",
-      "location": "Atlanta, Georgia, United States",
-      "url": "http://rampartners.applytojob.com/apply/UXoPXnsdG7/Risk-Assessment-Manager",
-      "direct_url": "http://rampartners.applytojob.com/apply/UXoPXnsdG7/Risk-Assessment-Manager",
-      "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Minimum 3 years' risk management experience; bachelor's degree preferred; knowledge of Fair Housing, OSHA, insurance/claims, and risk principles; proficiency with Microsoft Office/Excel; strong analytical, investigative, leadership, and communication skills; legal authorization to work in the US.",
-      "salary": "$80k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
