@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-22 23:28 UTC",
+  "scraped_at": "2026-06-23 00:29 UTC",
   "total": 47,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Department of Health and Human Services",
@@ -63,10 +63,10 @@
       "company": "Other Agencies and Independent Organizations",
       "title": "Pharmacologist/Physiologist/Toxicologist",
       "location": "Rockville, Maryland, United States",
-      "url": "https://www.usajobs.gov/job/872778700",
-      "direct_url": "https://www.usajobs.gov/job/872778700",
-      "date_posted": "2026-06-11T15:06:50.420Z",
-      "description": "U.S. citizen required; Public Trust background investigation; degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework; 1+ year specialized experience in toxicology/pharmacology/physiology analyses and report preparation; transcripts required.",
+      "url": "https://www.usajobs.gov/job/872779100",
+      "direct_url": "https://www.usajobs.gov/job/872779100",
+      "date_posted": "2026-06-11T15:08:14.100Z",
+      "description": "U.S. citizen required; background investigation and Public Trust. Mandatory degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework. Minimum 52 weeks specialized experience in toxicology, pharmacology, or physiology; ability to perform hazard analyses and prepare technical reports.",
       "salary": "$85k–$158k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -214,20 +214,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Arcadis",
-      "title": "Environmental Scientist",
-      "location": "Bluefield, Virginia, United States",
-      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
-      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
-      "date_posted": "2026-06-15T13:57:24.000Z",
-      "description": "Bachelor's in Geology or Environmental Science required. Primarily field work (95–100%), experience with remediation sampling, H&S focus, valid clean driver’s license, pass background and drug tests; 40-hour HAZWOPER preferred; MS Office proficiency.",
-      "salary": "$50k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "HDR",
       "title": "Environmental Scientist II",
       "location": "Seattle or Everett or Olympia or Bellevue or Gig Harbor",
@@ -236,6 +222,20 @@
       "date_posted": "2026-06-08T10:36:53.000Z",
       "description": "Bachelor's in Environmental Science, 5+ years technical/field experience preparing environmental documents, ability to lead wetland/stream delineations and habitat surveys, prepare environmental permitting documentation, strong writing and MS Office skills.",
       "salary": "$80k–$126k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Arcadis",
+      "title": "Environmental Scientist",
+      "location": "Bluefield, Virginia, United States",
+      "url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
+      "direct_url": "https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/41739",
+      "date_posted": "2026-06-15T13:57:24.000Z",
+      "description": "Bachelor's in Geology or Environmental Science required. Primarily field work (95–100%), experience with remediation sampling, H&S focus, valid clean driver’s license, pass background and drug tests; 40-hour HAZWOPER preferred; MS Office proficiency.",
+      "salary": "$50k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -662,5 +662,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Other Agencies and Independent Organizations",
+      "title": "Pharmacologist/Physiologist/Toxicologist",
+      "location": "Rockville, Maryland, United States",
+      "url": "https://www.usajobs.gov/job/872779100",
+      "direct_url": "https://www.usajobs.gov/job/872779100",
+      "date_posted": "2026-06-11T15:08:14.100Z",
+      "description": "U.S. citizen required; background investigation and Public Trust. Mandatory degree in relevant biological/medical/veterinary/physical science or pharmacy with specified coursework. Minimum 52 weeks specialized experience in toxicology, pharmacology, or physiology; ability to perform hazard analyses and prepare technical reports.",
+      "salary": "$85k–$158k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
