@@ -1,10 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-06-23 20:31 UTC*
+*Last updated: 2026-06-23 21:20 UTC*
 
-**1 new role(s)** since last run · 9 total in last 24h
+**1 new role(s)** since last run · 10 total in last 24h
 
-### [Environmental Specialist](https://www.indeed.com/viewjob?jk=d9f822bcaaf50575) — Mortenson Construction
-- 📍 **Location:** Portland, OR, US
-- 💰 **Salary:** $90k–$121k/yr
+### [Scientist I - Eurofins Drinking Water and Wastewater West, LLC - Wilsonville, OR](https://www.indeed.com/viewjob?jk=447e62413bb7db84) — Eurofins
+- 📍 **Location:** Wilsonville, OR, US
+- 💰 **Salary:** $22–$27/hr
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-06-23
