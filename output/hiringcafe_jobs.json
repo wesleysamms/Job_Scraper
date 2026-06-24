@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-24 03:01 UTC",
-  "total": 50,
+  "scraped_at": "2026-06-24 05:17 UTC",
+  "total": 49,
   "new_count": 0,
   "jobs": [
     {
@@ -60,20 +60,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Exponent",
-      "title": "Public Health Toxicologist (Ph.D.)",
-      "location": "Austin, Texas, United States",
-      "url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
-      "direct_url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
-      "date_posted": "2026-06-19T04:00:00.000Z",
-      "description": "Ph.D. in toxicology/public health or related field, strong human health toxicology and risk assessment expertise, excellent writing and communication, ability to manage multiple projects and work independently or in teams; must be authorized to work in the U.S.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "GSI Environmental Inc.",
       "title": "Senior Risk Assessor/Toxicologist",
       "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
@@ -85,6 +71,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Exponent",
+      "title": "Public Health Toxicologist (Ph.D.)",
+      "location": "Austin, Texas, United States",
+      "url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
+      "direct_url": "https://careers-exponent.icims.com/jobs/2485/public-health-toxicologist-%28ph.d.%29/job?in_iframe=1",
+      "date_posted": "2026-06-19T04:00:00.000Z",
+      "description": "Ph.D. in toxicology/public health or related field, strong human health toxicology and risk assessment expertise, excellent writing and communication, ability to manage multiple projects and work independently or in teams; must be authorized to work in the U.S.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -109,20 +109,6 @@
       "direct_url": "https://jobs.jobvite.com/snainternational/job/oKEnAfw5?nl=1&fr=true",
       "date_posted": "2026-06-23T12:00:00.000Z",
       "description": "Bench-level forensic toxicology analyst performing GC/MS, LC/MS, tandem MS, sample extractions, spectrophotometric analyses, chain-of-custody, instrument calibration, SOP evaluation, record keeping; B.S. or M.S. in a science field; U.S. citizenship and ability to complete a NAC-I background check.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Bechtel: Engineering, Construction, Procurement & Project Management",
-      "title": "Environmental Scientist",
-      "location": "New Albany, Ohio, United States",
-      "url": "https://jobs.bechtel.com/job/New-Albany-Environmental-Scientist-OH-43031/1391379100/",
-      "direct_url": "https://jobs.bechtel.com/job/New-Albany-Environmental-Scientist-OH-43031/1391379100/",
-      "date_posted": "2026-06-16T07:00:00.000Z",
-      "description": "Bachelor's in environmental science or related field, 4+ years environmental experience, valid driver’s license, skills in permitting, monitoring, sampling, data analysis, and environmental impact assessment.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
