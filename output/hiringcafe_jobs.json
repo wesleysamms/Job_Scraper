@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-27 17:23 UTC",
+  "scraped_at": "2026-06-27 18:21 UTC",
   "total": 53,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State of Washington",
@@ -746,20 +746,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "APTIM",
-      "title": "Environmental Scientist",
-      "location": "Houma, Louisiana, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
-      "date_posted": "2026-06-27T04:08:25.228Z",
-      "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
