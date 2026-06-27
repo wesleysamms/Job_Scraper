@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-27 03:01 UTC",
-  "total": 54,
+  "scraped_at": "2026-06-27 05:15 UTC",
+  "total": 53,
   "new_count": 1,
   "jobs": [
     {
@@ -74,20 +74,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GSI Environmental Inc.",
-      "title": "Senior Risk Assessor/Toxicologist",
-      "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "8+ years human health risk assessment experience; Bachelor's in chemistry, toxicology, public health (Master's preferred); 40-hour OSHA HAZWOPER; project management, DTSC/RWQCB familiarity, valid driver's license, ability to travel.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Exponent",
       "title": "Public Health Toxicologist (Ph.D.)",
       "location": "Austin, Texas, United States",
@@ -99,6 +85,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GSI Environmental Inc.",
+      "title": "Senior Risk Assessor/Toxicologist",
+      "location": "Houston or Austin or Irvine or San Francisco or Folsom or Olympia or Missoula or Helena or Lakewood or Raleigh or Syracuse",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=214912&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "8+ years human health risk assessment experience; Bachelor's in chemistry, toxicology, public health (Master's preferred); 40-hour OSHA HAZWOPER; project management, DTSC/RWQCB familiarity, valid driver's license, ability to travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -211,34 +211,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kimley-Horn",
-      "title": "Experienced Environmental Scientist",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24157/experienced-environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-05-28T04:00:00.000Z",
-      "description": "4+ years in environmental consulting; BS or MS in Environmental Science, Geology, Environmental Engineering, or related; strong regulatory knowledge; excellent writing; client-facing; willingness to travel ~40%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "J.S. Held LLC",
-      "title": "Environmental Scientist",
-      "location": "Redmond or Seattle or Washington",
-      "url": "https://jobs.smartrecruiters.com/JSHeldLLC/744000130505979-environmental-scientist",
-      "direct_url": "https://jobs.smartrecruiters.com/JSHeldLLC/744000130505979-environmental-scientist",
-      "date_posted": "2026-06-05T12:54:34.647Z",
-      "description": "Bachelor's degree in geology/engineering/environmental science, 0–3+ years' relevant experience, field sampling and remediation support, proficiency with Microsoft Office, valid driver's license, ability to travel and perform outdoor fieldwork.",
-      "salary": "$68k–$78k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -424,20 +396,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Senior Environmental Scientist",
-      "location": "Clovis, California, United States",
-      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
-      "date_posted": "2026-06-24T19:55:12.571Z",
-      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
-      "salary": "$105k–$120k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Johnson, Mirmiran & Thompson, Inc.",
       "title": "Senior Environmental Scientist",
       "location": "Jacksonville, Florida, United States",
@@ -446,6 +404,20 @@
       "date_posted": "2026-06-05T18:16:04.721Z",
       "description": "Conduct environmental investigations, wetland impact analyses and permitting, ecological assessment/restoration, field data collection and sampling, GIS/GPS mapping, technical report writing, and project management/business development support.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Senior Environmental Scientist",
+      "location": "Clovis, California, United States",
+      "url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/ed244794392a-senior-environmental-scientist",
+      "date_posted": "2026-06-24T19:55:12.571Z",
+      "description": "Bachelor's or Master's in a related field, 8+ years environmental consulting experience, strong knowledge of CEQA/NEPA/ESA/CWA and wetland delineations, project management, technical report writing, and valid driver's license.",
+      "salary": "$105k–$120k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -519,6 +491,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Olsson",
+      "title": "Senior Environmental Scientist ",
+      "location": "Colorado Springs or Denver or Fayetteville or Lincoln or Little Rock or Loveland or Oklahoma City or Omaha or Overland Park or Remote",
+      "url": "https://job-boards.greenhouse.io/olsson/jobs/5238897008",
+      "direct_url": "https://job-boards.greenhouse.io/olsson/jobs/5238897008",
+      "date_posted": "2026-06-02T15:23:03.000Z",
+      "description": "Bachelor’s degree in environmental science, urban planning, or biological/scientific discipline; 10 years environmental experience; 5 years transportation project experience; strong communication and project management skills.",
+      "salary": "$80k–$140k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -762,17 +748,17 @@
   ],
   "new_jobs": [
     {
-      "company": "TRC Companies, Inc.",
-      "title": "Environmental Scientist",
-      "location": "East Providence, Rhode Island, United States",
-      "url": "https://careers.trccompanies.com/jobs/26189?lang=en-us",
-      "direct_url": "https://careers.trccompanies.com/jobs/26189?lang=en-us",
-      "date_posted": "2026-06-26T20:15:53.000Z",
-      "description": "Bachelor's in biology/ecology/environmental science/forestry/wetland science, 5 years relevant experience, permitting and field sampling experience, proficiency with GPS and Microsoft Word/Excel, valid driver's license; HAZWOPER 40-hr and boating safety desired.",
-      "salary": "$65k–$85k/yr",
+      "company": "Olsson",
+      "title": "Senior Environmental Scientist ",
+      "location": "Colorado Springs or Denver or Fayetteville or Lincoln or Little Rock or Loveland or Oklahoma City or Omaha or Overland Park or Remote",
+      "url": "https://job-boards.greenhouse.io/olsson/jobs/5238897008",
+      "direct_url": "https://job-boards.greenhouse.io/olsson/jobs/5238897008",
+      "date_posted": "2026-06-02T15:23:03.000Z",
+      "description": "Bachelor’s degree in environmental science, urban planning, or biological/scientific discipline; 10 years environmental experience; 5 years transportation project experience; strong communication and project management skills.",
+      "salary": "$80k–$140k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
