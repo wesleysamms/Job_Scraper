@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-28 16:50 UTC*
+*Last updated: 2026-06-28 17:51 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Senior Environmental Scientist](https://www.linkedin.com/jobs/view/4434403289/) — APTIM
+- 📍 **Location:** Concord, CA
+- 💰 **Salary:** $110k to $150k
+- 🕒 **Posted:** 2026-06-28
