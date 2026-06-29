@@ -1,12 +1,18 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-29 22:47 UTC*
+*Last updated: 2026-06-29 23:48 UTC*
 
-**2 new role(s)** since last run · 6 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [Scientist (Luminex/ELISA, Primary Cell Culture, Toxicology, In-Vitro, )](https://www.linkedin.com/jobs/view/4434170582/) — Aequor
+### [Toxicologist](https://www.linkedin.com/jobs/view/4434792772/) — BEPC Inc. - Business Excellence Professional Consulting
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $43.79 - $46.79 /hour
+- 🕒 **Posted:** 2026-06-29
+
+### [Scientist I, Investigative Toxicology](https://www.linkedin.com/jobs/view/4431549500/) — Planet Pharma
 - 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-06-29
 
-### [Scientist I (Wet Chem) - Eurofins Drinking Water and Wastewater West, Pomona, CA](https://www.linkedin.com/jobs/view/4434774687/) — Eurofins
-- 📍 **Location:** Pomona, CA
+### [AIR POLLUTION SPECIALIST](https://www.linkedin.com/jobs/view/4434778746/) — California Air Resources Board
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $5,918.00/mo - $11,455.00/mo
 - 🕒 **Posted:** 2026-06-29
