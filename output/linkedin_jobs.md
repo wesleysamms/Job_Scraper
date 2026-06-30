@@ -1,14 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-06-30 22:10 UTC*
+*Last updated: 2026-06-30 22:54 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Associate Director of Toxicology](https://www.linkedin.com/jobs/view/4435336167/) — W3Global
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $160,000.00/yr - $190,000.00/yr
-- 🕒 **Posted:** 2026-06-30
-
-### [Biologist/Environmental Scientist](https://www.linkedin.com/jobs/view/4433292334/) — Ecological Land Services, Inc.
-- 📍 **Location:** Longview, WA
-- 💰 **Salary:** $24 - $35 hourly
+### [Air Pollution Specialist](https://www.linkedin.com/jobs/view/4435325978/) — California Air Resources Board
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $5,918.00/mo - $11,455.00/mo
 - 🕒 **Posted:** 2026-06-30
