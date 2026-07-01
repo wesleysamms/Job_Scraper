@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-01 21:15 UTC*
+*Last updated: 2026-07-01 21:58 UTC*
 
-**0 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-No new roles since the last run.
+### [Director of Water Quality](https://www.linkedin.com/jobs/view/4429712552/) — H2O America
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $199,000.00 - $243,000.00
+- 🕒 **Posted:** 2026-07-01
