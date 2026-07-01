@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-06-30 16:25 UTC",
-  "total": 7,
+  "scraped_at": "2026-07-01 16:27 UTC",
+  "total": 8,
   "new_count": 1,
   "jobs": [
+    {
+      "company": "United States Army Installation Management Command",
+      "title": "Supervisory Environmental Specialist",
+      "location": "Yuma Proving Ground, Arizona",
+      "url": "https://www.usajobs.gov/job/874979700",
+      "date_posted": "2026-07-01",
+      "salary": "Starting at $106,437 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Air Force Materiel Command",
       "title": "ENVIRONMENTAL PROTECTION SPECIALIST-DIRECT HIRE AUTHORITY",
@@ -69,12 +78,12 @@
   ],
   "new_jobs": [
     {
-      "company": "Air Force Materiel Command",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST-DIRECT HIRE AUTHORITY",
-      "location": "Arnold AFB, Tennessee",
-      "url": "https://www.usajobs.gov/job/874475700",
-      "date_posted": "2026-06-30",
-      "salary": "Starting at $89,508 Per year (NH 3)",
+      "company": "United States Army Installation Management Command",
+      "title": "Supervisory Environmental Specialist",
+      "location": "Yuma Proving Ground, Arizona",
+      "url": "https://www.usajobs.gov/job/874979700",
+      "date_posted": "2026-07-01",
+      "salary": "Starting at $106,437 Per year (GS 13)",
       "ats": "USAJOBS"
     }
   ]
