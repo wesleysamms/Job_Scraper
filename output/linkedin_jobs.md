@@ -1,9 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-02 18:57 UTC*
+*Last updated: 2026-07-02 20:46 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4436381655/) — CalRecycle
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $4,418.00/mo - $9,321.00/mo
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4432802863/) — Triumvirate Environmental
+- 📍 **Location:** Burbank, CA
+- 💰 **Salary:** $24 USD - $24 USD
+- 🕒 **Posted:** 2026-07-02
+
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4432598903/) — Triumvirate Environmental
+- 📍 **Location:** Glendale, CA
+- 💰 **Salary:** $24 USD - $24 USD
 - 🕒 **Posted:** 2026-07-02
