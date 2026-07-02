@@ -1,102 +1,115 @@
 {
-  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
+  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or regenerate from your resume. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
 
   "profile": {
-    "title": "Environmental / Toxicology Job Tracker",
-    "subtitle": "California · Oregon · Australia",
-    "emoji": "🧪"
+    "title": "Nonprofit Executive Leadership Job Tracker",
+    "subtitle": "Sacramento · California · New York · National / Remote",
+    "emoji": "🎭"
   },
 
   "keywords": {
     "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
     "include": [
-      "toxicologist", "toxicology", "toxicological", "ecotoxicologist", "ecotoxicology", "ecotoxicolog",
-      "environmental toxicolog", "regulatory toxicolog", "computational toxicolog", "predictive toxicolog",
-      "aquatic toxicolog", "wildlife toxicolog", "research toxicolog",
-      "risk assess", "risk assessor", "human health risk", "ecological risk", "exposure scien",
-      "exposure assess", "exposure modeling", "exposure modelling", "hazard assess", "hazard identification",
-      "dose-response", "dose response", "pharmacokinetic", "toxicokinetic", "pbpk",
-      "environmental scien", "environmental health", "environmental chemist", "environmental chemistry",
-      "environmental specialist", "environmental analyst", "environmental protection", "environmental epidemiolog",
-      "environmental data", "environmental monitoring", "environmental assessment", "exposure epidemiolog",
-      "water quality", "drinking water", "watershed", "water resources", "aquatic scien", "limnolog",
-      "microplastic", "microplastics", "nanoplastic", "nanomaterial", "pfas", "per- and polyfluoro",
-      "emerging contaminant", "contaminant", "pollutant", "air pollution", "water pollution", "air quality",
-      "remediation", "environmental remediation", "chemical safety", "chemical risk", "chemical assess",
-      "chemical regulatory", "product steward", "hazardous materials", "hazardous waste",
-      "environmental compliance", "conservation toxicolog"
+      "chief executive officer", "president & ceo", "president and ceo", "ceo", "executive director",
+      "managing director", "chief operating officer", "coo", "deputy director",
+      "chief development officer", "chief advancement officer", "vice president of development",
+      "vp of development", "director of development", "development director",
+      "director of philanthropy", "chief philanthropy officer", "director of major gifts",
+      "director of institutional giving", "director of advancement", "advancement director",
+      "director of fundraising", "fundraising director", "grants director", "director of grants",
+      "director of external affairs", "director of external relations", "director of communications",
+      "chief communications officer", "director of marketing and communications",
+      "director of advocacy", "advocacy director", "director of public policy", "policy director",
+      "director of government relations", "director of community engagement",
+      "director of partnerships", "director of strategic partnerships",
+      "coalition director", "coalition manager", "campaign director",
+      "arts and culture", "arts nonprofit", "cultural affairs director", "director of cultural affairs",
+      "executive director of the arts", "arts council director", "arts council executive",
+      "nonprofit executive", "nonprofit director", "nonprofit ceo", "nonprofit president",
+      "organizational director", "program director", "chief program officer",
+      "director of operations", "vice president of programs", "vp of programs"
     ],
     "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
     "exclude": [
-      "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice", "technician",
-      "research assistant", "lab assistant", "teaching assistant", "undergraduate", "postdoc",
-      "postdoctoral", "work-study", "volunteer", "fellowship", "engineer", "engineering",
-      "ehs", "occupational safety", "occupational health", "health and safety", "health & safety"
+      "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice",
+      "entry level", "entry-level", "research assistant", "teaching assistant", "undergraduate",
+      "work-study", "volunteer coordinator", "fellowship", "fellow", "administrative assistant",
+      "front desk", "receptionist", "data entry", "part-time", "part time"
     ]
   },
 
   "search_terms": {
     "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
     "linkedin": [
-      "toxicologist", "environmental toxicologist", "ecotoxicologist", "regulatory toxicologist",
-      "computational toxicology", "human health risk assessment", "ecological risk assessment",
-      "exposure scientist", "exposure assessment", "environmental scientist", "environmental health scientist",
-      "environmental chemist", "environmental epidemiologist", "water quality scientist", "microplastics",
-      "PFAS", "emerging contaminants", "air quality scientist", "product stewardship", "chemical safety",
-      "environmental data scientist"
+      "nonprofit executive director", "nonprofit CEO", "president and CEO nonprofit",
+      "chief development officer", "director of development nonprofit", "director of philanthropy",
+      "director of advancement", "arts and culture executive director", "arts nonprofit CEO",
+      "director of advocacy", "director of external affairs", "coalition director nonprofit",
+      "chief program officer", "director of community engagement", "director of government relations",
+      "nonprofit fundraising director", "arts council executive director"
     ],
     "indeed": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+      "nonprofit executive director", "nonprofit CEO", "chief development officer",
+      "director of development nonprofit", "arts and culture executive director",
+      "director of philanthropy", "director of advocacy", "director of external affairs",
+      "chief program officer nonprofit"
     ],
     "glassdoor": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+      "nonprofit executive director", "nonprofit CEO", "chief development officer",
+      "director of development nonprofit", "arts and culture executive director",
+      "director of philanthropy", "director of advocacy", "director of external affairs",
+      "chief program officer nonprofit"
     ],
     "ziprecruiter": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+      "nonprofit executive director", "nonprofit CEO", "chief development officer",
+      "director of development nonprofit", "arts and culture executive director",
+      "director of philanthropy", "director of advocacy", "director of external affairs",
+      "chief program officer nonprofit"
     ],
     "google_jobs": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+      "nonprofit executive director", "nonprofit CEO", "chief development officer",
+      "director of development nonprofit", "arts and culture executive director",
+      "director of philanthropy", "director of advocacy", "director of external affairs",
+      "chief program officer nonprofit"
     ],
     "hiring_cafe": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+      "nonprofit executive director", "nonprofit CEO", "chief development officer",
+      "director of development nonprofit", "arts and culture executive director",
+      "director of philanthropy", "director of advocacy", "director of external affairs"
     ]
   },
 
   "locations": {
-    "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe currently uses its public US SEO route; locations.hiring_cafe is kept for compatibility. The map auto-fits to wherever the jobs are.",
+    "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe currently uses its public US SEO route; locations.hiring_cafe is kept for compatibility. The map auto-fits to wherever the jobs are. Sacramento and New York geoIds below are left blank for LinkedIn since they weren't verified against the guest endpoint -- fill in if you confirm them.",
     "linkedin": [
-      { "name": "California",  "location": "California, United States",          "geoId": "102095887" },
-      { "name": "Portland OR", "location": "Portland, Oregon Metropolitan Area", "geoId": "90000079" },
-      { "name": "Bend OR",     "location": "Bend, Oregon, United States",        "geoId": "" },
-      { "name": "Australia",   "location": "Australia",                          "geoId": "101452733" }
+      { "name": "Sacramento",       "location": "Sacramento, California, United States", "geoId": "" },
+      { "name": "California",       "location": "California, United States",              "geoId": "102095887" },
+      { "name": "New York",         "location": "New York, United States",                "geoId": "" },
+      { "name": "New York City",    "location": "New York, NY",                           "geoId": "" },
+      { "name": "United States",    "location": "United States",                          "geoId": "" }
     ],
     "indeed": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" },
-      { "location": "Australia",    "country": "Australia" }
+      { "location": "Sacramento, CA", "country": "USA" },
+      { "location": "California",     "country": "USA" },
+      { "location": "New York, NY",   "country": "USA" },
+      { "location": "United States",  "country": "USA" }
     ],
     "glassdoor": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" },
-      { "location": "Australia",    "country": "Australia" }
+      { "location": "Sacramento, CA", "country": "USA" },
+      { "location": "California",     "country": "USA" },
+      { "location": "New York, NY",   "country": "USA" },
+      { "location": "United States",  "country": "USA" }
     ],
     "ziprecruiter": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" }
+      { "location": "Sacramento, CA", "country": "USA" },
+      { "location": "California",     "country": "USA" },
+      { "location": "New York, NY",   "country": "USA" }
     ],
     "google_jobs": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" },
-      { "location": "Australia",    "country": "Australia" }
+      { "location": "Sacramento, CA", "country": "USA" },
+      { "location": "California",     "country": "USA" },
+      { "location": "New York, NY",   "country": "USA" },
+      { "location": "United States",  "country": "USA" }
     ],
     "hiring_cafe": [
       { "location": "United States" }
@@ -123,53 +136,43 @@
   },
 
   "employers": {
-    "_priority_comment": "Optional. Companies worth a daily 'priority' digest even on a quiet day (case-insensitive substring match on the company name). Leave [] to disable.",
+    "_priority_comment": "Optional. Companies/organizations worth a daily 'priority' digest even on a quiet day (case-insensitive substring match on the organization name). Leave [] to disable.",
     "priority": [
-      "Ramboll", "Exponent", "Gradient", "ToxStrategies", "Cardno", "Stantec", "Tetra Tech",
-      "ICF International", "Abt Associates", "Eastern Research Group", "Integral Consulting",
-      "Geosyntec", "Arcadis", "AECOM", "Montrose Environmental", "Trinity Consultants", "GHD Group",
-      "Environmental Resources Management", "SLR Consulting", "Wood Environment", "Sciome", "ChemRisk",
-      "Southern California Coastal Water Research Project", "SCCWRP", "San Francisco Estuary Institute",
-      "Silent Spring Institute", "Environmental Defense Fund", "Natural Resources Defense Council",
-      "Environmental Working Group", "Ocean Conservancy", "Pew Charitable Trusts", "Health Effects Institute",
-      "RTI International", "Battelle", "Green Science Policy Institute", "Defend Our Health", "Moore Institute",
-      "Environmental Protection Agency", "California Environmental Protection", "Office of Environmental Health Hazard",
-      "State Water Resources Control", "California Air Resources Board", "Department of Toxic Substances Control",
-      "National Institute of Environmental Health", "Geological Survey", "Procter & Gamble", "Unilever",
-      "Corteva", "Syngenta", "Dow Chemical", "BASF Corporation"
+      "4A Arts", "Americans for the Arts", "Alliance for the Arts", "National Endowment for the Arts",
+      "Arts Council", "Sacramento Region Community Foundation", "James Irvine Foundation",
+      "William and Flora Hewlett Foundation", "California Arts Council", "Ford Foundation",
+      "Mellon Foundation", "Doris Duke Foundation", "Kresge Foundation", "Knight Foundation",
+      "United Way", "Community Foundation", "YMCA", "Boys & Girls Clubs",
+      "Local Initiatives Support Corporation", "LISC", "Independent Sector",
+      "Nonprofit Finance Fund", "Council on Foundations", "National Council of Nonprofits",
+      "Museum Association", "Symphony", "Opera", "Ballet", "Theatre", "Theater",
+      "Public Radio", "Public Broadcasting", "Historical Society", "Cultural Center",
+      "Children's Museum", "Zoo", "Botanical Garden"
     ],
-    "_exclude_comment": "Optional. Drop roles from these companies even if the title matches (case-insensitive substring). Used here to remove pharma/drug-development.",
-    "exclude": [
-      "pharmaceutical", "pharma ", "therapeutics", "biopharma", "biotech", "biologics", "biosciences",
-      "genomics", "oncolog", "biomedicine", "genentech", "gilead", "pfizer", "merck", "novartis", "abbvie",
-      "regeneron", "moderna", "biogen", "sanofi", "astrazeneca", "takeda", "biomarin", "alnylam", "incyte",
-      "exelixis", "neurocrine", "ionis", "denali", "acadia", "adarx", "genmab", "galapagos", "insitro",
-      "recursion", "cytokinetics", "vertex pharm", "bristol-myers", "bristol myers"
-    ]
+    "_exclude_comment": "Optional. Drop roles from these organizations even if the title matches (case-insensitive substring).",
+    "exclude": []
   },
 
   "priority_topics": {
-    "_comment": "Optional. Roles touching these get a gold ★ + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
+    "_comment": "Optional. Roles touching these get a gold star + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
     "terms": [
-      ["microplastics", "microplastic|nanoplastic|microfiber"],
-      ["ecotoxicology", "ecotoxicolog"],
-      ["endocrine-disrupting chemicals", "endocrine[\\s-]?disrupt|\\bedcs?\\b"],
-      ["R / Shiny", "\\brshiny\\b|\\br[\\s-]?shiny\\b|shiny\\s*(?:app|dashboard|server)|\\bshiny\\b"]
+      ["Arts & Culture", "arts and culture|arts council|cultural affairs|arts nonprofit|arts organization"],
+      ["Fundraising / Development", "fundraising|philanthropy|major gifts|capital campaign|advancement"],
+      ["Advocacy / Policy", "advocacy|public policy|government relations|legislative|lobbying"],
+      ["Coalition / Partnerships", "coalition|partnership|collaborative|network of"],
+      ["Community Engagement", "community engagement|civic engagement|public engagement"]
     ]
   },
 
   "role_categories": {
     "_comment": "Dashboard 'Role' filter buckets, applied top-to-bottom to each title. [name, regex] pairs.",
     "terms": [
-      ["Toxicology", "toxicolog"],
-      ["Risk/Exposure", "risk assess|exposure|hazard|dose.response|pharmacokinetic|toxicokinetic"],
-      ["Water", "water|drinking water|watershed|aquatic|marine|limnolog"],
-      ["Contaminants", "microplastic|nanoplastic|pfas|contaminant|pollution|remediation"],
-      ["Environmental Health", "environmental health|epidemiolog|public health"],
-      ["Environmental Science", "environmental|ecolog|sustainab|conservation|chemist"],
-      ["Policy/Regulatory", "policy|regulatory|stewardship|registration|reach\\b|affairs"],
-      ["Data Science", "data scien|data analyst|biostatistic|informatic"],
-      ["Academic", "professor|faculty|lecturer"]
+      ["Executive Leadership", "chief executive|\\bceo\\b|president|executive director|managing director|deputy director|chief operating|\\bcoo\\b"],
+      ["Development / Fundraising", "development|philanthropy|advancement|fundraising|major gifts|grants"],
+      ["Advocacy / Policy", "advocacy|policy|government relations|legislative|lobbying|coalition"],
+      ["Communications", "communications|marketing|public affairs|media relations|branding"],
+      ["Arts & Culture", "arts|culture|cultural|museum|theatre|theater|symphony|opera|ballet"],
+      ["Programs / Operations", "program|operations|partnerships|community engagement"]
     ]
   },
 
