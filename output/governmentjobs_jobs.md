@@ -1,7 +1,6 @@
-# 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-07-02 16:59 UTC*
+# 🏛 NEOGOV — State & Local Government Nonprofit Executive Leadership Roles
+*Last updated: 2026-07-03 17:22 UTC*
 
-**1 new role(s)** since last run · 10 total in recent GovernmentJobs postings
+**0 new role(s)** since last run · 0 total in recent GovernmentJobs postings
 
-### [SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)](https://www.governmentjobs.com/jobs/145960-1/senior-environmental-specialist-environmental-compliance) — LA METRO
-- 📍 **Location:** Los Angeles, CA
+No new state/local-gov roles since the last run.
