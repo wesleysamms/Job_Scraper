@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-03 04:40 UTC",
-  "total": 73,
-  "new_count": 4,
+  "scraped_at": "2026-07-03 18:11 UTC",
+  "total": 72,
+  "new_count": 1,
   "jobs": [
     {
       "company": "State of Washington",
@@ -74,20 +74,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Michigan",
-      "title": "Toxicologist-E, Toxicology Assessment Section",
-      "location": "Lansing, Michigan, United States",
-      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5389465",
-      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5389465",
-      "date_posted": "2026-06-29T20:22:51.000Z",
-      "description": "Master's or PhD in toxicology or related science; for senior level, 2 years professional toxicology experience preferred; ability to evaluate environmental data, determine public health hazards, document findings, and interact with stakeholders; background check required.",
-      "salary": "$58k–$93k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Msd",
       "title": "Principal Scientist, Toxicologist/Study Director",
       "location": "West Point, Pennsylvania, United States",
@@ -99,6 +85,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Michigan",
+      "title": "Toxicologist-E, Toxicology Assessment Section",
+      "location": "Lansing, Michigan, United States",
+      "url": "https://www.governmentjobs.com/careers/michigan/jobs/5389465",
+      "direct_url": "https://www.governmentjobs.com/careers/michigan/jobs/5389465",
+      "date_posted": "2026-06-29T20:22:51.000Z",
+      "description": "Master's or PhD in toxicology or related science; for senior level, 2 years professional toxicology experience preferred; ability to evaluate environmental data, determine public health hazards, document findings, and interact with stakeholders; background check required.",
+      "salary": "$58k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -181,6 +181,20 @@
       "description": "MD or DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight.",
       "salary": "",
       "job_type": "Part Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "UTMB Health",
+      "title": "Medical Toxicologist TDH Poison Center (Per Diem < 20 hours/week)",
+      "location": "Galveston, Texas, United States",
+      "url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
+      "direct_url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
+      "date_posted": "2026-07-03T04:49:13.190Z",
+      "description": "MD/DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight for poison center.",
+      "salary": "",
+      "job_type": "Part Time, Temporary",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
@@ -732,20 +746,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Academic Custodian",
-      "title": "Space Operations Risk Assessment Specialist",
-      "location": "Grand Forks or United States",
-      "url": "https://careers.pageuppeople.com/1132/cw/en/job/498169",
-      "direct_url": "https://careers.pageuppeople.com/1132/cw/en/job/498169",
-      "date_posted": "2026-06-03T14:00:00.000Z",
-      "description": "B.S. in actuarial science, mathematics, or related field; programming experience in R, Python, and/or MATLAB; Monte Carlo simulation experience; U.S. Person eligibility and successful criminal background check required.",
-      "salary": "$42k/yr",
-      "job_type": "Part Time, Temporary",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Generalmotors",
       "title": "Dealer Audit Risk Assessment Lead - Warranty",
       "location": "United States or Atlanta or Austin or Detroit or Warren or Pontiac or Milford or Mountain View",
@@ -841,20 +841,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Scotiabank Global Site",
-      "title": "Compliance Manager - Regulatory Obligations and Risk Assessment, Swap Dealer (263124)",
-      "location": "Dallas, Texas, United States",
-      "url": "https://career17.sapsf.com/career?career_ns=job_listing&company=scotiabank&career_job_req_id=263124",
-      "direct_url": "https://career17.sapsf.com/career?career_ns=job_listing&company=scotiabank&career_job_req_id=263124",
-      "date_posted": "2026-06-03T16:28:11.000Z",
-      "description": "Bachelor's degree and minimum 3 years regulatory/compliance or risk management experience; familiarity with SEC/CFTC/NFA rules; policy and control review experience; strong analytical, communication, and project management skills; Spanish preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -1031,56 +1017,14 @@
       "company": "UTMB Health",
       "title": "Medical Toxicologist TDH Poison Center (Per Diem < 20 hours/week)",
       "location": "Galveston, Texas, United States",
-      "url": "https://aa083.taleo.net/careersection/ajb/jobdetail.ftl?job=2603836&lang=en",
-      "direct_url": "https://aa083.taleo.net/careersection/ajb/jobdetail.ftl?job=2603836&lang=en",
-      "date_posted": "2026-07-02T16:39:17.000Z",
-      "description": "MD or DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight.",
+      "url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
+      "direct_url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
+      "date_posted": "2026-07-03T04:49:13.190Z",
+      "description": "MD/DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight for poison center.",
       "salary": "",
-      "job_type": "Part Time",
+      "job_type": "Part Time, Temporary",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "HDR",
-      "title": "Senior Environmental Scientist",
-      "location": "Seattle or Gig Harbor or Everett or Bellevue or Olympia",
-      "url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
-      "direct_url": "https://hdr.referrals.selectminds.com/jobs/senior-environmental-scientist-43878",
-      "date_posted": "2026-06-08T12:00:00.000Z",
-      "description": "Bachelor's in environmental science, 10 years environmental planning/compliance experience, NEPA and EIS expertise, technical field and writing skills, MS Office proficiency, GPS/GIS field experience; PWS preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Reston, Virginia, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-06-30T04:00:00.000Z",
-      "description": "4+ years' relevant experience, bachelor's degree in environmental or related field, ecological field work, wetland/species permitting knowledge, technical writing skills, ArcGIS familiarity, and willingness to travel 15-20%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "CDR Companies",
-      "title": "Environmental Scientist II - Williamsport",
-      "location": "Elmira, New York, United States",
-      "url": "https://jobs.workable.com/view/7bpyuTwhNxwuP7Sfk8qdwn/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/7bpyuTwhNxwuP7Sfk8qdwn/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
-      "date_posted": "2026-06-30T20:14:55.975Z",
-      "description": "B.S. in environmental science/related, 5+ years environmental experience, independent wetland/stream delineation, PADEP/USACE permit preparation, sub-meter GPS experience, Microsoft Office proficiency, valid driver’s license.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ]
