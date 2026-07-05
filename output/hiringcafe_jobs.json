@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04 23:05 UTC",
-  "total": 70,
+  "scraped_at": "2026-07-05 02:50 UTC",
+  "total": 69,
   "new_count": 0,
   "jobs": [
     {
@@ -60,20 +60,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Msd",
-      "title": "Principal Scientist, Toxicologist/Study Director",
-      "location": "West Point, Pennsylvania, United States",
-      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Principal-Scientist--Toxicologist-Study-Director_R404329-1",
-      "direct_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Principal-Scientist--Toxicologist-Study-Director_R404329-1",
-      "date_posted": "2026-06-25T00:00:00.000Z",
-      "description": "PhD or DVM with graduate/post-graduate training in toxicology or related field; 8+ years toxicology/study director experience; GLP knowledge; immunology/biologics expertise; strong communication and leadership skills.",
-      "salary": "$173k–$273k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "State of Michigan",
       "title": "Toxicologist-E, Toxicology Assessment Section",
       "location": "Lansing, Michigan, United States",
@@ -85,6 +71,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Msd",
+      "title": "Principal Scientist, Toxicologist/Study Director",
+      "location": "West Point, Pennsylvania, United States",
+      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Principal-Scientist--Toxicologist-Study-Director_R404329-1",
+      "direct_url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/Principal-Scientist--Toxicologist-Study-Director_R404329-1",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "PhD or DVM with graduate/post-graduate training in toxicology or related field; 8+ years toxicology/study director experience; GLP knowledge; immunology/biologics expertise; strong communication and leadership skills.",
+      "salary": "$173k–$273k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -161,12 +161,12 @@
       "company": "UTMB Health",
       "title": "Medical Toxicologist TDH Poison Center (Per Diem < 20 hours/week)",
       "location": "Galveston, Texas, United States",
-      "url": "https://aa083.taleo.net/careersection/ajb/jobdetail.ftl?job=2603836&lang=en",
-      "direct_url": "https://aa083.taleo.net/careersection/ajb/jobdetail.ftl?job=2603836&lang=en",
-      "date_posted": "2026-07-02T16:39:17.000Z",
-      "description": "MD or DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight.",
+      "url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
+      "direct_url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
+      "date_posted": "2026-07-03T04:49:13.190Z",
+      "description": "MD/DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight for poison center.",
       "salary": "",
-      "job_type": "Part Time",
+      "job_type": "Part Time, Temporary",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
@@ -175,12 +175,12 @@
       "company": "UTMB Health",
       "title": "Medical Toxicologist TDH Poison Center (Per Diem < 20 hours/week)",
       "location": "Galveston, Texas, United States",
-      "url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
-      "direct_url": "https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663",
-      "date_posted": "2026-07-03T04:49:13.190Z",
-      "description": "MD/DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight for poison center.",
+      "url": "https://aa083.taleo.net/careersection/ajb/jobdetail.ftl?job=2603836&lang=en",
+      "direct_url": "https://aa083.taleo.net/careersection/ajb/jobdetail.ftl?job=2603836&lang=en",
+      "date_posted": "2026-07-02T16:39:17.000Z",
+      "description": "MD or DO required; active Texas medical license; board certified or board eligible in medical toxicology; provides remote toxicology consultation and clinical oversight.",
       "salary": "",
-      "job_type": "Part Time, Temporary",
+      "job_type": "Part Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
@@ -200,20 +200,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "APTIM",
-      "title": "Environmental Scientist",
-      "location": "Houma, Louisiana, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
-      "date_posted": "2026-06-27T04:08:25.228Z",
-      "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Stantec",
       "title": "Environmental Scientist",
       "location": "Buffalo, New York, United States",
@@ -223,6 +209,20 @@
       "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
       "salary": "$73k–$106k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "APTIM",
+      "title": "Environmental Scientist",
+      "location": "Houma, Louisiana, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
+      "date_posted": "2026-06-27T04:08:25.228Z",
+      "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -631,20 +631,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Usbank",
-      "title": "Risk Assessment Lead - Cybersecurity Risk Oversight",
-      "location": "Minneapolis or Cincinnati or Charlotte or Tempe or Saint Louis or Irving",
-      "url": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Minneapolis-MN/Risk-Assessment-Lead---Cybersecurity-Risk-Oversight_2026-0013878",
-      "direct_url": "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/Minneapolis-MN/Risk-Assessment-Lead---Cybersecurity-Risk-Oversight_2026-0013878",
-      "date_posted": "2026-06-12T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience, typically 10+ years in technology/cybersecurity risk; strong knowledge of information security domains and regulatory frameworks; ability to perform independent risk assessments and influence stakeholders.",
-      "salary": "$133k–$157k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
