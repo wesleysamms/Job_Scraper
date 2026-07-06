@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-07-05 20:34 UTC",
-  "total": 2,
-  "new_count": 0,
+  "scraped_at": "2026-07-06 21:53 UTC",
+  "total": 3,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Mill Valley",
+      "title": "Recreation- After School Program Director",
+      "location": "Northern Bay Area",
+      "url": "https://www.calopps.org/mill-valley/job-20756007",
+      "date_posted": "",
+      "salary": "$25.00-$28.00 Hourly",
+      "ats": "CalOpps"
+    },
     {
       "company": "Pacifica",
       "title": "Deputy Director of Public Works- Field Services & Engineering",
@@ -22,5 +31,15 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Mill Valley",
+      "title": "Recreation- After School Program Director",
+      "location": "Northern Bay Area",
+      "url": "https://www.calopps.org/mill-valley/job-20756007",
+      "date_posted": "",
+      "salary": "$25.00-$28.00 Hourly",
+      "ats": "CalOpps"
+    }
+  ]
 }
