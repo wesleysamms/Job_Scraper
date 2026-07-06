@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-05 23:27 UTC*
+*Last updated: 2026-07-06 04:47 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Team Lead, Quality Control, Raw Materials & Environmental Monitoring](https://www.linkedin.com/jobs/view/4437150097/) — BioSpace
+- 📍 **Location:** Melbourne, Victoria, Australia
+- 🕒 **Posted:** 2026-07-06
