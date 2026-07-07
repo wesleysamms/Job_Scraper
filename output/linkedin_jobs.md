@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-06 23:41 UTC*
+*Last updated: 2026-07-07 04:26 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4436500399/) — Western University of Health Sciences
+- 📍 **Location:** Pomona, CA
+- 🕒 **Posted:** 2026-07-07
