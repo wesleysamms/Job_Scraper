@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-06 21:53 UTC",
+  "scraped_at": "2026-07-08 20:45 UTC",
   "total": 3,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Mill Valley",
@@ -31,15 +31,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Mill Valley",
-      "title": "Recreation- After School Program Director",
-      "location": "Northern Bay Area",
-      "url": "https://www.calopps.org/mill-valley/job-20756007",
-      "date_posted": "",
-      "salary": "$25.00-$28.00 Hourly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
