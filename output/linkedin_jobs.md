@@ -1,114 +1,129 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-09 10:43 UTC*
+*Last updated: 2026-07-09 21:18 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**28 new role(s)** since last run · 28 total in last 1h
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4435670030/) — Western Veterinary Partners
+### [Chief Executive Officer (CEO)](https://www.linkedin.com/jobs/view/4438820553/) — Peak Rehabilitation Hospital
+- 📍 **Location:** Greater Sacramento
+- 🕒 **Posted:** 2026-07-09
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4435916209/) — Western Veterinary Partners
 - 📍 **Location:** Sacramento, CA
 - 💰 **Salary:** $140,000.00 - $160,000.00
 - 🕒 **Posted:** 2026-07-09
 
-### [Chief Executive Officer - Traveling - Nationwide](https://www.linkedin.com/jobs/view/4410513007/) — Vituity
-- 📍 **Location:** Emeryville, CA
-- 💰 **Salary:** $850,000 – $1,100,000,
+### [Executive Director](https://www.linkedin.com/jobs/view/4416599948/) — Alzheimer's Association®
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $190,000 - $240,000
 - 🕒 **Posted:** 2026-07-09
 
-### [Associate Managing Director](https://www.linkedin.com/jobs/view/4418808464/) — Burns & Wilcox
-- 📍 **Location:** Fresno, CA
-- 💰 **Salary:** $175,000 - $250,000 annually
+### [Executive Director](https://www.linkedin.com/jobs/view/4437916190/) — Westmont Living, Inc.
+- 📍 **Location:** Morgan Hill, CA
+- 💰 **Salary:** $165,000.00/yr - $190,000.00/yr
 - 🕒 **Posted:** 2026-07-09
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4435648863/) — Ladders
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $232,500.00/yr - $313,892.00/yr
+### [CEO, Skillz](https://www.linkedin.com/jobs/view/4438808823/) — Skillz
+- 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-07-09
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4435664537/) — Ladders
-- 📍 **Location:** San Francisco, CA
+### [Director of Operations](https://www.linkedin.com/jobs/view/4435697911/) — manufacturing
+- 📍 **Location:** Burbank, CA
+- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-07-09
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4437890707/) — Community Craft Works
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $80,000 - $90,000 annually
+- 🕒 **Posted:** 2026-07-09
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4437922172/) — Oralight
+- 📍 **Location:** Buffalo, NY
+- 🕒 **Posted:** 2026-07-09
+
+### [Transplant Program Director](https://www.linkedin.com/jobs/view/4437913410/) — Upstate Medical University
+- 📍 **Location:** Greater Syracuse-Auburn Area
+- 🕒 **Posted:** 2026-07-09
+
+### [Interim Grants Director](https://www.linkedin.com/jobs/view/4438805557/) — Ascendo Resources
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $65.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-07-09
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4430745323/) — Scion Staffing
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $165,000-$225,000
+- 🕒 **Posted:** 2026-07-09
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4438819708/) — Scion Staffing
+- 📍 **Location:** Loves Park, IL
+- 💰 **Salary:** $120,000 - 140,000
+- 🕒 **Posted:** 2026-07-09
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4437909542/) — North Central New Mexico Economic Development District
+- 📍 **Location:** Santa Fe, NM
+- 💰 **Salary:** $115,000 - $145,000
+- 🕒 **Posted:** 2026-07-09
+
+### [Chief Executive Officer (CUSO)](https://www.linkedin.com/jobs/view/4437924003/) — D. Hilton Associates, Inc.
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-09
+
+### [Chief of Staff to the CEO](https://www.linkedin.com/jobs/view/4438831052/) — Confidential
+- 📍 **Location:** Centreville, VA
 - 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-07-09
 
-### [Private Equity Managing Director COO](https://www.linkedin.com/jobs/view/4435655680/) — Ladders
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $300,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-07-09
-
-### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4430149075/) — Year Up United
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $115,00 - $152,000
-- 🕒 **Posted:** 2026-07-09
-
-### [Business Development Director](https://www.linkedin.com/jobs/view/4387523324/) — BDO USA
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000 - $180,000
-- 🕒 **Posted:** 2026-07-09
-
-### [Business Development Director](https://www.linkedin.com/jobs/view/4387523323/) — BDO USA
-- 📍 **Location:** Woodbridge, NJ
-- 💰 **Salary:** $150,000 - $180,000
-- 🕒 **Posted:** 2026-07-09
-
-### [Program Director, Construction Safety Management](https://www.linkedin.com/jobs/view/4426854660/) — The Port Authority of New York & New Jersey
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-07-09
-
-### [Program Director](https://www.linkedin.com/jobs/view/4419950969/) — Merakey
-- 📍 **Location:** Penn Hills, PA
-- 🕒 **Posted:** 2026-07-09
-
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4428741558/) — Dialysis Clinic, Inc.
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-07-09
-
-### [President and Chief Executive Officer](https://www.linkedin.com/jobs/view/4436438160/) — CFA Institute
-- 📍 **Location:** Charlottesville, VA
-- 💰 **Salary:** $500,000 to $700,000,
-- 🕒 **Posted:** 2026-07-09
-
-### [Executive Director, People Experience](https://www.linkedin.com/jobs/view/4435650960/) — Ladders
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $226,000.00/yr - $376,000.00/yr
-- 🕒 **Posted:** 2026-07-09
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4435667184/) — ITP (International Talent Partnership)
-- 📍 **Location:** Iowa, United States
-- 💰 **Salary:** $300,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-07-09
-
-### [Managing Director](https://www.linkedin.com/jobs/view/4435646948/) — Ladders
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $200,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-07-09
-
-### [Business Development Director](https://www.linkedin.com/jobs/view/4387517483/) — BDO USA
-- 📍 **Location:** Stamford, CT
-- 💰 **Salary:** $150,000 - $180,000
-- 🕒 **Posted:** 2026-07-09
-
-### [Senior Global Clinical Operations Program Director, Late Development Oncology](https://www.linkedin.com/jobs/view/4435669110/) — Ladders
-- 📍 **Location:** Gaithersburg, MD
-- 💰 **Salary:** $233,586.00/yr - $350,379.00/yr
-- 🕒 **Posted:** 2026-07-09
-
-### [Associate Director of Philanthropy I](https://www.linkedin.com/jobs/view/4428745295/) — The Nature Conservancy
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $82,700 - 95,000
-- 🕒 **Posted:** 2026-07-09
-
-### [Executive Director, Legal, Compliance & Security, AGI](https://www.linkedin.com/jobs/view/4438621104/) — Synopsys Inc
-- 📍 **Location:** Exton, PA
-- 🕒 **Posted:** 2026-07-09
-
-### [Division Managing Director – Large Market Customer Care](https://www.linkedin.com/jobs/view/4410909526/) — Principal Financial Group
-- 📍 **Location:** Des Moines, IA
-- 💰 **Salary:** $157000 - $200000
-- 🕒 **Posted:** 2026-07-09
-
-### [Executive Director, Respiratory Value & Access Lead](https://www.linkedin.com/jobs/view/4435649877/) — Ladders
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4435901846/) — DreamChain
 - 📍 **Location:** United States
-- 💰 **Salary:** $247,000.00/yr - $337,000.00/yr
 - 🕒 **Posted:** 2026-07-09
 
-### [Executive Director of School and Leadership Success](https://www.linkedin.com/jobs/view/4434339173/) — Kent School District
-- 📍 **Location:** Kent, WA
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4437923124/) — Silstone Group
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-09
+
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4435911675/) — Everett Financial
+- 📍 **Location:** Pennsylvania, United States
+- 🕒 **Posted:** 2026-07-09
+
+### [Chief Program Officer, The AI Access Initiative](https://www.linkedin.com/jobs/view/4437915303/) — RemoteHunter
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-09
+
+### [Director of Advancement](https://www.linkedin.com/jobs/view/4437922222/) — Cenikor Foundation
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-07-09
+
+### [Associate Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4437906475/) — RemoteHunter
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-09
+
+### [UMKC Foundation - Director of Development - School of Pharmacy and Nursing](https://www.linkedin.com/jobs/view/4437904613/) — UMKC Foundation
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $100,000 - $115,000
+- 🕒 **Posted:** 2026-07-09
+
+### [Director of Philanthropy & Development](https://www.linkedin.com/jobs/view/4437905337/) — Skagit Valley Family YMCA
+- 📍 **Location:** Mount Vernon, WA
+- 🕒 **Posted:** 2026-07-09
+
+### [Executive Director, Golden Dome Strategy](https://www.linkedin.com/jobs/view/4438817890/) — Amentum
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $150,000-$200,000
+- 🕒 **Posted:** 2026-07-09
+
+### [Director of Communications](https://www.linkedin.com/jobs/view/4438802801/) — Medicaid Health Plans of America (MHPA)
+- 📍 **Location:** New Alexandria, VA
+- 🕒 **Posted:** 2026-07-09
+
+### [Director of Operations Home Health](https://www.linkedin.com/jobs/view/4438820937/) — PruittHealth
+- 📍 **Location:** Gainesville, GA
+- 🕒 **Posted:** 2026-07-09
+
+### [Assistant Executive Director – Benefits Administration Office](https://www.linkedin.com/jobs/view/4435901921/) — The National Automatic Sprinkler Industry (“NASI”) Welfare and Pension Funds
+- 📍 **Location:** Landover, MD
+- 💰 **Salary:** $175,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-07-09
+
+### [Program Director (Government Programs)](https://www.linkedin.com/jobs/view/4419650162/) — Fincantieri Marine Group
+- 📍 **Location:** Marinette, WI
 - 🕒 **Posted:** 2026-07-09
