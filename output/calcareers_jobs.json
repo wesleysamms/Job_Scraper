@@ -1,7 +1,57 @@
 {
-  "scraped_at": "2026-07-08 20:44 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-07-10 20:52 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "Department of Public Health",
+      "title": "Deputy Director, Center for Healthy Communities",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524031",
+      "date_posted": "2026-07-10",
+      "salary": "$13472.00 - $15297.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Career Executive Assignment - Non Tenured, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Public Health",
+      "title": "Deputy Director, Center for Healthy Communities",
+      "location": "Contra Costa County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524035",
+      "date_posted": "2026-07-10",
+      "salary": "$13472.00 - $15297.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Career Executive Assignment - Non Tenured, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Department of Public Health",
+      "title": "Deputy Director, Center for Healthy Communities",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524031",
+      "date_posted": "2026-07-10",
+      "salary": "$13472.00 - $15297.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Career Executive Assignment - Non Tenured, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    },
+    {
+      "company": "Department of Public Health",
+      "title": "Deputy Director, Center for Healthy Communities",
+      "location": "Contra Costa County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524035",
+      "date_posted": "2026-07-10",
+      "salary": "$13472.00 - $15297.00",
+      "ats": "CalCareers",
+      "telework": "Hybrid",
+      "job_type": "Career Executive Assignment - Non Tenured, Full Time",
+      "work_arrangement": "Telecommute eligible"
+    }
+  ]
 }
