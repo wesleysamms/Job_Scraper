@@ -1,134 +1,184 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-10 09:06 UTC*
+*Last updated: 2026-07-10 20:22 UTC*
 
-**29 new role(s)** since last run · 29 total in last 1h
+**40 new role(s)** since last run · 40 total in last 1h
 
-### [Chief Advancement Officer](https://www.linkedin.com/jobs/view/4439013571/) — Rose, Klein & Marias
-- 📍 **Location:** Sacramento, CA
+### [Executive Director](https://www.linkedin.com/jobs/view/4439338692/) — Cogir Senior Living
+- 📍 **Location:** Madera, CA
+- 💰 **Salary:** $130,000 - $140,000
 - 🕒 **Posted:** 2026-07-10
 
-### [EXECUTIVE DIRECTOR, BUSINESS SERVICES - BILINGUAL PREFERRED](https://www.linkedin.com/jobs/view/4439015608/) — Orange Unified School District
-- 📍 **Location:** Costa Mesa, CA
+### [Assistant Program Director](https://www.linkedin.com/jobs/view/4438345962/) — Comprehensive Addiction Programs Inc
+- 📍 **Location:** Fresno, CA
 - 🕒 **Posted:** 2026-07-10
 
-### [Mission Advancement Director](https://www.linkedin.com/jobs/view/4439019686/) — Ravi's Import Warehouse
-- 📍 **Location:** Berkeley, CA
-- 💰 **Salary:** $1,000–$9,999
-- 🕒 **Posted:** 2026-07-10
-
-### [Youth Development Director, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4437303345/) — Crossover
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $100.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-07-10
-
-### [Community Development Director](https://www.linkedin.com/jobs/view/4439017646/) — American Planning Association - Wisconsin Chapter
-- 📍 **Location:** El Cerrito, CA
-- 🕒 **Posted:** 2026-07-10
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4432841329/) — Scion Staffing
-- 📍 **Location:** National City, CA
-- 💰 **Salary:** $135,000–$145,000
-- 🕒 **Posted:** 2026-07-10
-
-### [Managing Director, Los Angeles](https://www.linkedin.com/jobs/view/4439004780/) — Communal Hebrew School
+### [Assistant Director of Advancement](https://www.linkedin.com/jobs/view/4439329919/) — The Center for Early Education
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $110,000 – $125,000
 - 🕒 **Posted:** 2026-07-10
 
-### [Development Director](https://www.linkedin.com/jobs/view/4439012556/) — Communal Hebrew School
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $125,000 – $150,000
+### [Executive Business Partner to the CEO](https://www.linkedin.com/jobs/view/4439343395/) — 4Liberty, Inc.
+- 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-07-10
 
-### [Managing Director, New York](https://www.linkedin.com/jobs/view/4439018375/) — Communal Hebrew School
+### [DEPUTY DIRECTOR - PUBLIC WORKS - ENGINEERING SERVICES DIVISION](https://www.linkedin.com/jobs/view/4438355336/) — County of San Diego
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $215,000 - $220,000 Annually
+- 🕒 **Posted:** 2026-07-10
+
+### [Executive Director, Strategic Initiatives](https://www.linkedin.com/jobs/view/4438371009/) — The Estée Lauder Companies Inc.
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $177,100.00 to $304,500.00
+- 🕒 **Posted:** 2026-07-10
+
+### [Elementary Program Director](https://www.linkedin.com/jobs/view/4439348252/) — Police Athletic League, Inc.
+- 📍 **Location:** Queens, NY
+- 💰 **Salary:** $68,000-70,000 annually
+- 🕒 **Posted:** 2026-07-10
+
+### [Elementary Program Director](https://www.linkedin.com/jobs/view/4439333972/) — Police Athletic League, Inc.
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $68,000-70,000 annually
+- 🕒 **Posted:** 2026-07-10
+
+### [Elementary Program Director](https://www.linkedin.com/jobs/view/4439350161/) — Police Athletic League, Inc.
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $125,000 – $150,000
+- 💰 **Salary:** $68,000-70,000 annually
 - 🕒 **Posted:** 2026-07-10
 
-### [Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4433185936/) — reesmarx
+### [Elementary Program Director](https://www.linkedin.com/jobs/view/4439355093/) — Police Athletic League, Inc.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $68,000-70,000 annually
+- 🕒 **Posted:** 2026-07-10
+
+### [Elementary Program Director](https://www.linkedin.com/jobs/view/4439336874/) — Police Athletic League, Inc.
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $68,000-70,000 annually
+- 🕒 **Posted:** 2026-07-10
+
+### [Director of Communications](https://www.linkedin.com/jobs/view/4438348973/) — Relay
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $216,000 USD to $264,000 USD
+- 🕒 **Posted:** 2026-07-10
+
+### [Executive Director, Transformation Enablement](https://www.linkedin.com/jobs/view/4438370053/) — The Estée Lauder Companies Inc.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $177,100.00 to $304,500.00
+- 🕒 **Posted:** 2026-07-10
+
+### [Finance Business Partner to CEO - Construction - Manhattan, NY](https://www.linkedin.com/jobs/view/4439342697/) — Page Executive
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-07-10
+
+### [Managing Director, Manufacturing Operations Advisory and Business Development](https://www.linkedin.com/jobs/view/4436621321/) — FTE Factory Advisors
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-10
 
-### [Entrepreneurship Program Director, Founders School - $250,000/year USD](https://www.linkedin.com/jobs/view/4437307254/) — Crossover
-- 📍 **Location:** Princeton, NJ
-- 💰 **Salary:** $125.00/hr - $125.00/hr
+### [Deputy Director, Tort Unit](https://www.linkedin.com/jobs/view/4439344435/) — Office of the New York City Comptroller
+- 📍 **Location:** Manhattan, NY
 - 🕒 **Posted:** 2026-07-10
 
-### [Entrepreneurship Program Director, Founders School - $250,000/year USD](https://www.linkedin.com/jobs/view/4437307255/) — Crossover
-- 📍 **Location:** Warren, NJ
-- 💰 **Salary:** $125.00/hr - $125.00/hr
+### [Executive Director Nonprofit](https://www.linkedin.com/jobs/view/4438343971/) — Torch Lake Protection Alliance
+- 📍 **Location:** Kewadin, MI
 - 🕒 **Posted:** 2026-07-10
 
-### [Executive Director - Technical Program Manager | Corporate Technology | Document Platform Management](https://www.linkedin.com/jobs/view/4439013956/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $190,000.00/yr - $260,000.00/yr
+### [Director of Development & External Affairs](https://www.linkedin.com/jobs/view/4438363193/) — AccessHealth Community Health Center
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-07-10
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4439009741/) — American Planning Association - Wisconsin Chapter
-- 📍 **Location:** Rock Island, IL
-- 💰 **Salary:** $135,000–$160,000,
+### [Executive Director, Corporate Relations](https://www.linkedin.com/jobs/view/4438372020/) — Texas Christian University
+- 📍 **Location:** Fort Worth, TX
 - 🕒 **Posted:** 2026-07-10
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4439004894/) — American Planning Association - Wisconsin Chapter
-- 📍 **Location:** Burlington, KY
-- 💰 **Salary:** $135,000 - $175,000 annually
+### [Director of Development](https://www.linkedin.com/jobs/view/4414405524/) — Volunteers of America Chesapeake & Carolinas
+- 📍 **Location:** Lanham, MD
+- 💰 **Salary:** $110,000.00/yr - $125,000.00/yr
 - 🕒 **Posted:** 2026-07-10
 
-### [EXECUTIVE DIRECTOR](https://www.linkedin.com/jobs/view/4437977196/) — Yakima Music en Acción (YAMA)
-- 📍 **Location:** Glendale, AZ
+### [Sr. Director of Philanthropy](https://www.linkedin.com/jobs/view/4436632280/) — CareerSource Palm Beach County
+- 📍 **Location:** West Palm Beach, FL
 - 🕒 **Posted:** 2026-07-10
 
-### [Executive Director- Relocate to Virginia!](https://www.linkedin.com/jobs/view/4439014612/) — Commonwealth Senior Living
-- 📍 **Location:** Charleston, SC
-- 💰 **Salary:** $95,000.00/yr - $130,000.00/yr
+### [Associate Director of Philanthropy - FT](https://www.linkedin.com/jobs/view/4439339595/) — Cincinnati Art Museum
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-07-10
 
-### [Director of Philanthropy & Executive Director of ECTC Foundation](https://www.linkedin.com/jobs/view/4439011787/) — Elizabethtown Community and Technical College
-- 📍 **Location:** Bowling Green, KY
+### [Executive Director](https://www.linkedin.com/jobs/view/4439342450/) — Calyx Living
+- 📍 **Location:** Fuquay-Varina, NC
 - 🕒 **Posted:** 2026-07-10
 
-### [AI Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439024163/) — EWOR
+### [CEO - Panama City Surgery Center](https://www.linkedin.com/jobs/view/4439340408/) — SCA Health
+- 📍 **Location:** Panama City, FL
+- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
+- 🕒 **Posted:** 2026-07-10
+
+### [Senior Director of Advancement - College of Arts and Sciences](https://www.linkedin.com/jobs/view/4436612980/) — University at Buffalo
+- 📍 **Location:** Buffalo, NY
+- 🕒 **Posted:** 2026-07-10
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4438347694/) — The Renaissance Network, Inc.
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-10
 
-### [AI Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439015643/) — EWOR
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4436631408/) — Aspire Solutions Contracting Co.
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-10
 
-### [AI Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439010767/) — EWOR
-- 📍 **Location:** United States
+### [Open Rank Deputy Director Associate Professor or Professor](https://www.linkedin.com/jobs/view/4436630434/) — University of Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $150,000 - $250,000
 - 🕒 **Posted:** 2026-07-10
 
-### [Mobility Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439016828/) — EWOR
-- 📍 **Location:** United States
+### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4436632405/) — Youth Guidance
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
 - 🕒 **Posted:** 2026-07-10
 
-### [AI Infrastructure Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439021571/) — EWOR
-- 📍 **Location:** United States
+### [Director of Development](https://www.linkedin.com/jobs/view/4439350157/) — Life Forward, Pregnancy Care of Cincinnati
+- 📍 **Location:** Cincinnati, OH
+- 💰 **Salary:** $55k-$67k
 - 🕒 **Posted:** 2026-07-10
 
-### [Applied AI Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439009753/) — EWOR
-- 📍 **Location:** United States
+### [Development Director](https://www.linkedin.com/jobs/view/4439330837/) — Utah Community Action
+- 📍 **Location:** Salt Lake City, UT
 - 🕒 **Posted:** 2026-07-10
 
-### [Agentic AI Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439017897/) — EWOR
-- 📍 **Location:** United States
+### [Associate Director of Fundraising Events](https://www.linkedin.com/jobs/view/4439340450/) — Bridges From School To Work
+- 📍 **Location:** Bethesda, MD
 - 🕒 **Posted:** 2026-07-10
 
-### [DeepTech Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439033077/) — EWOR
-- 📍 **Location:** United States
+### [UMKC Foundation - Director of Development - School of Pharmacy and Nursing](https://www.linkedin.com/jobs/view/4438365152/) — UMKC Foundation
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $100,000 - $115,000
 - 🕒 **Posted:** 2026-07-10
 
-### [Development Director](https://www.linkedin.com/jobs/view/4439011899/) — Timbers Company
-- 📍 **Location:** Winter Park, FL
+### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4439349059/) — University of Washington
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $375K–$5
 - 🕒 **Posted:** 2026-07-10
 
-### [After-School Program Director, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4437096817/) — Crossover
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $100.00/hr - $100.00/hr
+### [Managing Director, Investments & Acquisitions](https://www.linkedin.com/jobs/view/4438341925/) — Bullpen
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $275,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-07-10
 
-### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4437312109/) — Crossover
-- 📍 **Location:** New Orleans, LA
-- 💰 **Salary:** $100.00/hr - $100.00/hr
+### [STScI Deputy Director](https://www.linkedin.com/jobs/view/4424798143/) — Association of Universities for Research in Astronomy
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $275,000 - $315,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Director of Communications](https://www.linkedin.com/jobs/view/4438802801/) — Medicaid Health Plans of America (MHPA)
+- 📍 **Location:** New Alexandria, VA
+- 🕒 **Posted:** 2026-07-10
+
+### [Director of Communications & Operations](https://www.linkedin.com/jobs/view/4439323403/) — Velocitas Interactive Marketing + Public Relations
+- 📍 **Location:** South Miami, FL
+- 🕒 **Posted:** 2026-07-10
+
+### [Deputy Director / Engineering and Right-of-Way Services](https://www.linkedin.com/jobs/view/4439334858/) — City of Alexandria, Virginia
+- 📍 **Location:** Alexandria, VA
+- 🕒 **Posted:** 2026-07-10
+
+### [Executive Director of Data Strategy](https://www.linkedin.com/jobs/view/4436631393/) — RaceTrac
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-07-10
