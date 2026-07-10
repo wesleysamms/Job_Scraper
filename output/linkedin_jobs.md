@@ -1,129 +1,134 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-09 21:18 UTC*
+*Last updated: 2026-07-10 09:06 UTC*
 
-**28 new role(s)** since last run · 28 total in last 1h
+**29 new role(s)** since last run · 29 total in last 1h
 
-### [Chief Executive Officer (CEO)](https://www.linkedin.com/jobs/view/4438820553/) — Peak Rehabilitation Hospital
-- 📍 **Location:** Greater Sacramento
-- 🕒 **Posted:** 2026-07-09
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4435916209/) — Western Veterinary Partners
+### [Chief Advancement Officer](https://www.linkedin.com/jobs/view/4439013571/) — Rose, Klein & Marias
 - 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $140,000.00 - $160,000.00
-- 🕒 **Posted:** 2026-07-09
+- 🕒 **Posted:** 2026-07-10
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4416599948/) — Alzheimer's Association®
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $190,000 - $240,000
-- 🕒 **Posted:** 2026-07-09
+### [EXECUTIVE DIRECTOR, BUSINESS SERVICES - BILINGUAL PREFERRED](https://www.linkedin.com/jobs/view/4439015608/) — Orange Unified School District
+- 📍 **Location:** Costa Mesa, CA
+- 🕒 **Posted:** 2026-07-10
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4437916190/) — Westmont Living, Inc.
-- 📍 **Location:** Morgan Hill, CA
-- 💰 **Salary:** $165,000.00/yr - $190,000.00/yr
-- 🕒 **Posted:** 2026-07-09
+### [Mission Advancement Director](https://www.linkedin.com/jobs/view/4439019686/) — Ravi's Import Warehouse
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $1,000–$9,999
+- 🕒 **Posted:** 2026-07-10
 
-### [CEO, Skillz](https://www.linkedin.com/jobs/view/4438808823/) — Skillz
+### [Youth Development Director, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4437303345/) — Crossover
 - 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-07-09
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-07-10
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4435697911/) — manufacturing
-- 📍 **Location:** Burbank, CA
-- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-07-09
+### [Community Development Director](https://www.linkedin.com/jobs/view/4439017646/) — American Planning Association - Wisconsin Chapter
+- 📍 **Location:** El Cerrito, CA
+- 🕒 **Posted:** 2026-07-10
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4437890707/) — Community Craft Works
+### [Director of Development](https://www.linkedin.com/jobs/view/4432841329/) — Scion Staffing
+- 📍 **Location:** National City, CA
+- 💰 **Salary:** $135,000–$145,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Managing Director, Los Angeles](https://www.linkedin.com/jobs/view/4439004780/) — Communal Hebrew School
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $110,000 – $125,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Development Director](https://www.linkedin.com/jobs/view/4439012556/) — Communal Hebrew School
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $125,000 – $150,000
+- 🕒 **Posted:** 2026-07-10
+
+### [Managing Director, New York](https://www.linkedin.com/jobs/view/4439018375/) — Communal Hebrew School
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $80,000 - $90,000 annually
-- 🕒 **Posted:** 2026-07-09
+- 💰 **Salary:** $125,000 – $150,000
+- 🕒 **Posted:** 2026-07-10
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4437922172/) — Oralight
-- 📍 **Location:** Buffalo, NY
-- 🕒 **Posted:** 2026-07-09
-
-### [Transplant Program Director](https://www.linkedin.com/jobs/view/4437913410/) — Upstate Medical University
-- 📍 **Location:** Greater Syracuse-Auburn Area
-- 🕒 **Posted:** 2026-07-09
-
-### [Interim Grants Director](https://www.linkedin.com/jobs/view/4438805557/) — Ascendo Resources
+### [Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4433185936/) — reesmarx
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $65.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-07-09
+- 🕒 **Posted:** 2026-07-10
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4430745323/) — Scion Staffing
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $165,000-$225,000
-- 🕒 **Posted:** 2026-07-09
+### [Entrepreneurship Program Director, Founders School - $250,000/year USD](https://www.linkedin.com/jobs/view/4437307254/) — Crossover
+- 📍 **Location:** Princeton, NJ
+- 💰 **Salary:** $125.00/hr - $125.00/hr
+- 🕒 **Posted:** 2026-07-10
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4438819708/) — Scion Staffing
-- 📍 **Location:** Loves Park, IL
-- 💰 **Salary:** $120,000 - 140,000
-- 🕒 **Posted:** 2026-07-09
+### [Entrepreneurship Program Director, Founders School - $250,000/year USD](https://www.linkedin.com/jobs/view/4437307255/) — Crossover
+- 📍 **Location:** Warren, NJ
+- 💰 **Salary:** $125.00/hr - $125.00/hr
+- 🕒 **Posted:** 2026-07-10
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4437909542/) — North Central New Mexico Economic Development District
-- 📍 **Location:** Santa Fe, NM
-- 💰 **Salary:** $115,000 - $145,000
-- 🕒 **Posted:** 2026-07-09
+### [Executive Director - Technical Program Manager | Corporate Technology | Document Platform Management](https://www.linkedin.com/jobs/view/4439013956/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $190,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-07-10
 
-### [Chief Executive Officer (CUSO)](https://www.linkedin.com/jobs/view/4437924003/) — D. Hilton Associates, Inc.
+### [Executive Director](https://www.linkedin.com/jobs/view/4439009741/) — American Planning Association - Wisconsin Chapter
+- 📍 **Location:** Rock Island, IL
+- 💰 **Salary:** $135,000–$160,000,
+- 🕒 **Posted:** 2026-07-10
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4439004894/) — American Planning Association - Wisconsin Chapter
+- 📍 **Location:** Burlington, KY
+- 💰 **Salary:** $135,000 - $175,000 annually
+- 🕒 **Posted:** 2026-07-10
+
+### [EXECUTIVE DIRECTOR](https://www.linkedin.com/jobs/view/4437977196/) — Yakima Music en Acción (YAMA)
+- 📍 **Location:** Glendale, AZ
+- 🕒 **Posted:** 2026-07-10
+
+### [Executive Director- Relocate to Virginia!](https://www.linkedin.com/jobs/view/4439014612/) — Commonwealth Senior Living
+- 📍 **Location:** Charleston, SC
+- 💰 **Salary:** $95,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-07-10
+
+### [Director of Philanthropy & Executive Director of ECTC Foundation](https://www.linkedin.com/jobs/view/4439011787/) — Elizabethtown Community and Technical College
+- 📍 **Location:** Bowling Green, KY
+- 🕒 **Posted:** 2026-07-10
+
+### [AI Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439024163/) — EWOR
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-09
+- 🕒 **Posted:** 2026-07-10
 
-### [Chief of Staff to the CEO](https://www.linkedin.com/jobs/view/4438831052/) — Confidential
-- 📍 **Location:** Centreville, VA
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-09
-
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4435901846/) — DreamChain
+### [AI Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439015643/) — EWOR
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-09
+- 🕒 **Posted:** 2026-07-10
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4437923124/) — Silstone Group
+### [AI Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439010767/) — EWOR
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-09
+- 🕒 **Posted:** 2026-07-10
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4435911675/) — Everett Financial
-- 📍 **Location:** Pennsylvania, United States
-- 🕒 **Posted:** 2026-07-09
-
-### [Chief Program Officer, The AI Access Initiative](https://www.linkedin.com/jobs/view/4437915303/) — RemoteHunter
+### [Mobility Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439016828/) — EWOR
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-09
+- 🕒 **Posted:** 2026-07-10
 
-### [Director of Advancement](https://www.linkedin.com/jobs/view/4437922222/) — Cenikor Foundation
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-07-09
-
-### [Associate Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4437906475/) — RemoteHunter
+### [AI Infrastructure Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439021571/) — EWOR
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-09
+- 🕒 **Posted:** 2026-07-10
 
-### [UMKC Foundation - Director of Development - School of Pharmacy and Nursing](https://www.linkedin.com/jobs/view/4437904613/) — UMKC Foundation
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $100,000 - $115,000
-- 🕒 **Posted:** 2026-07-09
+### [Applied AI Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439009753/) — EWOR
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-10
 
-### [Director of Philanthropy & Development](https://www.linkedin.com/jobs/view/4437905337/) — Skagit Valley Family YMCA
-- 📍 **Location:** Mount Vernon, WA
-- 🕒 **Posted:** 2026-07-09
+### [Agentic AI Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439017897/) — EWOR
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-10
 
-### [Executive Director, Golden Dome Strategy](https://www.linkedin.com/jobs/view/4438817890/) — Amentum
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $150,000-$200,000
-- 🕒 **Posted:** 2026-07-09
+### [DeepTech Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4439033077/) — EWOR
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-10
 
-### [Director of Communications](https://www.linkedin.com/jobs/view/4438802801/) — Medicaid Health Plans of America (MHPA)
-- 📍 **Location:** New Alexandria, VA
-- 🕒 **Posted:** 2026-07-09
+### [Development Director](https://www.linkedin.com/jobs/view/4439011899/) — Timbers Company
+- 📍 **Location:** Winter Park, FL
+- 🕒 **Posted:** 2026-07-10
 
-### [Director of Operations Home Health](https://www.linkedin.com/jobs/view/4438820937/) — PruittHealth
-- 📍 **Location:** Gainesville, GA
-- 🕒 **Posted:** 2026-07-09
+### [After-School Program Director, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4437096817/) — Crossover
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-07-10
 
-### [Assistant Executive Director – Benefits Administration Office](https://www.linkedin.com/jobs/view/4435901921/) — The National Automatic Sprinkler Industry (“NASI”) Welfare and Pension Funds
-- 📍 **Location:** Landover, MD
-- 💰 **Salary:** $175,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-07-09
-
-### [Program Director (Government Programs)](https://www.linkedin.com/jobs/view/4419650162/) — Fincantieri Marine Group
-- 📍 **Location:** Marinette, WI
-- 🕒 **Posted:** 2026-07-09
+### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4437312109/) — Crossover
+- 📍 **Location:** New Orleans, LA
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-07-10
