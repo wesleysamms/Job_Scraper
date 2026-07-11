@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-10 18:03 UTC",
-  "total": 16,
-  "new_count": 1,
+  "scraped_at": "2026-07-11 17:25 UTC",
+  "total": 13,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of Mendocino",
@@ -76,24 +76,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist I (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379168-0/hazardous-materials-specialist-i-fire-district",
-      "date_posted": "",
-      "salary": "$73,486.40 - $98,737.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "San Bernardino County",
-      "title": "Hazardous Materials Specialist II (Fire District)",
-      "location": "Throughout San Bernardino County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5379179-0/hazardous-materials-specialist-ii-fire-district",
-      "date_posted": "",
-      "salary": "$77,209.60 - $103,812.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "County of San Mateo",
       "title": "Hazardous Materials Specialist I/II/III (Open & Promotional)",
       "location": "San Mateo, CA",
@@ -137,26 +119,7 @@
       "date_posted": "",
       "salary": "",
       "ats": "NEOGOV"
-    },
-    {
-      "company": "Los Angeles County Metropolitan Transportation Authority (CA)",
-      "title": "SENIOR ENVIRONMENTAL SPECIALIST (ENVIRONMENTAL COMPLIANCE)",
-      "location": "Los Angeles, CA",
-      "url": "https://www.governmentjobs.com/jobs/5390949-0/senior-environmental-specialist-environmental-compliance",
-      "date_posted": "",
-      "salary": "$99,819.20 - $149,656.00 Annually",
-      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Naples",
-      "title": "Water Quality Project Manager",
-      "location": "295 Riverside Circle Naples, FL",
-      "url": "https://www.governmentjobs.com/jobs/5402120-0/water-quality-project-manager",
-      "date_posted": "",
-      "salary": "$90,402.00 - $140,123.00 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }
