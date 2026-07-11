@@ -1,30 +1,23 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-11 18:22 UTC*
+*Last updated: 2026-07-11 21:19 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Deputy Director-MEP Review](https://www.linkedin.com/jobs/view/4438939531/) — NYC Department of Housing Preservation & Development
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000.00/yr - $110,000.00/yr
+### [Senior Director of Development, UCI MIND](https://www.linkedin.com/jobs/view/4422633484/) — UC Irvine
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $150,000.00- $165,000.00
 - 🕒 **Posted:** 2026-07-11
 
-### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4439569658/) — HumanePro
-- 📍 **Location:** Austin, TX
+### [Senior Director of External Affairs](https://www.linkedin.com/jobs/view/4434905173/) — UC Irvine
+- 📍 **Location:** Costa Mesa, CA
+- 💰 **Salary:** $108,100 - $161,000
 - 🕒 **Posted:** 2026-07-11
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4439583039/) — Kindred
-- 📍 **Location:** Philadelphia, PA
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4439573653/) — ILLEX - International Live Link Exchange
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $60k-$70k
 - 🕒 **Posted:** 2026-07-11
 
-### [Director of Strategic Partnerships - IDWatchdog](https://www.linkedin.com/jobs/view/4430010415/) — Equifax
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-07-11
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4438939562/) — The Mold Pros Inc.
-- 📍 **Location:** Texas, United States
-- 💰 **Salary:** $90,000.00 to $100,000.00
-- 🕒 **Posted:** 2026-07-11
-
-### [CEO/CFO/COO + Business Opportunity](https://www.linkedin.com/jobs/view/4438946374/) — FICA Boost
-- 📍 **Location:** United States
+### [Business Development Director](https://www.linkedin.com/jobs/view/4438939717/) — MyFundedFutures
+- 📍 **Location:** Plano, TX
 - 🕒 **Posted:** 2026-07-11
