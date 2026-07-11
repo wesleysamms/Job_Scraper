@@ -1,35 +1,30 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-11 07:34 UTC*
+*Last updated: 2026-07-11 18:22 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Executive Director, National Specialty Value‑Based Care Partnership](https://www.linkedin.com/jobs/view/4439525866/) — CVS Health
-- 📍 **Location:** Hartford, CT
-- 💰 **Salary:** $131,500.00 - $303,195.00
+### [Deputy Director-MEP Review](https://www.linkedin.com/jobs/view/4438939531/) — NYC Department of Housing Preservation & Development
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $100,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-07-11
 
-### [Associate Executive Director](https://www.linkedin.com/jobs/view/4439528947/) — YMCA of the USA
-- 📍 **Location:** Indianapolis, IN
+### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4439569658/) — HumanePro
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-07-11
 
-### [Senior Director of Philanthropy](https://www.linkedin.com/jobs/view/4438903775/) — Providence
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $71.15/hr - $112.34/hr
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4439583039/) — Kindred
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-07-11
 
-### [Development Director](https://www.linkedin.com/jobs/view/4439533563/) — Association of Fundraising Professionals (AFP) Tampa Bay
-- 📍 **Location:** Sarasota, FL
-- 💰 **Salary:** $68,700 - $80,000 annually
+### [Director of Strategic Partnerships - IDWatchdog](https://www.linkedin.com/jobs/view/4430010415/) — Equifax
+- 📍 **Location:** St Louis, MO
 - 🕒 **Posted:** 2026-07-11
 
-### [Associate Executive Director](https://www.linkedin.com/jobs/view/4439547098/) — YMCA of the USA
-- 📍 **Location:** Westfield, IN
+### [Director of Operations](https://www.linkedin.com/jobs/view/4438939562/) — The Mold Pros Inc.
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $90,000.00 to $100,000.00
 - 🕒 **Posted:** 2026-07-11
 
-### [Program Director, Rehabilitation](https://www.linkedin.com/jobs/view/4439533699/) — Lifepoint Health®
-- 📍 **Location:** Nacogdoches, TX
-- 🕒 **Posted:** 2026-07-11
-
-### [ChildWatch Program Director](https://www.linkedin.com/jobs/view/4439548033/) — YMCA of the USA
-- 📍 **Location:** Cedar Park, TX
+### [CEO/CFO/COO + Business Opportunity](https://www.linkedin.com/jobs/view/4438946374/) — FICA Boost
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-11
