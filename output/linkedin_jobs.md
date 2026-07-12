@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-11 23:18 UTC*
+*Last updated: 2026-07-12 00:18 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Water Quality and Life Support Area Manager $80,000-$95,000/Year](https://www.linkedin.com/jobs/view/4439588464/) — Six Flags Entertainment Corporation
+- 📍 **Location:** Vallejo, CA
+- 💰 **Salary:** $80,000-$95,000/Year
+- 🕒 **Posted:** 2026-07-12
