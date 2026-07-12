@@ -1,23 +1,18 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-11 21:19 UTC*
+*Last updated: 2026-07-12 00:27 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Senior Director of Development, UCI MIND](https://www.linkedin.com/jobs/view/4422633484/) — UC Irvine
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $150,000.00- $165,000.00
+### [Executive Director, Faculty Development](https://www.linkedin.com/jobs/view/4439587425/) — University of St. Augustine for Health Sciences
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-07-11
 
-### [Senior Director of External Affairs](https://www.linkedin.com/jobs/view/4434905173/) — UC Irvine
-- 📍 **Location:** Costa Mesa, CA
-- 💰 **Salary:** $108,100 - $161,000
+### [Chief of Staff to the CEO](https://www.linkedin.com/jobs/view/4439590214/) — Confidential
+- 📍 **Location:** United States
+- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-07-11
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4439573653/) — ILLEX - International Live Link Exchange
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $60k-$70k
-- 🕒 **Posted:** 2026-07-11
-
-### [Business Development Director](https://www.linkedin.com/jobs/view/4438939717/) — MyFundedFutures
-- 📍 **Location:** Plano, TX
+### [BCBA Clinical Program Director - Adult Waiver](https://www.linkedin.com/jobs/view/4436686270/) — SpringHealth Behavioral Health & Integrated Care
+- 📍 **Location:** Fayette County, GA
+- 💰 **Salary:** USD $95,000.00 - $105,000.00
 - 🕒 **Posted:** 2026-07-11
