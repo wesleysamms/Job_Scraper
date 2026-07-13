@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-13 20:12 UTC",
-  "total": 62,
-  "new_count": 2,
+  "scraped_at": "2026-07-13 21:54 UTC",
+  "total": 61,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Johnson & Johnson",
@@ -691,12 +691,12 @@
     },
     {
       "company": "Jefferson County Public Schools",
-      "title": "Coordinator Risk Assessment #3 (2026-2027)",
+      "title": "Coordinator Risk Assessment #2 (2026-2027)",
       "location": "Jefferson County, Kentucky, United States",
-      "url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40050",
-      "direct_url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40050",
+      "url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40049",
+      "direct_url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40049",
       "date_posted": "2026-07-07T12:00:00.000Z",
-      "description": "Bachelor's degree required; experience leading operational responses and working with youth from diverse backgrounds; effective communication skills.",
+      "description": "Bachelor's degree, experience leading operational responses, experience working with youth from diverse backgrounds, and effective communication skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -788,20 +788,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Reston, Virginia, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-06-30T04:00:00.000Z",
-      "description": "4+ years' relevant experience, bachelor's degree in environmental or related field, ecological field work, wetland/species permitting knowledge, technical writing skills, ArcGIS familiarity, and willingness to travel 15-20%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Consolidated Engineering Laboratories (CEL)",
       "title": "Environmental Scientist 1",
       "location": "Redmond or Moclips",
@@ -872,34 +858,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Environmental Protection Agency",
-      "title": "Supervisory Biologist/Toxicologist/Physical Scientist/Chemist",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://www.usajobs.gov/job/876256200",
-      "direct_url": "https://www.usajobs.gov/job/876256200",
-      "date_posted": "2026-07-13T10:53:58.837Z",
-      "description": "GS-15: 1 year specialized experience at GS-14 equivalent leading chemical assessments, regulatory risk activities, supervising staff, and establishing performance measures; relevant bachelor's or higher degree required per series.",
-      "salary": "$169k–$197k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Reston, Virginia, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-06-30T04:00:00.000Z",
-      "description": "4+ years' relevant experience, bachelor's degree in environmental or related field, ecological field work, wetland/species permitting knowledge, technical writing skills, ArcGIS familiarity, and willingness to travel 15-20%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
