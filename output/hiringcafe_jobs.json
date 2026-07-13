@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-13 06:14 UTC",
-  "total": 62,
-  "new_count": 0,
+  "scraped_at": "2026-07-13 18:42 UTC",
+  "total": 61,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Johnson & Johnson",
@@ -200,6 +200,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Environmental Protection Agency",
+      "title": "Supervisory Biologist/Toxicologist/Physical Scientist/Chemist",
+      "location": "Washington or Duluth or Cincinnati",
+      "url": "https://www.usajobs.gov/job/876261300",
+      "direct_url": "https://www.usajobs.gov/job/876261300",
+      "date_posted": "2026-07-13T11:20:02.163Z",
+      "description": "Must be U.S. citizen; GS-15 requires 1 year specialized experience at GS-14 level providing leadership and technical expertise in microbial/chemical assessment, advising on regulatory issues, and supervising staff; relevant degree per series required.",
+      "salary": "$148k–$197k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "GHD",
       "title": "Environmental Scientist",
       "location": "Golden, Colorado, United States",
@@ -208,20 +222,6 @@
       "date_posted": "2026-07-08T18:21:42.000Z",
       "description": "Bachelor's in environmental engineering, geology, or environmental science; 3–6 years experience with project management and emergency response; experience in air monitoring, environmental sampling, ICS, SCAT, GIS, and client management.",
       "salary": "$69k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Whitestone Associates, Inc.",
-      "title": "Environmental Scientist",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "url": "https://job-boards.greenhouse.io/whitestoneassociatesinc/jobs/4283822009",
-      "direct_url": "https://job-boards.greenhouse.io/whitestoneassociatesinc/jobs/4283822009",
-      "date_posted": "2026-06-16T16:06:30.000Z",
-      "description": "Bachelor's in environmental science/engineering/geology, 1+ years environmental consulting experience, field sampling and site assessment skills, strong analytical and communication skills, ability to manage multiple projects.",
-      "salary": "$60k–$85k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -242,15 +242,15 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "APTIM",
+      "company": "Whitestone Associates, Inc.",
       "title": "Environmental Scientist",
-      "location": "Houma, Louisiana, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
-      "date_posted": "2026-06-27T04:08:25.228Z",
-      "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Part Time",
+      "location": "Pittsburgh, Pennsylvania, United States",
+      "url": "https://job-boards.greenhouse.io/whitestoneassociatesinc/jobs/4283822009",
+      "direct_url": "https://job-boards.greenhouse.io/whitestoneassociatesinc/jobs/4283822009",
+      "date_posted": "2026-06-16T16:06:30.000Z",
+      "description": "Bachelor's in environmental science/engineering/geology, 1+ years environmental consulting experience, field sampling and site assessment skills, strong analytical and communication skills, ability to manage multiple projects.",
+      "salary": "$60k–$85k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -265,6 +265,20 @@
       "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
       "salary": "$73k–$106k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "APTIM",
+      "title": "Environmental Scientist",
+      "location": "Houma, Louisiana, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001205709206",
+      "date_posted": "2026-06-27T04:08:25.228Z",
+      "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Part Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -677,12 +691,12 @@
     },
     {
       "company": "Jefferson County Public Schools",
-      "title": "Coordinator Risk Assessment #2 (2026-2027)",
+      "title": "Coordinator Risk Assessment #3 (2026-2027)",
       "location": "Jefferson County, Kentucky, United States",
-      "url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40049",
-      "direct_url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40049",
+      "url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40050",
+      "direct_url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40050",
       "date_posted": "2026-07-07T12:00:00.000Z",
-      "description": "Bachelor's degree, experience leading operational responses, experience working with youth from diverse backgrounds, and effective communication skills.",
+      "description": "Bachelor's degree required; experience leading operational responses and working with youth from diverse backgrounds; effective communication skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -774,20 +788,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kimley-Horn",
-      "title": "Environmental Scientist",
-      "location": "Reston, Virginia, United States",
-      "url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://careers-kimley-horn.icims.com/jobs/24686/environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-06-30T04:00:00.000Z",
-      "description": "4+ years' relevant experience, bachelor's degree in environmental or related field, ecological field work, wetland/species permitting knowledge, technical writing skills, ArcGIS familiarity, and willingness to travel 15-20%.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Consolidated Engineering Laboratories (CEL)",
       "title": "Environmental Scientist 1",
       "location": "Redmond or Moclips",
@@ -804,11 +804,11 @@
     {
       "company": "CDR Companies",
       "title": "Environmental Scientist II - Williamsport",
-      "location": "Williamsport, Pennsylvania, United States",
-      "url": "https://jobs.workable.com/view/58NqduxdjezBb5DjUEYoKj/environmental-scientist-ii---williamsport-in-williamsport-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/58NqduxdjezBb5DjUEYoKj/environmental-scientist-ii---williamsport-in-williamsport-at-cdr-companies",
-      "date_posted": "2026-07-07T13:53:05.218Z",
-      "description": "5+ years environmental experience, BS in Environmental Science or related, independent wetland/stream delineation, PADEP/USACE permit experience, sub-meter GPS proficiency, Microsoft Office, valid driver’s license.",
+      "location": "Elmira, New York, United States",
+      "url": "https://jobs.workable.com/view/8N9WnXENzGvovFRrqaNYxk/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
+      "direct_url": "https://jobs.workable.com/view/8N9WnXENzGvovFRrqaNYxk/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
+      "date_posted": "2026-07-13T14:25:13.408Z",
+      "description": "5+ years environmental experience, B.S. in environmental science/related field, independent wetland/stream delineation, PADEP/USACE permitting experience, sub-meter GPS experience, valid driver’s license.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -856,21 +856,36 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Environmental Protection Agency",
+      "title": "Supervisory Biologist/Toxicologist/Physical Scientist/Chemist",
+      "location": "Washington or Duluth or Cincinnati",
+      "url": "https://www.usajobs.gov/job/876261300",
+      "direct_url": "https://www.usajobs.gov/job/876261300",
+      "date_posted": "2026-07-13T11:20:02.163Z",
+      "description": "Must be U.S. citizen; GS-15 requires 1 year specialized experience at GS-14 level providing leadership and technical expertise in microbial/chemical assessment, advising on regulatory issues, and supervising staff; relevant degree per series required.",
+      "salary": "$148k–$197k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
     },
     {
-      "company": "Kansas Department of Agriculture",
-      "title": "Environmental Scientist",
-      "location": "Manhattan or Riley County or Topeka",
-      "url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
-      "direct_url": "https://jobs.sok.ks.gov/psc/sokhrprdcg/APPLICANT/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=221680&PostingSeq=1&SiteId=1",
-      "date_posted": "2026-06-25T12:00:00.000Z",
-      "description": "Minimum four years of relevant experience (or equivalent education/training), valid Class C (or higher) driver's license, physical dexterity for field work, GIS and report-preparation skills, and strong oral/written communication.",
-      "salary": "$55k/yr",
+      "company": "CDR Companies",
+      "title": "Environmental Scientist II - Williamsport",
+      "location": "Elmira, New York, United States",
+      "url": "https://jobs.workable.com/view/8N9WnXENzGvovFRrqaNYxk/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
+      "direct_url": "https://jobs.workable.com/view/8N9WnXENzGvovFRrqaNYxk/environmental-scientist-ii---williamsport-in-elmira-at-cdr-companies",
+      "date_posted": "2026-07-13T14:25:13.408Z",
+      "description": "5+ years environmental experience, B.S. in environmental science/related field, independent wetland/stream delineation, PADEP/USACE permitting experience, sub-meter GPS experience, valid driver’s license.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
-  ],
-  "new_jobs": []
+  ]
 }
