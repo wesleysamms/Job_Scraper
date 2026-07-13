@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-13 21:23 UTC*
+*Last updated: 2026-07-13 22:20 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Water Resources Manager](https://www.linkedin.com/jobs/view/4439477252/) — WESA
+- 📍 **Location:** Lake Elsinore, CA
+- 💰 **Salary:** $15,932.11/mo - $20,898.37/mo
+- 🕒 **Posted:** 2026-07-13
