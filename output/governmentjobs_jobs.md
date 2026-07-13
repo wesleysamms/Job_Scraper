@@ -1,5 +1,5 @@
 # 🏛 NEOGOV — State & Local Government Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-08 20:45 UTC*
+*Last updated: 2026-07-13 20:38 UTC*
 
 **0 new role(s)** since last run · 0 total in recent GovernmentJobs postings
 
