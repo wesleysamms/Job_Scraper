@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-14 22:24 UTC*
+*Last updated: 2026-07-14 23:23 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Monitoring Program Manager I](https://www.linkedin.com/jobs/view/4439938133/) — City of Salem
+- 📍 **Location:** Salem, OR
+- 🕒 **Posted:** 2026-07-14
