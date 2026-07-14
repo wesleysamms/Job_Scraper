@@ -1,93 +1,66 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-13 23:42 UTC*
+*Last updated: 2026-07-14 07:37 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**15 new role(s)** since last run · 15 total in last 1h
 
-### [Deputy Executive Director](https://www.linkedin.com/jobs/view/4439486075/) — Knowledge, Education for Your Success, Inc. (KEYS)
-- 📍 **Location:** San Bernardino, CA
-- 💰 **Salary:** $110,000–$120,000 annually
-- 🕒 **Posted:** 2026-07-13
+### [Executive Director ~ Senior Living Community ~ West San Jose](https://www.linkedin.com/jobs/view/4437637837/) — MorningStar Senior Living
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $170,000.00 - $190,000.00
+- 🕒 **Posted:** 2026-07-14
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4439475368/) — Highgate
+### [Managing Director](https://www.linkedin.com/jobs/view/4440506517/) — NTT DATA North America
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-13
+- 🕒 **Posted:** 2026-07-14
 
-### [Senior Director of Operations, Los Angeles](https://www.linkedin.com/jobs/view/4440338926/) — ASPCA
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 💰 **Salary:** $148,000 - $160,000
-- 🕒 **Posted:** 2026-07-13
+### [Executive Director](https://www.linkedin.com/jobs/view/4440507626/) — YMCA of the USA
+- 📍 **Location:** Fishers, IN
+- 🕒 **Posted:** 2026-07-14
 
-### [Development Manager (Deputy Director of Leadership Giving) Multiple Positions](https://www.linkedin.com/jobs/view/4439480352/) — Women Empowered For Succes (WES)
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $98,995- $109,898
-- 🕒 **Posted:** 2026-07-13
+### [Associate Executive Director](https://www.linkedin.com/jobs/view/4440507627/) — YMCA of the USA
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-07-14
 
-### [Executive Director of Advancement, Brown School - University Advancement](https://www.linkedin.com/jobs/view/4439479349/) — Washington University in St. Louis
-- 📍 **Location:** Clayton, MO
-- 🕒 **Posted:** 2026-07-13
+### [Program Director](https://www.linkedin.com/jobs/view/4439485675/) — Beacon Specialized Living
+- 📍 **Location:** Columbia, MO
+- 🕒 **Posted:** 2026-07-14
 
-### [Executive Director of Development, Corporate and Foundation Relations](https://www.linkedin.com/jobs/view/4439318150/) — University of North Texas
-- 📍 **Location:** Denton, TX
-- 💰 **Salary:** $150,000 - 160,000
-- 🕒 **Posted:** 2026-07-13
+### [Chief Operations Officer (COO)](https://www.linkedin.com/jobs/view/4440500651/) — Lifepoint Health®
+- 📍 **Location:** Hickory, NC
+- 🕒 **Posted:** 2026-07-14
 
-### [Development Director](https://www.linkedin.com/jobs/view/4440334842/) — American Heart Association
-- 📍 **Location:** Tucson, AZ
-- 🕒 **Posted:** 2026-07-13
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4440335845/) — Kisco Senior Living
-- 📍 **Location:** Littleton, CO
-- 💰 **Salary:** $120,000-$130,000/Yr
-- 🕒 **Posted:** 2026-07-13
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4438953928/) — EverStone Global Holdings 恒石环球控股集团
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-07-13
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4439462380/) — Ute Energy Exploration and Marketing
-- 📍 **Location:** Fort Duchesne, UT
-- 🕒 **Posted:** 2026-07-13
-
-### [Chief Executive Officer - Residence Club/Bespoke Hospitality](https://www.linkedin.com/jobs/view/4440351265/) — The Great American Safari Company
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4437646864/) — RS93 Sports Platform
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-13
+- 🕒 **Posted:** 2026-07-14
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4439471698/) — The Heritage Society
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-07-13
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4439808806/) — Paydora Pay
+- 📍 **Location:** United States
+- 💰 **Salary:** $50,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-07-14
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4439471607/) — The BIG We
-- 📍 **Location:** Memphis, TN
-- 🕒 **Posted:** 2026-07-13
+### [CEO & Co-Founder | Wireless Deep-Tech Infrastructure Venture | Pre-Seed | Equity-Only](https://www.linkedin.com/jobs/view/4439832137/) — NeedTech Labs
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-14
 
-### [Executive Assistant to Chief Executive Officer](https://www.linkedin.com/jobs/view/4439473644/) — Welby Health
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-07-13
+### [District Executive Director](https://www.linkedin.com/jobs/view/4440514392/) — YMCA of the USA
+- 📍 **Location:** Cleveland, OH
+- 🕒 **Posted:** 2026-07-14
 
-### [Executive Director- Environmental Nonprofit](https://www.linkedin.com/jobs/view/4439476358/) — Groundwork Ohio River Valley
-- 📍 **Location:** Cincinnati Metropolitan Area
-- 💰 **Salary:** $70,000–$110,000 per year
-- 🕒 **Posted:** 2026-07-13
+### [Child Care Program Director](https://www.linkedin.com/jobs/view/4440517219/) — YMCA of the USA
+- 📍 **Location:** St Louis, MO
+- 🕒 **Posted:** 2026-07-14
 
-### [Development Director](https://www.linkedin.com/jobs/view/4440342569/) — American Heart Association
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-07-13
+### [Director of Development, College of Medicine](https://www.linkedin.com/jobs/view/4439328451/) — Florida State University
+- 📍 **Location:** Tallahassee, FL
+- 🕒 **Posted:** 2026-07-14
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4440335860/) — Amedisys
-- 📍 **Location:** Kingstree, SC
-- 💰 **Salary:** $90,000 - $110,000
-- 🕒 **Posted:** 2026-07-13
+### [Associate Executive Director](https://www.linkedin.com/jobs/view/4440514391/) — YMCA of the USA
+- 📍 **Location:** Westfield, IN
+- 🕒 **Posted:** 2026-07-14
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4439471940/) — Valet Living
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $100,000 - $120,000
-- 🕒 **Posted:** 2026-07-13
+### [Director of Operations](https://www.linkedin.com/jobs/view/4432631781/) — Real Estate Technology Company
+- 📍 **Location:** Rockford, MN
+- 🕒 **Posted:** 2026-07-14
 
-### [Director of Communications & Media Relations](https://www.linkedin.com/jobs/view/4437616829/) — KIPP DC
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $125,223-$138,403
-- 🕒 **Posted:** 2026-07-13
-
-### [Regional Program Director,](https://www.linkedin.com/jobs/view/4440339778/) — Enhabit Home Health & Hospice
-- 📍 **Location:** Lexington, KY
-- 🕒 **Posted:** 2026-07-13
+### [Branch Executive Director](https://www.linkedin.com/jobs/view/4440501808/) — YMCA of the USA
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-07-14
