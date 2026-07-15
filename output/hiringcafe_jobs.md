@@ -1,17 +1,16 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-15 20:06 UTC*
+*Last updated: 2026-07-15 21:58 UTC*
 
-**2 new role(s)** since last run · 66 total in last 30d
+**2 new role(s)** since last run · 68 total in last 30d
 
-### [Associate Director, Study Toxicologist](https://madrigalpharma.wd501.myworkdayjobs.com/madrigal/job/PA---Conshohocken---Office/Associate-Director--Study-Toxicologist_JR_000807-1) — Madrigalpharma
-- 📍 **Location:** Conshohocken, Pennsylvania, United States
-- 💰 **Salary:** $178k–$218k/yr
+### [Senior Toxicologist](https://jobs.dayforcehcm.com/en-US/yagroup/candidateportal/jobs/1286) — Yagroup
+- 📍 **Location:** United States
+- **Work mode:** Remote in-state eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-15T04:00:00.000Z
+
+### [Academic Medical Toxicology Opportunity in Greenville, NC](https://www.practicematch.com/physicians/job-details.cfm/1076947/emergency-medicine/north-carolina/greenville/ecu-health-medical-center/) — Brody School of Medicine at East Carolina University
+- 📍 **Location:** Greenville, North Carolina, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-15T00:00:00.000Z
-
-### [Medical Toxicologist TDH Poison Center (Per Diem < 20 hours/week)](https://aa083.referrals.selectminds.com/jobs/medical-toxicologist-tdh-poison-center-per-diem-%3C-20-hours-week-34663) — UTMB Health
-- 📍 **Location:** Galveston, Texas, United States
-- **Work mode:** Remote in-state eligible
-- **Job type:** Part Time, Temporary
-- 🕒 **Posted:** 2026-07-03T04:49:13.190Z
+- 🕒 **Posted:** 2026-07-14T16:31:39.000Z
