@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-16 18:04 UTC",
+  "scraped_at": "2026-07-16 20:01 UTC",
   "total": 71,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Yagroup",
@@ -158,20 +158,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Battelle",
-      "title": "Environmental Toxicologist (Biochemist) (76341)",
-      "location": "West Jefferson, Ohio, United States",
-      "url": "https://performancemanager8.successfactors.com/career?career_ns=job_listing&company=battelle&career_job_req_id=76341",
-      "direct_url": "https://performancemanager8.successfactors.com/career?career_ns=job_listing&company=battelle&career_job_req_id=76341",
-      "date_posted": "2026-06-25T17:29:00.000Z",
-      "description": "Ph.D. with 5+ years (or MS with 8+ years, or BS with 10+ years) in toxicology or related life science; expertise in in vivo toxicology, GLP and regulatory guidelines (OECD, ICH); study leadership, project management, and strong communication; legal U.S. work authorization required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Madrigalpharma",
       "title": "Associate Director, Study Toxicologist",
       "location": "Conshohocken, Pennsylvania, United States",
@@ -183,6 +169,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Battelle",
+      "title": "Environmental Toxicologist (Biochemist) (76341)",
+      "location": "West Jefferson, Ohio, United States",
+      "url": "https://performancemanager8.successfactors.com/career?career_ns=job_listing&company=battelle&career_job_req_id=76341",
+      "direct_url": "https://performancemanager8.successfactors.com/career?career_ns=job_listing&company=battelle&career_job_req_id=76341",
+      "date_posted": "2026-06-25T17:29:00.000Z",
+      "description": "Ph.D. with 5+ years (or MS with 8+ years, or BS with 10+ years) in toxicology or related life science; expertise in in vivo toxicology, GLP and regulatory guidelines (OECD, ICH); study leadership, project management, and strong communication; legal U.S. work authorization required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -326,20 +326,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Stantec",
-      "title": "Environmental Scientist",
-      "location": "Buffalo, New York, United States",
-      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
-      "date_posted": "2026-06-25T13:03:00.000Z",
-      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
-      "salary": "$73k–$106k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "APTIM",
       "title": "Environmental Scientist",
       "location": "Houma, Louisiana, United States",
@@ -349,6 +335,20 @@
       "description": "Bachelor's in environmental science or related field, relevant environmental field experience, valid driver's license and watercraft/trailering experience, ability to lift 30–50 lbs, and strong written and verbal communication skills.",
       "salary": "$48k–$54k/yr",
       "job_type": "Part Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Stantec",
+      "title": "Environmental Scientist",
+      "location": "Buffalo, New York, United States",
+      "url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "direct_url": "https://stantec.jobs/buffalo-ny/environmental-scientist/3FF8CE4A1CF34667A738931B38223E4D/job/",
+      "date_posted": "2026-06-25T13:03:00.000Z",
+      "description": "Bachelor's in an environmental discipline, 5+ years environmental field experience including wetland delineations, proficiency with GIS and GPS, Microsoft Office skills, physical stamina for remote fieldwork, strong communication and technical writing.",
+      "salary": "$73k–$106k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -998,62 +998,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Bausch Health US, LLC",
-      "title": "Research Fellow, Medical Device Toxicologist",
-      "location": "United States",
-      "url": "https://careers.bauschlomb.com/job/USA-Remote-Research-Fellow%2C-Medical-Device-Toxicologist/1359634357/",
-      "direct_url": "https://careers.bauschlomb.com/job/USA-Remote-Research-Fellow%2C-Medical-Device-Toxicologist/1359634357/",
-      "date_posted": "2026-06-28T02:00:00.000Z",
-      "description": "PhD in toxicology or related field, 12+ years medical device experience, team management experience, DABT preferred, ophthalmic device experience a plus, authorized to work in the U.S.",
-      "salary": "$150k–$200k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Ri",
-      "title": "ENVIRONMENTAL SCIENTIST I",
-      "location": "Providence, Rhode Island, United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103447",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103447",
-      "date_posted": "2026-07-16T00:00:00.000Z",
-      "description": "Bachelor's in an environmental/physical/biological science or related field; proficiency with desktop GIS and Microsoft Office; strong communication, research, and organizational skills; ability to perform site visits.",
-      "salary": "$73k–$82k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Atlas Technical Consultants",
-      "title": "Environmental Scientist 1",
-      "location": "Redmond or Moclips",
-      "url": "https://oneatlas.hrmdirect.com/employment/job-opening.php?req=3757595&req_loc=1386744",
-      "direct_url": "https://oneatlas.hrmdirect.com/employment/job-opening.php?req=3757595&req_loc=1386744",
-      "date_posted": "2026-07-08T03:00:00.000Z",
-      "description": "Bachelor's degree in environmental or related field, 0–5 years experience, CESCL or willingness to serve as CESCL, ability to work outdoors and in-water (long days, nights, weekends), valid driver's license, skills in field data collection and MS Excel/Bluebeam/GIS.",
-      "salary": "$62k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Cedarville Engineering Group",
-      "title": "Environmental Scientist",
-      "location": "Pottstown, Pennsylvania, United States",
-      "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c68fe53878018fee54f4bd039e&id=8a7887a89efb878a019f194c8dae636b&source=&lang=en",
-      "direct_url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c68fe53878018fee54f4bd039e&id=8a7887a89efb878a019f194c8dae636b&source=&lang=en",
-      "date_posted": "2026-06-30T16:11:15.000Z",
-      "description": "Bachelor's degree required; OSHA certifications for fieldwork (HAZWOPER, OSHA 10/30/40) and valid driver's license required; must pass federal background check; ~25% travel; experience with field sampling and technical writing preferred; training provided.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
