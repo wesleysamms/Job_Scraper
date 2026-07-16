@@ -1,142 +1,91 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-16 19:03 UTC*
+*Last updated: 2026-07-16 22:48 UTC*
 
-**31 new role(s)** since last run · 32 total in last 1h
+**19 new role(s)** since last run · 19 total in last 1h
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4441622183/) — SAN LEANDRO IMPROVEMENT ASSOCIATION
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $95,000 - $135,000
+### [Executive Director](https://www.linkedin.com/jobs/view/4433113539/) — San Francisco Campus for Jewish Living
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4396256191/) — SCAN
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $147,900 to $214,030 annually
+### [Chief of Staff to the CEO](https://www.linkedin.com/jobs/view/4441113185/) — Voice AI Space
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Director of Operations and Business Development - Bakersfield, CA](https://www.linkedin.com/jobs/view/4440775740/) — Cornerstone Caregiving
-- 📍 **Location:** Bakersfield, CA
-- 💰 **Salary:** $80,000-100,000
+### [Managing Director, Advisory Leadership Team](https://www.linkedin.com/jobs/view/4441681182/) — Focus Financial Partners
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $275,000 - $350,000 per year
 - 🕒 **Posted:** 2026-07-16
 
-### [Director Of Operations, Behavioral Health](https://www.linkedin.com/jobs/view/4440773797/) — Inspira Behavior
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4441629334/) — The Sun Rose West Hollywood
-- 📍 **Location:** West Hollywood, CA
-- 💰 **Salary:** $160,000.00 - $170,000.00 Annually
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Associate Director of Advancement Services](https://www.linkedin.com/jobs/view/4441626858/) — Emma Willard School
-- 📍 **Location:** Troy, NY
-- 💰 **Salary:** $70,000 - $80,000
-- 🕒 **Posted:** 2026-07-16
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4440780222/) — DRG Talent
+### [Executive Director, Transaction Banking US Client Lifecycle Management](https://www.linkedin.com/jobs/view/4441104616/) — BBVA
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,000 to $225,000
 - 🕒 **Posted:** 2026-07-16
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4440770780/) — The Sylvia Center
+### [Academic Student Support Program Director (Director of Student Success)](https://www.linkedin.com/jobs/view/4441668846/) — The City University of New York
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $109,898- $131,440
 - 🕒 **Posted:** 2026-07-16
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4438734651/) — EverPeak Recruitment
-- 📍 **Location:** Syracuse, NY
-- 💰 **Salary:** $190,000.00/yr - $215,000.00/yr
+### [Managing Director](https://www.linkedin.com/jobs/view/4441675463/) — FirstService Residential
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $ 160,000 - $ 180,000
 - 🕒 **Posted:** 2026-07-16
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4440795212/) — BlueGreen Sheet
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,000 - $150,000
+### [Senior Managing Director, Humanitarian Portfolio (M4)](https://www.linkedin.com/jobs/view/4441682103/) — Save the Children US
+- 📍 **Location:** Fairfield, CT
+- 💰 **Salary:** $170,850 - $190,950
 - 🕒 **Posted:** 2026-07-16
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4440790177/) — Sudbury Extended Day (SED)
-- 📍 **Location:** Glendale, AZ
+### [Chief of Staff, CEO](https://www.linkedin.com/jobs/view/4438744884/) — Wiley
+- 📍 **Location:** Hoboken, NJ
+- 💰 **Salary:** $189,700.00/yr - $278,566.66/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Executive Director-Health System Operations](https://www.linkedin.com/jobs/view/4438751074/) — University of Mississippi Medical Center
-- 📍 **Location:** Jackson, MS
+### [Executive Director, Launch Excellence](https://www.linkedin.com/jobs/view/4438758425/) — Insmed Incorporated
+- 📍 **Location:** Bridgewater, NJ
+- 💰 **Salary:** $247,000.00-337,000.00
 - 🕒 **Posted:** 2026-07-16
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4440788196/) — Georgia Historical Society
-- 📍 **Location:** Savannah, GA
+### [Senior Managing Director, Humanitarian Portfolio (M4)](https://www.linkedin.com/jobs/view/4441662987/) — Save the Children US
+- 📍 **Location:** Lexington, KY
+- 💰 **Salary:** $170,850 - $190,950
 - 🕒 **Posted:** 2026-07-16
 
-### [SENIOR DIRECTOR OF COMMUNICATIONS](https://www.linkedin.com/jobs/view/4440774743/) — Stroke Onward
-- 📍 **Location:** Lakes of the Four Seasons, IN
+### [Executive Director for Institutional Effectiveness](https://www.linkedin.com/jobs/view/4441117174/) — University of Idaho
+- 📍 **Location:** Moscow, ID
 - 🕒 **Posted:** 2026-07-16
 
-### [Deputy Director, Digital Transformation and AI Policy & Advocacy](https://www.linkedin.com/jobs/view/4441636499/) — Gates Foundation
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $238,400 to $369,400 USD
-- 🕒 **Posted:** 2026-07-16
-
-### [Chief Development Officer, Manning Institute of Biotechnology](https://www.linkedin.com/jobs/view/4440792132/) — UVA External Relations
-- 📍 **Location:** Greater Charlottesville Area
-- 🕒 **Posted:** 2026-07-16
-
-### [Program Director](https://www.linkedin.com/jobs/view/4440791143/) — Dungarvin
-- 📍 **Location:** Valparaiso, IN
-- 💰 **Salary:** $47,000 - $52,000
-- 🕒 **Posted:** 2026-07-16
-
-### [Full Time Program Director - Kapa'a Clubhouse](https://www.linkedin.com/jobs/view/4440885079/) — Boys & Girls Club of Hawaii
-- 📍 **Location:** Kapaa, HI
-- 🕒 **Posted:** 2026-07-16
-
-### [Chief Advancement Officer](https://www.linkedin.com/jobs/view/4440782582/) — BlueGreen Sheet
-- 📍 **Location:** Charlottesville, VA
-- 🕒 **Posted:** 2026-07-16
-
-### [Director of Advancement](https://www.linkedin.com/jobs/view/4440794242/) — BlueGreen Sheet
-- 📍 **Location:** Middlebury, CT
-- 💰 **Salary:** $200,000 - $215,000
-- 🕒 **Posted:** 2026-07-16
-
-### [Associate Director of Advancement](https://www.linkedin.com/jobs/view/4440777583/) — The King's University (TKU)
-- 📍 **Location:** Southlake, TX
-- 🕒 **Posted:** 2026-07-16
-
-### [Contract Logistics Business Development Director - Consumer](https://www.linkedin.com/jobs/view/4394330856/) — Kuehne+Nagel
-- 📍 **Location:** Charlotte, NC
-- 🕒 **Posted:** 2026-07-16
-
-### [Development Director](https://www.linkedin.com/jobs/view/4440773755/) — Mulberry Talent Partners
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 🕒 **Posted:** 2026-07-16
-
-### [Managing Director, Head of Development (Greater Philadelphia)](https://www.linkedin.com/jobs/view/4433022962/) — Teach For America
+### [Chief Executive Officer - Breastcancer.org](https://www.linkedin.com/jobs/view/4441121017/) — PBR Executive Search
 - 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $90,000 - $122,800
+- 💰 **Salary:** $275,000.00/yr - $325,000.00/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Executive Director-Foundation, Ada/Ardmore, OK](https://www.linkedin.com/jobs/view/4438750051/) — Mercy Hospital St. Louis Critical Care Medicine Fellowship
-- 📍 **Location:** Ardmore, OK
+### [Program Director of Leagues](https://www.linkedin.com/jobs/view/4441690046/) — Fellowship of Christian Athletes
+- 📍 **Location:** Fresno, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Director of Operations- Tradeshow and Event Industry](https://www.linkedin.com/jobs/view/4418445216/) — GES - Global Experience Specialists
-- 📍 **Location:** Renton, WA
+### [Chief of Staff to the President & CEO](https://www.linkedin.com/jobs/view/4441683253/) — National Trust for Historic Preservation
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $185,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Director of Operations and Sales - Traverse City, MI](https://www.linkedin.com/jobs/view/4440797020/) — Cornerstone Caregiving
-- 📍 **Location:** Traverse City, MI
+### [Development Director](https://www.linkedin.com/jobs/view/4440799579/) — Playworks Minnesota
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-16
 
-### [Business Development Director, Department of Homeland Security-U.S. Coast Guard](https://www.linkedin.com/jobs/view/4423310305/) — CGI
-- 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $127,500.00 - $310,700.00
+### [Senior Director of Development and Communications](https://www.linkedin.com/jobs/view/4441112153/) — NC Child
+- 📍 **Location:** Raleigh-Durham-Chapel Hill Area
+- 💰 **Salary:** $105,000.00/yr - $115,000.00/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Associate Director of Institutional Giving](https://www.linkedin.com/jobs/view/4440782584/) — BlueGreen Sheet
-- 📍 **Location:** Horsham, PA
-- 💰 **Salary:** $100,000 - $100,000
+### [Director of Operations](https://www.linkedin.com/jobs/view/4427274568/) — Aramark
+- 📍 **Location:** San Marcos, TX
 - 🕒 **Posted:** 2026-07-16
 
-### [Director of Operations - US Wheat & Barley Scab Initiative - (2959444)](https://www.linkedin.com/jobs/view/4440787279/) — NDSU Agribusiness & Applied Economics
-- 📍 **Location:** Fargo, ND
+### [Business Development Director](https://www.linkedin.com/jobs/view/4441676560/) — AMS Group, Inc.
+- 📍 **Location:** Alexandria, VA
 - 🕒 **Posted:** 2026-07-16
 
-### [Interim Executive Director](https://www.linkedin.com/jobs/view/4440794241/) — BlueGreen Sheet
-- 📍 **Location:** San Rafael, CA
-- 💰 **Salary:** $250,000 - $260,000
+### [Director of Operations](https://www.linkedin.com/jobs/view/4438758487/) — Quantic Electronics
+- 📍 **Location:** East Providence, RI
 - 🕒 **Posted:** 2026-07-16
