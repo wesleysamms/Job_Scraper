@@ -1,91 +1,78 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-16 22:48 UTC*
+*Last updated: 2026-07-17 07:43 UTC*
 
-**19 new role(s)** since last run · 19 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4433113539/) — San Francisco Campus for Jewish Living
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Chief of Staff to the CEO](https://www.linkedin.com/jobs/view/4441113185/) — Voice AI Space
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Managing Director, Advisory Leadership Team](https://www.linkedin.com/jobs/view/4441681182/) — Focus Financial Partners
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $275,000 - $350,000 per year
-- 🕒 **Posted:** 2026-07-16
-
-### [Executive Director, Transaction Banking US Client Lifecycle Management](https://www.linkedin.com/jobs/view/4441104616/) — BBVA
+### [Youth Development Director, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4439913649/) — Crossover
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000 to $225,000
-- 🕒 **Posted:** 2026-07-16
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-07-17
 
-### [Academic Student Support Program Director (Director of Student Success)](https://www.linkedin.com/jobs/view/4441668846/) — The City University of New York
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4441950180/) — Fomentamos | Financiera Boutique
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-07-17
+
+### [Entrepreneurship Program Director, Founders School - $250,000/year USD](https://www.linkedin.com/jobs/view/4439903924/) — Crossover
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $109,898- $131,440
-- 🕒 **Posted:** 2026-07-16
+- 💰 **Salary:** $125.00/hr - $125.00/hr
+- 🕒 **Posted:** 2026-07-17
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4441675463/) — FirstService Residential
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $ 160,000 - $ 180,000
-- 🕒 **Posted:** 2026-07-16
+### [Executive Director Patient Experience - South Division](https://www.linkedin.com/jobs/view/4441162426/) — Providence
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $78.33/hr - $138.50/hr
+- 🕒 **Posted:** 2026-07-17
 
-### [Senior Managing Director, Humanitarian Portfolio (M4)](https://www.linkedin.com/jobs/view/4441682103/) — Save the Children US
-- 📍 **Location:** Fairfield, CT
-- 💰 **Salary:** $170,850 - $190,950
-- 🕒 **Posted:** 2026-07-16
+### [CHIEF EXECUTIVE OFFICER](https://www.linkedin.com/jobs/view/4441164444/) — Stroke Onward
+- 📍 **Location:** Indiana, United States
+- 🕒 **Posted:** 2026-07-17
 
-### [Chief of Staff, CEO](https://www.linkedin.com/jobs/view/4438744884/) — Wiley
-- 📍 **Location:** Hoboken, NJ
-- 💰 **Salary:** $189,700.00/yr - $278,566.66/yr
-- 🕒 **Posted:** 2026-07-16
+### [President & CEO](https://www.linkedin.com/jobs/view/4441166323/) — Arizona Association for Economic Development
+- 📍 **Location:** Glendale, AZ
+- 🕒 **Posted:** 2026-07-17
 
-### [Executive Director, Launch Excellence](https://www.linkedin.com/jobs/view/4438758425/) — Insmed Incorporated
-- 📍 **Location:** Bridgewater, NJ
-- 💰 **Salary:** $247,000.00-337,000.00
-- 🕒 **Posted:** 2026-07-16
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4441941621/) — talisman
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-17
 
-### [Senior Managing Director, Humanitarian Portfolio (M4)](https://www.linkedin.com/jobs/view/4441662987/) — Save the Children US
-- 📍 **Location:** Lexington, KY
-- 💰 **Salary:** $170,850 - $190,950
-- 🕒 **Posted:** 2026-07-16
+### [Program Director, Community College Consortium for OER (CCCOER)](https://www.linkedin.com/jobs/view/4441930895/) — Open Education Global Francophone
+- 📍 **Location:** College, PA
+- 🕒 **Posted:** 2026-07-17
 
-### [Executive Director for Institutional Effectiveness](https://www.linkedin.com/jobs/view/4441117174/) — University of Idaho
-- 📍 **Location:** Moscow, ID
-- 🕒 **Posted:** 2026-07-16
+### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4439909640/) — Crossover
+- 📍 **Location:** Miami Beach, FL
+- 💰 **Salary:** $200.00/hr - $200.00/hr
+- 🕒 **Posted:** 2026-07-17
 
-### [Chief Executive Officer - Breastcancer.org](https://www.linkedin.com/jobs/view/4441121017/) — PBR Executive Search
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $275,000.00/yr - $325,000.00/yr
-- 🕒 **Posted:** 2026-07-16
+### [Executive Director of Enrollment Services (On-site in Arlington)](https://www.linkedin.com/jobs/view/4441166591/) — Arizona College of Nursing
+- 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-07-17
 
-### [Program Director of Leagues](https://www.linkedin.com/jobs/view/4441690046/) — Fellowship of Christian Athletes
-- 📍 **Location:** Fresno, CA
-- 🕒 **Posted:** 2026-07-16
+### [Program Director, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4439920363/) — Crossover
+- 📍 **Location:** Norman, OK
+- 💰 **Salary:** $75.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-07-17
 
-### [Chief of Staff to the President & CEO](https://www.linkedin.com/jobs/view/4441683253/) — National Trust for Historic Preservation
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $185,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-07-16
+### [Program Director, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4439926061/) — Crossover
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $75.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-07-17
 
-### [Development Director](https://www.linkedin.com/jobs/view/4440799579/) — Playworks Minnesota
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-16
+### [Program Director, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4439906769/) — Crossover
+- 📍 **Location:** Fort Worth, TX
+- 💰 **Salary:** $75.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-07-17
 
-### [Senior Director of Development and Communications](https://www.linkedin.com/jobs/view/4441112153/) — NC Child
-- 📍 **Location:** Raleigh-Durham-Chapel Hill Area
-- 💰 **Salary:** $105,000.00/yr - $115,000.00/yr
-- 🕒 **Posted:** 2026-07-16
+### [Program Director, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4439903936/) — Crossover
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $75.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-07-17
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4427274568/) — Aramark
-- 📍 **Location:** San Marcos, TX
-- 🕒 **Posted:** 2026-07-16
+### [Director of Partnerships and Community Outreach, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4439914633/) — Crossover
+- 📍 **Location:** The Woodlands, TX
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-07-17
 
-### [Business Development Director](https://www.linkedin.com/jobs/view/4441676560/) — AMS Group, Inc.
-- 📍 **Location:** Alexandria, VA
-- 🕒 **Posted:** 2026-07-16
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4438758487/) — Quantic Electronics
-- 📍 **Location:** East Providence, RI
-- 🕒 **Posted:** 2026-07-16
+### [Director of Partnerships and Community Outreach, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4439908730/) — Crossover
+- 📍 **Location:** Las Vegas, NV
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-07-17
