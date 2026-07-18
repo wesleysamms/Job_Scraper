@@ -1,17 +1,11 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-18 05:23 UTC*
+*Last updated: 2026-07-18 17:55 UTC*
 
-**2 new role(s)** since last run · 69 total in last 30d
+**1 new role(s)** since last run · 69 total in last 30d
 
-### [SENIOR RISK ASSESSMENT ANALYST](https://careerspub.universityofcalifornia.edu/psc/ucsc/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=86945&PostingSeq=1&SiteId=5) — University of California Office of the President
-- 📍 **Location:** Oakland, California, United States
-- 💰 **Salary:** $160k–$184k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-17T12:00:00.000Z
-
-### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/omV93cUp2r8SfqgUNK4ddr/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies) — CDR Companies
-- 📍 **Location:** Wilkes-Barre, Pennsylvania, United States
+### [ENVIRONMENTAL SCIENTIST I](https://ri.wd5.myworkdayjobs.com/ri/job/235-Promenade-St/ENVIRONMENTAL-SCIENTIST-I_JR103139) — Ri
+- 📍 **Location:** Providence, Rhode Island, United States
+- 💰 **Salary:** $71k–$80k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-17T16:06:42.816Z
+- 🕒 **Posted:** 2026-07-18T00:00:00.000Z
