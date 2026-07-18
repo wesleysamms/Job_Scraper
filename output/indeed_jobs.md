@@ -1,293 +1,187 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-17 22:34 UTC*
+*Last updated: 2026-07-18 06:29 UTC*
 
-**43 new role(s)** since last run · 72 total in last 24h
+**27 new role(s)** since last run · 70 total in last 24h
 
-### [Managing Director](https://www.indeed.com/viewjob?jk=6339f7b4519beed8) — Unknown
-- 📍 **Location:** Pleasanton, CA, US
-- 💰 **Salary:** $200k–$225k/yr
+### [Deputy Director - Japanese](https://www.indeed.com/viewjob?jk=38100690e29d3b45) — Cinter Career
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $77k–$87k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-18
+
+### [Executive Director](https://www.indeed.com/viewjob?jk=5d19c1ebd81b3b4e) — Rolling Start, Inc
+- 📍 **Location:** San Bernardino, CA, US
+- 💰 **Salary:** $90k–$100k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-17
 
-### [Managing Director](https://www.indeed.com/viewjob?jk=cbc80dc28c5b478e) — Unknown
-- 📍 **Location:** South San Francisco, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=b05c0e96b597fd01) — Unknown
-- 📍 **Location:** Alameda, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=c716ecdb915552dc) — Unknown
-- 📍 **Location:** Walnut Creek, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=5b9ba3746d012d0d) — Unknown
-- 📍 **Location:** Dublin, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=025277360321e9a1) — Unknown
-- 📍 **Location:** San Ramon, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=faaaf83895a127c8) — Unknown
-- 📍 **Location:** San Leandro, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=e47374b951a09699) — Unknown
-- 📍 **Location:** Daly City, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=554cf4b6694ae4e7) — Unknown
-- 📍 **Location:** Hayward, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=a469f032a9054d83) — Unknown
-- 📍 **Location:** Richmond, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=41d1b442e6034356) — Designing Justice + Designing Spaces
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=694a6e017eaf00cd) — Unknown
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=8860871fb635f4ef) — Unknown
-- 📍 **Location:** Fremont, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=ea6023d92356c145) — Unknown
-- 📍 **Location:** Concord, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=1dc1e09abafb4198) — Unknown
-- 📍 **Location:** Berkeley, CA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=2d28523c90d2caca) — Designing Justice + Designing Spaces
+### [Associate Director of Philanthropy](https://www.indeed.com/viewjob?jk=0a871118166f7746) — Unknown
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $200k–$225k/yr
+- 💰 **Salary:** $100k–$130k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
+- 🕒 **Posted:** 2026-07-01
 
-### [Program Director I](https://www.indeed.com/viewjob?jk=ca9f6740943fad9d) — The State Bar of California
-- 📍 **Location:** San Francisco, CA, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior Executive Director (0998): Communications Department](https://www.indeed.com/viewjob?jk=6550f898c6eaa2cd) — San Francisco Unified School District
+### [Senior Executive Director (0998): Communications Department](https://www.indeed.com/viewjob?jk=451ebe89b971c7e4) — San Francisco Unified School District
 - 📍 **Location:** San Francisco, CA, US
 - 💰 **Salary:** $181k–$236k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-17
 
-### [Managing Director](https://www.indeed.com/viewjob?jk=91b94041e7c486ba) — Designing Justice + Designing Spaces
+### [JPMorgan Wealth Management-Strategic Initiatives Multi-Asset - Executive Director](https://www.indeed.com/viewjob?jk=4e435170200fbff3) — JPMorganChase
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $200k–$225k/yr
+- 💰 **Salary:** $157k–$285k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-17
 
-### [Program Director](https://www.indeed.com/viewjob?jk=fbbf074fc3ac90cd) — Acacia Network
-- 📍 **Location:** Bronx, NY, US
-- **Work mode:** On-site
-- **Job type:** temporary, fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Director of Development](https://www.indeed.com/viewjob?jk=e218b06b179f30a3) — YMCA
-- 📍 **Location:** Hamburg, NJ, US
-- 💰 **Salary:** $100k–$118k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-07-17
-
-### [Director of Development](https://www.indeed.com/viewjob?jk=0d79d227921ff424) — YMCA
-- 📍 **Location:** Livingston, NJ, US
-- 💰 **Salary:** $100k–$118k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-07-17
-
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=7118f2abaf5031b4) — Spectrum for Living
-- 📍 **Location:** River Vale, NJ, US
-- 💰 **Salary:** $160k–$220k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Program Director](https://www.indeed.com/viewjob?jk=47371779a4b44711) — Community Housing Innovations
+### [Now Open* Clinical Supervisor/ Assistant Program Director (LMSW/LCSW) Glenmore Manor](https://www.indeed.com/viewjob?jk=8411280e2c67f0bc) — African American Planning Commission, Inc.
 - 📍 **Location:** Brooklyn, NY, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-17
 
-### [Director of Philanthropy](https://www.indeed.com/viewjob?jk=941f6ee920034be2) — Foster Angels of South Texas
-- 📍 **Location:** Corpus Christi, TX, US
+### [Assistant Program Director](https://www.indeed.com/viewjob?jk=a1ae01b03f0b4b03) — Odyssey House
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $75k–$95k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-17
+
+### [Deputy Executive Director](https://www.indeed.com/viewjob?jk=92e8d2b219d1a202) — NYC Health + Hospitals
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $290k–$350k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-17
+
+### [Director of Operations & Security](https://www.indeed.com/viewjob?jk=566522b3d3f38030) — Unknown
+- 📍 **Location:** Bronx, NY, US
+- 💰 **Salary:** $80k–$95k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-10
+
+### [Director of Operations & Security](https://www.indeed.com/viewjob?jk=05ed765c94efb504) — Unknown
+- 📍 **Location:** Queens, NY, US
+- 💰 **Salary:** $80k–$95k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-06-19
+
+### [Director of Operations & Security](https://www.indeed.com/viewjob?jk=613dc2ebda738fd7) — Unknown
+- 📍 **Location:** Bronx, NY, US
+- 💰 **Salary:** $80k–$95k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-06-19
+
+### [Managing Director](https://www.indeed.com/viewjob?jk=4dc1af99d6dc7dd4) — Hawaii Accounting
+- 📍 **Location:** Honolulu, HI, US
+- 💰 **Salary:** $125k–$200k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-18
+
+### [Executive Director - UCAN City Mission](https://www.indeed.com/viewjob?jk=23d253d25dd4edb9) — Christian Career
+- 📍 **Location:** Jamestown, NY, US
+- 💰 **Salary:** $65k–$85k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-17
+
+### [Director of Marketing and Communications](https://www.indeed.com/viewjob?jk=24dd0801e650207b) — Austen Riggs Center
+- 📍 **Location:** Stockbridge, MA, US
+- 💰 **Salary:** $165k–$205k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-17
+
+### [Managing Director, Operations](https://www.indeed.com/viewjob?jk=c2512ba98ea353cb) — Atlas Schools
+- 📍 **Location:** Colorado Springs, CO, US
+- 💰 **Salary:** $93k–$111k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-16
+
+### [Donor Engagement Manager – CEO/CDO Support](https://www.indeed.com/viewjob?jk=1e8df94e3219bb9b) — ACE Scholarships
+- 📍 **Location:** Greenwood Village, CO, US
+- 💰 **Salary:** $90k–$110k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-17
 
-### [DIRECTOR OF MARKETING AND COMMUNICATIONS](https://www.indeed.com/viewjob?jk=14daa11638de0fb2) — Forman School
-- 📍 **Location:** Litchfield, CT, US
+### [Executive Assistant to the CEO](https://www.indeed.com/viewjob?jk=89df0747d731a180) — Rocky Mountain Prep
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $60k–$95k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-17
 
-### [Development Director](https://www.indeed.com/viewjob?jk=156c6f9b5a2f7092) — Footprint Project
-- 📍 **Location:** New Orleans, LA, US
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=37e77d982254881d) — HCA Houston Healthcare
+- 📍 **Location:** Pasadena, TX, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-17
+
+### [President/CEO](https://www.indeed.com/viewjob?jk=ed3444baed678232) — Seamen's Bank
+- 📍 **Location:** Provincetown, MA, US
+- 💰 **Salary:** $295k–$395k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-17
+
+### [Chief Development Officer](https://www.indeed.com/viewjob?jk=dddfdcc501c1c57d) — Boys & Girls Club of Metropolitan Baltimore
+- 📍 **Location:** Baltimore, MD, US
+- 💰 **Salary:** $130k–$160k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-17
+
+### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=f7d18caadc4b4690) — Jaweed Enterprise
+- 📍 **Location:** Windermere, FL, US
+- 💰 **Salary:** $120k–$250k/yr
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-07-17
+
+### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=b5ca8499eba56130) — Jaweed Enterprise
+- 📍 **Location:** Windermere, FL, US
+- 💰 **Salary:** $25000k–$90000k/yr
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
+- **Job type:** contract
 - 🕒 **Posted:** 2026-07-17
 
-### [Managing Director](https://www.indeed.com/viewjob?jk=a0f8529d242644ba) — Designing Justice + Designing Spaces
-- 📍 **Location:** Atlanta, GA, US
-- 💰 **Salary:** $200k–$225k/yr
+### [Director of Philanthropy](https://www.indeed.com/viewjob?jk=9685ce28a6f353e8) — SAN ANTONIO FOOD BANK INC
+- 📍 **Location:** San Antonio, TX, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-17
 
-### [Managing Director](https://www.indeed.com/viewjob?jk=60c17dbd63b7d98d) — Designing Justice + Designing Spaces
-- 📍 **Location:** Seattle, WA, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=204af49dda639e2e) — Designing Justice + Designing Spaces
-- 📍 **Location:** Austin, TX, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Managing Director](https://www.indeed.com/viewjob?jk=30e461fefc7e7a93) — Designing Justice + Designing Spaces
-- 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $200k–$225k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Associate Director of Development, National Capital Region Chapter](https://www.indeed.com/viewjob?jk=930cedad65378eae) — Blue Star Families, Inc
+### [Executive Director, Head of Business Growth & Entrepreneurship, Global Philanthropy](https://www.indeed.com/viewjob?jk=cc91e6b1a5d2d693) — JPMorganChase
 - 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $79k–$109k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Director of Advancement Services](https://www.indeed.com/viewjob?jk=906a257f80560d4c) — University of North Texas - Dallas
-- 📍 **Location:** Dallas, TX, US
+- 💰 **Salary:** $152k–$245k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-17
 
-### [Director of Development](https://www.indeed.com/viewjob?jk=eeeda6be5418230a) — Brookfield Craft Center
-- 📍 **Location:** Brookfield, CT, US
-- 💰 **Salary:** $32–$35/hr
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-07-17
-
-### [Director of Operations & Administration](https://www.indeed.com/viewjob?jk=98d2a2c213d7a456) — YWCA of Rochester&Monroe County
-- 📍 **Location:** Rochester, NY, US
-- 💰 **Salary:** $70k–$85k/yr
+### [Federal Government Relations - Executive Director](https://www.indeed.com/viewjob?jk=699ef67d157ccfea) — JPMorganChase
+- 📍 **Location:** Washington, DC, US
+- 💰 **Salary:** $190k–$300k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior Director of Development, Division of Student Affairs](https://www.indeed.com/viewjob?jk=f6e607a5f21aff53) — Florida State University
-- 📍 **Location:** Tallahassee, FL, US
+### [Executive Director, Student Engagement and Student Center](https://www.indeed.com/viewjob?jk=65b74481470d988b) — American University
+- 📍 **Location:** Washington, DC, US
+- 💰 **Salary:** $125k–$135k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
+- 🕒 **Posted:** 2026-07-18
 
-### [Vice President of Development](https://www.indeed.com/viewjob?jk=98b396b44bddf3e6) — The Trustees of Reservations
-- 📍 **Location:** Boston, MA, US
-- 💰 **Salary:** $184k–$215k/yr
+### [Director of Operations - full-time - 1st shift - Mon-Fri](https://www.indeed.com/viewjob?jk=b75080e4d075ddda) — Community Mental Health Affiliates Inc
+- 📍 **Location:** New Britain, CT, US
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Salus Populi Program Director](https://www.indeed.com/viewjob?jk=3b0b8f8cc4bc6151) — Northeastern University
-- 📍 **Location:** Boston, MA, US
-- 💰 **Salary:** $76k–$108k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior Executive Director, Development, Charlotte](https://www.indeed.com/viewjob?jk=fd227cbd8ebee78c) — American Cancer Society
-- 📍 **Location:** Raleigh, NC, US
-- 💰 **Salary:** $115k–$150k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior Executive Director, Development Nashville](https://www.indeed.com/viewjob?jk=b0047ee83a6efe30) — American Cancer Society
-- 📍 **Location:** Nashville, TN, US
-- 💰 **Salary:** $115k–$150k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior Executive Director, Development, St. Louis](https://www.indeed.com/viewjob?jk=fe8b726b1976eb11) — American Cancer Society
-- 📍 **Location:** St. Louis, MO, US
-- 💰 **Salary:** $115k–$150k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Executive Director of Gift Planning](https://www.indeed.com/viewjob?jk=77f8599ea0942818) — North Carolina State University
-- 📍 **Location:** Raleigh, NC, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-17
-
-### [Nursing Home Administrator (NHA)/Executive Director](https://www.indeed.com/viewjob?jk=ea577963b16c31b4) — Woodstock Valley Health and Rehabilitation
-- 📍 **Location:** Woodstock, VA, US
-- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-17
