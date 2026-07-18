@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-07-17 20:15 UTC",
+  "scraped_at": "2026-07-18 20:08 UTC",
   "total": 4,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Menlo Park",
+      "title": "Assistant Community Development Director- Building",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/menlo-park/job-20760163",
+      "date_posted": "",
+      "salary": "$170,271.00-$229,866.00 Annually",
+      "ats": "CalOpps"
+    },
     {
       "company": "Mill Valley",
       "title": "Recreation- After School Program Director",
@@ -22,15 +31,6 @@
       "ats": "CalOpps"
     },
     {
-      "company": "Pacifica",
-      "title": "Deputy Director of Public Works- Field Services & Engineering",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/pacifica/job-20748897",
-      "date_posted": "",
-      "salary": "$178,500.00-$209,388.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
       "company": "Belmont",
       "title": "Deputy Community Development Director or Planning Manager",
       "location": "San Francisco/Peninsula",
@@ -40,5 +40,15 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Menlo Park",
+      "title": "Assistant Community Development Director- Building",
+      "location": "San Francisco/Peninsula",
+      "url": "https://www.calopps.org/menlo-park/job-20760163",
+      "date_posted": "",
+      "salary": "$170,271.00-$229,866.00 Annually",
+      "ats": "CalOpps"
+    }
+  ]
 }

@@ -1,6 +1,8 @@
 # 🏛 CalOpps — California Local-Agency Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-17 20:15 UTC*
+*Last updated: 2026-07-18 20:08 UTC*
 
-**0 new role(s)** since last run · 4 total in recent CalOpps postings
+**1 new role(s)** since last run · 4 total in recent CalOpps postings
 
-No new CalOpps roles since the last run.
+### [Assistant Community Development Director- Building](https://www.calopps.org/menlo-park/job-20760163) — Menlo Park
+- 📍 **Location:** San Francisco/Peninsula
+- 💰 **Salary:** $170,271.00-$229,866.00 Annually
