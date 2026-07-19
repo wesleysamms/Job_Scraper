@@ -1,29 +1,35 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-18 21:20 UTC*
+*Last updated: 2026-07-19 00:25 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Executive Business Partner to CEO](https://www.linkedin.com/jobs/view/4442486394/) — The Talent Post
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $130k-$150k
+### [Thought Leadership Survey Development Director](https://www.linkedin.com/jobs/view/4441740783/) — PwC
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $122,500 - $423,780
+- 🕒 **Posted:** 2026-07-19
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4442491425/) — BillDecoder
+- 📍 **Location:** Woodbridge, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4441606254/) — HATCHER GARDEN and WOODLAND PRESERVE INC
-- 📍 **Location:** Spartanburg, SC
+### [Executive Director - Mental Health Nonprofit](https://www.linkedin.com/jobs/view/4441738885/) — Association of Fundraising Professionals (AFP) Silicon Valley Chapter
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Chief Program Officer, The AI Access Initiative](https://www.linkedin.com/jobs/view/4441743456/) — RemoteHunter
-- 📍 **Location:** United States
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4441760043/) — Association of Fundraising Professionals (AFP) Silicon Valley Chapter
+- 📍 **Location:** Woodside, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Associate Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4441745522/) — RemoteHunter
-- 📍 **Location:** United States
+### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4441748644/) — Association of Fundraising Professionals (AFP) Silicon Valley Chapter
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $157,830.40 to $236,745.60
 - 🕒 **Posted:** 2026-07-18
 
-### [Executive Assistant to Chief Executive Officer](https://www.linkedin.com/jobs/view/4441746433/) — Buena Vista Kennels
-- 📍 **Location:** Florida, United States
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4441742759/) — VitaKavana
+- 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-07-18
 
-### [Director of Development for the College of Applied Science and Technology](https://www.linkedin.com/jobs/view/4441754075/) — Illinois State University
-- 📍 **Location:** Normal, IL
+### [Executive Director, Government Affairs - Americas](https://www.linkedin.com/jobs/view/4441754249/) — SAP Americas
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $224,700 - $525,600
 - 🕒 **Posted:** 2026-07-18
