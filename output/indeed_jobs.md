@@ -1,18 +1,22 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-19 07:18 UTC*
+*Last updated: 2026-07-19 19:59 UTC*
 
-**2 new role(s)** since last run · 8 total in last 24h
+**3 new role(s)** since last run · 6 total in last 24h
 
-### [Executive Director - Marriage, Family, and Respect Life](https://www.indeed.com/viewjob?jk=4b2f4dc26a508543) — Catholic Diocese of Arlington
-- 📍 **Location:** Arlington, VA, US
-- 💰 **Salary:** $110k–$150k/yr
+### [Chief Development Officer](https://www.indeed.com/viewjob?jk=973a92e98537d2ab) — Second Harvest of Coastal Georgia
+- 📍 **Location:** Savannah, GA, US
+- 💰 **Salary:** $120k–$140k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-18
+- 🕒 **Posted:** 2026-07-19
 
-### [Executive Director - Marriage, Family, and Respect Life](https://www.indeed.com/viewjob?jk=d13af41079e18c5d) — Catholic Diocese of Arlington
-- 📍 **Location:** Arlington, VA, US
-- 💰 **Salary:** $110k–$150k/yr
+### [Executive Director](https://www.indeed.com/viewjob?jk=7b591f0a5c0f9b1b) — GO Transportation
+- 📍 **Location:** Waterloo, IA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-18
+- 🕒 **Posted:** 2026-07-19
+
+### [Director of Development](https://www.indeed.com/viewjob?jk=70321b05361caf2c) — Senior Living Residences
+- 📍 **Location:** Brookline, MA, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-19
