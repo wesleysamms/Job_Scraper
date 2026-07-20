@@ -1,38 +1,44 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-19 21:20 UTC*
+*Last updated: 2026-07-20 08:36 UTC*
 
 **8 new role(s)** since last run · 8 total in last 1h
 
-### [Business Development Director - US](https://www.linkedin.com/jobs/view/4437229470/) — Biorce
+### [After-School Program Director, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4439917455/) — Crossover
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-07-20
+
+### [Entrepreneurship Program Director, Founders School - $250,000/year USD](https://www.linkedin.com/jobs/view/4439903924/) — Crossover
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000 - $200,000
-- 🕒 **Posted:** 2026-07-19
+- 💰 **Salary:** $125.00/hr - $125.00/hr
+- 🕒 **Posted:** 2026-07-20
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4442545595/) — Oregon Boating Foundation
-- 📍 **Location:** Oregon, United States
-- 🕒 **Posted:** 2026-07-19
+### [Executive Director](https://www.linkedin.com/jobs/view/4442582523/) — Volunteers of America National Services (VOANS)
+- 📍 **Location:** Montrose, CO
+- 💰 **Salary:** $118k-$130k annually
+- 🕒 **Posted:** 2026-07-20
 
-### [Chief Program Officer, The AI Access Initiative](https://www.linkedin.com/jobs/view/4441798218/) — RemoteHunter
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-19
+### [Youth Program Director, Waypoint Academy - $150,000/year USD](https://www.linkedin.com/jobs/view/4439912623/) — Crossover
+- 📍 **Location:** Dripping Springs, TX
+- 💰 **Salary:** $75.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-07-20
 
-### [Associate Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4441776969/) — RemoteHunter
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-19
+### [Director of Development](https://www.linkedin.com/jobs/view/4442029273/) — Design Pro Development
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-07-20
 
-### [Managing Director of Project Finance, Energy Storage](https://www.linkedin.com/jobs/view/4442546682/) — Dylan Green
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-07-19
+### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4439909640/) — Crossover
+- 📍 **Location:** Miami Beach, FL
+- 💰 **Salary:** $200.00/hr - $200.00/hr
+- 🕒 **Posted:** 2026-07-20
 
-### [Business Development Director - US](https://www.linkedin.com/jobs/view/4437224531/) — Biorce
+### [Program Director, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4439926061/) — Crossover
 - 📍 **Location:** Austin, TX
-- 💰 **Salary:** $150,000 - $200,000
-- 🕒 **Posted:** 2026-07-19
+- 💰 **Salary:** $75.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-07-20
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4439683630/) — Brady Corporation
-- 📍 **Location:** Milwaukee, WI
-- 🕒 **Posted:** 2026-07-19
-
-### [Family Development Director](https://www.linkedin.com/jobs/view/4442538911/) — Upbring
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-07-19
+### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4439909636/) — Crossover
+- 📍 **Location:** Las Vegas, NV
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-07-20
