@@ -1,124 +1,106 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-21 20:24 UTC*
+*Last updated: 2026-07-21 23:56 UTC*
 
-**27 new role(s)** since last run · 27 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [RCFE Executive Director](https://www.linkedin.com/jobs/view/4442671716/) — SD Commercial
+### [Director of Development, Empowered by Light (San Francisco Bay Area)](https://www.linkedin.com/jobs/view/4441010725/) — Association of Fundraising Professionals, Golden Gate Chapter (AFP Golden Gate)
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $120,000-$140,000
+- 🕒 **Posted:** 2026-07-21
+
+### [Sr Director of Development, SIO - 140562](https://www.linkedin.com/jobs/view/4441013524/) — San Diego Supercomputer Center
 - 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $149K - $180K
 - 🕒 **Posted:** 2026-07-21
 
-### [Development Director Associate](https://www.linkedin.com/jobs/view/4442683597/) — United Way Santa Cruz County (CA)
-- 📍 **Location:** Capitola, CA
+### [Development Manager (Assistant Director of Philanthropy), Joybound People & Pets -East Bay (Walnut Creek, CA)](https://www.linkedin.com/jobs/view/4441023041/) — Association of Fundraising Professionals, Golden Gate Chapter (AFP Golden Gate)
+- 📍 **Location:** Walnut Creek, CA
+- 💰 **Salary:** $80,000 to $90,000
 - 🕒 **Posted:** 2026-07-21
 
-### [Ascent Managing Director Client Advisory](https://www.linkedin.com/jobs/view/4398319702/) — U.S. Bank
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $206,720.00 - $243,200.00
+### [Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4442911211/) — CASA Neighborhoods
+- 📍 **Location:** La Mesa, CA
+- 💰 **Salary:** $80,000–$90,000 annually
 - 🕒 **Posted:** 2026-07-21
 
-### [Chief of Staff to CEO](https://www.linkedin.com/jobs/view/4443544518/) — Replit
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-21
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4441008040/) — Levi & Korsinsky, LLP
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-07-21
-
-### [Director of Partnerships](https://www.linkedin.com/jobs/view/4387781703/) — Pagaya
+### [Executive Director, Sports Marketing](https://www.linkedin.com/jobs/view/4442904692/) — Omnicom Media
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000—$240,000 USD
+- 💰 **Salary:** $150,000.00-$220,000.00
 - 🕒 **Posted:** 2026-07-21
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4438136571/) — Stocks in the Future
-- 📍 **Location:** Baltimore, MD
+### [SVP & Chief Development Officer](https://www.linkedin.com/jobs/view/4441008653/) — United Way of New York City
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $250,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-07-21
 
-### [Michigan Executive Director and Midwest Partner](https://www.linkedin.com/jobs/view/4442682711/) — The Nature Conservancy
-- 📍 **Location:** Michigan, United States
-- 💰 **Salary:** $185,000 - $218,000
+### [Equities - Electronic Trading Product Strategy - Executive Director](https://www.linkedin.com/jobs/view/4426637102/) — Morgan Stanley
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-21
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4442696212/) — Financial & Estate Literacy
-- 📍 **Location:** Mission Viejo, CA
-- 💰 **Salary:** $85,000 – $125,000 annually
+### [Executive Director](https://www.linkedin.com/jobs/view/4442694906/) — Alaska Botanical Garden
+- 📍 **Location:** Anchorage, AK
+- 💰 **Salary:** $110,000 - $125,000,
 - 🕒 **Posted:** 2026-07-21
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4442687639/) — Lussier Community Education Center
-- 📍 **Location:** Madison, WI
+### [Executive Director- Lighthouse Ellicott City](https://www.linkedin.com/jobs/view/4441014436/) — WPM Real Estate Management
+- 📍 **Location:** Ellicott City, MD
 - 🕒 **Posted:** 2026-07-21
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4442681050/) — Safe Place for Youth
-- 📍 **Location:** United States
-- 💰 **Salary:** $210,000.00 to $230,000.00
+### [37770 Executive Director of Leadership Secondary - Revised](https://www.linkedin.com/jobs/view/4443584332/) — Garland Independent School District
+- 📍 **Location:** Garland, TX
 - 🕒 **Posted:** 2026-07-21
 
-### [Director of Development - The Southeast Pastoral Institute (SEPI)](https://www.linkedin.com/jobs/view/4443549453/) — Archdiocese of New Orleans
-- 📍 **Location:** Miami, FL
+### [President & CEO](https://www.linkedin.com/jobs/view/4443590175/) — Council of Development Finance Agencies
+- 📍 **Location:** Dublin, OH
+- 💰 **Salary:** $235,000.00/yr - $265,000.00/yr
 - 🕒 **Posted:** 2026-07-21
 
-### [Economic Development Director, (A267510-4), 217, Administration](https://www.linkedin.com/jobs/view/4443551370/) — City of Laredo
-- 📍 **Location:** Laredo, TX
+### [Hospital Chief Executive Officer (CEO) | Tulsa LTACH](https://www.linkedin.com/jobs/view/4443590314/) — PAM Health Specialty Hospital of Tulsa
+- 📍 **Location:** Tulsa, OK
 - 🕒 **Posted:** 2026-07-21
 
-### [Director of Development, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4442695290/) — Crossover
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $200.00/hr - $200.00/hr
+### [General Manager/COO Radley Run Country Club](https://www.linkedin.com/jobs/view/4443576624/) — BoardRoom magazine
+- 📍 **Location:** West Chester, PA
 - 🕒 **Posted:** 2026-07-21
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4412173880/) — Brine Group
-- 📍 **Location:** Greater Boston
-- 💰 **Salary:** $123,000.00/yr - $133,000.00/yr
+### [Executive Director of Development, Statler College](https://www.linkedin.com/jobs/view/4443583495/) — West Virginia University Foundation
+- 📍 **Location:** Morgantown, WV
 - 🕒 **Posted:** 2026-07-21
 
-### [Associate Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4442694377/) — RemoteHunter
-- 📍 **Location:** United States
+### [DIRECTOR OF DEVELOPMENT & ENGAGEMENT](https://www.linkedin.com/jobs/view/4443573874/) — St. Thomas Episcopal Parish School
+- 📍 **Location:** Burbank, WA
 - 🕒 **Posted:** 2026-07-21
 
-### [DIRECTOR OF DEVELOPMENT, WEST REGION](https://www.linkedin.com/jobs/view/4443553022/) — New Orleans LGBTQ Hospitality Alliance
-- 📍 **Location:** New Orleans, LA
+### [Director of Development - HYBRID](https://www.linkedin.com/jobs/view/4440498910/) — Vanderbilt University Medical Center
+- 📍 **Location:** Nashville Metropolitan Area
 - 🕒 **Posted:** 2026-07-21
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4443543914/) — Uncommon Elite
-- 📍 **Location:** Henderson, NV
+### [Associate Director of Philanthropy and Advancement Communications](https://www.linkedin.com/jobs/view/4442910349/) — The Heads Network
+- 📍 **Location:** Chatham, VA
 - 🕒 **Posted:** 2026-07-21
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4443543443/) — East Coast Facilities, Inc.
-- 📍 **Location:** South Windsor, CT
+### [Associate Director of Development, School of Communication and Information](https://www.linkedin.com/jobs/view/4442903671/) — Rutgers University - California Alumni
+- 📍 **Location:** New Brunswick, NJ
 - 🕒 **Posted:** 2026-07-21
 
-### [CA Solar and Energy Storage Policy Director](https://www.linkedin.com/jobs/view/4442903054/) — California Solar & Storage Association
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
+### [Director of Operations](https://www.linkedin.com/jobs/view/4443580892/) — DBF Recruiting LLC
+- 📍 **Location:** Greater Minneapolis-St. Paul Area
 - 🕒 **Posted:** 2026-07-21
 
-### [Program Director - Data Strategy, Policy & Advocacy](https://www.linkedin.com/jobs/view/4442669908/) — ACT
-- 📍 **Location:** United States
-- 💰 **Salary:** $115,000 to $130,000
+### [Director of Operations (Detox & Residential Facility)](https://www.linkedin.com/jobs/view/4442904896/) — Recreate Behavioral Health Network
+- 📍 **Location:** West Palm Beach, FL
+- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-07-21
 
-### [Deputy Director of Communications UN](https://www.linkedin.com/jobs/view/4443557120/) — City of Albuquerque
-- 📍 **Location:** Albuquerque, NM
+### [Program Director - Transit and Rail, Cooperative Research Program](https://www.linkedin.com/jobs/view/4417777150/) — The National Academies of Sciences, Engineering, and Medicine
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $126,880 - $198,250
 - 🕒 **Posted:** 2026-07-21
 
-### [Director of Partnerships and Community Outreach, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4442681885/) — Crossover
-- 📍 **Location:** Las Vegas, NV
-- 💰 **Salary:** $100.00/hr - $100.00/hr
+### [Program Director](https://www.linkedin.com/jobs/view/4443593253/) — Parsons Corporation
+- 📍 **Location:** Ogden, UT
 - 🕒 **Posted:** 2026-07-21
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4442693407/) — Sagora Senior Living
-- 📍 **Location:** Port St Lucie, FL
-- 🕒 **Posted:** 2026-07-21
-
-### [Chief Program Officer, The AI Access Initiative](https://www.linkedin.com/jobs/view/4442698224/) — RemoteHunter
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-21
-
-### [Director of Community Engagement, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4442687731/) — Crossover
-- 📍 **Location:** Burlington, VT
-- 💰 **Salary:** $100.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-07-21
-
-### [Deputy Director Youth and Family Services UN](https://www.linkedin.com/jobs/view/4443542433/) — City of Albuquerque
-- 📍 **Location:** Albuquerque, NM
+### [Deputy Program Director](https://www.linkedin.com/jobs/view/4443584643/) — Parsons Corporation
+- 📍 **Location:** Ogden, UT
 - 🕒 **Posted:** 2026-07-21
