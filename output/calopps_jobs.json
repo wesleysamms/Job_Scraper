@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-18 20:08 UTC",
-  "total": 4,
+  "scraped_at": "2026-07-21 20:50 UTC",
+  "total": 5,
   "new_count": 1,
   "jobs": [
     {
@@ -19,6 +19,15 @@
       "url": "https://www.calopps.org/mill-valley/job-20756007",
       "date_posted": "",
       "salary": "$25.00-$28.00 Hourly",
+      "ats": "CalOpps"
+    },
+    {
+      "company": "Tri City Mental Health Authority",
+      "title": "Deputy Director",
+      "location": "Los Angeles Area",
+      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20753992",
+      "date_posted": "",
+      "salary": "$139,855.24-$178,494.66 Annually",
       "ats": "CalOpps"
     },
     {
@@ -42,12 +51,12 @@
   ],
   "new_jobs": [
     {
-      "company": "Menlo Park",
-      "title": "Assistant Community Development Director- Building",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/menlo-park/job-20760163",
+      "company": "Tri City Mental Health Authority",
+      "title": "Deputy Director",
+      "location": "Los Angeles Area",
+      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20753992",
       "date_posted": "",
-      "salary": "$170,271.00-$229,866.00 Annually",
+      "salary": "$139,855.24-$178,494.66 Annually",
       "ats": "CalOpps"
     }
   ]
