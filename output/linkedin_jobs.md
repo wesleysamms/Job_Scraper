@@ -1,133 +1,129 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-22 19:05 UTC*
+*Last updated: 2026-07-22 23:00 UTC*
 
-**29 new role(s)** since last run · 29 total in last 1h
+**28 new role(s)** since last run · 28 total in last 1h
 
-### [President & CEO](https://www.linkedin.com/jobs/view/4443958892/) — Boutique Recruiting
+### [Treatment Center Director/Program Director](https://www.linkedin.com/jobs/view/4444210701/) — BAART Programs
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $77,945.40 - $90,000.00
+- 🕒 **Posted:** 2026-07-22
+
+### [Development Director](https://www.linkedin.com/jobs/view/4444200960/) — More Perfect Union
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-22
+
+### [Development Director](https://www.linkedin.com/jobs/view/4444210550/) — More Perfect Union
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 🕒 **Posted:** 2026-07-22
+
+### [Chief of Staff to the CEO (Execution) – Contract](https://www.linkedin.com/jobs/view/4443429278/) — Korrus
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $130,000 - $190,000
+- 💰 **Salary:** $11,000-$15,000/Monthly
 - 🕒 **Posted:** 2026-07-22
 
-### [Program Director](https://www.linkedin.com/jobs/view/4443592707/) — Stars Behavioral Health Group
-- 📍 **Location:** Fresno, CA
+### [Director of Communications, Mentor Worldwide](https://www.linkedin.com/jobs/view/4444207396/) — Johnson & Johnson MedTech
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $150,000.00 - $258,750.00
 - 🕒 **Posted:** 2026-07-22
 
-### [Senior Director of Development, UCI MIND](https://www.linkedin.com/jobs/view/4441683815/) — UC Irvine
+### [Director of Communications, Mentor Worldwide](https://www.linkedin.com/jobs/view/4444215072/) — Johnson & Johnson MedTech
 - 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $150,000.00- $165,000.00
+- 💰 **Salary:** $150,000.00 - $258,750.00
 - 🕒 **Posted:** 2026-07-22
 
-### [Chief of Staff to CEO](https://www.linkedin.com/jobs/view/4441058846/) — Ghost
-- 📍 **Location:** San Mateo, CA
-- 💰 **Salary:** $200,000.00/yr - $260,000.00/yr
+### [Director of Communications, Reputation](https://www.linkedin.com/jobs/view/4441073709/) — Palo Alto Networks
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Managing Director – Financial Modeling, Energy and Infrastructure (US)](https://www.linkedin.com/jobs/view/4443198064/) — Leo Berwick
-- 📍 **Location:** Coronado, CA
+### [Executive Director, Creative](https://www.linkedin.com/jobs/view/4444201954/) — DEPT®
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $225,200—$281,500 USD
 - 🕒 **Posted:** 2026-07-22
 
-### [Deputy Director, Port Department](https://www.linkedin.com/jobs/view/4441066488/) — The Port Authority of New York & New Jersey
+### [Sr. Director of Partnerships and Development, Nassau Suffolk Region](https://www.linkedin.com/jobs/view/4444226037/) — BBYO
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $90,000-110,000
 - 🕒 **Posted:** 2026-07-22
 
-### [Program Director, Tolling & Contact Center Operations (Onsite - New York | Relocation Available)](https://www.linkedin.com/jobs/view/4443980064/) — Maximus
-- 📍 **Location:** Albany, NY
-- 💰 **Salary:** $145,000.00 - $155,000.00
-- 🕒 **Posted:** 2026-07-22
-
-### [Director of Grants](https://www.linkedin.com/jobs/view/4443956318/) — Coda Search│Staffing
+### [Chief Executive Officer - Enterprise SaaS](https://www.linkedin.com/jobs/view/4443428360/) — iLocatum
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $95,000.00/yr - $100,000.00/yr
+- 💰 **Salary:** $250,000 to $400,000
 - 🕒 **Posted:** 2026-07-22
 
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4443197186/) — COOP
+### [Development Director](https://www.linkedin.com/jobs/view/4444209556/) — More Perfect Union
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $225,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-07-22
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4443148249/) — A Better Chance of Andover
-- 📍 **Location:** Andover, MA
+### [Agency Development Director](https://www.linkedin.com/jobs/view/4444205317/) — Taboola
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $206,500 USD - $262,500 USD
 - 🕒 **Posted:** 2026-07-22
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4443967837/) — Downtown Wapakoneta Partnership
-- 📍 **Location:** Wapakoneta, OH
+### [Director of Communications, Mentor Worldwide](https://www.linkedin.com/jobs/view/4444215073/) — Johnson & Johnson MedTech
+- 📍 **Location:** Raritan, NJ
+- 💰 **Salary:** $150,000.00 - $258,750.00
 - 🕒 **Posted:** 2026-07-22
 
-### [Managing Director, Development](https://www.linkedin.com/jobs/view/4435818741/) — Teach For America
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $90,000 - $118,100
+### [Development Director](https://www.linkedin.com/jobs/view/4443431450/) — City Year
+- 📍 **Location:** Providence, RI
 - 🕒 **Posted:** 2026-07-22
 
-### [Executive Director of Operations](https://www.linkedin.com/jobs/view/4443175850/) — Quincy Animal Shelter
-- 📍 **Location:** Quincy, MA
+### [Chief Program Officer](https://www.linkedin.com/jobs/view/4402728348/) — Ellis Early Learning
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $160,000.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-07-22
 
-### [Executive Director for Institutional Effectiveness](https://www.linkedin.com/jobs/view/4443957806/) — Society for College and University Planning (SCUP)
-- 📍 **Location:** Moscow, ID
+### [Associate Director of Operations](https://www.linkedin.com/jobs/view/4444214683/) — Tenacity
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-07-22
 
-### [Executive Director of Literacy Program](https://www.linkedin.com/jobs/view/4443197203/) — Carney, Sandoe & Associates
-- 📍 **Location:** Bridgeport, CT
-- 💰 **Salary:** $125,000.00/yr - $175,000.00/yr
+### [Development Director](https://www.linkedin.com/jobs/view/4444211531/) — More Perfect Union
+- 📍 **Location:** Greater Chicago Area
 - 🕒 **Posted:** 2026-07-22
 
-### [PROGRAM DIRECTOR III](https://www.linkedin.com/jobs/view/4443973289/) — University of Alabama at Birmingham
-- 📍 **Location:** Greater Birmingham, Alabama Area
-- 💰 **Salary:** $73,945 - $120,165
+### [Development Director](https://www.linkedin.com/jobs/view/4444207655/) — More Perfect Union
+- 📍 **Location:** Atlanta Metropolitan Area
 - 🕒 **Posted:** 2026-07-22
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4443967574/) — Convit Group Inc.
-- 📍 **Location:** Miami-Fort Lauderdale Area
+### [Managing Director - Primary Schools (Principal Supervisor)](https://www.linkedin.com/jobs/view/4440769463/) — Uplift Education
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-07-22
 
-### [Chief Operating Officer (COO)](https://www.linkedin.com/jobs/view/4441061701/) — Department of Behavioral Health and Developmental Services
-- 📍 **Location:** Crewe, VA
-- 💰 **Salary:** $78,063.00-$144,571.00
+### [Development Director](https://www.linkedin.com/jobs/view/4444216262/) — More Perfect Union
+- 📍 **Location:** Washington DC-Baltimore Area
 - 🕒 **Posted:** 2026-07-22
 
-### [Executive Assistant to CEO (Remote)](https://www.linkedin.com/jobs/view/4443983084/) — Boldly Premium Executive Assistants
-- 📍 **Location:** United States
-- 💰 **Salary:** $27-$30 per hour
+### [Director of Development](https://www.linkedin.com/jobs/view/4442678417/) — Nashville Opera
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-07-22
 
-### [Managing Director - Workforce Development](https://www.linkedin.com/jobs/view/4443971494/) — Dallas College
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-07-22
-
-### [Executive Assistant to Chief Executive Officer](https://www.linkedin.com/jobs/view/4443983094/) — PROS General Contracting
-- 📍 **Location:** Florence, AL
-- 🕒 **Posted:** 2026-07-22
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4443186534/) — Govig & Associates
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $100,000 to $200,000,000
-- 🕒 **Posted:** 2026-07-22
-
-### [VP of Development - Senior Housing](https://www.linkedin.com/jobs/view/4443193375/) — Hirewell
+### [Development Director](https://www.linkedin.com/jobs/view/4444204714/) — More Perfect Union
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-22
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4443182422/) — RL Enterprise & Associates: Recruiting & Staffing
-- 📍 **Location:** Greater Savannah Area
+### [Director of Development](https://www.linkedin.com/jobs/view/4443438130/) — Greater Gallatin United Way
+- 📍 **Location:** Bozeman, MT
 - 🕒 **Posted:** 2026-07-22
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4443965482/) — Accelerate Professional Talent Solutions
-- 📍 **Location:** Greater Madison Area
+### [Director of Development and Marketing, Cranaleith Spiritual Center](https://www.linkedin.com/jobs/view/4443998922/) — Sisters of Mercy of the Americas, NyPPaW
+- 📍 **Location:** Indiana, United States
 - 🕒 **Posted:** 2026-07-22
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4422766654/) — CyberCoders
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $120,000.00/yr - $180,000.00/yr
+### [Deputy Director, Partnerships](https://www.linkedin.com/jobs/view/4444223128/) — ICF Next
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $98,187.00 - $166,919.00
 - 🕒 **Posted:** 2026-07-22
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4443189276/) — VTX1 Companies
-- 📍 **Location:** Raymondville, TX
+### [Program Director, Emergency Medical Services](https://www.linkedin.com/jobs/view/4443421467/) — Columbia State Community College
+- 📍 **Location:** Columbia, TN
 - 🕒 **Posted:** 2026-07-22
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4264750689/) — AAA Utility and Construction LLC
-- 📍 **Location:** Columbia, SC
+### [Development Director (10878)](https://www.linkedin.com/jobs/view/4440905072/) — Baltimore Crisis Response, Inc.
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $100,000 to $150,000
 - 🕒 **Posted:** 2026-07-22
 
-### [Program Executive Director](https://www.linkedin.com/jobs/view/4437095240/) — V2X Inc
-- 📍 **Location:** Melbourne, FL
+### [Other Minds - Executive Director](https://www.linkedin.com/jobs/view/4441081792/) — CA For The Arts
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $80,000–$120,000
 - 🕒 **Posted:** 2026-07-22
