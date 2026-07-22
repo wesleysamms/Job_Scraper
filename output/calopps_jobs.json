@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-21 20:50 UTC",
+  "scraped_at": "2026-07-22 20:38 UTC",
   "total": 5,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Menlo Park",
@@ -49,15 +49,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Tri City Mental Health Authority",
-      "title": "Deputy Director",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20753992",
-      "date_posted": "",
-      "salary": "$139,855.24-$178,494.66 Annually",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
