@@ -1,5 +1,5 @@
 # 🏛 CalOpps — California Local-Agency Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-22 20:38 UTC*
+*Last updated: 2026-07-23 20:36 UTC*
 
 **0 new role(s)** since last run · 5 total in recent CalOpps postings
 
