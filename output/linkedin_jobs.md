@@ -1,110 +1,108 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-23 20:17 UTC*
+*Last updated: 2026-07-23 23:48 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4444715362/) — Integral Senior Living
-- 📍 **Location:** San Ramon, CA
+### [Development Director, nonprofit news organization](https://www.linkedin.com/jobs/view/4444017840/) — San Francisco Public Press
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $80,000 to $82,000
 - 🕒 **Posted:** 2026-07-23
 
-### [Program Director](https://www.linkedin.com/jobs/view/4444030093/) — Superlanet
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $180,000–$225,000
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4444032234/) — Beacon
+- 📍 **Location:** Calabasas, CA
+- 💰 **Salary:** $600K–$1
 - 🕒 **Posted:** 2026-07-23
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4444038079/) — Scion Staffing
+### [Director of Operations](https://www.linkedin.com/jobs/view/4444039509/) — Gyga Force
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-23
+
+### [Director of Operations - North Orange County](https://www.linkedin.com/jobs/view/4417439402/) — Cotti Foods Corporation
+- 📍 **Location:** Rancho Santa Margarita, CA
+- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-07-23
+
+### [Executive Director, Strategy](https://www.linkedin.com/jobs/view/4444040213/) — Omnicom Media
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000 to $200,000
+- 💰 **Salary:** $150,000.00-$250,000.00
 - 🕒 **Posted:** 2026-07-23
 
-### [Executive Director, Global Fin Ops and Compliance - NYC](https://www.linkedin.com/jobs/view/4444019016/) — Comcast
+### [Executive Director, Partnerships](https://www.linkedin.com/jobs/view/4444032672/) — Omnicom Media
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $206,514.70 - $309,772.05
+- 💰 **Salary:** $150,000.00-$250,000.00
 - 🕒 **Posted:** 2026-07-23
 
-### [Chief of Staff to the CEO](https://www.linkedin.com/jobs/view/4444008870/) — Fubo
+### [Managing Director, Mid-Atlantic and Florida Region](https://www.linkedin.com/jobs/view/4444031638/) — J Street
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $110,000 - $125,000,
 - 🕒 **Posted:** 2026-07-23
 
-### [Executive Director, Consumer Data Strategy & Operations](https://www.linkedin.com/jobs/view/4444021279/) — The Estée Lauder Companies Inc.
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $158,650.00 to $272,700.00
+### [Program Director, Scattered Site Housing](https://www.linkedin.com/jobs/view/4441583047/) — CAMBA
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-07-23
 
-### [Executive Director, Global Influencer Marketing Strategy & Operations](https://www.linkedin.com/jobs/view/4444032160/) — The Estée Lauder Companies Inc.
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $158,650.00 to $272,700.00
+### [Founding Executive Director (New Private-Pay Assisted Living) – Brooklyn](https://www.linkedin.com/jobs/view/4444051015/) — The W Group
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $140,000.00/yr - $175,000.00/yr
 - 🕒 **Posted:** 2026-07-23
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4444031063/) — Alisme Law LLC
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $175,000–$200,000,
+### [Executive Director](https://www.linkedin.com/jobs/view/4443148249/) — A Better Chance of Andover
+- 📍 **Location:** Andover, MA
 - 🕒 **Posted:** 2026-07-23
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4444717484/) — Westminster Communities of Florida
-- 📍 **Location:** St Augustine, FL
+### [Development Director](https://www.linkedin.com/jobs/view/4444051046/) — Best Beginnings
+- 📍 **Location:** Anchorage, AK
 - 🕒 **Posted:** 2026-07-23
 
-### [Deputy Director](https://www.linkedin.com/jobs/view/4444015691/) — Centro de Trabajadores Unidos en la Lucha (CTUL)
-- 📍 **Location:** Minneapolis, MN
+### [Program Director – Caminos Program](https://www.linkedin.com/jobs/view/4444759382/) — Everstand
+- 📍 **Location:** Mechanicsburg, PA
 - 🕒 **Posted:** 2026-07-23
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4438230642/) — Presbyterian Living
-- 📍 **Location:** Lake Forest, IL
-- 💰 **Salary:** $187,000.00 to $281,000.00 Annually
-- 🕒 **Posted:** 2026-07-23
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4444025140/) — Ronald McDonald House Arkansas & North Louisiana
-- 📍 **Location:** Little Rock, AR
-- 🕒 **Posted:** 2026-07-23
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4444498431/) — PedMedCare
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4441578332/) — United Wholesale Mortgage
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-23
 
-### [STScI Deputy Director](https://www.linkedin.com/jobs/view/4424798143/) — Association of Universities for Research in Astronomy
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $275,000 - $315,000
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4444746654/) — IREM Greater Denver
+- 📍 **Location:** Walla Walla, WA
+- 💰 **Salary:** $175,000 - $210,000
 - 🕒 **Posted:** 2026-07-23
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4438664598/) — KLR Executive Search Group LLC
-- 📍 **Location:** Manchester, NH
+### [Chief Executive Officer- Princeton](https://www.linkedin.com/jobs/view/4444750200/) — JPRO of the Greater Palm Beaches
+- 📍 **Location:** Princeton, NJ
+- 💰 **Salary:** $150,000-$200,000
 - 🕒 **Posted:** 2026-07-23
 
-### [Vice President of Development](https://www.linkedin.com/jobs/view/4444716458/) — Climate Solutions Fund
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4444744490/) — VEIT
+- 📍 **Location:** Rogers, MN
+- 🕒 **Posted:** 2026-07-23
+
+### [Executive Assistant to the CEO and EVP](https://www.linkedin.com/jobs/view/4444745399/) — JPRO of the Greater Palm Beaches
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70,000 – $80,000,
+- 🕒 **Posted:** 2026-07-23
+
+### [City of Paso Robles - Deputy Community Development Director/City Engineer](https://www.linkedin.com/jobs/view/4441570588/) — ASCE Metropolitan Los Angeles Branch (MLAB)
+- 📍 **Location:** Carson City, NV
+- 🕒 **Posted:** 2026-07-23
+
+### [Program Development Director - Airport Cooperative Research Program](https://www.linkedin.com/jobs/view/4417771348/) — The National Academies of Sciences, Engineering, and Medicine
 - 📍 **Location:** Washington, DC
-- 💰 **Salary:** $120,000–$150,000 annually
+- 💰 **Salary:** $126,880 - $198,250
 - 🕒 **Posted:** 2026-07-23
 
-### [Development Director* and Team Lead, School of Business](https://www.linkedin.com/jobs/view/4440186786/) — KU Endowment
-- 📍 **Location:** Lawrence, KS
+### [Development Director](https://www.linkedin.com/jobs/view/4444030438/) — Students Engaged In Advancing Texas
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $65,000-$70,000
 - 🕒 **Posted:** 2026-07-23
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4444013813/) — Center for Disability & Elder Law
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $90K-$110K
+### [Program Director](https://www.linkedin.com/jobs/view/4443593253/) — Parsons Corporation
+- 📍 **Location:** Ogden, UT
 - 🕒 **Posted:** 2026-07-23
 
-### [Director of Advancement Services](https://www.linkedin.com/jobs/view/4444713583/) — The Shipley School
-- 📍 **Location:** Bryn Mawr, PA
+### [Deputy Program Director](https://www.linkedin.com/jobs/view/4443584643/) — Parsons Corporation
+- 📍 **Location:** Ogden, UT
 - 🕒 **Posted:** 2026-07-23
 
-### [Deputy Director-Recreation Services](https://www.linkedin.com/jobs/view/4444703852/) — City of Alexandria, Virginia
-- 📍 **Location:** Alexandria, VA
-- 🕒 **Posted:** 2026-07-23
-
-### [Deputy Director- Park Services](https://www.linkedin.com/jobs/view/4444706868/) — City of Alexandria, Virginia
-- 📍 **Location:** Alexandria, VA
-- 🕒 **Posted:** 2026-07-23
-
-### [Economic Development Director, (A267510-4), 217, Administration](https://www.linkedin.com/jobs/view/4444715364/) — City of Laredo
-- 📍 **Location:** Laredo, TX
-- 🕒 **Posted:** 2026-07-23
-
-### [Director of Marketing and Communications](https://www.linkedin.com/jobs/view/4444710884/) — TalentAlly
-- 📍 **Location:** Greater Pittsburgh Region
-- 🕒 **Posted:** 2026-07-23
-
-### [Director of Marketing and Communications](https://www.linkedin.com/jobs/view/4444730053/) — TalentAlly
+### [Executive Director of Technology Operations](https://www.linkedin.com/jobs/view/4441577385/) — Agile Clean Energy Private Limited
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-23
