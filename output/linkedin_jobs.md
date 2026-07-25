@@ -1,88 +1,85 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-24 20:18 UTC*
+*Last updated: 2026-07-25 00:01 UTC*
 
-**19 new role(s)** since last run · 19 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4444391611/) — Laughlin Legal
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $260,000–$300,000,
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4444609706/) — Business For Good San Diego
+- 📍 **Location:** San Diego Metropolitan Area
+- 💰 **Salary:** $90,000-$110,000,
 - 🕒 **Posted:** 2026-07-24
 
-### [Chief Operating Officer (COO)](https://www.linkedin.com/jobs/view/4444397268/) — Jetty Extracts
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $245,000.00/yr - $305,000.00/yr
+### [Affordable Housing Finance Product Manager - Executive Director](https://www.linkedin.com/jobs/view/4444612657/) — Morgan Stanley
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $150,000 - $250,000
 - 🕒 **Posted:** 2026-07-24
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4444396369/) — Laughlin Legal
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $260,000–$300,000,
+### [Affordable Housing Finance Product Manager - Executive Director](https://www.linkedin.com/jobs/view/4444610706/) — Morgan Stanley
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $150,000 - $250,000
 - 🕒 **Posted:** 2026-07-24
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4441830797/) — JK Executive Strategies, LLC
-- 📍 **Location:** Rochester, New York Metropolitan Area
-- 💰 **Salary:** $225,000.00/yr - $250,000.00/yr
+### [Managing Director - West Region](https://www.linkedin.com/jobs/view/4427571447/) — ECI
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $225,000 to $300,000 annually
 - 🕒 **Posted:** 2026-07-24
 
-### [Program Director](https://www.linkedin.com/jobs/view/4445233180/) — CN Guidance and Counseling Services, Inc
-- 📍 **Location:** Hauppauge, NY
+### [Affordable Housing Finance Product Manager - Executive Director](https://www.linkedin.com/jobs/view/4444603767/) — Morgan Stanley
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000 - $250,000
 - 🕒 **Posted:** 2026-07-24
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4444610196/) — KK&P
-- 📍 **Location:** Charlotte, VT
-- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+### [PA to Chief Executive Officer](https://www.linkedin.com/jobs/view/4445244656/) — Hall Park Academy
+- 📍 **Location:** Calverton, NY
 - 🕒 **Posted:** 2026-07-24
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4444396203/) — The Root Cellar
-- 📍 **Location:** Portland, OR
+### [Program Director](https://www.linkedin.com/jobs/view/4445246685/) — Grand Street Settlement
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $80,000.00/yr - $82,000.00/yr
 - 🕒 **Posted:** 2026-07-24
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4445217653/) — Calyx Living
-- 📍 **Location:** Fuquay-Varina, NC
+### [Affordable Housing Finance Product Manager - Executive Director](https://www.linkedin.com/jobs/view/4444393988/) — Morgan Stanley
+- 📍 **Location:** Greenwich, CT
+- 💰 **Salary:** $150,000 - $250,000
 - 🕒 **Posted:** 2026-07-24
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4444018270/) — Habitat for Humanity of Green County
-- 📍 **Location:** Monroe, WI
+### [Adult Day Health Care Program Director](https://www.linkedin.com/jobs/view/4444630057/) — Regal Heights Rehabilitation and Health Care Center
+- 📍 **Location:** Queens, NY
+- 💰 **Salary:** $65,000.00/yr - $75,000.00/yr
 - 🕒 **Posted:** 2026-07-24
 
-### [Development Director](https://www.linkedin.com/jobs/view/4444399274/) — New Life Center
-- 📍 **Location:** Fargo-Moorhead
+### [Executive Director](https://www.linkedin.com/jobs/view/4444397935/) — Heartland Independent Living Center
+- 📍 **Location:** Owensville, MO
+- 💰 **Salary:** $70,000 to $90,000
 - 🕒 **Posted:** 2026-07-24
 
-### [Program Director](https://www.linkedin.com/jobs/view/4444398090/) — Code for America
-- 📍 **Location:** Marion County, IN
-- 💰 **Salary:** $121,869 to $149,188
+### [Metropolitan Public Transportation Authority (MPTA) - Chief Executive Officer (CEO)](https://www.linkedin.com/jobs/view/4444615470/) — National Forum for Black Public Administrators (NFBPA)
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-07-24
 
-### [Economic Development Director, (A267510-4), 217, Administration](https://www.linkedin.com/jobs/view/4445212887/) — City of Laredo
-- 📍 **Location:** Laredo, TX
+### [Deputy Director of Development Services- Current Planning](https://www.linkedin.com/jobs/view/4444627068/) — National Forum for Black Public Administrators (NFBPA)
+- 📍 **Location:** Fort Worth, TX
 - 🕒 **Posted:** 2026-07-24
 
-### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4445234469/) — United Way of Tucson and Southern Arizona
-- 📍 **Location:** Tucson, AZ
+### [Affordable Housing Finance Product Manager - Executive Director](https://www.linkedin.com/jobs/view/4444604773/) — Morgan Stanley
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $150,000 - $250,000
 - 🕒 **Posted:** 2026-07-24
 
-### [Director of Development (Full Time)](https://www.linkedin.com/jobs/view/4444384921/) — Farmers Alley Theatre
-- 📍 **Location:** Kalamazoo, MI
+### [Assistant Director of Development & Alumni Relations](https://www.linkedin.com/jobs/view/4441846679/) — The University of Georgia
+- 📍 **Location:** Athens, GA
+- 💰 **Salary:** $1,500-$50,000
 - 🕒 **Posted:** 2026-07-24
 
-### [Director of Development, Mass Eye and Ear](https://www.linkedin.com/jobs/view/4444783006/) — Mass General Brigham
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $99,465.60 - $144,643.20/Annual
-- 🕒 **Posted:** 2026-07-24
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4444387877/) — Forest Ridge Academy
-- 📍 **Location:** Schererville, IN
-- 🕒 **Posted:** 2026-07-24
-
-### [Service Development Director](https://www.linkedin.com/jobs/view/4441831735/) — Freedom Behavioral
-- 📍 **Location:** Monroe, LA
-- 🕒 **Posted:** 2026-07-24
-
-### [Deputy Director of Communications UN](https://www.linkedin.com/jobs/view/4445229380/) — City of Albuquerque
+### [Chief Operations Officer (COO)](https://www.linkedin.com/jobs/view/4444605703/) — Catholic Charities of Central New Mexico
 - 📍 **Location:** Albuquerque, NM
 - 🕒 **Posted:** 2026-07-24
 
-### [Executive Director, Field Marketing](https://www.linkedin.com/jobs/view/4441835412/) — EyePoint
-- 📍 **Location:** Watertown, MA
-- 💰 **Salary:** $257,500 USD - $326,167 USD
+### [CHIEF OPERATING OFFICER (COO)](https://www.linkedin.com/jobs/view/4445240808/) — Central Minnesota Mental Health Center
+- 📍 **Location:** St Cloud, MN
+- 💰 **Salary:** $135,000 - $160,000 annually
+- 🕒 **Posted:** 2026-07-24
+
+### [OPEN RANK: Associate Dean or Senior Associate Dean for Administration and Finance & COO](https://www.linkedin.com/jobs/view/4445248571/) — University of Maryland, Baltimore (UMB)
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $230,500 - $250,000
 - 🕒 **Posted:** 2026-07-24
