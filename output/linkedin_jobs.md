@@ -1,63 +1,73 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-26 22:55 UTC*
+*Last updated: 2026-07-27 12:08 UTC*
 
-**13 new role(s)** since last run · 13 total in last 1h
+**15 new role(s)** since last run · 15 total in last 1h
 
-### [Chief of Staff, CEO](https://www.linkedin.com/jobs/view/4442359798/) — Heliux
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4445143227/) — The McTeigue Jewelry Companies
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 🕒 **Posted:** 2026-07-27
+
+### [Chief of Staff, CEO](https://www.linkedin.com/jobs/view/4387771659/) — Handshake
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-26
+- 💰 **Salary:** $256,000.00/yr - $320,000.00/yr
+- 🕒 **Posted:** 2026-07-27
 
-### [Nonprofit Executive Director](https://www.linkedin.com/jobs/view/4434340567/) — FRIENDS OF ROSE CANYON
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $32–$34/hour
-- 🕒 **Posted:** 2026-07-26
+### [Executive Director](https://www.linkedin.com/jobs/view/4437152299/) — Cogir Senior Living
+- 📍 **Location:** Burlington, WA
+- 💰 **Salary:** $115,000.00 - $120,000.00 Annually
+- 🕒 **Posted:** 2026-07-27
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4442375688/) — Careerscape
-- 📍 **Location:** Niagara Falls, NY
-- 💰 **Salary:** $78,000.00/yr - $98,000.00/yr
-- 🕒 **Posted:** 2026-07-26
-
-### [Program Director of Clubs](https://www.linkedin.com/jobs/view/4445633831/) — Fellowship of Christian Athletes
-- 📍 **Location:** Bend, OR
-- 🕒 **Posted:** 2026-07-26
-
-### [Managing Director of School Transformation](https://www.linkedin.com/jobs/view/4417950995/) — KIPP DC
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $151,520-$167,468
-- 🕒 **Posted:** 2026-07-26
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4444864202/) — Greenwhite Express Logistics Ltd
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-07-26
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4445631749/) — Confidential
+### [Chief Executive Officer Coach](https://www.linkedin.com/jobs/view/4445205380/) — Fulchester Consultants
 - 📍 **Location:** United States
-- 💰 **Salary:** $650,000.00/yr - $845,000.00/yr
-- 🕒 **Posted:** 2026-07-26
+- 💰 **Salary:** $250,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-07-27
 
-### [Chief Executive Officer, New Orleans Recreation Development](https://www.linkedin.com/jobs/view/4444871172/) — NRPA Leadership Development Network
-- 📍 **Location:** New Orleans, LA
-- 💰 **Salary:** $150,000 to $200,000
-- 🕒 **Posted:** 2026-07-26
+### [CEO](https://www.linkedin.com/jobs/view/4445934065/) — Artane Partners
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-07-27
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4445640531/) — Confidential
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4442830429/) — LenDR Consulting
 - 📍 **Location:** United States
-- 💰 **Salary:** $600,000.00/yr - $800,000.00/yr
-- 🕒 **Posted:** 2026-07-26
+- 🕒 **Posted:** 2026-07-27
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4444854230/) — Diaz Engineering, LLC
-- 📍 **Location:** Greater Houston
-- 🕒 **Posted:** 2026-07-26
+### [Assistant Chief Executive Officer (ACEO) - Fort Wayne, IN](https://www.linkedin.com/jobs/view/4418416172/) — Lutheran Health Network
+- 📍 **Location:** Fort Wayne, IN
+- 🕒 **Posted:** 2026-07-27
 
-### [Director of Major Gifts](https://www.linkedin.com/jobs/view/4445636541/) — Christchurch School
-- 📍 **Location:** Christchurch, VA
-- 💰 **Salary:** $80,000 - $90,000
-- 🕒 **Posted:** 2026-07-26
+### [Managing Director](https://www.linkedin.com/jobs/view/4442842338/) — Walden Lang Capitol Box
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-27
 
-### [Executive Director, Market Impact (Remote in Phoenix, AZ)](https://www.linkedin.com/jobs/view/4445633676/) — March of Dimes Foundation
-- 📍 **Location:** Glendale, AZ
-- 🕒 **Posted:** 2026-07-26
+### [Director of Advancement Services](https://www.linkedin.com/jobs/view/4418916421/) — Bowie State University
+- 📍 **Location:** Prince George's County, MD
+- 💰 **Salary:** $100,000 - $110,000
+- 🕒 **Posted:** 2026-07-27
 
-### [Director of Communications](https://www.linkedin.com/jobs/view/4445630540/) — Center for Intercultural Dialogue-USA
-- 📍 **Location:** Washington DC-Baltimore Area
-- 🕒 **Posted:** 2026-07-26
+### [Commercial Development Director](https://www.linkedin.com/jobs/view/4375599083/) — Danaher
+- 📍 **Location:** Cambridge, MA
+- 💰 **Salary:** $165,000-$210,000
+- 🕒 **Posted:** 2026-07-27
+
+### [Business Development Director - New Business Development](https://www.linkedin.com/jobs/view/4442843249/) — EPAM Systems
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $175,000-$210,000 USD
+- 🕒 **Posted:** 2026-07-27
+
+### [Business Development Director - New Business Development](https://www.linkedin.com/jobs/view/4442838243/) — EPAM Systems
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $175,000-$210,000 USD
+- 🕒 **Posted:** 2026-07-27
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4445109048/) — Babb Financial Group
+- 📍 **Location:** Flagstaff, AZ
+- 💰 **Salary:** $80,000 to $120,000
+- 🕒 **Posted:** 2026-07-27
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4434335557/) — Lucia Landscaping Inc.
+- 📍 **Location:** Roseville, MI
+- 🕒 **Posted:** 2026-07-27
+
+### [Assistant Director of Advocacy](https://www.linkedin.com/jobs/view/4428800563/) — University of New Hampshire
+- 📍 **Location:** Durham, NH
+- 💰 **Salary:** $47,920.00 - $85,410.00
+- 🕒 **Posted:** 2026-07-27
