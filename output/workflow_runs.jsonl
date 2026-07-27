@@ -1728,3 +1728,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "30225946285", "timestamp": "2026-07-26T23:47:45Z", "workflow": "google_jobs"}
 {"job_count": 7, "run_attempt": "1", "run_id": "30226992412", "timestamp": "2026-07-27T00:16:19Z", "workflow": "indeed"}
 {"job_count": 15, "run_attempt": "1", "run_id": "30263864881", "timestamp": "2026-07-27T12:08:09Z", "workflow": "linkedin"}
+{"job_count": 0, "run_attempt": "1", "run_id": "30267066735", "timestamp": "2026-07-27T12:44:33Z", "workflow": "ziprecruiter"}
