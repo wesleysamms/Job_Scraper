@@ -1,152 +1,116 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-27 20:26 UTC*
+*Last updated: 2026-07-28 00:04 UTC*
 
-**34 new role(s)** since last run · 34 total in last 1h
+**24 new role(s)** since last run · 24 total in last 1h
 
-### [Vice President of Development](https://www.linkedin.com/jobs/view/4445175558/) — Catholic Charities San Bernardino & Riverside Counties
-- 📍 **Location:** San Bernardino, CA
-- 💰 **Salary:** $105,000 to $120,000
+### [Medicaid Legislation, Revenue Cycle, & Workforce Development with Karen A. Daley, CEO](https://www.linkedin.com/jobs/view/4445198755/) — The Community Health Center Podcast
+- 📍 **Location:** August, CA
 - 🕒 **Posted:** 2026-07-27
 
-### [Contra Costa County Program Director](https://www.linkedin.com/jobs/view/4445183455/) — Sustainable Wellness Solutions
-- 📍 **Location:** Martinez, CA
+### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4445413477/) — WRC
+- 📍 **Location:** Oceanside, CA
+- 💰 **Salary:** $80,000 – $100,000
 - 🕒 **Posted:** 2026-07-27
 
-### [Residency Program Director](https://www.linkedin.com/jobs/view/4446111786/) — Petaluma Health Center
-- 📍 **Location:** Rohnert Park, CA
+### [Development Director](https://www.linkedin.com/jobs/view/4446150120/) — American Heart Association
+- 📍 **Location:** Culver City, CA
+- 💰 **Salary:** $70,725 to $83,000 annually
 - 🕒 **Posted:** 2026-07-27
 
-### [Executive Business Partner (CEO, VP of Finance, VP of People)](https://www.linkedin.com/jobs/view/4442896128/) — Render
-- 📍 **Location:** San Francisco, CA
+### [Executive Director - Senior Living](https://www.linkedin.com/jobs/view/4442878916/) — Clearwater Living
+- 📍 **Location:** Newport Beach, CA
+- 💰 **Salary:** $130,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-07-27
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4445184425/) — IT Resource Hunter
-- 📍 **Location:** Santa Monica, CA
+### [Hospital Chief Executive Officer](https://www.linkedin.com/jobs/view/4446163373/) — NAHSE Mentoring Program
+- 📍 **Location:** Salinas, CA
+- 💰 **Salary:** $439,452 to $599,869 annually
 - 🕒 **Posted:** 2026-07-27
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4445188499/) — CiresiMorek
-- 📍 **Location:** Simi Valley, CA
+### [Director of Operations - North Orange County](https://www.linkedin.com/jobs/view/4417439402/) — Cotti Foods Corporation
+- 📍 **Location:** Rancho Santa Margarita, CA
+- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-07-27
 
-### [Program Director (Kenilworth)](https://www.linkedin.com/jobs/view/4445194160/) — Children's Rescue Fund
+### [Hospital Chief Executive Officer](https://www.linkedin.com/jobs/view/4446158444/) — NACSW – North American Association of Christians in Social Work
+- 📍 **Location:** Salinas, CA
+- 💰 **Salary:** $439,452 to $599,869 annually
+- 🕒 **Posted:** 2026-07-27
+
+### [Program Director](https://www.linkedin.com/jobs/view/4445420370/) — Centers Health Care
 - 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $110,000.00/yr - $110,000.00/yr
+- 💰 **Salary:** $58,000.00/yr - $65,000.00/yr
 - 🕒 **Posted:** 2026-07-27
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4442878334/) — First Pro FM
-- 📍 **Location:** New York, United States
+### [Program Director – Home and Community Based Services (LCSW)](https://www.linkedin.com/jobs/view/4446165411/) — Northeast Family Services
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $80,000 - $95,000/year
 - 🕒 **Posted:** 2026-07-27
 
-### [Blackstone Physical Security - Managing Director, Security Intelligence](https://www.linkedin.com/jobs/view/4445189201/) — Blackstone
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $275,000 - $300,000
-- 🕒 **Posted:** 2026-07-27
-
-### [Senior Managing Director, Healthcare Disputes & Economics, Payer/Provider](https://www.linkedin.com/jobs/view/4446108944/) — Ankura
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-27
-
-### [Program Director (Q319 Village Academy)](https://www.linkedin.com/jobs/view/4445181608/) — The Child Center of NY
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-27
-
-### [Program Director (P.S. 253 Randolph Holder)](https://www.linkedin.com/jobs/view/4445181609/) — The Child Center of NY
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-27
-
-### [Director of Strategic Partnerships & Growth](https://www.linkedin.com/jobs/view/4445164718/) — Meta MindArt
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-27
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4446104640/) — Metropolitan YMCA of the Oranges
-- 📍 **Location:** Hamburg, NJ
-- 💰 **Salary:** $100,000-$118,000
-- 🕒 **Posted:** 2026-07-27
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4446120441/) — Metropolitan YMCA of the Oranges
-- 📍 **Location:** Livingston, NJ
-- 💰 **Salary:** $100,000-$118,000
-- 🕒 **Posted:** 2026-07-27
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4446108698/) — AIROS.io
-- 📍 **Location:** Somerset, NJ
-- 🕒 **Posted:** 2026-07-27
-
-### [Executive Director of M&A](https://www.linkedin.com/jobs/view/4446108880/) — TELYON
+### [SVP, Managing Director, Business Solutions](https://www.linkedin.com/jobs/view/4442885814/) — Horizon Next
 - 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $230,000.00 - $350,000.00
 - 🕒 **Posted:** 2026-07-27
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4445172621/) — Cancer Services
-- 📍 **Location:** Sandusky, OH
-- 💰 **Salary:** $60,000-$80,000 annually
+### [Managing Director](https://www.linkedin.com/jobs/view/4446166162/) — DLA Piper
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $203,438 - $275,000 per year
 - 🕒 **Posted:** 2026-07-27
 
-### [Executive Director - Jefferson County Public Library](https://www.linkedin.com/jobs/view/4436614596/) — Jefferson County, Colorado
-- 📍 **Location:** Lakewood, CO
-- 💰 **Salary:** $170,000 – $195,000
+### [Managing Director](https://www.linkedin.com/jobs/view/4446159215/) — DLA Piper
+- 📍 **Location:** Short Hills, NJ
+- 💰 **Salary:** $203,438 - $275,000 per year
 - 🕒 **Posted:** 2026-07-27
 
-### [C-brAIn Chief Executive Officer (Remote) - Neurology](https://www.linkedin.com/jobs/view/4438379159/) — Washington University in St. Louis
-- 📍 **Location:** Greater St. Louis
-- 🕒 **Posted:** 2026-07-27
-
-### [Executive Director Division of Public Safety and Security](https://www.linkedin.com/jobs/view/4446111941/) — University of Michigan
-- 📍 **Location:** Ann Arbor, MI
-- 🕒 **Posted:** 2026-07-27
-
-### [Senior Associate AD/Team Makers Executive Director - (2959425)](https://www.linkedin.com/jobs/view/4445172870/) — NDSU Agribusiness & Applied Economics
-- 📍 **Location:** Fargo, ND
-- 🕒 **Posted:** 2026-07-27
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4445180557/) — Confidential Jobs
-- 📍 **Location:** Illinois, United States
-- 🕒 **Posted:** 2026-07-27
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4445181526/) — Confidential Jobs
-- 📍 **Location:** New Jersey, United States
-- 🕒 **Posted:** 2026-07-27
-
-### [President & Chief Executive Officer, Heat Pump Solutions](https://www.linkedin.com/jobs/view/4445173361/) — ConnectM Technology Solutions
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-27
-
-### [CEO / COO – Direct to Consumer CPG (Hard Goods & Supplements) GOLF – USA – Fully Remote - Salary: $400K-$750K base + bonus + Equity](https://www.linkedin.com/jobs/view/4446114728/) — Morgan Mace
-- 📍 **Location:** United States
-- 💰 **Salary:** $400,000.00/yr - $750,000.00/yr
-- 🕒 **Posted:** 2026-07-27
-
-### [President and COO](https://www.linkedin.com/jobs/view/4446111569/) — 4M Research
-- 📍 **Location:** Huntsville, AL
-- 🕒 **Posted:** 2026-07-27
-
-### [Managing Director](https://www.linkedin.com/jobs/view/4446109881/) — Quadel
+### [Senior Vice President, Executive Director](https://www.linkedin.com/jobs/view/4445196933/) — City Year
 - 📍 **Location:** Miami, FL
+- 💰 **Salary:** $155,000 - $165,000 Annually
 - 🕒 **Posted:** 2026-07-27
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4445174586/) — Fight For The Forgotten
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $105,000 - $130,000
+### [Executive Director](https://www.linkedin.com/jobs/view/4445405020/) — Otterbein SeniorLife
+- 📍 **Location:** Franklin, IN
 - 🕒 **Posted:** 2026-07-27
 
-### [Deputy Director of National Policy and Campaign](https://www.linkedin.com/jobs/view/4446120621/) — CHIRLA
+### [Executive Director](https://www.linkedin.com/jobs/view/4445401630/) — Morningside House Senior Living
+- 📍 **Location:** Leesburg, VA
+- 🕒 **Posted:** 2026-07-27
+
+### [Development Director](https://www.linkedin.com/jobs/view/4446158044/) — More Perfect Union
+- 📍 **Location:** Greater Seattle Area
+- 🕒 **Posted:** 2026-07-27
+
+### [Development Director](https://www.linkedin.com/jobs/view/4446159043/) — More Perfect Union
+- 📍 **Location:** Denver Metropolitan Area
+- 🕒 **Posted:** 2026-07-27
+
+### [Vice President of Development](https://www.linkedin.com/jobs/view/4442880817/) — 4word
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-07-27
+
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4445402110/) — Seattle Aquarium
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $195,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-07-27
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4442681050/) — Safe Place for Youth
+- 📍 **Location:** United States
+- 💰 **Salary:** $210,000.00 to $230,000.00
+- 🕒 **Posted:** 2026-07-27
+
+### [Director of Development - College of Arts & Sciences](https://www.linkedin.com/jobs/view/4442890676/) — Texas A&M Foundation
+- 📍 **Location:** College Station, TX
+- 🕒 **Posted:** 2026-07-27
+
+### [Director of Development, Department of Otolaryngology - Head and Neck Surgery](https://www.linkedin.com/jobs/view/4446156347/) — The Johns Hopkins University
+- 📍 **Location:** Baltimore, MD
+- 🕒 **Posted:** 2026-07-27
+
+### [Deputy Director, Partnerships](https://www.linkedin.com/jobs/view/4443418731/) — ICF Next
 - 📍 **Location:** Washington, DC
-- 💰 **Salary:** $97,344 to $105,237
+- 💰 **Salary:** $98,187.00 - $166,919.00
 - 🕒 **Posted:** 2026-07-27
 
-### [Director of Development, College of Pharmacy](https://www.linkedin.com/jobs/view/4428429273/) — University of Iowa Center for Advancement
-- 📍 **Location:** Iowa City, IA
-- 🕒 **Posted:** 2026-07-27
-
-### [Program Development Director - National Cooperative Highway Research Program](https://www.linkedin.com/jobs/view/4418567286/) — The National Academies of Sciences, Engineering, and Medicine
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $126,880 - $198,250
-- 🕒 **Posted:** 2026-07-27
-
-### [Director of Community Engagement & Volunteer Programs](https://www.linkedin.com/jobs/view/4445992621/) — Jewish Relief Agency
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $70,000 – $80,000
-- 🕒 **Posted:** 2026-07-27
-
-### [Service Development Director](https://www.linkedin.com/jobs/view/4441831735/) — Freedom Behavioral
-- 📍 **Location:** Monroe, LA
+### [Executive Director - Highland Health Associates](https://www.linkedin.com/jobs/view/4446147866/) — Beth Israel Lahey Health
+- 📍 **Location:** Woburn, MA
+- 💰 **Salary:** $185,000.00 USD - $220,000.00 USD
 - 🕒 **Posted:** 2026-07-27
