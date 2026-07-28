@@ -1,82 +1,138 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-28 10:26 UTC*
+*Last updated: 2026-07-28 20:27 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**30 new role(s)** since last run · 30 total in last 1h
 
-### [Chief Executive Officer - Doctor’s Hospital of Modesto](https://www.linkedin.com/jobs/view/4388755302/) — Tenet Healthcare
-- 📍 **Location:** Modesto, CA
-- 💰 **Salary:** $300,000-$430,000 annually
+### [Director of Development for Athletics (Administrator II)](https://www.linkedin.com/jobs/view/4445751951/) — The California State University
+- 📍 **Location:** Sonoma, CA
+- 💰 **Salary:** $8,334 - $8,667
 - 🕒 **Posted:** 2026-07-28
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4445488836/) — ECI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $225,000 to $300,000 annually
+### [Director of Development (0462U), Berkeley Law #87795](https://www.linkedin.com/jobs/view/4446381209/) — University of California, Berkeley
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $25k to $1
 - 🕒 **Posted:** 2026-07-28
 
-### [Sr Program Director - Project Management (Generation)](https://www.linkedin.com/jobs/view/4437456906/) — New York Power Authority
-- 📍 **Location:** Lewiston, NY
-- 💰 **Salary:** $194,000 - $24200
-- 🕒 **Posted:** 2026-07-28
-
-### [Security & Resiliency Initiative (SRI) Solutions - Vice President/Executive Director](https://www.linkedin.com/jobs/view/4437718813/) — JPMorganChase
+### [CEO Fundraising Sr. Specialist](https://www.linkedin.com/jobs/view/4446386303/) — Women's World Banking
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $225,000.00/yr - $350,000.00/yr
+- 💰 **Salary:** $80,000.00/yr - $85,000.00/yr
 - 🕒 **Posted:** 2026-07-28
 
-### [Head of Legal Strategic Initiatives- Managing Director](https://www.linkedin.com/jobs/view/4437718810/) — JPMorganChase
+### [Program Director - Edward Byrne Center](https://www.linkedin.com/jobs/view/4446386049/) — Police Athletic League, Inc.
+- 📍 **Location:** Jamaica, NY
+- 💰 **Salary:** $68,000-70,000 annually
+- 🕒 **Posted:** 2026-07-28
+
+### [Program Director - Armory Center](https://www.linkedin.com/jobs/view/4446368580/) — Police Athletic League, Inc.
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $251,750.00/yr - $400,000.00/yr
+- 💰 **Salary:** $68,000-70,000 annually
 - 🕒 **Posted:** 2026-07-28
 
-### [Chief of Staff to CEO NorAm](https://www.linkedin.com/jobs/view/4433984714/) — Bel
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $195,000 - $215,000
+### [Director Of Development](https://www.linkedin.com/jobs/view/4445763423/) — Queens Botanical Garden
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-07-28
 
-### [Workplace Solutions - Executive Director, Head of Financial Reporting (North America)](https://www.linkedin.com/jobs/view/4437735012/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $171,000.00/yr - $260,000.00/yr
+### [Executive Director, Business Development - Core](https://www.linkedin.com/jobs/view/4446369520/) — TSP, a Syneos Health company
+- 📍 **Location:** Bridgewater, NJ
+- 💰 **Salary:** $121,634 - $309,733
 - 🕒 **Posted:** 2026-07-28
 
-### [Director of Development and Alumni Relations, School of Business](https://www.linkedin.com/jobs/view/4445489844/) — The University of Connecticut Foundation, Inc.
-- 📍 **Location:** Storrs, CT
-- 💰 **Salary:** $150,000 - $300,000 per year
+### [50108 I.S. 061 Leonardo Da Vinci - SONYC - Sr. Program Director](https://www.linkedin.com/jobs/view/4445750986/) — The Child Center of NY
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-28
 
-### [Chief Executive Officer - Acute Psychiatric Hospital](https://www.linkedin.com/jobs/view/4436527221/) — Cedar Crest Hospital & Residential Treatment Center
-- 📍 **Location:** Belton, TX
+### [SONYC Program Director @ I.S. 061 Leonardo Da Vinci](https://www.linkedin.com/jobs/view/4445777006/) — The Child Center of NY
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-28
 
-### [Director of Advancement Marketing and Communications](https://www.linkedin.com/jobs/view/4437718311/) — The Governor's Academy
-- 📍 **Location:** Byfield, MA
+### [Sr. Program Director - MS 672 Mott Hall Bridges Academy(SONYC)](https://www.linkedin.com/jobs/view/4445762846/) — The Child Center of NY
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-07-28
 
-### [DIRECTOR OF MAJOR GIFTS](https://www.linkedin.com/jobs/view/4437465474/) — LifeBridge Health
-- 📍 **Location:** Westminster, MD
+### [Program Director - P.S. 156 Laurelton (COMPASS)](https://www.linkedin.com/jobs/view/4445766795/) — The Child Center of NY
+- 📍 **Location:** Laurelton, NY
 - 🕒 **Posted:** 2026-07-28
 
-### [Director of Development, Southeast](https://www.linkedin.com/jobs/view/4445483962/) — The University of Connecticut Foundation, Inc.
-- 📍 **Location:** Florida, United States
+### [Executive Director - Dallas Community Land Trust](https://www.linkedin.com/jobs/view/4446384263/) — Communities Foundation of Texas
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-07-28
 
-### [Director of Development, Health Sciences](https://www.linkedin.com/jobs/view/4445496732/) — The University of Connecticut Foundation, Inc.
-- 📍 **Location:** Storrs, CT
+### [Executive Director](https://www.linkedin.com/jobs/view/4446373331/) — Communal Hebrew School
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $100 - $130
 - 🕒 **Posted:** 2026-07-28
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4443263185/) — Stowarzyszenie Miasta w Internecie
-- 📍 **Location:** Florida, United States
+### [Director of Operations and Outreach, CLP](https://www.linkedin.com/jobs/view/4446384065/) — Northwestern University
+- 📍 **Location:** Evanston, IL
+- 💰 **Salary:** $100,000-$115,000 per year
 - 🕒 **Posted:** 2026-07-28
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4436217557/) — AccruePartners
-- 📍 **Location:** Lebanon, TN
+### [Director of Development](https://www.linkedin.com/jobs/view/4445768747/) — Habitat for Humanity of Southwest Utah
+- 📍 **Location:** St George, UT
 - 🕒 **Posted:** 2026-07-28
 
-### [Assistant General Counsel, Executive Director - Fraud Operations](https://www.linkedin.com/jobs/view/4445489760/) — Wells Fargo
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $215,000.00 - $355,000.00
+### [Chief Executive Officer Tucson Medical Center](https://www.linkedin.com/jobs/view/4446376412/) — Tucson Medical Center
+- 📍 **Location:** Tucson, AZ
 - 🕒 **Posted:** 2026-07-28
 
-### [Assistant General Counsel, Executive Director - Fraud Operations](https://www.linkedin.com/jobs/view/4445486836/) — Wells Fargo
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $215,000.00 - $355,000.00
+### [Executive Director of Development, College of Engineering & Computing](https://www.linkedin.com/jobs/view/4428757102/) — FIU Foundation
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $155,000-$165,000
+- 🕒 **Posted:** 2026-07-28
+
+### [Development Director](https://www.linkedin.com/jobs/view/4445762434/) — Coastal Carolina University
+- 📍 **Location:** Conway, SC
+- 🕒 **Posted:** 2026-07-28
+
+### [Executive Director, Strategic Communications](https://www.linkedin.com/jobs/view/4446374344/) — University of Pennsylvania
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $167,379.00 - $200,000.00
+- 🕒 **Posted:** 2026-07-28
+
+### [Director of Partnerships and Community Outreach, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4445769735/) — Crossover
+- 📍 **Location:** Salt Lake City, UT
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-07-28
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4442000127/) — Voxel Healthcare
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 🕒 **Posted:** 2026-07-28
+
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4446357897/) — Concessions International
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-07-28
+
+### [CEO-In-Training, Executive Director](https://www.linkedin.com/jobs/view/4443631279/) — Pennant
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-07-28
+
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4445764416/) — High Museum of Art
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $275,000 - $300,000
+- 🕒 **Posted:** 2026-07-28
+
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4445761517/) — DRG Consulting
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $275,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-07-28
+
+### [Chief Operating Officer/Executive Vice President of Operations (COO/EVP)](https://www.linkedin.com/jobs/view/4443626274/) — Pinnacle Fertility
+- 📍 **Location:** Scottsdale, AZ
+- 🕒 **Posted:** 2026-07-28
+
+### [Executive Director and Chief Operating Officer](https://www.linkedin.com/jobs/view/4446353892/) — University of Louisville Foundation
+- 📍 **Location:** Louisville, KY
+- 🕒 **Posted:** 2026-07-28
+
+### [Chief Operating Officer (COO) - Foley, AL](https://www.linkedin.com/jobs/view/4446385224/) — Baldwin Health
+- 📍 **Location:** Foley, AL
+- 🕒 **Posted:** 2026-07-28
+
+### [Managing Director](https://www.linkedin.com/jobs/view/4446387067/) — Quadel
+- 📍 **Location:** Miami, FL
+- 🕒 **Posted:** 2026-07-28
+
+### [Director of Community Engagement, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4445775612/) — Crossover
+- 📍 **Location:** Burlington, VT
+- 💰 **Salary:** $100.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-07-28
