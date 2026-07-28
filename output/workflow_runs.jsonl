@@ -2017,3 +2017,4 @@
 {"job_count": 30, "run_attempt": "1", "run_id": "30395064075", "timestamp": "2026-07-28T20:27:01Z", "workflow": "linkedin"}
 {"job_count": 57, "run_attempt": "1", "run_id": "30396051060", "timestamp": "2026-07-28T20:29:04Z", "workflow": "indeed"}
 {"job_count": 0, "run_attempt": "1", "run_id": "30397768424", "timestamp": "2026-07-28T20:47:26Z", "workflow": "ziprecruiter"}
+{"job_count": 0, "run_attempt": "1", "run_id": "30397827466", "timestamp": "2026-07-28T20:49:14Z", "workflow": "google_jobs"}
