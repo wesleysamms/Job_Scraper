@@ -1,150 +1,125 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-29 18:57 UTC*
+*Last updated: 2026-07-29 22:52 UTC*
 
-**33 new role(s)** since last run · 33 total in last 1h
+**26 new role(s)** since last run · 26 total in last 1h
 
-### [COO — Behavioral Activation Platform | Multi‑Vertical | Equity Included](https://www.linkedin.com/jobs/view/4446430210/) — 1to1 Mortgage
-- 📍 **Location:** Novato, CA
+### [Executive Director](https://www.linkedin.com/jobs/view/4446867744/) — Friends of the Children - Stockton
+- 📍 **Location:** Stockton, CA
+- 💰 **Salary:** $145,000.00/yr - $165,000.00/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Co-founder+Angel - CEO](https://www.linkedin.com/jobs/view/4446434109/) — Kaidera
-- 📍 **Location:** California, United States
+### [Executive Director / Develoment Director](https://www.linkedin.com/jobs/view/4446874131/) — SARAH HOUSE SANTA BARBARA
+- 📍 **Location:** Santa Barbara, CA
 - 🕒 **Posted:** 2026-07-29
 
-### [Program Director](https://www.linkedin.com/jobs/view/4446826866/) — Services for the UnderServed
-- 📍 **Location:** New York, NY
+### [Executive Director](https://www.linkedin.com/jobs/view/4446870590/) — Friends of the Children
+- 📍 **Location:** San Diego Metropolitan Area
+- 💰 **Salary:** $145,000.00/yr - $165,000.00/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Director of Partnerships](https://www.linkedin.com/jobs/view/4446434220/) — Function Health
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $310,500 - $420,000
+### [Chief Program Officer](https://www.linkedin.com/jobs/view/4446424907/) — YWCA Greater Los Angeles
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $153,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [VP, Executive Talent Acquisition Lead - Technology, COO & Services](https://www.linkedin.com/jobs/view/4437077124/) — Citi
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $129,840.00 - $194,760.00
+### [San Francisco Ballet - Managing Director, Brand Strategy & Communications](https://www.linkedin.com/jobs/view/4444190246/) — CA For The Arts
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $175,000.00 - $205,000.00
 - 🕒 **Posted:** 2026-07-29
 
-### [Director of Advancement Operations](https://www.linkedin.com/jobs/view/4440064784/) — Mercy University
-- 📍 **Location:** Dobbs Ferry, NY
+### [Executive Director](https://www.linkedin.com/jobs/view/4446855857/) — San Diego Health Connect
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $215,000.00/yr - $245,000.00/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Executive Director, Academic Success and Accessibility (A00736)](https://www.linkedin.com/jobs/view/4438533262/) — Mercy University
-- 📍 **Location:** Dobbs Ferry, NY
+### [Executive Director](https://www.linkedin.com/jobs/view/4444186237/) — Ivy Living
+- 📍 **Location:** Hayward, CA
+- 💰 **Salary:** $160,000 - $170,000
 - 🕒 **Posted:** 2026-07-29
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4446436271/) — Westport Country Playhouse
-- 📍 **Location:** Westport, CT
+### [Managing Director](https://www.linkedin.com/jobs/view/4446875297/) — ECI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $225,000 to $300,000 annually
 - 🕒 **Posted:** 2026-07-29
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4446821839/) — Northwest Sarcoma Foundation
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $95,000 – $125,000
+### [Clinical Executive Director](https://www.linkedin.com/jobs/view/4446874312/) — Optum
+- 📍 **Location:** Kingston, NY
+- 💰 **Salary:** $78,624 to $117,936 annually
 - 🕒 **Posted:** 2026-07-29
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4446428235/) — Lake Chelan Community Center
-- 📍 **Location:** Chelan, WA
-- 💰 **Salary:** $100,000 – $110,000
+### [Deputy Director of the Long Island Office, NS-M6](https://www.linkedin.com/jobs/view/4446881309/) — New York State Department of Public Service
+- 📍 **Location:** Plainview, NY
+- 💰 **Salary:** $160,757.00/yr - $201,170.00/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Program Director - Youth & Young Adult Services](https://www.linkedin.com/jobs/view/4443690068/) — Catholic Charities Serving Central Washington
-- 📍 **Location:** Richland, WA
-- 💰 **Salary:** $120,000 - $140,000 annually
-- 🕒 **Posted:** 2026-07-29
-
-### [President and Chief Executive Officer (CEO)](https://www.linkedin.com/jobs/view/4446837457/) — Firefly Autism
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $150,000 - $165,000
-- 🕒 **Posted:** 2026-07-29
-
-### [Program Director](https://www.linkedin.com/jobs/view/4444145523/) — Northeast Residence Inc
-- 📍 **Location:** Wayzata, MN
-- 🕒 **Posted:** 2026-07-29
-
-### [Regional Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4446423487/) — Beacon Hill
-- 📍 **Location:** Brookline, MA
-- 💰 **Salary:** $85,000.00/yr - $100,000.00/yr
-- 🕒 **Posted:** 2026-07-29
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4430576000/) — Hope Clinic
-- 📍 **Location:** Ypsilanti, MI
-- 🕒 **Posted:** 2026-07-29
-
-### [Deputy Director, Ending Infectious Diseases](https://www.linkedin.com/jobs/view/4438275797/) — Gates Foundation
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $238,400 to $303,900 USD
-- 🕒 **Posted:** 2026-07-29
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4446400915/) — Arsenal Credit Union
-- 📍 **Location:** Arnold, MO
-- 🕒 **Posted:** 2026-07-29
-
-### [Executive Assistant to CEO (Remote)](https://www.linkedin.com/jobs/view/4446840411/) — Boldly Premium Executive Assistants
+### [Executive Director](https://www.linkedin.com/jobs/view/4444185400/) — Atlas Assistance Dogs
 - 📍 **Location:** United States
-- 💰 **Salary:** $27-$30 per hour
 - 🕒 **Posted:** 2026-07-29
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4446433099/) — Classics Northwest
-- 📍 **Location:** Spokane, WA
-- 💰 **Salary:** $400,000-$500,000
+### [Executive Director](https://www.linkedin.com/jobs/view/4446874467/) — Munchausen Support
+- 📍 **Location:** Edmonds, WA
+- 💰 **Salary:** $100,000.00/yr - $105,000.00/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Assistant Director of Development - Permian Basin](https://www.linkedin.com/jobs/view/4446841145/) — Texas Tech University Health Sciences Center
-- 📍 **Location:** Odessa, TX
-- 🕒 **Posted:** 2026-07-29
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4439914929/) — Geneva Lake Conservancy
-- 📍 **Location:** Greater Milwaukee
-- 💰 **Salary:** $85,000–$110,000,
-- 🕒 **Posted:** 2026-07-29
-
-### [Director of Development & Engagement](https://www.linkedin.com/jobs/view/4446414972/) — Malone Consultants Group
-- 📍 **Location:** Rogers, AR
-- 🕒 **Posted:** 2026-07-29
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4446404947/) — Villa Terrace Museum & Gardens
-- 📍 **Location:** Milwaukee, WI
-- 🕒 **Posted:** 2026-07-29
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4446813768/) — School Sisters of Notre Dame
-- 📍 **Location:** Baltimore, MD
-- 🕒 **Posted:** 2026-07-29
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4446419913/) — Kurv Industrial
-- 📍 **Location:** New Jersey, United States
-- 💰 **Salary:** $165,000.00/yr - $205,000.00/yr
-- 🕒 **Posted:** 2026-07-29
-
-### [Senior Associate Director of Development, College of Social Sciences and Public Policy](https://www.linkedin.com/jobs/view/4429221647/) — Florida State University
-- 📍 **Location:** Tallahassee Metropolitan Area
-- 🕒 **Posted:** 2026-07-29
-
-### [Associate OR Senior Associate Director of Development for Architecture](https://www.linkedin.com/jobs/view/4446830715/) — University of Virginia
-- 📍 **Location:** Charlottesville, VA
-- 💰 **Salary:** $75k - $84k annually
-- 🕒 **Posted:** 2026-07-29
-
-### [Senior Associate Director of Development, Anne Spencer Daves College of Education, Health, and Human Sciences](https://www.linkedin.com/jobs/view/4429214747/) — Florida State University
-- 📍 **Location:** Tallahassee Metropolitan Area
-- 🕒 **Posted:** 2026-07-29
-
-### [Executive Director, Joint Apprenticeship Training Center (JATC)](https://www.linkedin.com/jobs/view/4446827904/) — Cuyahoga Community College
-- 📍 **Location:** Cleveland, OH
-- 💰 **Salary:** $95,000 - $105,000
-- 🕒 **Posted:** 2026-07-29
-
-### [Capability Delivery Project-Program Director (Project-Program Director 6)](https://www.linkedin.com/jobs/view/4429730746/) — Los Alamos National Laboratory
-- 📍 **Location:** Los Alamos, NM
-- 🕒 **Posted:** 2026-07-29
-
-### [Program Deputy Director](https://www.linkedin.com/jobs/view/4437095303/) — V2X Inc
+### [Executive Director, Emergency Medicine](https://www.linkedin.com/jobs/view/4446861452/) — BREVARD PHYSICIAN ASSOCIATES, PLLC
 - 📍 **Location:** Melbourne, FL
 - 🕒 **Posted:** 2026-07-29
 
-### [Technical Program Director - Healthcare](https://www.linkedin.com/jobs/view/4446824755/) — Rackspace Technology
-- 📍 **Location:** San Antonio, TX
+### [Executive Director, RN](https://www.linkedin.com/jobs/view/4446864606/) — Optum
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $86,080 to $129,120 annually
 - 🕒 **Posted:** 2026-07-29
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4446837100/) — Children's Smile Center
-- 📍 **Location:** Springfield-Branson, Missouri Area
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4446434251/) — Safe Place for Youth
+- 📍 **Location:** United States
+- 💰 **Salary:** $210,000.00 to $230,000.00
+- 🕒 **Posted:** 2026-07-29
+
+### [Executive Director of National Native Community Fund (NNCF)](https://www.linkedin.com/jobs/view/4446430794/) — Native American Bank, N.A.
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $90,000.00/yr - $125,000.00/yr
+- 🕒 **Posted:** 2026-07-29
+
+### [Executive Assistant to President & CEO](https://www.linkedin.com/jobs/view/4446870218/) — Confidential Company
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $115,000.00/yr - $125,000.00/yr
+- 🕒 **Posted:** 2026-07-29
+
+### [Development Director](https://www.linkedin.com/jobs/view/4446882426/) — American Heart Association
+- 📍 **Location:** Fresno, CA
+- 💰 **Salary:** $70,400 to $78,000 annually
+- 🕒 **Posted:** 2026-07-29
+
+### [Corporate Development Director](https://www.linkedin.com/jobs/view/4446872645/) — Pleasant Valley Corporation
+- 📍 **Location:** Medina, OH
+- 🕒 **Posted:** 2026-07-29
+
+### [Physician Development Director](https://www.linkedin.com/jobs/view/4446851944/) — MDVIP
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-29
+
+### [Development Director, School Engagement](https://www.linkedin.com/jobs/view/4446876574/) — American Heart Association
+- 📍 **Location:** St Paul, MN
+- 💰 **Salary:** $64,575 to $82,700
+- 🕒 **Posted:** 2026-07-29
+
+### [Development Director](https://www.linkedin.com/jobs/view/4446866946/) — American Heart Association
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $68,000 to $87,700
+- 🕒 **Posted:** 2026-07-29
+
+### [Executive Director - Senior Living Community](https://www.linkedin.com/jobs/view/4431977364/) — LeaderStat
+- 📍 **Location:** Reno, NV
+- 🕒 **Posted:** 2026-07-29
+
+### [Executive Director of School and Leadership Success](https://www.linkedin.com/jobs/view/4434339173/) — Kent School District
+- 📍 **Location:** Kent, WA
+- 🕒 **Posted:** 2026-07-29
+
+### [Executive Director of School Counseling (SY26-27)](https://www.linkedin.com/jobs/view/4444185534/) — Boston Public Schools
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-07-29
+
+### [General Manager/ COO](https://www.linkedin.com/jobs/view/4444175587/) — Sarasota Polo Club
+- 📍 **Location:** Sarasota, FL
 - 🕒 **Posted:** 2026-07-29
