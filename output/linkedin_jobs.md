@@ -1,109 +1,64 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-28 23:56 UTC*
+*Last updated: 2026-07-29 10:29 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Chief Executive Officer, Mills Peninsula Medical Center](https://www.linkedin.com/jobs/view/4445795215/) — Sutter Health
-- 📍 **Location:** Burlingame, CA
-- 💰 **Salary:** $521,800.00 to $705,900.00
-- 🕒 **Posted:** 2026-07-28
+### [Assistant Director of Development, College of Letters & Science (FUNDRAISER 3)](https://www.linkedin.com/jobs/view/4430279936/) — University of California, Davis
+- 📍 **Location:** Davis, CA
+- 💰 **Salary:** $85,500.00 - $89,000.00/yr
+- 🕒 **Posted:** 2026-07-29
 
-### [Founding Chief Operating Officer (COO)](https://www.linkedin.com/jobs/view/4441321550/) — Grav.id AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-28
-
-### [Development Director](https://www.linkedin.com/jobs/view/4445781623/) — International Relief Teams
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $150,000 - $165,000
-- 🕒 **Posted:** 2026-07-28
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4446002036/) — 826 National Youth Writing
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $135,000–$165,000,
-- 🕒 **Posted:** 2026-07-28
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4436771292/) — Beverly Hills Cancer Center
-- 📍 **Location:** Beverly Hills, CA
-- 💰 **Salary:** $120,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2026-07-28
-
-### [Program Director - Energy & Power](https://www.linkedin.com/jobs/view/4446395755/) — Jacobs
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-28
-
-### [Executive Director, Client Business Lead](https://www.linkedin.com/jobs/view/4445794308/) — Omnicom Media
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $150,000.00-$250,000.00
-- 🕒 **Posted:** 2026-07-28
-
-### [Executive Director, Sports Investment](https://www.linkedin.com/jobs/view/4445778479/) — Omnicom Media
+### [Chief Executive Officer at The Opportunity Network](https://www.linkedin.com/jobs/view/4428408411/) — On-Ramps
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00 - $250,000.00
-- 🕒 **Posted:** 2026-07-28
+- 💰 **Salary:** $265 to $325K
+- 🕒 **Posted:** 2026-07-29
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4443650035/) — Careerscape
-- 📍 **Location:** Niagara Falls, NY
-- 🕒 **Posted:** 2026-07-28
+### [Wealth Management, Regional Trust Team Lead, Executive Director](https://www.linkedin.com/jobs/view/4438185562/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,000.00/yr - $285,000.00/yr
+- 🕒 **Posted:** 2026-07-29
 
-### [Chief of Staff, CEO](https://www.linkedin.com/jobs/view/4443625831/) — Wiley
-- 📍 **Location:** Hoboken, NJ
-- 💰 **Salary:** $189,700.00/yr - $278,566.66/yr
-- 🕒 **Posted:** 2026-07-28
+### [Workplace Solutions, Product Owner, Private Markets/Cap Table, Executive Director](https://www.linkedin.com/jobs/view/4438144041/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,500.00/yr - $285,000.00/yr
+- 🕒 **Posted:** 2026-07-29
 
-### [Executive Director - Avamere Park Place](https://www.linkedin.com/jobs/view/4446508195/) — Avamere
-- 📍 **Location:** Portland, OR
-- 🕒 **Posted:** 2026-07-28
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4436805109/) — Harbor Oaks Hospital
+- 📍 **Location:** New Baltimore, MI
+- 🕒 **Posted:** 2026-07-29
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4446507107/) — Children's Rights Collaborative of Northwest Ohio
-- 📍 **Location:** Toledo, OH
-- 🕒 **Posted:** 2026-07-28
+### [Executive Director](https://www.linkedin.com/jobs/view/4434599446/) — MBK Senior Living
+- 📍 **Location:** Petaluma, CA
+- 💰 **Salary:** $140,000-$150,000
+- 🕒 **Posted:** 2026-07-29
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4445785329/) — Brookdale
-- 📍 **Location:** Pearland, TX
-- 🕒 **Posted:** 2026-07-28
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4436585937/) — Mount Regis Center
+- 📍 **Location:** Salem, VA
+- 🕒 **Posted:** 2026-07-29
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4446002011/) — Brookdale
-- 📍 **Location:** Salina, KS
-- 🕒 **Posted:** 2026-07-28
+### [Executive Director](https://www.linkedin.com/jobs/view/4446042653/) — Optum
+- 📍 **Location:** Clarksville, TN
+- 💰 **Salary:** $81,776 to $122,664 annually
+- 🕒 **Posted:** 2026-07-29
 
-### [Deputy Director of Social Services](https://www.linkedin.com/jobs/view/4445779510/) — The Salvation Army North & Central Illinois Division
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $139,450 - $174,312
-- 🕒 **Posted:** 2026-07-28
+### [Executive Director, LSBE Program (7399U), Haas Core Programs #86814](https://www.linkedin.com/jobs/view/4429179978/) — University of California, Berkeley
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $91,500.00 - $150,000.00
+- 🕒 **Posted:** 2026-07-29
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4446397685/) — HumanePro
-- 📍 **Location:** Cheyenne, WY
-- 🕒 **Posted:** 2026-07-28
+### [Associate Director of Development, Herberger Institute for Design and the Arts](https://www.linkedin.com/jobs/view/4429588170/) — ASU Foundation for a New American University
+- 📍 **Location:** Tempe, AZ
+- 🕒 **Posted:** 2026-07-29
 
-### [Laboratory Deputy Director of Operations & Finance](https://www.linkedin.com/jobs/view/4446505451/) — State of Colorado
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-07-28
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4446052292/) — Public Allies Arizona
+- 📍 **Location:** Tucson, AZ
+- 💰 **Salary:** $90,000- $110,000
+- 🕒 **Posted:** 2026-07-29
 
-### [Director of Partnerships, UK/US](https://www.linkedin.com/jobs/view/4446348767/) — OneSky for all children
+### [CEO Office - AI Neobank App](https://www.linkedin.com/jobs/view/4446041511/) — Jobgether
 - 📍 **Location:** United States
-- 💰 **Salary:** $95,000 - $110,000
-- 🕒 **Posted:** 2026-07-28
+- 🕒 **Posted:** 2026-07-29
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4443642382/) — YWCA Evanston/North Shore
-- 📍 **Location:** Evanston, IL
-- 💰 **Salary:** $85,000 - $100,000
-- 🕒 **Posted:** 2026-07-28
-
-### [Executive Director of Finance & Accounting](https://www.linkedin.com/jobs/view/4445783658/) — Valliant Consulting Group
-- 📍 **Location:** Laguna, NM
-- 💰 **Salary:** $90,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-07-28
-
-### [Assistant Director of Development - Division of Student Affairs](https://www.linkedin.com/jobs/view/4440307112/) — Texas A&M Foundation
-- 📍 **Location:** College Station, TX
-- 🕒 **Posted:** 2026-07-28
-
-### [Director of Communications](https://www.linkedin.com/jobs/view/4445797391/) — State of South Carolina
-- 📍 **Location:** Greenwood County, SC
-- 🕒 **Posted:** 2026-07-28
-
-### [Program Director - Energy & Power](https://www.linkedin.com/jobs/view/4446392816/) — Jacobs
-- 📍 **Location:** Savannah, GA
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-28
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4444108369/) — GH Engage
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-29
