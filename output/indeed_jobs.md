@@ -1,168 +1,174 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-30 00:14 UTC*
+*Last updated: 2026-07-30 10:04 UTC*
 
-**25 new role(s)** since last run · 59 total in last 24h
+**27 new role(s)** since last run · 51 total in last 24h
 
-### [Director of Advocacy and Outreach](https://www.indeed.com/viewjob?jk=39e278c9061eb89d) — California Rifle and Pistol Association
-- 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $65k–$85k/yr
+### [Senior Program Director](https://www.indeed.com/viewjob?jk=8aa747b4c10d5233) — Family Bridges, Inc.
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $113k–$154k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-29
 
-### [Program Director](https://www.indeed.com/viewjob?jk=483b5af967a842c5) — Marsell Wellness Center
-- 📍 **Location:** Colton, CA, US
+### [Chief Program Officer](https://www.indeed.com/viewjob?jk=a98bfc3fa51c2d45) — YWCA of Greater LA
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $153k–$180k/yr
 - **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-07-28
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-29
 
-### [J.P. Morgan Wealth Management - Executive Director, AI Transformation & Strategic Execution Lead](https://www.indeed.com/viewjob?jk=ac6aba5dd68c1553) — JPMorganChase
+### [Chief Development Officer](https://www.indeed.com/viewjob?jk=473d9830056706a9) — Beacon Talent
+- 📍 **Location:** Los Angeles, CA, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-13
+
+### [Chief Development Officer](https://www.indeed.com/viewjob?jk=b893ff0e86b172a3) — Beacon Talent
+- 📍 **Location:** Calabasas, CA, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-13
+
+### [Deputy Director of Communications](https://www.indeed.com/viewjob?jk=5f33f669794921e9) — CHIRLA
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $85k–$92k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-29
+
+### [Program Director (Hospice)](https://www.indeed.com/viewjob?jk=cac8531b7e3dcd0b) — Continuum Care Hospice and Palliative
+- 📍 **Location:** Capitola, CA, US
+- 💰 **Salary:** $170k–$185k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-29
+
+### [Director of Philanthropy & Community Engagement](https://www.indeed.com/viewjob?jk=d050328dfa5d7aa4) — MUFG
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $183k–$294k/yr
-- **Work mode:** On-site
+- 💰 **Salary:** $180k–$210k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-29
 
-### [Chief Development Officer](https://www.indeed.com/viewjob?jk=1cdb33363aa73a7b) — World Science Festival
+### [Deputy Director of Digital Production](https://www.indeed.com/viewjob?jk=7e0864e878b39f07) — News Corp
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $190k–$220k/yr
+- 💰 **Salary:** $155k–$185k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
+- 🕒 **Posted:** 2026-07-30
 
-### [Senior Program Director - Flushing, Queens](https://www.indeed.com/viewjob?jk=3fbafc1fc93f0998) — The Child Center of NY
-- 📍 **Location:** Queens, NY, US
-- 💰 **Salary:** $90k–$92k/yr
+### [Executive Director (UW Health Riverfront YMCA)](https://www.indeed.com/viewjob?jk=7f6e0013c0d35e7e) — YMCA
+- 📍 **Location:** Rockford, IL, US
+- 💰 **Salary:** $70k–$80k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
+- 🕒 **Posted:** 2026-07-30
 
-### [Senior Program Director](https://www.indeed.com/viewjob?jk=0f5fbfb1f72eede1) — Grand St Settlement Inc.
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $75k–$80k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Executive Director - Strategic Communications](https://www.indeed.com/viewjob?jk=e989d43e5da0292c) — Tennessee Board of Regents
-- 📍 **Location:** Memphis, TN, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Executive Director of National Native Community Fund (NNCF)](https://www.indeed.com/viewjob?jk=e6f21df560b78667) — Unknown
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $90k–$125k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Area Product Owner - Executive Director (Operations Product | Reconciliation & Financial Exceptions Platforms)](https://www.indeed.com/viewjob?jk=62d65a70b45e6860) — JPMorganChase
-- 📍 **Location:** Columbus, OH, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Chief Program Officer](https://www.indeed.com/viewjob?jk=8772d118625cf248) — Bonneville Environmental Foundation
+### [Executive Director, Outpatient Services](https://www.indeed.com/viewjob?jk=dad396e731247e07) — Serenity Lane
 - 📍 **Location:** Portland, OR, US
-- 💰 **Salary:** $170k–$210k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-29
+
+### [Branch Executive Director](https://www.indeed.com/viewjob?jk=fb6a7acaf2ff6477) — YMCA
+- 📍 **Location:** Boynton Beach, FL, US
+- 💰 **Salary:** $100k–$120k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-29
+
+### [Chief Philanthropy Officer](https://www.indeed.com/viewjob?jk=9fa8ba19f48034be) — Open Door Mission (Omaha)
+- 📍 **Location:** Omaha, NE, US
+- 💰 **Salary:** $64k–$120k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-29
+
+### [Director of Advancement](https://www.indeed.com/viewjob?jk=1a7c7f03b7865615) — Archdiocese of Detroit
+- 📍 **Location:** Warren, MI, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-29
+
+### [Executive Director](https://www.indeed.com/viewjob?jk=d246458d9901392e) — Unknown
+- 📍 **Location:** Buffalo, NY, US
+- 💰 **Salary:** $35k–$40k/yr
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-07-29
+
+### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=28d4c0f6579bac83) — BOCCARD
+- 📍 **Location:** Riverton, UT, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-30
+
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=3f4561d203e2ad3f) — Gateway Community Health Center
+- 📍 **Location:** Laredo, TX, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-29
+
+### [Executive Director, Acquisition Program Management](https://www.indeed.com/viewjob?jk=f90bb309a3cf5a94) — US DHS Headquarters
+- 📍 **Location:** Springfield, VA, US
+- 💰 **Salary:** $152k–$228k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-29
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=0aca34ef353c372c) — Unknown
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $140k–$175k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=75dbd4301cd07d37) — Helping Hands Society
-- 📍 **Location:** Hazleton, PA, US
-- 💰 **Salary:** $75k–$80k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [VP EXECUTIVE DIRECTOR](https://www.indeed.com/viewjob?jk=a56c52a47c51331a) — Firefly Autism
-- 📍 **Location:** Lakewood, CO, US
-- 💰 **Salary:** $150k–$165k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=a90c7ad002fefa09) — Unknown
-- 📍 **Location:** Milwaukee, WI, US
-- 💰 **Salary:** $100k–$110k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Director of Operations](https://www.indeed.com/viewjob?jk=fc5db079e64be08f) — Cedarburg
-- 📍 **Location:** Cedarburg, WI, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-26
-
-### [Chief Advancement Officer](https://www.indeed.com/viewjob?jk=d4c4a581e4d34b00) — Boston Center for the Arts
+### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=2d91f40400956848) — Unknown
 - 📍 **Location:** Boston, MA, US
-- 💰 **Salary:** $135k–$150k/yr
+- 💰 **Salary:** $200k–$400k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-29
+
+### [Associate Director of Development](https://www.indeed.com/viewjob?jk=e99e84e978537df1) — Boys & Girls Clubs of America
+- 📍 **Location:** Washington, DC, US
+- 💰 **Salary:** $85k–$95k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-29
+
+### [Chief Operating Officer (COO)](https://www.indeed.com/viewjob?jk=18f33268dcb59117) — Technology Lab
+- 📍 **Location:** Nashville, TN, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-29
+
+### [Civic Engagement Program Director - Gateway Region YMCA, Community Development](https://www.indeed.com/viewjob?jk=21850f781802c58f) — YMCA
+- 📍 **Location:** St. Louis, MO, US
+- 💰 **Salary:** $42k–$51k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-30
+
+### [Program Director - Childcare](https://www.indeed.com/viewjob?jk=6e6595fa9870e6b3) — YMCA
+- 📍 **Location:** Olympia, WA, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-30
+
+### [Director of Development](https://www.indeed.com/viewjob?jk=d7db5ddda5340c62) — Unknown
+- 📍 **Location:** Spokane, WA, US
+- 💰 **Salary:** $70k–$85k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-30
+
+### [Deputy Director for Human Resources and Chief Culture Officer](https://www.indeed.com/viewjob?jk=19a1221c43ce7fb4) — The Barnes Foundation
+- 📍 **Location:** Philadelphia, PA, US
+- 💰 **Salary:** $180k–$225k/yr
 - **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-07-29
 
-### [Market Chief Operating Officer](https://www.indeed.com/viewjob?jk=683957f9ebbdb4b7) — Burrell Behavioral Health
-- 📍 **Location:** Columbia, MO, US
+### [Executive Director of Advancing Whole Health](https://www.indeed.com/viewjob?jk=7da8fc15924680ea) — YMCA
+- 📍 **Location:** Richmond, VA, US
+- 💰 **Salary:** $63k–$88k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-30
+
+### [Deputy Executive Director, Humanitarian Action and Supply Operations, (Assistant Secretary -General), New York, USA](https://www.indeed.com/viewjob?jk=04778ccf0305d809) — UNICEF
+- 📍 **Location:** US
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-07-29
 
-### [Chief Operating Officer (COO) – Equity Opportunity](https://www.indeed.com/viewjob?jk=7aa36d154da30b52) — JnD Services
-- 📍 **Location:** Palm Bay, FL, US
-- 💰 **Salary:** $70k–$100k/yr
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-07-29
-
-### [Director of Philanthropy](https://www.indeed.com/viewjob?jk=c5ebeae85df02b72) — Jefferson Center for Mental Health
-- 📍 **Location:** Wheat Ridge, CO, US
-- 💰 **Salary:** $94k–$117k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Associate Director of Development](https://www.indeed.com/viewjob?jk=a53cc88bab876198) — University of Central Florida
-- 📍 **Location:** Orlando, FL, US
-- 💰 **Salary:** $65k–$80k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Executive Director, External Affairs](https://www.indeed.com/viewjob?jk=d700275e9a128248) — Jacksonville University
-- 📍 **Location:** Jacksonville, FL, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Program Director](https://www.indeed.com/viewjob?jk=afd859239eb5d610) — Sevita
-- 📍 **Location:** Crossville, TN, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Deputy Executive Director](https://www.indeed.com/viewjob?jk=e402925488e845d5) — Harris County
-- 📍 **Location:** Houston, TX, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Assistant Director of Operations - Department of Earth and Planetary Sciences](https://www.indeed.com/viewjob?jk=5a7b140eea72b91f) — University of Texas at Austin
-- 📍 **Location:** Austin, TX, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-29
-
-### [Managing Director, Program](https://www.indeed.com/viewjob?jk=e64ca096d88acc4e) — Teach For America
-- 📍 **Location:** Detroit, MI, US
-- 💰 **Salary:** $82k–$107k/yr
+### [Construction Suicide Prevention Program Director](https://www.indeed.com/viewjob?jk=b9e5fb59d8e80e41) — Lines for Life
+- 📍 **Location:** Portland, OR, US
+- 💰 **Salary:** $68k–$85k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-07-29
