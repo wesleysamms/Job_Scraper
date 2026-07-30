@@ -1,131 +1,92 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-30 20:22 UTC*
+*Last updated: 2026-07-30 23:58 UTC*
 
-**28 new role(s)** since last run · 29 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [Director of Advancement Analytics and Insights](https://www.linkedin.com/jobs/view/4447078753/) — San José State University
-- 📍 **Location:** San Jose, CA
+### [Executive Director](https://www.linkedin.com/jobs/view/4446929758/) — HumanePro
+- 📍 **Location:** Greater Sacramento
+- 💰 **Salary:** $235,000-$250,000
 - 🕒 **Posted:** 2026-07-30
 
-### [Director of Advancement Analytics and Insights](https://www.linkedin.com/jobs/view/4446905901/) — The California State University
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-30
-
-### [Chief of Staff, President & COO](https://www.linkedin.com/jobs/view/4447075852/) — Handshake
+### [Managing Director, Live Experiences](https://www.linkedin.com/jobs/view/4446925655/) — Gardens of Golden Gate Park
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $224,000.00/yr - $280,000.00/yr
+- 💰 **Salary:** $120,000 - $125,000
 - 🕒 **Posted:** 2026-07-30
 
-### [Program Director](https://www.linkedin.com/jobs/view/4447067547/) — Crestwood Behavioral Health, Inc.
-- 📍 **Location:** Fallbrook, CA
-- 💰 **Salary:** $104,000 - $104,000 USD
+### [California Mathematics Project Executive Director](https://www.linkedin.com/jobs/view/4446934749/) — UCLA
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $108,900.00/yr - $241,500.00/yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4446918054/) — New Yorkers For Children
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $270,000.00/yr - $310,000.00/yr
-- 🕒 **Posted:** 2026-07-30
-
-### [Development Director](https://www.linkedin.com/jobs/view/4446918449/) — Bronx Arts Ensemble
+### [Program Director - Residential Services](https://www.linkedin.com/jobs/view/4447236000/) — The Bridge
 - 📍 **Location:** Bronx, NY
 - 🕒 **Posted:** 2026-07-30
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4444161896/) — ACC Georgia - Association of Corporate Counsel
+### [Global Capital Markets (Equity Capital Markets) COO – Associate/Vice President](https://www.linkedin.com/jobs/view/4431453082/) — Morgan Stanley
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-30
+
+### [Head of Brand and Performance Marketing, EquityZen - Executive Director](https://www.linkedin.com/jobs/view/4431437482/) — Morgan Stanley
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-30
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4445733808/) — Blankenship CPA Group
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4447236142/) — Trustwell Living, LLC
+- 📍 **Location:** Clyde, OH
+- 🕒 **Posted:** 2026-07-30
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4447226295/) — Trustwell Living, LLC
+- 📍 **Location:** Mission, KS
+- 🕒 **Posted:** 2026-07-30
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4447203342/) — IHA
+- 📍 **Location:** Pennsauken, NJ
+- 🕒 **Posted:** 2026-07-30
+
+### [Development Director](https://www.linkedin.com/jobs/view/4447228212/) — BARN (Bainbridge Artisan Resource Network)
+- 📍 **Location:** Bainbridge Island, WA
+- 💰 **Salary:** $110-130,000
+- 🕒 **Posted:** 2026-07-30
+
+### [Director of Development](https://www.linkedin.com/jobs/view/4446944644/) — Mercy Care
 - 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-07-30
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4446922310/) — Indiana Affordable Housing Council
-- 📍 **Location:** Central, IN
+### [Executive Director, Board Operations](https://www.linkedin.com/jobs/view/4446923712/) — The George Washington University
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $141,581.98 - $205,269.79
 - 🕒 **Posted:** 2026-07-30
 
-### [Executive Director Assisted Living, LALD](https://www.linkedin.com/jobs/view/4447082594/) — Suite Living Senior Care
-- 📍 **Location:** Minneapolis, MN
+### [Mental Health Screening Program Director](https://www.linkedin.com/jobs/view/4447217377/) — Mental Health Association of East Tennessee
+- 📍 **Location:** Knoxville, TN
+- 💰 **Salary:** $21.79-$25.45 per hour
 - 🕒 **Posted:** 2026-07-30
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4434785482/) — Vanderbilt University
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-07-30
-
-### [Director or Senior Director of Development, Operations and Advancement Services](https://www.linkedin.com/jobs/view/4447082539/) — The University of Texas at San Antonio
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-07-30
-
-### [Director of Institutional Giving](https://www.linkedin.com/jobs/view/4446799982/) — Big Brothers Big Sisters of Miami (BBBSM)
+### [Chief Operating Officer (COO)](https://www.linkedin.com/jobs/view/4446947365/) — Centner Wellness & Spa
 - 📍 **Location:** Miami, FL
-- 💰 **Salary:** $85,000–$105,000 annually
 - 🕒 **Posted:** 2026-07-30
 
-### [Chief Philanthropy Officer](https://www.linkedin.com/jobs/view/4447083803/) — Doran Leadership Partners
-- 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $210,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-07-30
-
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4446904944/) — Ronald McDonald House Charities South Texas
-- 📍 **Location:** Corpus Christi, TX
-- 🕒 **Posted:** 2026-07-30
-
-### [Donor Engagement Manager – CEO/CDO Support](https://www.linkedin.com/jobs/view/4446919487/) — A Hiring Company
+### [BUSINESS DEVELOPMENT DIRECTOR - PROGRAM DIRECTOR](https://www.linkedin.com/jobs/view/4446928562/) — Dal-Tile LLC
 - 📍 **Location:** United States
-- 💰 **Salary:** $90,000 - $110,000
 - 🕒 **Posted:** 2026-07-30
 
-### [Montana Water Program Director](https://www.linkedin.com/jobs/view/4447073654/) — Trout Unlimited
-- 📍 **Location:** Bozeman, MT
-- 💰 **Salary:** $90,000-$105,000
+### [Director of Development](https://www.linkedin.com/jobs/view/4447212416/) — Trinity Health
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-07-30
 
-### [Executive Director of Development, Major and Principal Gifts](https://www.linkedin.com/jobs/view/4447086599/) — The University of Texas at Austin
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $10,000,000 to $15,000,000
+### [Development Director](https://www.linkedin.com/jobs/view/4446942338/) — American Heart Association
+- 📍 **Location:** Milwaukee, WI
 - 🕒 **Posted:** 2026-07-30
 
-### [Director of Development-Athletics](https://www.linkedin.com/jobs/view/4446376793/) — University of the Incarnate Word
-- 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $82,000-$84,000
+### [Senior Managing Director, Government Relations](https://www.linkedin.com/jobs/view/4446934822/) — Forward Global
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-07-30
 
-### [Senior Director of Development and Donor Engagement](https://www.linkedin.com/jobs/view/4447070545/) — Harc, Inc.
-- 📍 **Location:** Hartford, CT
-- 💰 **Salary:** $90,00-$110,000
-- 🕒 **Posted:** 2026-07-30
-
-### [Director of Development, Community Hospitals](https://www.linkedin.com/jobs/view/4446925026/) — UVA External Relations
-- 📍 **Location:** Northern Virginia, VA
-- 💰 **Salary:** $90,000.00/yr - $95,000.00/yr
-- 🕒 **Posted:** 2026-07-30
-
-### [Executive Director - Strategic Communications](https://www.linkedin.com/jobs/view/4447083516/) — Tennessee Board of Regents (TBR)
-- 📍 **Location:** Memphis, TN
-- 🕒 **Posted:** 2026-07-30
-
-### [Deputy Director, Federal Affairs](https://www.linkedin.com/jobs/view/4445038991/) — National Association of Community Health Centers (NACHC)
-- 📍 **Location:** Alexandria, VA
-- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-07-30
-
-### [Deputy Director of Field Services](https://www.linkedin.com/jobs/view/4445036852/) — State of Vermont
-- 📍 **Location:** Waterbury, VT
-- 🕒 **Posted:** 2026-07-30
-
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4446911531/) — A Hiring Company
-- 📍 **Location:** Kilmarnock, VA
-- 💰 **Salary:** $75,000-$80,000
-- 🕒 **Posted:** 2026-07-30
-
-### [President & COO](https://www.linkedin.com/jobs/view/4435857951/) — Columbia Sussex Corporation
-- 📍 **Location:** Cincinnati, OH
-- 🕒 **Posted:** 2026-07-30
-
-### [Macro COO / Business Manager](https://www.linkedin.com/jobs/view/4447082606/) — U.S. Bank
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $134,280.00 - 164,120.00
-- 🕒 **Posted:** 2026-07-30
-
-### [Deputy Director of Elections](https://www.linkedin.com/jobs/view/4447085446/) — Rockingham County, VA
-- 📍 **Location:** Harrisonburg, VA
-- 🕒 **Posted:** 2026-07-30
-
-### [Director of Partnerships](https://www.linkedin.com/jobs/view/4447083528/) — Locked In Talent
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
+### [Program Director](https://www.linkedin.com/jobs/view/4446905868/) — Healogics, LLC.
+- 📍 **Location:** Danville, IL
+- 💰 **Salary:** $79,100.00-$104,100.00 Annually
 - 🕒 **Posted:** 2026-07-30
