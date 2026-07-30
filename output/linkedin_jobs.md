@@ -1,82 +1,131 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-30 08:11 UTC*
+*Last updated: 2026-07-30 20:22 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**28 new role(s)** since last run · 29 total in last 1h
 
-### [Deputy Director of  Human Service Agency](https://www.linkedin.com/jobs/view/4446715946/) — San Joaquin County District Attorney's Office
-- 📍 **Location:** Stockton, CA
-- 💰 **Salary:** $159,168.66 - $193,470.50/year
+### [Director of Advancement Analytics and Insights](https://www.linkedin.com/jobs/view/4447078753/) — San José State University
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Ascent Managing Director Client Advisory](https://www.linkedin.com/jobs/view/4398319702/) — U.S. Bank
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $218,880.00 - 267,520.00
+### [Director of Advancement Analytics and Insights](https://www.linkedin.com/jobs/view/4446905901/) — The California State University
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Associate Executive Director](https://www.linkedin.com/jobs/view/4444526995/) — NYC Health + Hospitals
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $144,550.00/yr - $150,000.00/yr
+### [Chief of Staff, President & COO](https://www.linkedin.com/jobs/view/4447075852/) — Handshake
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $224,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Program Director (Northeast Bronx YMCA)](https://www.linkedin.com/jobs/view/4444537619/) — YMCA of the USA
+### [Program Director](https://www.linkedin.com/jobs/view/4447067547/) — Crestwood Behavioral Health, Inc.
+- 📍 **Location:** Fallbrook, CA
+- 💰 **Salary:** $104,000 - $104,000 USD
+- 🕒 **Posted:** 2026-07-30
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4446918054/) — New Yorkers For Children
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $270,000.00/yr - $310,000.00/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Development Director](https://www.linkedin.com/jobs/view/4446918449/) — Bronx Arts Ensemble
 - 📍 **Location:** Bronx, NY
 - 🕒 **Posted:** 2026-07-30
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4446705952/) — EQUIP Mechanical Application LTD
-- 📍 **Location:** New York, United States
+### [Executive Director](https://www.linkedin.com/jobs/view/4444161896/) — ACC Georgia - Association of Corporate Counsel
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-07-30
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4444557021/) — Custom Automation
-- 📍 **Location:** New York, United States
+### [Executive Director](https://www.linkedin.com/jobs/view/4446922310/) — Indiana Affordable Housing Council
+- 📍 **Location:** Central, IN
 - 🕒 **Posted:** 2026-07-30
 
-### [Program Director (West Side YMCA)](https://www.linkedin.com/jobs/view/4444538597/) — YMCA of the USA
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $66,300 - $70,000 Annually
+### [Executive Director Assisted Living, LALD](https://www.linkedin.com/jobs/view/4447082594/) — Suite Living Senior Care
+- 📍 **Location:** Minneapolis, MN
 - 🕒 **Posted:** 2026-07-30
 
-### [Executive Director (UW Health Riverfront YMCA)](https://www.linkedin.com/jobs/view/4444523925/) — YMCA of the USA
-- 📍 **Location:** Rockford, IL
+### [Executive Director](https://www.linkedin.com/jobs/view/4434785482/) — Vanderbilt University
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-07-30
 
-### [Executive Director of Advancing Whole Health](https://www.linkedin.com/jobs/view/4444521970/) — YMCA of the USA
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $63,350 - $87,500
+### [Director or Senior Director of Development, Operations and Advancement Services](https://www.linkedin.com/jobs/view/4447082539/) — The University of Texas at San Antonio
+- 📍 **Location:** San Antonio, TX
 - 🕒 **Posted:** 2026-07-30
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4438023042/) — Craig Hospital
-- 📍 **Location:** Denver Metropolitan Area
-- 💰 **Salary:** $73,153.60- $105,331.20 annually
+### [Director of Institutional Giving](https://www.linkedin.com/jobs/view/4446799982/) — Big Brothers Big Sisters of Miami (BBBSM)
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $85,000–$105,000 annually
 - 🕒 **Posted:** 2026-07-30
 
-### [Program Director of Membership - Lafayette](https://www.linkedin.com/jobs/view/4444552041/) — YMCA of Northern Colorado
-- 📍 **Location:** Lafayette, CO
-- 💰 **Salary:** USD $57,784.00 - USD $57,784.00 /Yr
+### [Chief Philanthropy Officer](https://www.linkedin.com/jobs/view/4447083803/) — Doran Leadership Partners
+- 📍 **Location:** San Antonio, TX
+- 💰 **Salary:** $210,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-07-30
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4446727148/) — Sigma Theta Tau International Honor Society of Nursing
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4446904944/) — Ronald McDonald House Charities South Texas
+- 📍 **Location:** Corpus Christi, TX
+- 🕒 **Posted:** 2026-07-30
+
+### [Donor Engagement Manager – CEO/CDO Support](https://www.linkedin.com/jobs/view/4446919487/) — A Hiring Company
 - 📍 **Location:** United States
-- 💰 **Salary:** $145,000 - $175,000
+- 💰 **Salary:** $90,000 - $110,000
 - 🕒 **Posted:** 2026-07-30
 
-### [Director of Development / Regional General Manager](https://www.linkedin.com/jobs/view/4446747103/) — The Ghoman Group
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $70,000.00/yr - $150,000.00/yr
+### [Montana Water Program Director](https://www.linkedin.com/jobs/view/4447073654/) — Trout Unlimited
+- 📍 **Location:** Bozeman, MT
+- 💰 **Salary:** $90,000-$105,000
 - 🕒 **Posted:** 2026-07-30
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4433081113/) — YMCA of the USA
-- 📍 **Location:** Rockport, ME
+### [Executive Director of Development, Major and Principal Gifts](https://www.linkedin.com/jobs/view/4447086599/) — The University of Texas at Austin
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $10,000,000 to $15,000,000
 - 🕒 **Posted:** 2026-07-30
 
-### [Civic Engagement Program Director - Gateway Region YMCA, Community Development](https://www.linkedin.com/jobs/view/4444541193/) — YMCA of the USA
-- 📍 **Location:** St Louis, MO
+### [Director of Development-Athletics](https://www.linkedin.com/jobs/view/4446376793/) — University of the Incarnate Word
+- 📍 **Location:** San Antonio, TX
+- 💰 **Salary:** $82,000-$84,000
 - 🕒 **Posted:** 2026-07-30
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4446746094/) — Commonwealth Senior Living
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
+### [Senior Director of Development and Donor Engagement](https://www.linkedin.com/jobs/view/4447070545/) — Harc, Inc.
+- 📍 **Location:** Hartford, CT
+- 💰 **Salary:** $90,00-$110,000
 - 🕒 **Posted:** 2026-07-30
 
-### [Branch Executive Director](https://www.linkedin.com/jobs/view/4444527831/) — YMCA of the USA
-- 📍 **Location:** Philadelphia, PA
+### [Director of Development, Community Hospitals](https://www.linkedin.com/jobs/view/4446925026/) — UVA External Relations
+- 📍 **Location:** Northern Virginia, VA
+- 💰 **Salary:** $90,000.00/yr - $95,000.00/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Executive Director - Strategic Communications](https://www.linkedin.com/jobs/view/4447083516/) — Tennessee Board of Regents (TBR)
+- 📍 **Location:** Memphis, TN
+- 🕒 **Posted:** 2026-07-30
+
+### [Deputy Director, Federal Affairs](https://www.linkedin.com/jobs/view/4445038991/) — National Association of Community Health Centers (NACHC)
+- 📍 **Location:** Alexandria, VA
+- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Deputy Director of Field Services](https://www.linkedin.com/jobs/view/4445036852/) — State of Vermont
+- 📍 **Location:** Waterbury, VT
+- 🕒 **Posted:** 2026-07-30
+
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4446911531/) — A Hiring Company
+- 📍 **Location:** Kilmarnock, VA
+- 💰 **Salary:** $75,000-$80,000
+- 🕒 **Posted:** 2026-07-30
+
+### [President & COO](https://www.linkedin.com/jobs/view/4435857951/) — Columbia Sussex Corporation
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-07-30
+
+### [Macro COO / Business Manager](https://www.linkedin.com/jobs/view/4447082606/) — U.S. Bank
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $134,280.00 - 164,120.00
+- 🕒 **Posted:** 2026-07-30
+
+### [Deputy Director of Elections](https://www.linkedin.com/jobs/view/4447085446/) — Rockingham County, VA
+- 📍 **Location:** Harrisonburg, VA
+- 🕒 **Posted:** 2026-07-30
+
+### [Director of Partnerships](https://www.linkedin.com/jobs/view/4447083528/) — Locked In Talent
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-07-30
