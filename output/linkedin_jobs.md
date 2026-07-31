@@ -1,141 +1,95 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-31 10:24 UTC*
+*Last updated: 2026-07-31 20:26 UTC*
 
-**31 new role(s)** since last run · 31 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [Executive Director for Energy, Climate, and Environment #86524](https://www.linkedin.com/jobs/view/4420214956/) — University of California, Berkeley
-- 📍 **Location:** Berkeley, CA
-- 💰 **Salary:** $204,700 - $210,000
+### [VP & COO](https://www.linkedin.com/jobs/view/4447578406/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $221,900 - $390,300 annually
 - 🕒 **Posted:** 2026-07-31
 
-### [The Chief Operating Officer (The Center for Discovery)](https://www.linkedin.com/jobs/view/4447507282/) — AAIDD
-- 📍 **Location:** Harris, NY
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4445773937/) — 7 Flags Car Wash
+- 📍 **Location:** Vacaville, CA
 - 🕒 **Posted:** 2026-07-31
 
-### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4430149075/) — Year Up United
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $115,00 - $152,000
+### [Assistant Executive Director](https://www.linkedin.com/jobs/view/4442858865/) — CBIZ Talent Solutions
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $125,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-07-31
 
-### [Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4433185936/) — reesmarx
+### [VP & COO](https://www.linkedin.com/jobs/view/4447562621/) — Salesforce
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $221,900 - $390,300 annually
 - 🕒 **Posted:** 2026-07-31
 
-### [SENIOR DIRECTOR OF PHILANTHROPY](https://www.linkedin.com/jobs/view/4430456916/) — CARE
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $112,513.06 - $130,796.43 Annually
+### [Executive Assistant to Chief Executive Officer](https://www.linkedin.com/jobs/view/4447195280/) — National Center for Family Philanthropy (NCFP)
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $97,000.00/yr - $106,000.00/yr
 - 🕒 **Posted:** 2026-07-31
 
-### [Program Director, Construction Safety Management](https://www.linkedin.com/jobs/view/4426854660/) — The Port Authority of New York & New Jersey
-- 📍 **Location:** Jersey City, NJ
+### [Branch Executive Director](https://www.linkedin.com/jobs/view/4447565792/) — YMCA of Metropolitan Atlanta
+- 📍 **Location:** Kennesaw, GA
 - 🕒 **Posted:** 2026-07-31
 
-### [Business Development Director](https://www.linkedin.com/jobs/view/4387523323/) — BDO USA
-- 📍 **Location:** Woodbridge, NJ
-- 💰 **Salary:** $150,000 - $180,000
+### [Development Director](https://www.linkedin.com/jobs/view/4447150101/) — WINSTON PROUTY CENTER FOR CHILD AND FAMILY DEVELOPMENT INC
+- 📍 **Location:** Brattleboro, VT
 - 🕒 **Posted:** 2026-07-31
 
-### [Executive Director - Technical Program Manager | Corporate Technology | Document Platform Management](https://www.linkedin.com/jobs/view/4439013956/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $190,000.00/yr - $260,000.00/yr
+### [Executive Director of Career Development](https://www.linkedin.com/jobs/view/4446896703/) — Oregon State University
+- 📍 **Location:** Corvallis, OR
+- 💰 **Salary:** $123,800-$136,800
 - 🕒 **Posted:** 2026-07-31
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4445087961/) — Ivy Living
-- 📍 **Location:** Castle Rock, CO
-- 💰 **Salary:** $115,000 - $125,000
+### [Campus Executive Director](https://www.linkedin.com/jobs/view/4447174508/) — Tidewater Tech
+- 📍 **Location:** Virginia Beach, VA
 - 🕒 **Posted:** 2026-07-31
 
-### [Executive Director, Senior Lead Commercial Banking Relationship Manager](https://www.linkedin.com/jobs/view/4447289368/) — Wells Fargo
-- 📍 **Location:** Milwaukee, WI
-- 💰 **Salary:** $159,000.00 - $254,000.00
+### [Executive Director $106k-$137k (Full Time)](https://www.linkedin.com/jobs/view/4447177672/) — Arrow Senior Living Management
+- 📍 **Location:** Ballwin, MO
+- 💰 **Salary:** $106k-$137k
 - 🕒 **Posted:** 2026-07-31
 
-### [Chief Executive Officer of Foundations](https://www.linkedin.com/jobs/view/4416711985/) — Florida Cancer Specialists & Research Institute
-- 📍 **Location:** Florida, United States
+### [Associate Director of Development](https://www.linkedin.com/jobs/view/4447181482/) — The Nature Conservancy
+- 📍 **Location:** Brentwood, TN
+- 💰 **Salary:** $80,000 – $90,000
 - 🕒 **Posted:** 2026-07-31
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4430778856/) — Versique Executive, Professional & Interim Recruiting
-- 📍 **Location:** Blue Earth, MN
-- 💰 **Salary:** $300 - $350K
+### [Development Director](https://www.linkedin.com/jobs/view/4447570894/) — Sussex County Habitat for Humanity
+- 📍 **Location:** Georgetown, DE
+- 💰 **Salary:** $75,000 - $90,000
 - 🕒 **Posted:** 2026-07-31
 
-### [Development Director](https://www.linkedin.com/jobs/view/4447286460/) — Colorado People's Alliance (COPA)
-- 📍 **Location:** Denver Metropolitan Area
-- 🕒 **Posted:** 2026-07-31
-
-### [AI Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4447292112/) — EWOR
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-31
-
-### [AI Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4447501007/) — EWOR
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-31
-
-### [AI Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4447295368/) — EWOR
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-31
-
-### [AI Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4447286557/) — EWOR
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-31
-
-### [AI Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4447285542/) — EWOR
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-31
-
-### [AI Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4447508130/) — EWOR
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-31
-
-### [AI Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4447293243/) — EWOR
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-31
-
-### [HealthTech Co-Founder / CEO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4447288341/) — EWOR
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-31
-
-### [AI Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4447290571/) — EWOR
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-31
-
-### [AI Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4447502361/) — EWOR
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-31
-
-### [Software Development Director](https://www.linkedin.com/jobs/view/4435950243/) — Oracle
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $169,800 - $355,400 per year
-- 🕒 **Posted:** 2026-07-31
-
-### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4445776435/) — Crossover
-- 📍 **Location:** Park City, UT
-- 💰 **Salary:** $100.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-07-31
-
-### [Program Director (Government Programs)](https://www.linkedin.com/jobs/view/4419650162/) — Fincantieri Marine Group
-- 📍 **Location:** Marinette, WI
-- 🕒 **Posted:** 2026-07-31
-
-### [Director of Operations (Commercial Construction)](https://www.linkedin.com/jobs/view/4435656507/) — Jobot
-- 📍 **Location:** Ashton, MD
-- 💰 **Salary:** $160,000.00/yr - $210,000.00/yr
-- 🕒 **Posted:** 2026-07-31
-
-### [AI Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4447298358/) — EWOR
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-31
-
-### [Biotech Co-Founder / COO (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4447505194/) — EWOR
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-31
-
-### [Youth Program Director, Waypoint Academy - $150,000/year USD](https://www.linkedin.com/jobs/view/4445761959/) — Crossover
+### [Director of Development, Major Gifts](https://www.linkedin.com/jobs/view/4444046583/) — The University of Texas at Austin
 - 📍 **Location:** Austin, TX
-- 💰 **Salary:** $75.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-07-31
 
-### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4445770809/) — Crossover
-- 📍 **Location:** Cape Coral, FL
-- 💰 **Salary:** $100.00/hr - $100.00/hr
+### [Associate Director of Development](https://www.linkedin.com/jobs/view/4447181483/) — The Nature Conservancy
+- 📍 **Location:** Tennessee, United States
+- 💰 **Salary:** $80,000 – $90,000
+- 🕒 **Posted:** 2026-07-31
+
+### [Chief Executive Officer / President](https://www.linkedin.com/jobs/view/4447188116/) — Sheffield Place
+- 📍 **Location:** Kansas City, MO
+- 🕒 **Posted:** 2026-07-31
+
+### [CEO / Build Your Business](https://www.linkedin.com/jobs/view/4447563531/) — Farmers Insurance District 04
+- 📍 **Location:** Richardson, TX
+- 🕒 **Posted:** 2026-07-31
+
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4447179644/) — Boldr
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-31
+
+### [Director of Development](https://www.linkedin.com/jobs/view/4445530868/) — University of Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $103,497 - $108,000
+- 🕒 **Posted:** 2026-07-31
+
+### [Corporate Development Director](https://www.linkedin.com/jobs/view/4447178712/) — The Standard
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $137,000.00 - $200,750.00
+- 🕒 **Posted:** 2026-07-31
+
+### [Director of Communications](https://www.linkedin.com/jobs/view/4447570643/) — Neighborhood Health Center
+- 📍 **Location:** Portland, OR
 - 🕒 **Posted:** 2026-07-31
