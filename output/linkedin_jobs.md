@@ -1,70 +1,64 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-01 08:53 UTC*
+*Last updated: 2026-08-01 18:53 UTC*
 
-**15 new role(s)** since last run · 15 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Program Director - The School of Integrated Learning (SONYC)](https://www.linkedin.com/jobs/view/4446925074/) — The Child Center of NY
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-08-01
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4445595150/) — Denver Metro Chamber Leadership Foundation
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $230,000 - $310,000 per year
-- 🕒 **Posted:** 2026-08-01
-
-### [Associate Executive Director](https://www.linkedin.com/jobs/view/4447788212/) — YMCA of the USA
-- 📍 **Location:** Chesapeake, VA
-- 🕒 **Posted:** 2026-08-01
-
-### [Associate Executive Director](https://www.linkedin.com/jobs/view/4447786200/) — YMCA of the USA
-- 📍 **Location:** Norfolk, VA
-- 🕒 **Posted:** 2026-08-01
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4447795103/) — YMCA of the USA
-- 📍 **Location:** Louisville, KY
-- 🕒 **Posted:** 2026-08-01
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4437734996/) — YMCA of the USA
-- 📍 **Location:** Asheville, NC
-- 🕒 **Posted:** 2026-08-01
-
-### [Executive Director, RWD Strategic Accounts](https://www.linkedin.com/jobs/view/4447783385/) — Labcorp
-- 📍 **Location:** North Carolina, United States
-- 🕒 **Posted:** 2026-08-01
-
-### [Executive Director, RWD Strategic Accounts](https://www.linkedin.com/jobs/view/4447797202/) — Labcorp
-- 📍 **Location:** Durham, NC
-- 🕒 **Posted:** 2026-08-01
-
-### [CO DMV Deputy Program Director of Service Delivery.](https://www.linkedin.com/jobs/view/4447781461/) — State of Colorado
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-01
-
-### [President and CEO](https://www.linkedin.com/jobs/view/4436702012/) — YMCA of the USA
-- 📍 **Location:** Roseburg, OR
-- 💰 **Salary:** $115,000 to $130,000 annually
-- 🕒 **Posted:** 2026-08-01
-
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4447463623/) — DSD Recruitment
-- 📍 **Location:** United States
-- 💰 **Salary:** $300,000 – $500,000
-- 🕒 **Posted:** 2026-08-01
-
-### [Director of Development & Membership](https://www.linkedin.com/jobs/view/4447798041/) — YMCA of the USA
-- 📍 **Location:** Champaign, IL
-- 🕒 **Posted:** 2026-08-01
-
-### [Associate Director of Development](https://www.linkedin.com/jobs/view/4447786376/) — University of Florida - Chemical Engineering Masters Program
-- 📍 **Location:** Gainesville, FL
-- 💰 **Salary:** $65,000-75,000
-- 🕒 **Posted:** 2026-08-01
-
-### [Control Manager - Executive Director](https://www.linkedin.com/jobs/view/4447798263/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,750.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-08-01
-
-### [Head of Partner Ecosystem & Growth-Payments-Executive Director](https://www.linkedin.com/jobs/view/4447795313/) — JPMorganChase
+### [Executive Director](https://www.linkedin.com/jobs/view/4447826335/) — Jobs with Justice San Francisco
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $275,000.00/yr
+- 💰 **Salary:** $120,000.00/yr - $145,000.00/yr
+- 🕒 **Posted:** 2026-08-01
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4447845013/) — Jobs with Justice San Francisco
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $120,000.00/yr - $145,000.00/yr
+- 🕒 **Posted:** 2026-08-01
+
+### [Deputy Director of Curatorial Affairs](https://www.linkedin.com/jobs/view/4447610061/) — Oakland Museum of California
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Director of Development for the College of Engineering](https://www.linkedin.com/jobs/view/4380179014/) — San José State University
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4447825364/) — Jobs with Justice San Francisco
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-08-01
+
+### [Executive Director, Global Project Leader](https://www.linkedin.com/jobs/view/4420606470/) — Shionogi Inc. (U.S.)
+- 📍 **Location:** Florham Park, NJ
+- 💰 **Salary:** $285,000 - $315,000
+- 🕒 **Posted:** 2026-08-01
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4447490980/) — Sheboygan County Interfaith Organization
+- 📍 **Location:** Sheboygan, WI
+- 💰 **Salary:** $70,000–$77,000 annually
+- 🕒 **Posted:** 2026-08-01
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4447828248/) — Jobs with Justice San Francisco
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $120,000.00/yr - $145,000.00/yr
+- 🕒 **Posted:** 2026-08-01
+
+### [Development Director](https://www.linkedin.com/jobs/view/4447606135/) — Christian School Association of Greater Harrisburg (CSAGH)
+- 📍 **Location:** Harrisburg, PA
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Managing Director, Emerging Markets (Development/Fundraising)](https://www.linkedin.com/jobs/view/4439363481/) — Teach For America
+- 📍 **Location:** United States
+- 💰 **Salary:** $108,900 - $143,000
+- 🕒 **Posted:** 2026-08-01
+
+### [Associate CIO / Executive Director of IT Services](https://www.linkedin.com/jobs/view/4410840501/) — CampusWorks, Inc.
+- 📍 **Location:** Mount Laurel, NJ
+- 💰 **Salary:** $125,000 - $130,000
+- 🕒 **Posted:** 2026-08-01
+
+### [Board Vice President of Development](https://www.linkedin.com/jobs/view/4447606119/) — Chicago Angels
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-08-01
+
+### [Executive Assistant to Chief Executive Officer](https://www.linkedin.com/jobs/view/4445819016/) — MT BYTES
+- 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-08-01
