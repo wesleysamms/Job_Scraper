@@ -1,95 +1,182 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-07-31 20:26 UTC*
+*Last updated: 2026-08-01 00:01 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**39 new role(s)** since last run · 39 total in last 1h
 
-### [VP & COO](https://www.linkedin.com/jobs/view/4447578406/) — Salesforce
+### [Program Director](https://www.linkedin.com/jobs/view/4441273842/) — CBEM LLC
+- 📍 **Location:** East Los Angeles, CA
+- 🕒 **Posted:** 2026-07-31
+
+### [Assistant Deputy Director - Finance](https://www.linkedin.com/jobs/view/4447593983/) — The City of San Diego
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $214,032.00/yr - $214,032.00/yr
+- 🕒 **Posted:** 2026-07-31
+
+### [Director of Communications](https://www.linkedin.com/jobs/view/4440059876/) — Kennedy Jenks
+- 📍 **Location:** Pasadena, CA
+- 💰 **Salary:** $165,000 – $185,000,
+- 🕒 **Posted:** 2026-07-31
+
+### [Director of Communications](https://www.linkedin.com/jobs/view/4440064707/) — Kennedy Jenks
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $221,900 - $390,300 annually
+- 💰 **Salary:** $165,000 – $185,000,
 - 🕒 **Posted:** 2026-07-31
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4445773937/) — 7 Flags Car Wash
-- 📍 **Location:** Vacaville, CA
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4444609706/) — Business For Good San Diego
+- 📍 **Location:** San Diego Metropolitan Area
+- 💰 **Salary:** $90,000-$110,000,
 - 🕒 **Posted:** 2026-07-31
 
-### [Assistant Executive Director](https://www.linkedin.com/jobs/view/4442858865/) — CBIZ Talent Solutions
-- 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $125,000.00/yr - $150,000.00/yr
+### [Director of Communications](https://www.linkedin.com/jobs/view/4440077103/) — Kennedy Jenks
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $165,000 – $185,000,
 - 🕒 **Posted:** 2026-07-31
 
-### [VP & COO](https://www.linkedin.com/jobs/view/4447562621/) — Salesforce
+### [Executive Director](https://www.linkedin.com/jobs/view/4447191817/) — Center for Guardianship Certification (CGC)
+- 📍 **Location:** Thompson, NY
+- 🕒 **Posted:** 2026-07-31
+
+### [Global Capital Markets (Equity Capital Markets) COO – Associate/Vice President](https://www.linkedin.com/jobs/view/4431453082/) — Morgan Stanley
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $221,900 - $390,300 annually
 - 🕒 **Posted:** 2026-07-31
 
-### [Executive Assistant to Chief Executive Officer](https://www.linkedin.com/jobs/view/4447195280/) — National Center for Family Philanthropy (NCFP)
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $97,000.00/yr - $106,000.00/yr
+### [Head of Brand and Performance Marketing, EquityZen - Executive Director](https://www.linkedin.com/jobs/view/4431437482/) — Morgan Stanley
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-31
 
-### [Branch Executive Director](https://www.linkedin.com/jobs/view/4447565792/) — YMCA of Metropolitan Atlanta
-- 📍 **Location:** Kennesaw, GA
+### [Director of Major Gifts](https://www.linkedin.com/jobs/view/4447186964/) — Relay Recruiting
+- 📍 **Location:** Rochester, NY
+- 💰 **Salary:** $75K-$90K
 - 🕒 **Posted:** 2026-07-31
 
-### [Development Director](https://www.linkedin.com/jobs/view/4447150101/) — WINSTON PROUTY CENTER FOR CHILD AND FAMILY DEVELOPMENT INC
-- 📍 **Location:** Brattleboro, VT
+### [Data Protection, Managing Director](https://www.linkedin.com/jobs/view/4447706318/) — State Street
+- 📍 **Location:** Clifton, NJ
+- 💰 **Salary:** $170,000 - $282,500
 - 🕒 **Posted:** 2026-07-31
 
-### [Executive Director of Career Development](https://www.linkedin.com/jobs/view/4446896703/) — Oregon State University
-- 📍 **Location:** Corvallis, OR
-- 💰 **Salary:** $123,800-$136,800
+### [Data Protection, Managing Director](https://www.linkedin.com/jobs/view/4447704926/) — State Street
+- 📍 **Location:** Princeton, NJ
+- 💰 **Salary:** $170,000 - $282,500
 - 🕒 **Posted:** 2026-07-31
 
-### [Campus Executive Director](https://www.linkedin.com/jobs/view/4447174508/) — Tidewater Tech
-- 📍 **Location:** Virginia Beach, VA
+### [Executive Director](https://www.linkedin.com/jobs/view/4447710187/) — Lauber Business Partners (Fractional/Interim Leadership, Consulting, Executive Search)
+- 📍 **Location:** Greater Milwaukee
 - 🕒 **Posted:** 2026-07-31
 
-### [Executive Director $106k-$137k (Full Time)](https://www.linkedin.com/jobs/view/4447177672/) — Arrow Senior Living Management
-- 📍 **Location:** Ballwin, MO
-- 💰 **Salary:** $106k-$137k
+### [Executive Director](https://www.linkedin.com/jobs/view/4447412138/) — Center for Guardianship Certification (CGC)
+- 📍 **Location:** Wolf, WY
 - 🕒 **Posted:** 2026-07-31
 
-### [Associate Director of Development](https://www.linkedin.com/jobs/view/4447181482/) — The Nature Conservancy
-- 📍 **Location:** Brentwood, TN
-- 💰 **Salary:** $80,000 – $90,000
+### [Executive Director](https://www.linkedin.com/jobs/view/4447194850/) — Center for Guardianship Certification (CGC)
+- 📍 **Location:** Upshaw, VA
 - 🕒 **Posted:** 2026-07-31
 
-### [Development Director](https://www.linkedin.com/jobs/view/4447570894/) — Sussex County Habitat for Humanity
-- 📍 **Location:** Georgetown, DE
-- 💰 **Salary:** $75,000 - $90,000
+### [Executive Director](https://www.linkedin.com/jobs/view/4447198593/) — Center for Guardianship Certification (CGC)
+- 📍 **Location:** Scott, IN
 - 🕒 **Posted:** 2026-07-31
 
-### [Director of Development, Major Gifts](https://www.linkedin.com/jobs/view/4444046583/) — The University of Texas at Austin
+### [Executive Director](https://www.linkedin.com/jobs/view/4447193796/) — Center for Guardianship Certification (CGC)
+- 📍 **Location:** Amanda, OH
+- 🕒 **Posted:** 2026-07-31
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4447185871/) — Center for Guardianship Certification (CGC)
+- 📍 **Location:** Henry, MO
+- 🕒 **Posted:** 2026-07-31
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4447192925/) — Center for Guardianship Certification (CGC)
+- 📍 **Location:** Sophia, WV
+- 🕒 **Posted:** 2026-07-31
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4447196717/) — Brookdale
+- 📍 **Location:** Alexandria, LA
+- 💰 **Salary:** $86,510.00/yr - $110,210.00/yr
+- 🕒 **Posted:** 2026-07-31
+
+### [Associate Executive Director](https://www.linkedin.com/jobs/view/4447714020/) — Berkley Risk (a Berkley Company)
+- 📍 **Location:** Englewood, CO
+- 🕒 **Posted:** 2026-07-31
+
+### [President & CEO](https://www.linkedin.com/jobs/view/4447402235/) — Center for Guardianship Certification (CGC)
+- 📍 **Location:** Ashley, OH
+- 🕒 **Posted:** 2026-07-31
+
+### [COO Investments Global Head of Front Office Re-Engineering, Senior Vice President - State Street Investment Management](https://www.linkedin.com/jobs/view/4443946918/) — State Street
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-07-31
+
+### [Managing Director, People and Operations](https://www.linkedin.com/jobs/view/4447409005/) — City Year
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $125,000 - $135,000 annually
+- 🕒 **Posted:** 2026-07-31
+
+### [Executive Assistant to Chief Executive Officer](https://www.linkedin.com/jobs/view/4447702557/) — Archaius Inc.
+- 📍 **Location:** Morrisville, NC
+- 💰 **Salary:** $58,000 – $68,000 per year
+- 🕒 **Posted:** 2026-07-31
+
+### [Associate Director of Development, Heart & Vascular Institute](https://www.linkedin.com/jobs/view/4447724105/) — The Johns Hopkins University
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $85k-$90k
+- 🕒 **Posted:** 2026-07-31
+
+### [Associate Director of Development](https://www.linkedin.com/jobs/view/4447412271/) — UCF Downtown
+- 📍 **Location:** Burbank, WA
+- 💰 **Salary:** $68,000- $80,000
+- 🕒 **Posted:** 2026-07-31
+
+### [Director of Communications](https://www.linkedin.com/jobs/view/4440074276/) — Kennedy Jenks
+- 📍 **Location:** Federal Way, WA
+- 💰 **Salary:** $165,000 – $185,000,
+- 🕒 **Posted:** 2026-07-31
+
+### [Assistant Director of Development, Department of Medicine](https://www.linkedin.com/jobs/view/4446869984/) — The Johns Hopkins University
+- 📍 **Location:** Baltimore, MD
+- 🕒 **Posted:** 2026-07-31
+
+### [Director of Communications](https://www.linkedin.com/jobs/view/4440075246/) — Kennedy Jenks
+- 📍 **Location:** Lakewood, CO
+- 💰 **Salary:** $165,000 – $185,000,
+- 🕒 **Posted:** 2026-07-31
+
+### [Executive Director of Media Relations](https://www.linkedin.com/jobs/view/4447722197/) — The Business of HLTH Podcast
 - 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-07-31
 
-### [Associate Director of Development](https://www.linkedin.com/jobs/view/4447181483/) — The Nature Conservancy
-- 📍 **Location:** Tennessee, United States
-- 💰 **Salary:** $80,000 – $90,000
+### [Executive Director of Media Relations &amp; Spokesperson](https://www.linkedin.com/jobs/view/4447715209/) — The Business of HLTH Podcast
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-07-31
 
-### [Chief Executive Officer / President](https://www.linkedin.com/jobs/view/4447188116/) — Sheffield Place
-- 📍 **Location:** Kansas City, MO
+### [Director of Operations](https://www.linkedin.com/jobs/view/4447407266/) — ATLAW
+- 📍 **Location:** Detroit Metropolitan Area
+- 💰 **Salary:** $150,000 to $190,000,
 - 🕒 **Posted:** 2026-07-31
 
-### [CEO / Build Your Business](https://www.linkedin.com/jobs/view/4447563531/) — Farmers Insurance District 04
-- 📍 **Location:** Richardson, TX
+### [Data Protection, Managing Director](https://www.linkedin.com/jobs/view/4447714167/) — State Street
+- 📍 **Location:** Berwyn, PA
+- 💰 **Salary:** $170,000 - $282,500
 - 🕒 **Posted:** 2026-07-31
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4447179644/) — Boldr
-- 📍 **Location:** United States
+### [Director of Communications](https://www.linkedin.com/jobs/view/4440055957/) — Kennedy Jenks
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $165,000 – $185,000,
 - 🕒 **Posted:** 2026-07-31
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4445530868/) — University of Colorado
-- 📍 **Location:** Aurora, CO
-- 💰 **Salary:** $103,497 - $108,000
+### [Director of Communications](https://www.linkedin.com/jobs/view/4447408011/) — State of Oklahoma
+- 📍 **Location:** Del City, OK
+- 💰 **Salary:** $115,000 - $125,000,
 - 🕒 **Posted:** 2026-07-31
 
-### [Corporate Development Director](https://www.linkedin.com/jobs/view/4447178712/) — The Standard
+### [Director of Communications](https://www.linkedin.com/jobs/view/4440059878/) — Kennedy Jenks
 - 📍 **Location:** Portland, OR
-- 💰 **Salary:** $137,000.00 - $200,750.00
+- 💰 **Salary:** $165,000 – $185,000,
 - 🕒 **Posted:** 2026-07-31
 
-### [Director of Communications](https://www.linkedin.com/jobs/view/4447570643/) — Neighborhood Health Center
-- 📍 **Location:** Portland, OR
+### [Data Protection, Managing Director](https://www.linkedin.com/jobs/view/4447718133/) — State Street
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $170,000 - $282,500
+- 🕒 **Posted:** 2026-07-31
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4447402171/) — Cornbread Hemp®
+- 📍 **Location:** Louisville, KY
+- 💰 **Salary:** $120K - $150K
 - 🕒 **Posted:** 2026-07-31
