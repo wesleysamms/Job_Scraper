@@ -1,39 +1,30 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-02 17:31 UTC*
+*Last updated: 2026-08-02 19:47 UTC*
 
-**8 new role(s)** since last run · 10 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Program Director - Transformation - Full Time 8 Hour Days(Exempt) (Non-Union)](https://www.linkedin.com/jobs/view/4447898432/) — Keck Medicine of USC
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $126,547.00 - $208,803.00
+### [Executive Director - Financial Systems, Service & Transformation (Remote)](https://www.linkedin.com/jobs/view/4447898652/) — Stanford Health Care
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $112.39 - $148.91 per hour
 - 🕒 **Posted:** 2026-08-02
 
-### [Cash Management Sales - Executive Director](https://www.linkedin.com/jobs/view/4381173643/) — SMBC Group
-- 📍 **Location:** New York, NY
+### [Associate Director of Development](https://www.linkedin.com/jobs/view/4448104561/) — Essie Justice Group
+- 📍 **Location:** South Pasadena, CA
+- 💰 **Salary:** $110k-$120k
 - 🕒 **Posted:** 2026-08-02
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4446404947/) — Villa Terrace Museum & Gardens
-- 📍 **Location:** Milwaukee, WI
+### [Deputy Director of Planning](https://www.linkedin.com/jobs/view/4448115364/) — City of Rancho Cucamonga
+- 📍 **Location:** Rancho Cucamonga, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Executive Director Medical Economics](https://www.linkedin.com/jobs/view/4390388031/) — Health Care Service Corporation
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $161,500.00 - $299,700.00
+### [Director of Marketing and Communications](https://www.linkedin.com/jobs/view/4447897699/) — State of Nebraska
+- 📍 **Location:** Lincoln, NE
 - 🕒 **Posted:** 2026-08-02
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4448109207/) — Fiber Dynamics, Inc.
-- 📍 **Location:** Wichita, KS
+### [Development Director - Symphony Orchestra](https://www.linkedin.com/jobs/view/4444393386/) — Harmonium of Texas
+- 📍 **Location:** San Antonio, TX
 - 🕒 **Posted:** 2026-08-02
 
-### [Vice President of Development](https://www.linkedin.com/jobs/view/4448107232/) — Solomon’s Palace and Chateaus
-- 📍 **Location:** Boca Raton, FL
-- 🕒 **Posted:** 2026-08-02
-
-### [Program Director, Nursing Excellence](https://www.linkedin.com/jobs/view/4421278935/) — Oregon Health & Science University
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $136,635.20/yr - $232,252.80/yr
-- 🕒 **Posted:** 2026-08-02
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4371091519/) — Yates Construction
-- 📍 **Location:** Nashville, TN
+### [Restaurant Director of Operations for Growing Fast Casual Concept](https://www.linkedin.com/jobs/view/4447660362/) — Superior Talent Source
+- 📍 **Location:** Toledo, OH
 - 🕒 **Posted:** 2026-08-02
