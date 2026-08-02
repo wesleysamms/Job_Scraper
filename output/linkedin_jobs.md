@@ -1,25 +1,43 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-02 22:20 UTC*
+*Last updated: 2026-08-02 23:25 UTC*
 
-**5 new role(s)** since last run · 6 total in last 1h
+**9 new role(s)** since last run · 10 total in last 1h
 
-### [Executive Director of Human Resources & Labor Relations](https://www.linkedin.com/jobs/view/4447664498/) — Bespree
+### [Director of Major Gifts](https://www.linkedin.com/jobs/view/4445862116/) — Clarity Recruiting
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $115,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-08-02
+
+### [Head of Brand and Performance Marketing, EquityZen - Executive Director](https://www.linkedin.com/jobs/view/4431437482/) — Morgan Stanley
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-02
 
-### [Deputy Director, Tort Unit](https://www.linkedin.com/jobs/view/4447655686/) — Bespree
-- 📍 **Location:** New York, NY
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4447649693/) — Key Law Office
+- 📍 **Location:** Buda, TX
 - 🕒 **Posted:** 2026-08-02
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4448109765/) — Yorkville Advisors BV
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4447662540/) — LUMORA POWER & ENGINEERING CO. LIMITED
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-02
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4445863046/) — OmniChain
-- 📍 **Location:** United States
+### [Chief Advancement Officer](https://www.linkedin.com/jobs/view/4448110753/) — Partners Worldwide
+- 📍 **Location:** Grand Rapids, MI
 - 🕒 **Posted:** 2026-08-02
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4447898979/) — Maverick Creative
-- 📍 **Location:** Texas, United States
-- 💰 **Salary:** $5,000 to $10,000 per month
+### [Program Director](https://www.linkedin.com/jobs/view/4448100975/) — International Transformation Foundation Inc. (US)
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-02
+
+### [Assistant Director of Advancement Communications](https://www.linkedin.com/jobs/view/4439270733/) — Amherst College
+- 📍 **Location:** Amherst, MA
+- 💰 **Salary:** $60,000 to $65,000
+- 🕒 **Posted:** 2026-08-02
+
+### [Transaction Advisory Services - Managing Director](https://www.linkedin.com/jobs/view/4448114730/) — CohnReznick
+- 📍 **Location:** Bethesda, MD
+- 💰 **Salary:** $200,000 to $325,000
+- 🕒 **Posted:** 2026-08-02
+
+### [Executive Director of Technology Operations](https://www.linkedin.com/jobs/view/4447664515/) — Accretion Nutraveda Ltd
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-02
