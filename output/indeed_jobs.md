@@ -1,16 +1,11 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-02 18:47 UTC*
+*Last updated: 2026-08-02 20:03 UTC*
 
-**2 new role(s)** since last run · 12 total in last 24h
+**1 new role(s)** since last run · 12 total in last 24h
 
-### [Program Director](https://www.indeed.com/viewjob?jk=5995324626d71356) — Centers Health Care
-- 📍 **Location:** Staten Island, NY, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-02
-
-### [Area Product Owner - Executive Director (Operations Product | Reconciliation & Financial Exceptions Platforms)](https://www.indeed.com/viewjob?jk=54e9d18152865be4) — JPMorganChase
-- 📍 **Location:** Columbus, OH, US
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Executive Director](https://www.indeed.com/viewjob?jk=d14285bd4cc27247) — Eye Consultants of Kentucky
+- 📍 **Location:** Lexington, KY, US
+- 💰 **Salary:** $40k–$60k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
 - 🕒 **Posted:** 2026-08-02
