@@ -1,150 +1,126 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-03 21:46 UTC*
+*Last updated: 2026-08-03 23:34 UTC*
 
-**32 new role(s)** since last run · 34 total in last 1h
+**26 new role(s)** since last run · 26 total in last 1h
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4448250175/) — Contra Costa Health
-- 📍 **Location:** Contra Costa County, CA
-- 💰 **Salary:** $369,997.00/yr - $449,734.00/yr
+### [Program Director, Innovation Fund](https://www.linkedin.com/jobs/view/4448241831/) — California Health Care Foundation
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $276.00/yr - $345,000.00/yr
 - 🕒 **Posted:** 2026-08-03
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4448625417/) — Atria Senior Living
+### [Program Director - Medical Assistant](https://www.linkedin.com/jobs/view/4448636689/) — Unitek Learning
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $139,000.00/yr - $159,850.00/yr
 - 🕒 **Posted:** 2026-08-03
 
-### [Associate Director of Development and Alumni Relations](https://www.linkedin.com/jobs/view/4446241906/) — Marshall B. Ketchum University
-- 📍 **Location:** Anaheim, CA
-- 💰 **Salary:** $75,000.00/yr - $80,000.00/yr
+### [Managing Director, Healthcare and Life Sciences, Google Cloud](https://www.linkedin.com/jobs/view/4448250417/) — Google
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $208000 - $289000
 - 🕒 **Posted:** 2026-08-03
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4448630300/) — Millman Search
-- 📍 **Location:** Redding, CA
+### [Managing Director, Healthcare and Life Sciences, Google Cloud](https://www.linkedin.com/jobs/view/4448249561/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $208000 - $289000
 - 🕒 **Posted:** 2026-08-03
 
-### [Executive Director-Premier Senior Living](https://www.linkedin.com/jobs/view/4448229724/) — Westport One
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+### [Executive Assistant to Chief Executive Officer](https://www.linkedin.com/jobs/view/4448239880/) — Confidential
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $115,000.00/yr - $130,000.00/yr
 - 🕒 **Posted:** 2026-08-03
 
-### [Strategy & Operations Director (COO Office)](https://www.linkedin.com/jobs/view/4448612900/) — Navan
+### [Special Assistant (Working Title: Senior Director of Operations)](https://www.linkedin.com/jobs/view/4448637161/) — Empire State Development
+- 📍 **Location:** Albany, NY
+- 💰 **Salary:** $103,870.00/yr - $131,298.00/yr
+- 🕒 **Posted:** 2026-08-03
+
+### [Special Assistant (Working Title: Senior Director of Operations)](https://www.linkedin.com/jobs/view/4448624864/) — Empire State Development
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $167,400 USD - $372,000 USD
+- 💰 **Salary:** $103,870.00/yr - $131,298.00/yr
 - 🕒 **Posted:** 2026-08-03
 
-### [Sr. Managing Director, Head of Institutional Products](https://www.linkedin.com/jobs/view/4448230813/) — Jackson
-- 📍 **Location:** Purchase, NY
-- 💰 **Salary:** $275,000.00 - $325,000.00
-- 🕒 **Posted:** 2026-08-03
-
-### [Program Director After School - PS 306](https://www.linkedin.com/jobs/view/4448633246/) — Good Shepherd Services
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $65,000 - $72,000
-- 🕒 **Posted:** 2026-08-03
-
-### [Infrastructure Delivery Program Director](https://www.linkedin.com/jobs/view/4448250224/) — Randstad Digital Americas
+### [Managing Director, Marketing Science](https://www.linkedin.com/jobs/view/4448243884/) — OMD
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $120.00/hr - $135.00/hr
+- 💰 **Salary:** $250,000 - $300,000
 - 🕒 **Posted:** 2026-08-03
 
-### [Assistant Executive Director, Residential Services](https://www.linkedin.com/jobs/view/4448634145/) — The Arc Ocean County Chapter
-- 📍 **Location:** Brick, NJ
-- 🕒 **Posted:** 2026-08-03
-
-### [Executive Assistant, Chief Operating Officer, Digital](https://www.linkedin.com/jobs/view/4446254684/) — Equinix
+### [Managing Director, Healthcare and Life Sciences, Google Cloud](https://www.linkedin.com/jobs/view/4448251385/) — Google
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $208000 - $289000
 - 🕒 **Posted:** 2026-08-03
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4448200082/) — United Way of Harrison and Doddridge Counties
-- 📍 **Location:** Bridgeport, WV
+### [Executive Director](https://www.linkedin.com/jobs/view/4448248634/) — Association Management Inc
+- 📍 **Location:** Gig Harbor, WA
+- 💰 **Salary:** $85,000 – $120,000
 - 🕒 **Posted:** 2026-08-03
 
-### [Nonprofit Director of Finance](https://www.linkedin.com/jobs/view/4448635032/) — New Foundations Home for Children
-- 📍 **Location:** Greenville-Spartanburg-Anderson, South Carolina Area
-- 💰 **Salary:** $65,000-72,000
+### [President and Executive Director](https://www.linkedin.com/jobs/view/4448321006/) — Florida Opportunity Fund
+- 📍 **Location:** Winter Springs, FL
 - 🕒 **Posted:** 2026-08-03
 
-### [President & Chief Executive Officer](https://www.linkedin.com/jobs/view/4448232816/) — Greater Fairbanks Chamber of Commerce
-- 📍 **Location:** Fairbanks, AK
+### [Executive Director](https://www.linkedin.com/jobs/view/4448641304/) — DIVINE DIGNITY INC
+- 📍 **Location:** Hilliard, OH
 - 🕒 **Posted:** 2026-08-03
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4446788948/) — HCMGPT
+### [Executive Director, Market](https://www.linkedin.com/jobs/view/4448253220/) — AbsoluteCare
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $175 - $200
+- 🕒 **Posted:** 2026-08-03
+
+### [Chief Executive Officer (Behavioral Health Hospital)](https://www.linkedin.com/jobs/view/4448247697/) — Tylent
+- 📍 **Location:** Michigan, United States
+- 💰 **Salary:** $200,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-08-03
+
+### [CEO Business Development Associate](https://www.linkedin.com/jobs/view/4448646216/) — Lagersmith
+- 📍 **Location:** Fremont, OH
+- 🕒 **Posted:** 2026-08-03
+
+### [Chief Operating Officer – Permanent Placement Division](https://www.linkedin.com/jobs/view/4448623850/) — PX3 Medical
 - 📍 **Location:** United States
-- 💰 **Salary:** $0 to $5
+- 💰 **Salary:** $180,000–$230,000
 - 🕒 **Posted:** 2026-08-03
 
-### [Pharmaceutical CEO Leadership](https://www.linkedin.com/jobs/view/4448242741/) — Healthcare Shares
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-03
-
-### [Co-Founder & CEO - AI LegalTech | AI-Native Litigation Defence Operations](https://www.linkedin.com/jobs/view/4448618417/) — FutureSight
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-03
-
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4448627198/) — CHA Consulting, Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $315,000 – $385,000
-- 🕒 **Posted:** 2026-08-03
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4448620576/) — MyFriendBen
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-03
-
-### [Associate OR Senior Associate Director of Development for Architecture](https://www.linkedin.com/jobs/view/4448235740/) — UVA External Relations
-- 📍 **Location:** Greater Charlottesville Area
-- 💰 **Salary:** $75,000.00/yr - $95,000.00/yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4448232583/) — Colorado LiftED Foundation
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $85,000–$100,000,
-- 🕒 **Posted:** 2026-08-03
-
-### [Director Of Development](https://www.linkedin.com/jobs/view/4446233902/) — Lee Health
-- 📍 **Location:** Fort Myers, FL
-- 💰 **Salary:** $31.15 - $42.04
-- 🕒 **Posted:** 2026-08-03
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4448252192/) — Japanese American Service Committee (JASC)
-- 📍 **Location:** Greater Chicago Area
-- 💰 **Salary:** $70,000 - $100,000
-- 🕒 **Posted:** 2026-08-03
-
-### [Development Director](https://www.linkedin.com/jobs/view/4448245131/) — West Shore Christian Academy
-- 📍 **Location:** Mechanicsburg, PA
-- 🕒 **Posted:** 2026-08-03
-
-### [Assistant Director of Development, USF Health](https://www.linkedin.com/jobs/view/4446250722/) — University of South Florida
-- 📍 **Location:** Tampa, FL
-- 🕒 **Posted:** 2026-08-03
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4446233807/) — JewishColumbus
-- 📍 **Location:** Bexley, OH
-- 🕒 **Posted:** 2026-08-03
-
-### [Development Director, Data Centers](https://www.linkedin.com/jobs/view/4448627154/) — Clēnera
-- 📍 **Location:** Boise, ID
-- 🕒 **Posted:** 2026-08-03
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4448248473/) — Kaddatz Galleries
-- 📍 **Location:** Fergus Falls, MN
-- 💰 **Salary:** $52,000 - $55,000
-- 🕒 **Posted:** 2026-08-03
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4448244421/) — Marriott Vacations Worldwide
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4448256028/) — Areas USA
 - 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-08-03
 
-### [Registered Nurse Director of Operations](https://www.linkedin.com/jobs/view/4448611835/) — Village Caregiving, LLC
-- 📍 **Location:** Columbia, MO
-- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
+### [Chief Operating Officer – Locum Tenens Division](https://www.linkedin.com/jobs/view/4448616985/) — PX3 Medical
+- 📍 **Location:** United States
+- 💰 **Salary:** $200,000–$260,000
 - 🕒 **Posted:** 2026-08-03
 
-### [Infrastructure Program Director - Onsite](https://www.linkedin.com/jobs/view/4446256615/) — Dew Software
-- 📍 **Location:** Vancouver, WA
-- 💰 **Salary:** $60.00/hr - $70.00/hr
+### [Executive Director, Board Operations](https://www.linkedin.com/jobs/view/4448639262/) — The George Washington University
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $141,581.98 - $205,269.79
 - 🕒 **Posted:** 2026-08-03
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4446245896/) — Unifacisa Centro Universitário (Graduação e Pós-graduação)
+### [Director of Development](https://www.linkedin.com/jobs/view/4448623965/) — RADA Foundation
+- 📍 **Location:** Asheville, NC
+- 💰 **Salary:** $80,000–$130,000
+- 🕒 **Posted:** 2026-08-03
+
+### [Director of Philanthropy (Austin)](https://www.linkedin.com/jobs/view/4448643004/) — Texas Children's Hospital
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-03
+
+### [Managing Director, Healthcare and Life Sciences, Google Cloud](https://www.linkedin.com/jobs/view/4448240871/) — Google
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $208000 - $289000
+- 🕒 **Posted:** 2026-08-03
+
+### [Program Director - General Manager Wolverine Sports Properties](https://www.linkedin.com/jobs/view/4447448076/) — Utah Valley University
+- 📍 **Location:** Orem, UT
+- 💰 **Salary:** $59,899.00 - $70,470.00 Annually
+- 🕒 **Posted:** 2026-08-03
+
+### [Development Director](https://www.linkedin.com/jobs/view/4448642071/) — American Heart Association
+- 📍 **Location:** Irving, TX
+- 🕒 **Posted:** 2026-08-03
+
+### [Director of Communications](https://www.linkedin.com/jobs/view/4448236975/) — Class Action
+- 📍 **Location:** United States
+- 💰 **Salary:** $65,000 - $85,000
+- 🕒 **Posted:** 2026-08-03
+
+### [Director of Operations, Deliberations](https://www.linkedin.com/jobs/view/4446273128/) — Change.org
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-03
