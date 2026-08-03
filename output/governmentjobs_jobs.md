@@ -3,6 +3,10 @@
 
 **0 new role(s)** since last run · 0 total in recent GovernmentJobs postings
 
-### [Environmental Health Specialist II](https://www.governmentjobs.com/jobs/5404187-0/environmental-health-specialist-ii) — County of Sonoma (CA)
-- 📍 **Location:** Santa Rosa, CA
-- 💰 **Salary:** $103,938.58 - $126,333.37 Annually
+### [Air Quality Specialist I for the Feather River Air Quality Management District](https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district) — Regional Government Services
+- 📍 **Location:** Yuba City, CA
+- 💰 **Salary:** $67,056.00 - $85,584.00 Annually
+
+### [Environmental Specialist I/II](https://www.governmentjobs.com/jobs/5366037-0/environmental-specialist-i-ii) — City of Vista
+- 📍 **Location:** Vista City Hall - 200 Civic Center Drive Vista 92084, CA
+- 💰 **Salary:** $75,183.16 - $100,752.86 Annually

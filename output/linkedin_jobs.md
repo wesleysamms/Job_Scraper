@@ -1,7 +1,7 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
 *Last updated: 2026-08-03 04:06 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
 ### [Business Development Director](https://www.linkedin.com/jobs/view/4448132470/) — Discovery Life Sciences
 - 📍 **Location:** Malden, MA
