@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03 18:16 UTC",
+  "scraped_at": "2026-08-04 18:13 UTC",
   "total": 7,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Bruno",
@@ -67,24 +67,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "San Bruno",
-      "title": "Deputy Director of Community Services",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-bruno/job-20762862",
-      "date_posted": "",
-      "salary": "$153,308.00-$188,128.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo County",
-      "title": "Deputy Director Of Public Works- Engineering and Resource Protection (Open and Promotional)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20762670",
-      "date_posted": "",
-      "salary": "$197,537.60-$247,041.60 Annually",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
