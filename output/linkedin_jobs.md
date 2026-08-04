@@ -1,151 +1,245 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-04 17:19 UTC*
+*Last updated: 2026-08-04 19:12 UTC*
 
-**32 new role(s)** since last run · 32 total in last 1h
+**53 new role(s)** since last run · 53 total in last 1h
 
-### [Program Director II](https://www.linkedin.com/jobs/view/4446677133/) — Caminar, Inc.
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $120,000.00/yr - $130,000.00/yr
+### [National Program Director, Public Health, Clinical Solutions & Licensing](https://www.linkedin.com/jobs/view/4448536877/) — American Heart Association
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $135,000 to $145,000
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Director](https://www.linkedin.com/jobs/view/4439457445/) — Healogics, LLC.
-- 📍 **Location:** Glendale, CA
-- 💰 **Salary:** $102,400.00-$134,800.00 Annually
+### [Managing Director, Discovery and Insight](https://www.linkedin.com/jobs/view/4449027716/) — TEDxYildizTechnicalUniversity
+- 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Director - Transformation - Full Time 8 Hour Days(Exempt) (Non-Union)](https://www.linkedin.com/jobs/view/4447898432/) — Keck Medicine of USC
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $126,547.00 - $208,803.00
+### [Temporary In-Person Event Executive Assistant  to the CEO - Stanford, California](https://www.linkedin.com/jobs/view/4448550415/) — 2Gether-International
+- 📍 **Location:** Stanford, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4439376442/) — University of Southern California
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $200,000-$250,000
+### [National Program Director, Public Health, Clinical Solutions & Licensing](https://www.linkedin.com/jobs/view/4448535824/) — American Heart Association
+- 📍 **Location:** Bakersfield, CA
+- 💰 **Salary:** $135,000 to $145,000
 - 🕒 **Posted:** 2026-08-04
 
-### [Senior Director of Institutional Giving](https://www.linkedin.com/jobs/view/4448536443/) — City Year
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,000-$145,000,
+### [National Program Director, Public Health, Clinical Solutions & Licensing](https://www.linkedin.com/jobs/view/4448549791/) — American Heart Association
+- 📍 **Location:** Fresno, CA
+- 💰 **Salary:** $135,000 to $145,000
 - 🕒 **Posted:** 2026-08-04
 
-### [Associate Program Director](https://www.linkedin.com/jobs/view/4432761796/) — Teachers College, Columbia University
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $86,000 - $100,000
+### [National Program Director, Public Health, Clinical Solutions & Licensing](https://www.linkedin.com/jobs/view/4448555185/) — American Heart Association
+- 📍 **Location:** Riverside, CA
+- 💰 **Salary:** $135,000 to $145,000
 - 🕒 **Posted:** 2026-08-04
 
-### [Executive Director, Automated Enforcement Unit](https://www.linkedin.com/jobs/view/4446676396/) — City of New York
+### [Program Director](https://www.linkedin.com/jobs/view/4421654715/) — General Atomics Aeronautical Systems
+- 📍 **Location:** Poway, CA
+- 💰 **Salary:** $155,370 - $289,320
+- 🕒 **Posted:** 2026-08-04
+
+### [Development Director, School Engagement](https://www.linkedin.com/jobs/view/4448543803/) — American Heart Association
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $73,800 to $82,000 annually
+- 🕒 **Posted:** 2026-08-04
+
+### [Associate Executive Director (CALA)](https://www.linkedin.com/jobs/view/4446665766/) — Monarch Communities®
 - 📍 **Location:** Queens, NY
-- 💰 **Salary:** $83,718.00 – $223,299.00
+- 💰 **Salary:** $100.00/yr - $110.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Deputy Director](https://www.linkedin.com/jobs/view/4433248639/) — New York City Department of Consumer and Worker Protection
+### [Executive Director, Consumer Sponsor Coverage](https://www.linkedin.com/jobs/view/4448559144/) — Fifth Third Bank
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-08-04
+
+### [Executive Director, Fixed Income Municipal Bond Sales (Open To Location)](https://www.linkedin.com/jobs/view/4439496283/) — Fifth Third Bank
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-04
+
+### [National Program Director, Public Health, Clinical Solutions & Licensing](https://www.linkedin.com/jobs/view/4448541876/) — American Heart Association
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $135,000 to $145,000
+- 🕒 **Posted:** 2026-08-04
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4448552963/) — Alboran Hydrogen S.p.A.
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-08-04
+
+### [Executive Director, Planned Giving](https://www.linkedin.com/jobs/view/4448553971/) — Office of Development, Vagelos College of Physicians and Surgeons, Columbia University
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $68,209.00/yr - $95,865.00/yr
+- 💰 **Salary:** $200,000.00/yr - $210,000.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4444093530/) — ALL In Education
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $165,000.00/yr - $200,000.00/yr
+### [Program Director (Hospice)](https://www.linkedin.com/jobs/view/4449026392/) — Hospice of New Jersey
+- 📍 **Location:** Bloomfield, NJ
 - 🕒 **Posted:** 2026-08-04
 
-### [Associate Executive Director](https://www.linkedin.com/jobs/view/4440507627/) — YMCA of the USA
-- 📍 **Location:** Indianapolis, IN
+### [National Program Director, Public Health, Clinical Solutions & Licensing](https://www.linkedin.com/jobs/view/4448550720/) — American Heart Association
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $135,000 to $145,000
 - 🕒 **Posted:** 2026-08-04
 
-### [Director of Partnerships and Practice - Bursky Public Health](https://www.linkedin.com/jobs/view/4448532660/) — Washington University in St. Louis
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $75,200.00 - $128,800.00
+### [National Program Director, Public Health, Clinical Solutions & Licensing](https://www.linkedin.com/jobs/view/4448536875/) — American Heart Association
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $135,000 to $145,000
 - 🕒 **Posted:** 2026-08-04
 
-### [District Executive Director](https://www.linkedin.com/jobs/view/4440514392/) — YMCA of the USA
+### [Associate Executive Director](https://www.linkedin.com/jobs/view/4446684159/) — Monarch Communities®
+- 📍 **Location:** Queens, NY
+- 💰 **Salary:** $100.00/yr - $110.00/yr
+- 🕒 **Posted:** 2026-08-04
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4449023640/) — WhiteCap Search
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-08-04
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4431242927/) — Habitat for Humanity International
+- 📍 **Location:** Anchorage, AK
+- 🕒 **Posted:** 2026-08-04
+
+### [Executive Director/Administrator](https://www.linkedin.com/jobs/view/4448551884/) — Luminary Hospice
 - 📍 **Location:** Cleveland, OH
 - 🕒 **Posted:** 2026-08-04
 
-### [Development Director](https://www.linkedin.com/jobs/view/4448546501/) — National Kidney Foundation
-- 📍 **Location:** Memphis, TN
-- 💰 **Salary:** $76,900.00/yr - $153,600.00/yr
+### [Associate Vice President of Development](https://www.linkedin.com/jobs/view/4448549800/) — American Heart Association
+- 📍 **Location:** Wellesley, MA
+- 💰 **Salary:** $88,320 to $117,875
 - 🕒 **Posted:** 2026-08-04
 
-### [Development Director](https://www.linkedin.com/jobs/view/4448546500/) — National Kidney Foundation
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $76,900.00/yr - $153,600.00/yr
+### [Director of Operations](https://www.linkedin.com/jobs/view/4448549737/) — Point Source Youth
+- 📍 **Location:** United States
+- 💰 **Salary:** $120,000.00/yr - $135,000.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Chief Executive Officer - Healthcare](https://www.linkedin.com/jobs/view/4448537500/) — Tylent
-- 📍 **Location:** Wesley Chapel, FL
-- 💰 **Salary:** $200,000.00/yr - $220,000.00/yr
+### [Director of Development](https://www.linkedin.com/jobs/view/4412173880/) — Brine Group
+- 📍 **Location:** Greater Boston
+- 💰 **Salary:** $123,000.00/yr - $133,000.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Chief Executive Officer - Equity at Start](https://www.linkedin.com/jobs/view/4446657615/) — QRKIEZ
+### [Hospital Chief Executive Officer (CEO) | Heritage Valley LTACH](https://www.linkedin.com/jobs/view/4449025882/) — PAM Health Specialty Hospital of Heritage Valley
+- 📍 **Location:** Beaver, PA
+- 🕒 **Posted:** 2026-08-04
+
+### [Executive Assistant to CEO (Remote)](https://www.linkedin.com/jobs/view/4449035141/) — Boldly Premium Executive Assistants
+- 📍 **Location:** United States
+- 💰 **Salary:** $27-$30 per hour
+- 🕒 **Posted:** 2026-08-04
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4446671715/) — Uni Loop
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-04
 
-### [Chief Executive Officer/Executive Director](https://www.linkedin.com/jobs/view/4448381627/) — Miami DDA
-- 📍 **Location:** Miami-Fort Lauderdale Area
+### [COO/District Manager](https://www.linkedin.com/jobs/view/4214672731/) — Potbelly Sandwich Works
+- 📍 **Location:** Springfield, IL
 - 🕒 **Posted:** 2026-08-04
 
-### [Personal Branding Rep for Founder / CEO](https://www.linkedin.com/jobs/view/4446673163/) — iLa
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4449020858/) — Buckeye State Bank
+- 📍 **Location:** Powell, OH
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Development Director](https://www.linkedin.com/jobs/view/4448563041/) — Texas Freedom Network
+- 📍 **Location:** Texas, United States
+- 🕒 **Posted:** 2026-08-04
+
+### [Associate Vice President of Development](https://www.linkedin.com/jobs/view/4448542866/) — American Heart Association
+- 📍 **Location:** Waltham, MA
+- 💰 **Salary:** $88,320 to $117,875
+- 🕒 **Posted:** 2026-08-04
+
+### [Development Director](https://www.linkedin.com/jobs/view/4446675763/) — JCI Empresarios La Paz
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** USD $85,000 - $90,000
+- 🕒 **Posted:** 2026-08-04
+
+### [Development Director](https://www.linkedin.com/jobs/view/4448544784/) — Louise Hopkins Underwood Center for the Arts (LHUCA)
+- 📍 **Location:** Lubbock, TX
+- 💰 **Salary:** $55,000 - $60,000
+- 🕒 **Posted:** 2026-08-04
+
+### [TRIP DEVELOPMENT DIRECTOR](https://www.linkedin.com/jobs/view/4448532938/) — Iconic Adventures
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-04
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4448896986/) — Oliver Electric Construction, Inc.
-- 📍 **Location:** United States
+### [Director of Marketing and Communications](https://www.linkedin.com/jobs/view/4448540972/) — Johnson, Grossnickle and Associates
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-08-04
 
-### [Senior Vice President and Chief Operating Officer](https://www.linkedin.com/jobs/view/4429176524/) — Beth Israel Lahey Health
-- 📍 **Location:** Burlington, MA
-- 💰 **Salary:** $500,000.00 USD - $520,000.00 USD
+### [Director of Development](https://www.linkedin.com/jobs/view/4449025775/) — MHW Search
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $160,000.00/yr - $225,000.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Executive Assistant to CEO at Prominent Non-Profit, Arlington, VA (4 Weeks’ Paid Vacation)](https://www.linkedin.com/jobs/view/4446918809/) — C-SUITE ASSISTANTS
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $110,000.00/yr - $120,000.00/yr
+### [Development Director, School Engagement](https://www.linkedin.com/jobs/view/4448550735/) — American Heart Association
+- 📍 **Location:** Fairfax, VA
+- 💰 **Salary:** $61,500 to $80,000
 - 🕒 **Posted:** 2026-08-04
 
-### [Executive Assistant to the CEO (Marketing Focus)](https://www.linkedin.com/jobs/view/4446667340/) — Total Extended Care Services
-- 📍 **Location:** Hollywood, FL
+### [Development Director, School Engagement](https://www.linkedin.com/jobs/view/4448556064/) — American Heart Association
+- 📍 **Location:** Wenatchee, WA
+- 💰 **Salary:** $61,500 to $82,800
 - 🕒 **Posted:** 2026-08-04
 
-### [Executive Director of Flight Training Operations](https://www.linkedin.com/jobs/view/4440056783/) — Liberty University
-- 📍 **Location:** Lynchburg, VA
-- 💰 **Salary:** $100,000.00 - $135,000.00
+### [Development Director, School Engagement](https://www.linkedin.com/jobs/view/4448545866/) — American Heart Association
+- 📍 **Location:** Yakima, WA
+- 💰 **Salary:** $61,500 to $82,800
 - 🕒 **Posted:** 2026-08-04
 
-### [Executive Assistant to Chief Executive Officer](https://www.linkedin.com/jobs/view/4448533465/) — Gravity Staffing, Inc.
-- 📍 **Location:** Greenwich, CT
-- 💰 **Salary:** $150,000.00/yr - $225,000.00/yr
+### [Director of Operations, Health Analytics Practice](https://www.linkedin.com/jobs/view/4439806174/) — BRG
+- 📍 **Location:** Tampa, FL
 - 🕒 **Posted:** 2026-08-04
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4446681155/) — Schuylkill Center for Environmental Education
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $87,000-$92,000
+### [Director of Operations](https://www.linkedin.com/jobs/view/4442109177/) — Ivan and Mike Team
+- 📍 **Location:** Miami Beach, FL
 - 🕒 **Posted:** 2026-08-04
 
-### [Director of Development and Marketing Communications](https://www.linkedin.com/jobs/view/4448536464/) — The Salvation Army North & Central Illinois Division
-- 📍 **Location:** Menasha, WI
+### [Director of Operations](https://www.linkedin.com/jobs/view/4449017928/) — BMA Group Global
+- 📍 **Location:** Orlando, FL
 - 🕒 **Posted:** 2026-08-04
 
-### [Executive Director of Operations (Family and Community Engagement)](https://www.linkedin.com/jobs/view/4446668650/) — The School District of Philadelphia
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $92,792 - $145,039
+### [Director of Operations](https://www.linkedin.com/jobs/view/4446688064/) — Morgan Wilshire Securities
+- 📍 **Location:** Miami-Dade County, FL
 - 🕒 **Posted:** 2026-08-04
 
-### [Managing Director of Staff Benefits and Wellness (Immediate Opening)](https://www.linkedin.com/jobs/view/4448553285/) — IDEA Public Schools
-- 📍 **Location:** Hidalgo County, TX
+### [Executive Director/Administrator](https://www.linkedin.com/jobs/view/4448556172/) — Luminary Hospice
+- 📍 **Location:** Akron, OH
 - 🕒 **Posted:** 2026-08-04
 
-### [Director of Communications](https://www.linkedin.com/jobs/view/4440595186/) — Crown Equipment Corporation
-- 📍 **Location:** New Bremen, OH
+### [Executive Director](https://www.linkedin.com/jobs/view/4448576004/) — Nashville Civic Orchestra
+- 📍 **Location:** Nashville Metropolitan Area
 - 🕒 **Posted:** 2026-08-04
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4449013064/) — LumeFinder Labs
-- 📍 **Location:** United States
+### [Executive Director](https://www.linkedin.com/jobs/view/4448556029/) — HarmonyCares
+- 📍 **Location:** Dallas County, TX
 - 🕒 **Posted:** 2026-08-04
 
-### [Visit Mountaineer Country Convention & Visitors Bureau CEO & President](https://www.linkedin.com/jobs/view/4448545539/) — Visit Mountaineer Country CVB
-- 📍 **Location:** Morgantown, WV
+### [Executive Director](https://www.linkedin.com/jobs/view/4448539978/) — United Sorghum Checkoff Program
+- 📍 **Location:** Lubbock, TX
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Director](https://www.linkedin.com/jobs/view/4449008149/) — KIHOMAC
-- 📍 **Location:** Byron, GA
+### [National Program Director, Public Health, Clinical Solutions & Licensing](https://www.linkedin.com/jobs/view/4448539903/) — American Heart Association
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $135,000 to $145,000
+- 🕒 **Posted:** 2026-08-04
+
+### [National Program Director, Public Health, Clinical Solutions & Licensing](https://www.linkedin.com/jobs/view/4448545857/) — American Heart Association
+- 📍 **Location:** Irving, TX
+- 💰 **Salary:** $135,000 to $145,000
+- 🕒 **Posted:** 2026-08-04
+
+### [National Program Director, Public Health, Clinical Solutions & Licensing](https://www.linkedin.com/jobs/view/4448545865/) — American Heart Association
+- 📍 **Location:** Little Rock, AR
+- 💰 **Salary:** $135,000 to $145,000
+- 🕒 **Posted:** 2026-08-04
+
+### [Program Director for Construction Management (Owners Agent)](https://www.linkedin.com/jobs/view/4447721126/) — Parsons Corporation
+- 📍 **Location:** Norfolk, VA
+- 💰 **Salary:** $157,500.00 - $283,500.00
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Technical Program Director (Mission-Critical Infrastructure)](https://www.linkedin.com/jobs/view/4448544863/) — TalentBridge
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-08-04
+
+### [Director of Development](https://www.linkedin.com/jobs/view/4449039171/) — Figure Skating in Harlem, Inc.
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-04
