@@ -1,50 +1,75 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-04 19:14 UTC*
+*Last updated: 2026-08-04 21:09 UTC*
 
-**8 new role(s)** since last run · 67 total in last 24h
+**11 new role(s)** since last run · 66 total in last 24h
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=4bfb7393758eaf03) — The Women's Shelter of Central Arkansas, Inc.
-- 📍 **Location:** Conway, AR, US
+### [Home Lending Risk — Risk Strategy and Administration- Executive Director](https://www.indeed.com/viewjob?jk=340bf9349bc8401e) — JPMorganChase
+- 📍 **Location:** Columbus, OH, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-04
 
-### [Executive Adminitrative Assitant to CEO -Educational & Medical Nonprofit Organization](https://www.indeed.com/viewjob?jk=26754f91ac4a38bb) — Hearing & Speech Center of Florida
-- 📍 **Location:** Miami, FL, US
+### [Development Director](https://www.indeed.com/viewjob?jk=574d1c5f3844ab3b) — National Kidney Foundation
+- 📍 **Location:** Nashville, TN, US
+- 💰 **Salary:** $77k–$154k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-04
+
+### [Development Director](https://www.indeed.com/viewjob?jk=9e2971fe47c7bb87) — National Kidney Foundation
+- 📍 **Location:** Memphis, TN, US
+- 💰 **Salary:** $77k–$154k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-04
+
+### [Executive Director](https://www.indeed.com/viewjob?jk=92419324a750047d) — Unknown
+- 📍 **Location:** Sistersville, WV, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-04
 
-### [Front Office Coordinator & Assistant to President and CEO](https://www.indeed.com/viewjob?jk=1ba3e6da06a28c72) — Greater Flagstaff Chamber of Commerce
-- 📍 **Location:** Flagstaff, AZ, US
-- 💰 **Salary:** $44k–$47k/yr
+### [Executive Director](https://www.indeed.com/viewjob?jk=f62b51cf1f7aa2b0) — Family Connections
+- 📍 **Location:** Colliers, WV, US
+- 💰 **Salary:** $55k–$60k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-04
 
-### [Executive Director -Y at East Central](https://www.indeed.com/viewjob?jk=1e3491cc35011bab) — YMCA
-- 📍 **Location:** Tulsa, OK, US
-- 💰 **Salary:** $64k–$72k/yr
+### [Director of Operations](https://www.indeed.com/viewjob?jk=b6c6518c2c5b8b9e) — SGA Youth & Family
+- 📍 **Location:** Chicago, IL, US
+- 💰 **Salary:** $98k–$125k/yr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-04
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-07-28
 
-### [Deputy Director, Digital Fundraising & Advertising](https://www.indeed.com/viewjob?jk=d3ba33912eae54aa) — Southern Poverty Law Center
+### [Chief Development Officer](https://www.indeed.com/viewjob?jk=a80a368c714459fb) — Mary's Center
 - 📍 **Location:** Washington, DC, US
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-08-04
-
-### [Deputy Director, Digital Fundraising & Advertising](https://www.indeed.com/viewjob?jk=89622edef6faa3f0) — Southern Poverty Law Center
-- 📍 **Location:** Atlanta, GA, US
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-08-04
-
-### [Deputy Director, Digital Fundraising & Advertising](https://www.indeed.com/viewjob?jk=1983271053b41070) — Southern Poverty Law Center
-- 📍 **Location:** Montgomery, AL, US
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-08-04
-
-### [Program Director](https://www.indeed.com/viewjob?jk=e15d023363dbf1ff) — Sevita
-- 📍 **Location:** Devils Lake, ND, US
 - **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-04
+
+### [Director of Operations](https://www.indeed.com/viewjob?jk=be0d6c9cd051ca22) — Take Charge America
+- 📍 **Location:** Phoenix, AZ, US
+- 💰 **Salary:** $85k–$90k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-04
+
+### [IM Residency / Core Faculty & Associate Program Director Opportunities](https://www.indeed.com/viewjob?jk=0c7a5e57582b19e2) — HonorHealth
+- 📍 **Location:** Phoenix, AZ, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-04
+
+### [IM Residency / Core Faculty & Associate Program Director Opportunities](https://www.indeed.com/viewjob?jk=58943bb5cdff5c54) — HonorHealth
+- 📍 **Location:** Phoenix, AZ, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-04
+
+### [Director of Advancement](https://www.indeed.com/viewjob?jk=05f1042ee81a6239) — Farm & Wilderness Foundation
+- 📍 **Location:** Plymouth, VT, US
+- 💰 **Salary:** $90k–$100k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-04
