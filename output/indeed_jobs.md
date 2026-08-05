@@ -1,65 +1,67 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-05 19:13 UTC*
+*Last updated: 2026-08-05 21:01 UTC*
 
-**9 new role(s)** since last run · 59 total in last 24h
+**10 new role(s)** since last run · 59 total in last 24h
 
-### [Deputy Director](https://www.indeed.com/viewjob?jk=f04266c7925decb3) — Northeastern Illinois University
-- 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $90k–$95k/yr
+### [Executive Director](https://www.indeed.com/viewjob?jk=1ac0bb5064dab0cf) — Archdiocese of St. Paul & Minneapolis
+- 📍 **Location:** MN, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-05
 
-### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=93def3ddcce17a84) — FAVOR Greenville
-- 📍 **Location:** Greenville, SC, US
+### [Development Director](https://www.indeed.com/viewjob?jk=49e75c0cb260736a) — Washington Lawyers Committee
+- 📍 **Location:** Washington, DC, US
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-05
 
-### [Firmwide Marketing Finance - Executive Director](https://www.indeed.com/viewjob?jk=69498815607f9153) — JPMorganChase
-- 📍 **Location:** Wilmington, DE, US
-- 💰 **Salary:** $171k–$260k/yr
+### [Executive Director - Rockingham County](https://www.indeed.com/viewjob?jk=c2ccf028b78f3430) — YMCA of Greensboro
+- 📍 **Location:** Reidsville, NC, US
+- 💰 **Salary:** $84k–$88k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-05
+- 🕒 **Posted:** 2026-08-04
 
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=1713bfc432fec66d) — Kaemark Furnishings
-- 📍 **Location:** Giddings, TX, US
-- 💰 **Salary:** $200k–$250k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-05
-
-### [Deputy Chief Philanthropy Officer](https://www.indeed.com/viewjob?jk=43bfeef3eda3e763) — University of Utah
-- 📍 **Location:** Salt Lake City, UT, US
-- 💰 **Salary:** $225k–$240k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-03
-
-### [Director of Grants Administration](https://www.indeed.com/viewjob?jk=78e53fe3c7e4fd76) — UCP Seguin of Greater Chicago
-- 📍 **Location:** Cicero, IL, US
-- 💰 **Salary:** $80k–$90k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-05
-
-### [Director of Institutional Giving (Remote; Eastern Standard Time working hours required)](https://www.indeed.com/viewjob?jk=70b4cf0e8851d00f) — All Our Kin
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $100k–$110k/yr
+### [Director of Operations and Finance](https://www.indeed.com/viewjob?jk=e14df4bcd10cb4bb) — Nashville Business Incubation Center
+- 📍 **Location:** Goodlettsville, TN, US
+- 💰 **Salary:** $75k–$85k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-05
 
-### [Director of Development and Alumni Affairs](https://www.indeed.com/viewjob?jk=62f44b794d010cd6) — Yale University
-- 📍 **Location:** New Haven, CT, US
+### [Director of Development and Donor Relations](https://www.indeed.com/viewjob?jk=53456f2a72ef4f16) — Episcopal Social Services
+- 📍 **Location:** Wichita, KS, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-05
 
-### [Associate Director of Operations Finance](https://www.indeed.com/viewjob?jk=1fde31c69f800a11) — Yale University
-- 📍 **Location:** New Haven, CT, US
-- 💰 **Salary:** $105k–$174k/yr
+### [Director of Development for Principal Gift Strategies](https://www.indeed.com/viewjob?jk=a1834c5ce7e282b5) — University of North Carolina at Chapel Hill
+- 📍 **Location:** Chapel Hill, NC, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=b09440fed79c1ea8) — Magnum Electric Inc
+- 📍 **Location:** West Fargo, ND, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [Director of Operations, Southeast Region](https://www.indeed.com/viewjob?jk=b5b7655d7903efbb) — GAD Corporation (do not delete)
+- 📍 **Location:** Lakeland, FL, US
+- 💰 **Salary:** $180k–$240k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-07-28
+
+### [Director of Development](https://www.indeed.com/viewjob?jk=149d41fadc90ba93) — Unknown
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $89k–$101k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [Executive Director of Development and Alumni Relations](https://www.indeed.com/viewjob?jk=02d64192e07546d3) — University of Maryland, Baltimore
+- 📍 **Location:** Baltimore, MD, US
+- 💰 **Salary:** $131k–$145k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-05
