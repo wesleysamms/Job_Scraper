@@ -1,167 +1,116 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-05 00:31 UTC*
+*Last updated: 2026-08-05 03:52 UTC*
 
-**36 new role(s)** since last run · 36 total in last 1h
+**25 new role(s)** since last run · 25 total in last 1h
 
-### [Program Director](https://www.linkedin.com/jobs/view/4446685006/) — Samaritan Daytop Village, Inc.
-- 📍 **Location:** Queens, NY
-- 💰 **Salary:** $100,000-$110,000
+### [Stephen Segal – Chief Executive Officer, Iris Construction Management Inc.](https://www.linkedin.com/jobs/view/4449435945/) — 60 Second Podcast
+- 📍 **Location:** August, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Program Director](https://www.linkedin.com/jobs/view/4449415242/) — Services for the UnderServed
-- 📍 **Location:** Rockaway, NJ
+### [Director of Development](https://www.linkedin.com/jobs/view/4447347093/) — Schmidt Marine Technology Partners
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4448589820/) — UnitedHealth Group
-- 📍 **Location:** Waynesville, NC
-- 💰 **Salary:** $91,700 to $163,700 annually
-- 🕒 **Posted:** 2026-08-05
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4448906061/) — UnitedHealth Group
-- 📍 **Location:** Fort Wayne, IN
-- 💰 **Salary:** $91,700 to $163,700 annually
-- 🕒 **Posted:** 2026-08-05
-
-### [Executive Director RN](https://www.linkedin.com/jobs/view/4448905173/) — UnitedHealth Group
-- 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $81,776 to $122,664 annually
-- 🕒 **Posted:** 2026-08-05
-
-### [Executive Director - RN](https://www.linkedin.com/jobs/view/4448901769/) — UnitedHealth Group
-- 📍 **Location:** Scottsboro, AL
-- 💰 **Salary:** $77,472 to $116,208 annually
-- 🕒 **Posted:** 2026-08-05
-
-### [Executive Director of Human Resources, CCAPS Position Description](https://www.linkedin.com/jobs/view/4447306606/) — University of Minnesota
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $130,000 - $140,000 per year
-- 🕒 **Posted:** 2026-08-05
-
-### [Director of Development for Madison House](https://www.linkedin.com/jobs/view/4449414173/) — University of Virginia
-- 📍 **Location:** Charlottesville, VA
-- 💰 **Salary:** $110,000 - $120,000,
-- 🕒 **Posted:** 2026-08-05
-
-### [UMD Executive Director of Admissions](https://www.linkedin.com/jobs/view/4447312234/) — University of Minnesota
-- 📍 **Location:** Duluth, MN
-- 🕒 **Posted:** 2026-08-05
-
-### [Associate OR Senior Associate Director of Development for Architecture](https://www.linkedin.com/jobs/view/4446830715/) — University of Virginia
-- 📍 **Location:** Charlottesville, VA
-- 💰 **Salary:** $75k - $84k annually
-- 🕒 **Posted:** 2026-08-05
-
-### [Director of Operations 256670](https://www.linkedin.com/jobs/view/4447308527/) — Medix™
+### [Managing Director](https://www.linkedin.com/jobs/view/4447332543/) — KPMG US
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $125,000.00/yr - $150,000.00/yr
+- 💰 **Salary:** $245860 - $658260 K
 - 🕒 **Posted:** 2026-08-05
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4448586929/) — UnitedHealth Group
-- 📍 **Location:** Huntington, IN
-- 💰 **Salary:** $91,700 to $163,700 annually
+### [Managing Director](https://www.linkedin.com/jobs/view/4447332542/) — KPMG US
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $245860 - $658260 K
 - 🕒 **Posted:** 2026-08-05
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4449092854/) — HumanePro
-- 📍 **Location:** San Andreas, CA
-- 💰 **Salary:** $4–$5
-- 🕒 **Posted:** 2026-08-04
+### [Development Director](https://www.linkedin.com/jobs/view/4449427781/) — Breakthrough T1D
+- 📍 **Location:** Tustin, CA
+- 💰 **Salary:** $105k - $112k
+- 🕒 **Posted:** 2026-08-05
 
-### [Sr. VP of Development & Community Engagement](https://www.linkedin.com/jobs/view/4448901503/) — Planned Parenthood of Orange and San Bernardino Counties
-- 📍 **Location:** Anaheim, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Community Development Director](https://www.linkedin.com/jobs/view/4448208287/) — City of Delano, CA
-- 📍 **Location:** Delano, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [VP, Operations COO, Transformation, Metrics & Analytics](https://www.linkedin.com/jobs/view/4448594230/) — Morgan Stanley
+### [Managing Director](https://www.linkedin.com/jobs/view/4447323872/) — KPMG US
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $120,000.00-$172,500.00 per year
-- 🕒 **Posted:** 2026-08-04
+- 💰 **Salary:** $245860 - $658260 K
+- 🕒 **Posted:** 2026-08-05
 
-### [Regulatory Oversight and Management - Investment Management, Office of COO - Associate](https://www.linkedin.com/jobs/view/4437313550/) — Morgan Stanley
+### [Program Director](https://www.linkedin.com/jobs/view/4449436872/) — SimCorp
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-08-05
+
+### [Associate Director of Advancement, College of Arts and Sciences](https://www.linkedin.com/jobs/view/4445045017/) — University at Buffalo
+- 📍 **Location:** Buffalo, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Director of Development & Communications- Immunology and Immunotherapy](https://www.linkedin.com/jobs/view/4449429785/) — Mount Sinai Morningside
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
+- 💰 **Salary:** $86772 - $130159 Annually
+- 🕒 **Posted:** 2026-08-05
 
-### [Investment Banking Operations Officer (Vice President / Executive Director) - New York](https://www.linkedin.com/jobs/view/4437304782/) — Morgan Stanley
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
+### [Executive Director / Administrator](https://www.linkedin.com/jobs/view/4449447467/) — Americare Senior Living
+- 📍 **Location:** Washington, MO
+- 💰 **Salary:** $75,000–$90,000 annually
+- 🕒 **Posted:** 2026-08-05
 
-### [CHIEF OPERATING OFFICER](https://www.linkedin.com/jobs/view/4449089654/) — H1B Metrics
-- 📍 **Location:** Parsippany, NJ
-- 🕒 **Posted:** 2026-08-04
+### [Chief Executive Officer (CEO) - Interim](https://www.linkedin.com/jobs/view/4449432892/) — Wallowa County Chamber of Commerce
+- 📍 **Location:** Enterprise, NV
+- 🕒 **Posted:** 2026-08-05
 
-### [Executive Assistant to Chief Executive Officer](https://www.linkedin.com/jobs/view/4448582826/) — Addison Group
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-08-04
+### [Chief Executive Officer (CEO)](https://www.linkedin.com/jobs/view/4449444606/) — Wallowa County Chamber of Commerce
+- 📍 **Location:** Enterprise, NV
+- 🕒 **Posted:** 2026-08-05
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4448592652/) — Regency Pacific Management
-- 📍 **Location:** Bend, OR
-- 🕒 **Posted:** 2026-08-04
+### [Director of Operations](https://www.linkedin.com/jobs/view/4449447424/) — Mindspan Institute
+- 📍 **Location:** Cambridge, MA
+- 💰 **Salary:** $220,000 to $320,000
+- 🕒 **Posted:** 2026-08-05
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4448902210/) — Theatre Puget Sound
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $35.00 – $55.00 per hour
-- 🕒 **Posted:** 2026-08-04
+### [Managing Director](https://www.linkedin.com/jobs/view/4447333293/) — KPMG US
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-08-05
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4448585715/) — National Forum for Black Public Administrators (NFBPA)
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-08-04
+### [MANAGING DIRECTOR](https://www.linkedin.com/jobs/view/4448922912/) — Civilized People
+- 📍 **Location:** Montgomery County, PA
+- 🕒 **Posted:** 2026-08-05
 
-### [Executive Director Office of Apprenticeships](https://www.linkedin.com/jobs/view/4449400588/) — Community College of Rhode Island
-- 📍 **Location:** Warwick, RI
-- 💰 **Salary:** $129,000.00/yr - $129,000.00/yr
-- 🕒 **Posted:** 2026-08-04
+### [Managing Director](https://www.linkedin.com/jobs/view/4447341136/) — KPMG US
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $245860 - $658260 K
+- 🕒 **Posted:** 2026-08-05
 
-### [Project Manager (CEO)](https://www.linkedin.com/jobs/view/4449094951/) — VONNE (Voluntary Organisations' Network North East)
-- 📍 **Location:** Durham, NC
-- 🕒 **Posted:** 2026-08-04
-
-### [Director of Development, Spears School of Business](https://www.linkedin.com/jobs/view/4449407209/) — Oklahoma State University Foundation
-- 📍 **Location:** Stillwater, OK
-- 🕒 **Posted:** 2026-08-04
-
-### [Girls Inc. of Boston and Lynn–Chief Executive Officer](https://www.linkedin.com/jobs/view/4448585659/) — Girls Inc. of York Region
-- 📍 **Location:** Boston, MI
-- 🕒 **Posted:** 2026-08-04
-
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4449084818/) — Old Pueblo Community Services
-- 📍 **Location:** Tucson, AZ
-- 💰 **Salary:** $122,415.00/yr - $189,744.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Interim COO - OLHS Academic Medical Center](https://www.linkedin.com/jobs/view/4448900530/) — Ochsner LSU Health
-- 📍 **Location:** Shreveport, LA
-- 🕒 **Posted:** 2026-08-04
-
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4448585554/) — Beacon
+### [Vice President of Development](https://www.linkedin.com/jobs/view/4447321426/) — M.P.L. Manufacture de Peausserie de Luxe
 - 📍 **Location:** United States
-- 💰 **Salary:** $600K–$1
-- 🕒 **Posted:** 2026-08-04
+- 🕒 **Posted:** 2026-08-05
 
-### [Full-Time Deputy Director of Finance ($85,000-$95,000/yr)](https://www.linkedin.com/jobs/view/4447306542/) — Romulus Police Depar
-- 📍 **Location:** Deputy, IN
-- 💰 **Salary:** $85,000-$95,000/yr
-- 🕒 **Posted:** 2026-08-04
+### [Chief Operating Officer (COO) - Fort Wayne, IN](https://www.linkedin.com/jobs/view/4449427645/) — Lutheran Health Network
+- 📍 **Location:** Fort Wayne, IN
+- 🕒 **Posted:** 2026-08-05
 
-### [Senior Director of Development & Alumni Relations](https://www.linkedin.com/jobs/view/4448584661/) — Rung for Women
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-08-04
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4448232583/) — Colorado LiftED Foundation
+### [Director of Development](https://www.linkedin.com/jobs/view/4448932159/) — Denver Casa
 - 📍 **Location:** Denver, CO
-- 💰 **Salary:** $85,000–$100,000,
-- 🕒 **Posted:** 2026-08-04
+- 💰 **Salary:** $85,000 – $100,000
+- 🕒 **Posted:** 2026-08-05
 
-### [Workforce Capability & Talent Development Director](https://www.linkedin.com/jobs/view/4449405003/) — Dassault Systèmes
-- 📍 **Location:** Radnor, PA
-- 🕒 **Posted:** 2026-08-04
+### [Business Development Director – Power Markets - 1898 & Co.](https://www.linkedin.com/jobs/view/4447343061/) — 1898 & Co.
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $170,000.00-330,000.00
+- 🕒 **Posted:** 2026-08-05
 
-### [Executive Director of Business Operations](https://www.linkedin.com/jobs/view/4449403181/) — HumanePro
-- 📍 **Location:** Quincy, MA
-- 🕒 **Posted:** 2026-08-04
+### [P&G Professional, Communications & Industry Advocacy Director](https://www.linkedin.com/jobs/view/4400124281/) — Procter & Gamble
+- 📍 **Location:** Cincinnati, OH
+- 💰 **Salary:** $144,000.00 - $219,000.00
+- 🕒 **Posted:** 2026-08-05
 
-### [Director of Operations - East](https://www.linkedin.com/jobs/view/4446523351/) — OpenWorks | Facility Management
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-04
+### [Business Development Director – Power Markets - 1898 & Co.](https://www.linkedin.com/jobs/view/4447328726/) — 1898 & Co.
+- 📍 **Location:** Kansas City, MO
+- 💰 **Salary:** $170,000.00-330,000.00
+- 🕒 **Posted:** 2026-08-05
+
+### [Director of Communications (**Only Internal Applications Accepted** )](https://www.linkedin.com/jobs/view/4448922983/) — PRover
+- 📍 **Location:** Aurora, IN
+- 🕒 **Posted:** 2026-08-05
+
+### [Program Director, Aviation](https://www.linkedin.com/jobs/view/4448917765/) — TYLin
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-05
+
+### [Academic Professional Track (Non-Tenure): Clinical Open Rank, Family Medicine, San Antonio- Program Director](https://www.linkedin.com/jobs/view/4448927809/) — Texas A&M University
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-08-05
