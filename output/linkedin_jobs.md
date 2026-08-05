@@ -1,153 +1,196 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-05 19:10 UTC*
+*Last updated: 2026-08-05 20:58 UTC*
 
-**33 new role(s)** since last run · 33 total in last 1h
+**43 new role(s)** since last run · 44 total in last 1h
 
-### [Foundation Executive Director: Campaigns](https://www.linkedin.com/jobs/view/4382168110/) — Hoag Health System
-- 📍 **Location:** Newport Beach, CA
+### [EXECUTIVE DIRECTOR, BUSINESS SERVICES - BILINGUAL PREFERRED](https://www.linkedin.com/jobs/view/4449912328/) — Orange Unified School District
+- 📍 **Location:** Costa Mesa, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Matthew Crimi – President & CEO, Canada Welding Supply](https://www.linkedin.com/jobs/view/4449148457/) — CEO Global Network Podcast
-- 📍 **Location:** June Lake, CA
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4448039933/) — GACA CBO
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Chief Operating Officer (COO)](https://www.linkedin.com/jobs/view/4441855465/) — Human Ingenuity, Inc.
-- 📍 **Location:** Irwindale, CA
-- 💰 **Salary:** $215,000 - $230,000
+### [Director of Development](https://www.linkedin.com/jobs/view/4449901261/) — Sustainable Ocean Alliance
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4449683254/) — Atty & Partners LLC
-- 📍 **Location:** San Jose, CA
+### [Development Director](https://www.linkedin.com/jobs/view/4449198546/) — Friends of the Urban Forest
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $130,000 - $145,000
 - 🕒 **Posted:** 2026-08-05
 
-### [VP of Development and Marketing](https://www.linkedin.com/jobs/view/4449690603/) — Careers In Nonprofits
-- 📍 **Location:** Sonoma, CA
-- 💰 **Salary:** $150,000 - $170,000
+### [Director of Development](https://www.linkedin.com/jobs/view/4431436303/) — Braille Institute of America
+- 📍 **Location:** Anaheim, CA
+- 💰 **Salary:** $110,000.00/yr - $125,000.00/yr
 - 🕒 **Posted:** 2026-08-05
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4449161517/) — mmTron
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4449162128/) — Iva Tech
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4449915165/) — Custom Automation
 - 📍 **Location:** New York, United States
 - 🕒 **Posted:** 2026-08-05
 
-### [Deputy Director of Operations and Care Service - Mansion Fifth Avenue](https://www.linkedin.com/jobs/view/4449141587/) — Cartier
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000 to $220,000
+### [Program Director (La Central YMCA)](https://www.linkedin.com/jobs/view/4449037938/) — YMCA of Greater New York
+- 📍 **Location:** Bronx, NY
 - 🕒 **Posted:** 2026-08-05
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4449686500/) — Watchdog Power Systems
-- 📍 **Location:** New York, United States
+### [Program Director (Broadway YMCA)](https://www.linkedin.com/jobs/view/4449913410/) — YMCA of Greater New York
+- 📍 **Location:** Staten Island, NY
+- 💰 **Salary:** $66,300 - $68,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Chief Operating Officer (COO), for Citi’s firm-wide AI team](https://www.linkedin.com/jobs/view/4440230790/) — Citi
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $250,000.00 - $500,000.00
+### [Director of Development & Communications](https://www.linkedin.com/jobs/view/4448556364/) — Climate Emergency Fund
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $120,000 - $140,000,
 - 🕒 **Posted:** 2026-08-05
 
-### [Regulatory Oversight and Management - Investment Management, Office of COO - Associate](https://www.linkedin.com/jobs/view/4437313550/) — Morgan Stanley
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-05
-
-### [District Director of Operations](https://www.linkedin.com/jobs/view/4449406706/) — Bon Appétit Management Company
+### [Managing Director & Head of Private Assets and Alternative Investments](https://www.linkedin.com/jobs/view/4446684648/) — Charles Schwab
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-05
 
-### [Director, Market, Risk & Securities Data Lead - COO Group](https://www.linkedin.com/jobs/view/4449682647/) — RBC
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $180,000 - $250,000,
+### [Executive Director](https://www.linkedin.com/jobs/view/4449188819/) — Friends For Sight
+- 📍 **Location:** Cottonwood Heights, UT
+- 💰 **Salary:** $84,000–$104,000 annually
 - 🕒 **Posted:** 2026-08-05
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4448044772/) — Atlas Ventures
-- 📍 **Location:** United States
+### [Executive Director](https://www.linkedin.com/jobs/view/4447795714/) — Shelter Alliance
+- 📍 **Location:** Chestertown, MD
+- 💰 **Salary:** $65,000- $73,500 annually
 - 🕒 **Posted:** 2026-08-05
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4449668709/) — The Johnny Appleseed Educational Center and Museum
-- 📍 **Location:** Urbana, OH
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4449691973/) — Sandhills Habitat
+- 📍 **Location:** Southern Pines, NC
 - 🕒 **Posted:** 2026-08-05
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4449144969/) — LCS
-- 📍 **Location:** Hendersonville, TN
-- 💰 **Salary:** $125,000 - $145,000
+### [Managing Director, Science, Technology and Public Policy program](https://www.linkedin.com/jobs/view/4449905485/) — University of Michigan
+- 📍 **Location:** Ann Arbor, MI
+- 💰 **Salary:** $90,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-08-05
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4439096599/) — Grace Management, Inc.
-- 📍 **Location:** Tucson, AZ
-- 💰 **Salary:** $130,000.00/yr - $140,000.00/yr
+### [Centergy - President & Chief Executive Officer](https://www.linkedin.com/jobs/view/4449187962/) — Employment Resource Group, Inc. An EOS company
+- 📍 **Location:** Wausau-Stevens Point Area
 - 🕒 **Posted:** 2026-08-05
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4438656617/) — Grace Management, Inc.
-- 📍 **Location:** Tucson, AZ
-- 💰 **Salary:** $130,000.00/yr - $145,000.00/yr
+### [Director of Operations](https://www.linkedin.com/jobs/view/4449698370/) — Eagle's Landing First Baptist Church
+- 📍 **Location:** Atlanta Metropolitan Area
 - 🕒 **Posted:** 2026-08-05
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4449675569/) — Caring for Family of Companies
-- 📍 **Location:** Salem, OR
-- 💰 **Salary:** $70,000 - $80,000
+### [Chief Operating Officer (COO) - Fort Wayne, IN](https://www.linkedin.com/jobs/view/4448605768/) — Lutheran Health Network
+- 📍 **Location:** Fort Wayne, IN
 - 🕒 **Posted:** 2026-08-05
 
-### [Licensed Executive Director](https://www.linkedin.com/jobs/view/4448038802/) — Harmony Senior Services
-- 📍 **Location:** Laurel, MD
+### [Managing Director & Head of Private Assets and Alternative Investments](https://www.linkedin.com/jobs/view/4447303132/) — Charles Schwab
+- 📍 **Location:** Lone Tree, CO
 - 🕒 **Posted:** 2026-08-05
 
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4422197333/) — Habitat for Humanity International
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $138,800.00 - $143,800.00
+### [Director of Operations, Washington, DC](https://www.linkedin.com/jobs/view/4449912428/) — University of Michigan
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $120,000.00/yr - $135,000.00/yr
 - 🕒 **Posted:** 2026-08-05
 
-### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4449172439/) — Savanna Institute
-- 📍 **Location:** Wisconsin, United States
-- 💰 **Salary:** $75,000-$87,000,
+### [Innovation Development Director - Midwest Region (MWR)](https://www.linkedin.com/jobs/view/4449309055/) — Burns & McDonnell
+- 📍 **Location:** Akron, OH
+- 💰 **Salary:** $310,000.00-375,000.00
 - 🕒 **Posted:** 2026-08-05
 
-### [Development Director](https://www.linkedin.com/jobs/view/4449163540/) — Chesterton Academy of St. Philip Neri
-- 📍 **Location:** Kansas City Metropolitan Area
+### [Executive Assistant to the President|CEO and Corporate Secretary](https://www.linkedin.com/jobs/view/4449902542/) — Gulf Coast Community Foundation
+- 📍 **Location:** Venice, FL
+- 💰 **Salary:** $70,000-$90,000,
 - 🕒 **Posted:** 2026-08-05
 
-### [Deputy Director, Catalyze479 Fund](https://www.linkedin.com/jobs/view/4448046761/) — Arctic Stabilization Initiative
-- 📍 **Location:** Indiana, United States
-- 💰 **Salary:** $135,000–$150,000
+### [Development Director](https://www.linkedin.com/jobs/view/4449912486/) — Timbers Company
+- 📍 **Location:** Winter Park, FL
 - 🕒 **Posted:** 2026-08-05
 
-### [Deputy Director - Finance & Administration](https://www.linkedin.com/jobs/view/4449160435/) — Cultivating Community
-- 📍 **Location:** Portland, ME
-- 💰 **Salary:** $75-$80,000,
+### [Director of Advancement](https://www.linkedin.com/jobs/view/4449901080/) — Maryland Nonprofits
+- 📍 **Location:** Owings Mills, MD
+- 💰 **Salary:** $110,000–$130,000
 - 🕒 **Posted:** 2026-08-05
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4424741286/) — PureSky Energy
-- 📍 **Location:** Illinois, United States
-- 💰 **Salary:** $140,000 - $170,000 USD
+### [Associate Director of Development, Events](https://www.linkedin.com/jobs/view/4446856176/) — The University of Texas at Austin
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-08-05
 
-### [Development Director](https://www.linkedin.com/jobs/view/4442904499/) — Macdonald & Company
-- 📍 **Location:** Phoenix, AZ
+### [Director of Development](https://www.linkedin.com/jobs/view/4449699180/) — International Arts & Artists
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $85,000 - $110,000 per year
 - 🕒 **Posted:** 2026-08-05
 
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4449168082/) — At The Well Project
-- 📍 **Location:** United States
-- 💰 **Salary:** $175,000-200,000
+### [Development Director](https://www.linkedin.com/jobs/view/4449908099/) — Washington Lawyers' Committee for Civil Rights and Urban Affairs
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-08-05
 
-### [Deputy Executive Director](https://www.linkedin.com/jobs/view/4446540330/) — Harris County
-- 📍 **Location:** Houston, TX
+### [Deputy Director, People and Talent Operations](https://www.linkedin.com/jobs/view/4449902071/) — Committee to Protect Journalists
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-05
 
-### [Lecturer and Graduate Program Director - Instructional Design/Critical and Creative Thinking](https://www.linkedin.com/jobs/view/4422081265/) — UMass Boston
+### [Deputy Director of Capital Program Planning and Analysis](https://www.linkedin.com/jobs/view/4449191965/) — MBTA
 - 📍 **Location:** Greater Boston
 - 🕒 **Posted:** 2026-08-05
 
-### [Director of Operations: Abercrombie Country Club](https://www.linkedin.com/jobs/view/4449130975/) — PGA of Canada Atlantic
-- 📍 **Location:** Abercrombie, ND
+### [Executive Director](https://www.linkedin.com/jobs/view/4446001655/) — The Children's TherAplay Foundation, Inc.
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-08-05
 
-### [Director of Operations - $2B firm overall - Phoenix, AZ](https://www.linkedin.com/jobs/view/4449690443/) — Michael Page
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+### [Innovation Development Director - Midwest Region (MWR)](https://www.linkedin.com/jobs/view/4449303701/) — Burns & McDonnell
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $310,000.00-375,000.00
 - 🕒 **Posted:** 2026-08-05
 
-### [Director of Development and Alumni Affairs](https://www.linkedin.com/jobs/view/4448035928/) — Yale University
-- 📍 **Location:** New Haven, CT
-- 💰 **Salary:** $0.00 - $0.00
+### [Innovation Development Director - Midwest Region (MWR)](https://www.linkedin.com/jobs/view/4449302703/) — Burns & McDonnell
+- 📍 **Location:** St Louis, MO
+- 💰 **Salary:** $310,000.00-375,000.00
+- 🕒 **Posted:** 2026-08-05
+
+### [Director of Development, Gift Planning](https://www.linkedin.com/jobs/view/4448078146/) — University of South Florida
+- 📍 **Location:** Tampa, FL
+- 🕒 **Posted:** 2026-08-05
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4449679888/) — Teksky LLC
+- 📍 **Location:** Miami Beach, FL
+- 🕒 **Posted:** 2026-08-05
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4449693612/) — Chick-fil-A of Boiling Springs and Spartanburg
+- 📍 **Location:** Spartanburg, SC
+- 🕒 **Posted:** 2026-08-05
+
+### [Director of Operations, Southeast Region](https://www.linkedin.com/jobs/view/4449199710/) — Integrated Power Services
+- 📍 **Location:** Lakeland, FL
+- 💰 **Salary:** $180,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Director of Operations, Southeast Region](https://www.linkedin.com/jobs/view/4449301704/) — Integrated Power Services
+- 📍 **Location:** Lakeland, FL
+- 💰 **Salary:** $180,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Director of Operations, Southeast Region](https://www.linkedin.com/jobs/view/4449190876/) — Integrated Power Services
+- 📍 **Location:** Lakeland, FL
+- 💰 **Salary:** $180,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Managing Director - Transmission Siting, Outreach, and Right of Way (SOAR)](https://www.linkedin.com/jobs/view/4448068128/) — American Electric Power
+- 📍 **Location:** Corpus Christi, TX
+- 💰 **Salary:** $188,524.00 - $245,080.00
+- 🕒 **Posted:** 2026-08-05
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4449194784/) — Sagora Senior Living
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-08-05
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4449189662/) — Barefoot Student
+- 📍 **Location:** Salida, CO
+- 🕒 **Posted:** 2026-08-05
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4448074092/) — Green Oaks Senior Living
+- 📍 **Location:** Libertyville, IL
+- 💰 **Salary:** $125,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Executive Director / Administrator](https://www.linkedin.com/jobs/view/4449900231/) — Americare Senior Living
+- 📍 **Location:** Joplin, MO
+- 💰 **Salary:** $75,000–$80,000 annually
+- 🕒 **Posted:** 2026-08-05
+
+### [Executive Director, Operations and Sustainment](https://www.linkedin.com/jobs/view/4449306141/) — DLA Careers
+- 📍 **Location:** Fort Belvoir, VA
 - 🕒 **Posted:** 2026-08-05
