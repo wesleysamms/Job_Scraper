@@ -1,67 +1,103 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-05 21:01 UTC*
+*Last updated: 2026-08-05 22:48 UTC*
 
-**10 new role(s)** since last run · 59 total in last 24h
+**15 new role(s)** since last run · 62 total in last 24h
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=1ac0bb5064dab0cf) — Archdiocese of St. Paul & Minneapolis
-- 📍 **Location:** MN, US
+### [Executive Director Museum on Main](https://www.indeed.com/viewjob?jk=534a0fdc24755841) — Museum On Main
+- 📍 **Location:** Pleasanton, CA, US
+- 💰 **Salary:** $80k–$85k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-05
 
-### [Development Director](https://www.indeed.com/viewjob?jk=49e75c0cb260736a) — Washington Lawyers Committee
-- 📍 **Location:** Washington, DC, US
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-05
-
-### [Executive Director - Rockingham County](https://www.indeed.com/viewjob?jk=c2ccf028b78f3430) — YMCA of Greensboro
-- 📍 **Location:** Reidsville, NC, US
-- 💰 **Salary:** $84k–$88k/yr
+### [Chief of Community Programs and Partnerships (0952 - Deputy Director II) - San Francisco Public Library](https://www.indeed.com/viewjob?jk=6e7f0644bde35cc1) — City and County of San Francisco
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $161k–$206k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-04
+- 🕒 **Posted:** 2026-08-05
 
-### [Director of Operations and Finance](https://www.indeed.com/viewjob?jk=e14df4bcd10cb4bb) — Nashville Business Incubation Center
-- 📍 **Location:** Goodlettsville, TN, US
+### [Executive Assistant to CEO](https://www.indeed.com/viewjob?jk=9e4db2e426e3c36e) — NAPA INSTITUTE
+- 📍 **Location:** Irvine, CA, US
 - 💰 **Salary:** $75k–$85k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [Managing Director, STEER](https://www.indeed.com/viewjob?jk=0cc9ef630dd5a612) — Stanford University
+- 📍 **Location:** Stanford, CA, US
+- 💰 **Salary:** $140k–$250k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [Director of Development for Athletics](https://www.indeed.com/viewjob?jk=09b606ca86a5297b) — California State University
+- 📍 **Location:** San Luis Obispo, CA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [Business Relationship Area Manager - Executive Director](https://www.indeed.com/viewjob?jk=af26bc28d1bec4d4) — JPMorganChase
+- 📍 **Location:** Bronx, NY, US
+- 💰 **Salary:** $152k–$205k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [Director of Development](https://www.indeed.com/viewjob?jk=fd0b21263ce7fb06) — Waveny Care Network
+- 📍 **Location:** New Canaan, CT, US
+- 💰 **Salary:** $120k–$130k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-05
+
+### [Executive Director](https://www.indeed.com/viewjob?jk=c604fa427dbf9eba) — Unknown
+- 📍 **Location:** Murfreesboro, TN, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [Experience Design Executive Director](https://www.indeed.com/viewjob?jk=9f335033f4929add) — JPMorganChase
+- 📍 **Location:** Wilmington, DE, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [Chief Operating Officer - Lincoln or Omaha/In-Person](https://www.indeed.com/viewjob?jk=1ffab87e208d03fd) — Be Well Clinical Studies and Be Well MD
+- 📍 **Location:** Lincoln, NE, US
+- 💰 **Salary:** $110k–$160k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [Chief Advancement Officer](https://www.indeed.com/viewjob?jk=11ba182e9531fc47) — Pioneer Bible Translators
+- 📍 **Location:** Dallas, TX, US
+- 💰 **Salary:** $90k–$95k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-05
 
-### [Director of Development and Donor Relations](https://www.indeed.com/viewjob?jk=53456f2a72ef4f16) — Episcopal Social Services
-- 📍 **Location:** Wichita, KS, US
+### [Executive Director - Finance & Accounting Svcs](https://www.indeed.com/viewjob?jk=53dc318207218c33) — North East Independent School District
+- 📍 **Location:** San Antonio, TX, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-05
 
-### [Director of Development for Principal Gift Strategies](https://www.indeed.com/viewjob?jk=a1834c5ce7e282b5) — University of North Carolina at Chapel Hill
-- 📍 **Location:** Chapel Hill, NC, US
+### [Director of Development](https://www.indeed.com/viewjob?jk=4218d76ae910c85c) — Western Carolina Rescue Ministries
+- 📍 **Location:** Shelby, NC, US
+- 💰 **Salary:** $45k–$50k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [Regional Director of Operations ABA Therapy Clinics (Franchise Business Consultant)](https://www.indeed.com/viewjob?jk=b3bf8bf5d5c07d09) — ACT Franchising Corporation
+- 📍 **Location:** US
+- 💰 **Salary:** $100k–$120k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-05
 
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=b09440fed79c1ea8) — Magnum Electric Inc
-- 📍 **Location:** West Fargo, ND, US
+### [Program Director | Adolescent & Family Services](https://www.indeed.com/viewjob?jk=567dbca24d595c8f) — Gandara Center
+- 📍 **Location:** Springfield, MA, US
+- 💰 **Salary:** $71k–$75k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-05
-
-### [Director of Operations, Southeast Region](https://www.indeed.com/viewjob?jk=b5b7655d7903efbb) — GAD Corporation (do not delete)
-- 📍 **Location:** Lakeland, FL, US
-- 💰 **Salary:** $180k–$240k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-07-28
-
-### [Director of Development](https://www.indeed.com/viewjob?jk=149d41fadc90ba93) — Unknown
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $89k–$101k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-05
-
-### [Executive Director of Development and Alumni Relations](https://www.indeed.com/viewjob?jk=02d64192e07546d3) — University of Maryland, Baltimore
-- 📍 **Location:** Baltimore, MD, US
-- 💰 **Salary:** $131k–$145k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-05
