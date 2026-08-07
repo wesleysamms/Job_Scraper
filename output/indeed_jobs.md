@@ -1,58 +1,51 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-07 18:35 UTC*
+*Last updated: 2026-08-07 19:43 UTC*
 
-**8 new role(s)** since last run · 57 total in last 24h
+**7 new role(s)** since last run · 60 total in last 24h
 
-### [DEPUTY DIRECTOR OF FINANCE](https://www.indeed.com/viewjob?jk=d21aceccde37db1a) — City and County of San Francisco
-- 📍 **Location:** San Francisco, CA, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-07
-
-### [Director of Development](https://www.indeed.com/viewjob?jk=319ceea9808da2cb) — ACDS, Inc.
-- 📍 **Location:** Plainview, NY, US
-- 💰 **Salary:** $120k–$140k/yr
+### [Executive Director](https://www.indeed.com/viewjob?jk=75cd9b0f4c5daffd) — Unknown
+- 📍 **Location:** Steamboat Springs, CO, US
+- 💰 **Salary:** $70k–$80k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-07
 
-### [Assistant Director of Fundraising, Community Events](https://www.indeed.com/viewjob?jk=9f827cb9daeec736) — National Multiple Sclerosis Society
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $70k–$75k/yr
+### [Executive Director](https://www.indeed.com/viewjob?jk=0771d9152f450a88) — Unknown
+- 📍 **Location:** Steamboat Springs, CO, US
+- 💰 **Salary:** $70k–$80k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-07
 
-### [Director of Development](https://www.indeed.com/viewjob?jk=706e687f77577db8) — Play It Forward
-- 📍 **Location:** Portland, OR, US
-- 💰 **Salary:** $80k–$85k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-07
-
-### [Chief Executive Officer/Co-Founder](https://www.indeed.com/viewjob?jk=679fd4e1ce344c21) — Buggcy
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $100k–$150k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-07
-
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=33d525f27ca47025) — Western Washington Medical Group
-- 📍 **Location:** Everett, WA, US
-- 💰 **Salary:** $200k–$300k/yr
+### [Director of Operations](https://www.indeed.com/viewjob?jk=70b5af83d57c6a23) — Georgia Options, Inc.
+- 📍 **Location:** Athens, GA, US
+- 💰 **Salary:** $85k–$95k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-07
 
-### [Deputy Policy Director, UW Medicine](https://www.indeed.com/viewjob?jk=26c8895e0397d891) — University Of Washington
-- 📍 **Location:** Seattle, WA, US
-- 💰 **Salary:** $92k–$138k/yr
+### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=c764700618aaf2f9) — Dwelling Place of Grand Rapids
+- 📍 **Location:** Grand Rapids, MI, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-07
 
-### [Residential Program Director I](https://www.indeed.com/viewjob?jk=0561e16874a73271) — Vinfen
-- 📍 **Location:** North Andover, MA, US
+### [Director of Marketing and Communications](https://www.indeed.com/viewjob?jk=6b9b759d42bfde03) — The Institute of Navigation
+- 📍 **Location:** Manassas, VA, US
+- 💰 **Salary:** $130k–$150k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-07-31
+- 🕒 **Posted:** 2026-08-07
+
+### [Chief Executive Officer for Non-Profit Oneonta and/or Binghamton, NY](https://www.indeed.com/viewjob?jk=4b7a322340ba965e) — Family Planning of South Central New York, Inc.
+- 📍 **Location:** Oneonta, NY, US
+- 💰 **Salary:** $125k–$135k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-07
+
+### [Hospice RN Executive Director II](https://www.indeed.com/viewjob?jk=e45c2d6ce1c9ad1d) — Gentiva
+- 📍 **Location:** Statesboro, GA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
