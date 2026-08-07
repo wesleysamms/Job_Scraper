@@ -1,85 +1,121 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-07 04:24 UTC*
+*Last updated: 2026-08-07 16:39 UTC*
 
-**13 new role(s)** since last run · 49 total in last 24h
+**18 new role(s)** since last run · 50 total in last 24h
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=4de9f40791cd0a21) — North Bay Regional Center
-- 📍 **Location:** Napa, CA, US
-- 💰 **Salary:** $230k–$270k/yr
+### [Director of Development](https://www.indeed.com/viewjob?jk=efae375f7a5dac25) — Mount Madonna School
+- 📍 **Location:** Watsonville, CA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-07
+
+### [Deputy Executive Director](https://www.indeed.com/viewjob?jk=5937bbbb0d1270b9) — University of California - Santa Cruz
+- 📍 **Location:** Santa Cruz, CA, US
+- 💰 **Salary:** $212k–$238k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-06
+
+### [Temp Program Director - Overnight](https://www.indeed.com/viewjob?jk=6c14cd73d05faa88) — LifeMoves
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $82k–$115k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-05
+
+### [DEPUTY DIRECTOR, RECORDS](https://www.indeed.com/viewjob?jk=1a4bfb11388b78ff) — Office of Emergency Management
+- 📍 **Location:** Brooklyn, NY, US
+- 💰 **Salary:** $94k–$101k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-07
+
+### [Executive Director](https://www.indeed.com/viewjob?jk=9c4138b0468fcf55) — Wenatchee Valley Chamber of Commerce
+- 📍 **Location:** Wenatchee, WA, US
+- 💰 **Salary:** $98k–$110k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-07
+
+### [Director of Development and Advancement](https://www.indeed.com/viewjob?jk=66c3ba2fefd03325) — Southern Alleghenies Museum of Art
+- 📍 **Location:** Altoona, PA, US
+- 💰 **Salary:** $60k–$75k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-07
+
+### [Director of Philanthropy](https://www.indeed.com/viewjob?jk=f4c631c483cba338) — ServiceSource Inc.
+- 📍 **Location:** Oakton, VA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-07
+
+### [Program Director](https://www.indeed.com/viewjob?jk=c75e70e31b6e5aa7) — Camp Champions
+- 📍 **Location:** Baltimore, MD, US
+- 💰 **Salary:** $23–$25/hr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-07
+
+### [Stanton Program - Product Delivery, Executive Director](https://www.indeed.com/viewjob?jk=cf5605139f9ed17c) — JPMorganChase
+- 📍 **Location:** Columbus, OH, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-07
+
+### [Executive Director and Military Outreach](https://www.indeed.com/viewjob?jk=8fd6231a207eec2e) — YMCA
+- 📍 **Location:** Colorado Springs, CO, US
+- 💰 **Salary:** $74k–$82k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-07
+
+### [Deputy Director](https://www.indeed.com/viewjob?jk=19dd7dc3a96a1454) — Oregon Metro
+- 📍 **Location:** OR, US
+- 💰 **Salary:** $181k–$231k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-06
+
+### [HPM Advancement Director](https://www.indeed.com/viewjob?jk=4888fb2cd328d8f8) — University of Houston
+- 📍 **Location:** Houston, TX, US
+- 💰 **Salary:** $75k–$100k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-07
+
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=1dd520bd3c63d1bf) — Select Specialty Hospital
+- 📍 **Location:** Davenport, IA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-06
 
-### [Executive Assistant to CEO of Napa Institute](https://www.indeed.com/viewjob?jk=bf280f68d5c11aa0) — NAPA INSTITUTE
-- 📍 **Location:** Irvine, CA, US
-- 💰 **Salary:** $75k–$85k/yr
+### [Chief Executive Officer, ProviderSoft](https://www.indeed.com/viewjob?jk=c8d7865e38bd9641) — Jonas Software
+- 📍 **Location:** Remote, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-05-11
+
+### [Executive Director - Bakersfield](https://www.indeed.com/viewjob?jk=df19b229b9abafb3) — Parent Institute for Quality Education
+- 📍 **Location:** US
+- 💰 **Salary:** $90k–$93k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-06
 
-### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=893eb4200a8ae128) — Coyote Valley Casino
-- 📍 **Location:** Redwood Valley, CA, US
-- 💰 **Salary:** $225k–$275k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-06
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=2c4171d28f248926) — Rogue Solutions Accounting
-- 📍 **Location:** Grants Pass, OR, US
+### [Interim Nursing Home Administrator (NHA)/Executive Director](https://www.indeed.com/viewjob?jk=ffff6cdb82aedb76) — Woodstock Valley Health and Rehabilitation
+- 📍 **Location:** Woodstock, VA, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-07
 
-### [Chief Executive Officer (CEO)](https://www.indeed.com/viewjob?jk=caad6d6880ed843e) — Coos County Family Health Services
-- 📍 **Location:** Gorham, NH, US
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Managing Director, Product Training](https://www.indeed.com/viewjob?jk=984ae16f2cf42a35) — Elixir Technologies
+- 📍 **Location:** US
+- 💰 **Salary:** $120k–$150k/yr
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-08-06
 
-### [Director of Operations](https://www.indeed.com/viewjob?jk=fb329382aa1dba19) — CARROLL COUNTY PUBLIC LIBRARY
-- 📍 **Location:** New Windsor, MD, US
-- 💰 **Salary:** $93k–$153k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-06
-
-### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=2f0332ddc5d08ab1) — Aviva Health
-- 📍 **Location:** Roseburg, OR, US
-- **Work mode:** On-site
+### [Executive Director, Executive Education (Bauer College)](https://www.indeed.com/viewjob?jk=7083ba760bebdb48) — University of Houston
+- 📍 **Location:** Houston, TX, US
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-07
-
-### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=1fd97323ae35b5be) — United Ability, Inc.
-- 📍 **Location:** Birmingham, AL, US
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-06
-
-### [Deputy Director (Chief Data Officer)](https://www.indeed.com/viewjob?jk=f2fbb0fde89046cc) — State of Ohio
-- 📍 **Location:** Columbus, OH, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-06
-
-### [Director of Development](https://www.indeed.com/viewjob?jk=1e35a86b24fc3088) — El Programa Hispano Católico
-- 📍 **Location:** Gresham, OR, US
-- 💰 **Salary:** $115k–$125k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-06
-
-### [Associate Director or Director of Development in Engineering](https://www.indeed.com/viewjob?jk=e4b0b8bff09c900d) — Utah State University
-- 📍 **Location:** Logan, UT, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-06
-
-### [Deputy Director, Digital Advertising and Marketing](https://www.indeed.com/viewjob?jk=88c4c915e065e034) — World Food Program USA
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $109k–$114k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-06
-
-### [Managing Director, Waisman Biomanufacturing](https://www.indeed.com/viewjob?jk=19da2e53148031c8) — University of Wisconsin–Madison
-- 📍 **Location:** Madison, WI, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-06
