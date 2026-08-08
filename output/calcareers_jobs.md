@@ -1,5 +1,5 @@
 # 🏛 CalCareers — California State Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-07 17:06 UTC*
+*Last updated: 2026-08-08 16:52 UTC*
 
 **0 new role(s)** since last run · 2 total in current CalCareers postings
 
