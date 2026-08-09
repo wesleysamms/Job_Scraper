@@ -1,26 +1,36 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-09 04:51 UTC*
+*Last updated: 2026-08-09 16:04 UTC*
 
-**5 new role(s)** since last run · 6 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Executive Director, Corporate Strategy & Intelligence](https://www.linkedin.com/jobs/view/4451325510/) — BioSpace
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $287,980-$346,060
+### [Executive Director, Commercial Products](https://www.linkedin.com/jobs/view/4382718145/) — L.A. Care Health Plan
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-08-09
 
-### [Program Director - PA Program - Mercy College](https://www.linkedin.com/jobs/view/4451316930/) — Mercy Health
-- 📍 **Location:** Toledo, OH
+### [Vice President of Development and External Affairs](https://www.linkedin.com/jobs/view/4449520272/) — MDS Foundation, Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $120,000–$150,000,
 - 🕒 **Posted:** 2026-08-09
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4451318676/) — Avista Senior Living
-- 📍 **Location:** Phoenix, AZ
+### [Managing Director of Operations](https://www.linkedin.com/jobs/view/4449512445/) — NurTech Semiconductor, LLC.
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-09
 
-### [President, CEO](https://www.linkedin.com/jobs/view/4451332041/) — BioSpace
-- 📍 **Location:** Cincinnati, OH
+### [EY-Parthenon - Investment Banking - Healthcare - Payor Services - Managing Director](https://www.linkedin.com/jobs/view/4431024326/) — EY-Parthenon
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $265,000 to $325,000
 - 🕒 **Posted:** 2026-08-09
 
-### [Senior/Executive Director Global Medical Affairs - Breast Franchise](https://www.linkedin.com/jobs/view/4451333025/) — BioSpace
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $198,000 - $356,400
+### [EY-Parthenon- Investment Banking - MedTech - Managing Director](https://www.linkedin.com/jobs/view/4431008639/) — EY-Parthenon
+- 📍 **Location:** Cleveland, OH
+- 💰 **Salary:** $265,000 to $325,000
+- 🕒 **Posted:** 2026-08-09
+
+### [Transformation Program Director](https://www.linkedin.com/jobs/view/4450643622/) — Dextpro
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-09
+
+### [Executive Director, Intellectual Property](https://www.linkedin.com/jobs/view/4434051815/) — Kardigan
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $280,000 - $381,000 USD
 - 🕒 **Posted:** 2026-08-09
