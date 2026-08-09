@@ -1,6 +1,6 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-09 22:16 UTC*
+*Last updated: 2026-08-09 23:17 UTC*
 
-**0 new role(s)** since last run · 9 total in last 24h
+**0 new role(s)** since last run · 7 total in last 24h
 
 No new roles since the last run.
