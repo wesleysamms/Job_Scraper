@@ -1,20 +1,24 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-09 20:04 UTC*
+*Last updated: 2026-08-09 21:05 UTC*
 
-**4 new role(s)** since last run · 13 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Executive Director of Marketing and Communications for Alumni and Development](https://www.linkedin.com/jobs/view/4451359558/) — Hofstra University
-- 📍 **Location:** Hempstead, NY
+### [Deputy Director of Capital Program Planning and Analysis](https://www.linkedin.com/jobs/view/4449191965/) — MBTA
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-08-09
 
-### [Assistant Executive Director, DMC](https://www.linkedin.com/jobs/view/4451351865/) — The Arc of Union County
-- 📍 **Location:** Springfield, NJ
-- 🕒 **Posted:** 2026-08-09
-
-### [Contract and Compliance Board Executive Director - Construction (Gen Srvc Div Mgr)](https://www.linkedin.com/jobs/view/4451364455/) — Metropolitan Government of Nashville and Davidson County
+### [Regional Director Of Operations](https://www.linkedin.com/jobs/view/4451367425/) — Vision Hospitality Group, Inc.
 - 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-08-09
 
-### [Program Director, 21st Century Learning Grant](https://www.linkedin.com/jobs/view/4451361528/) — River Valley School District
-- 📍 **Location:** Blairsville, PA
+### [Business Development Director](https://www.linkedin.com/jobs/view/4427472347/) — Acclime
+- 📍 **Location:** Delaware, United States
+- 🕒 **Posted:** 2026-08-09
+
+### [Executive Director of Technology Operations](https://www.linkedin.com/jobs/view/4449510686/) — VisionTech Group
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-09
+
+### [Executive Director of Technology Operations](https://www.linkedin.com/jobs/view/4450995533/) — Atlantic Semiconductor
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-09
