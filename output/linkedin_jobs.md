@@ -1,39 +1,103 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-10 02:49 UTC*
+*Last updated: 2026-08-10 05:13 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4440932917/) — YMCA of the USA
-- 📍 **Location:** Dumas, TX
-- 💰 **Salary:** $68,000 to $75,000 annually
+### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4448568661/) — Crossover
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $200.00/hr - $200.00/hr
 - 🕒 **Posted:** 2026-08-10
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4413504381/) — Luxora Theater
-- 📍 **Location:** Austin, TX
+### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4448565655/) — Crossover
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $200.00/hr - $200.00/hr
 - 🕒 **Posted:** 2026-08-10
 
-### [Associate Director of Development](https://www.linkedin.com/jobs/view/4451103098/) — Thomas More University
-- 📍 **Location:** Fort Mitchell, KY
+### [Youth Entrepreneurship Program Director, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4448567664/) — Crossover
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $100.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-08-10
 
-### [Executive Director / Administrator](https://www.linkedin.com/jobs/view/4451372946/) — Americare Senior Living
-- 📍 **Location:** Washington, MO
-- 💰 **Salary:** $75,000–$90,000 annually
+### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4448558809/) — Crossover
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $100.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-08-10
 
-### [INTERNAL ONLY: Job and Family Services Deputy Director of Finance](https://www.linkedin.com/jobs/view/4449516885/) — Fairfield County, Ohio
-- 📍 **Location:** Lancaster, OH
-- 💰 **Salary:** $88,732.80 - $105,372.80 Annually
+### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4448569672/) — Crossover
+- 📍 **Location:** Boulder, CO
+- 💰 **Salary:** $200.00/hr - $200.00/hr
 - 🕒 **Posted:** 2026-08-10
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4451390112/) — Hitchiner Manufacturing
-- 📍 **Location:** Milford, NH
+### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4448565654/) — Crossover
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $200.00/hr - $200.00/hr
 - 🕒 **Posted:** 2026-08-10
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4451390115/) — Ingram Micro Chile
+### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4448564714/) — Crossover
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4448576623/) — Crossover
+- 📍 **Location:** Renton, WA
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4448574656/) — Crossover
+- 📍 **Location:** Boca Raton, FL
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4448572704/) — Crossover
+- 📍 **Location:** Orlando, FL
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Community Engagement, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4448558815/) — Crossover
+- 📍 **Location:** Burlington, VT
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4448568657/) — Crossover
+- 📍 **Location:** Roswell, GA
+- 💰 **Salary:** $200.00/hr - $200.00/hr
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Community Engagement, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4448572695/) — Crossover
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4448578552/) — Crossover
+- 📍 **Location:** Pompano Beach, FL
+- 💰 **Salary:** $200.00/hr - $200.00/hr
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Partnerships and Community Outreach, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4448560711/) — Crossover
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4448576626/) — Crossover
+- 📍 **Location:** Carrollton, TX
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-08-10
+
+### [BUSINESS DEVELOPMENT DIRECTOR - HOSPITALITY](https://www.linkedin.com/jobs/view/4451375958/) — Dal-Tile LLC
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-10
 
-### [Executive Director of Technology Operations](https://www.linkedin.com/jobs/view/4451387269/) — Semiconductor Engineering Magazine
-- 📍 **Location:** United States
+### [Youth Development Director, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4448563751/) — Crossover
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-08-10
+
+### [Youth Development Director, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4448580006/) — Crossover
+- 📍 **Location:** Jacksonville, FL
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4448557906/) — Crossover
+- 📍 **Location:** Las Vegas, NV
+- 💰 **Salary:** $100.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-08-10
