@@ -1,38 +1,39 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-10 22:28 UTC*
+*Last updated: 2026-08-10 23:24 UTC*
 
 **5 new role(s)** since last run · 34 total in last 24h
 
-### [JPMorgan Wealth Management - Workplace Channel Activation Product Lead-Executive Director](https://www.indeed.com/viewjob?jk=38adf9d26c91c395) — JPMorganChase
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $166k–$260k/yr
+### [Deputy Director, Business Development and Licensing (BD&L), Global Health](https://www.indeed.com/viewjob?jk=abf2e9d5649c39f8) — Gates Foundation
+- 📍 **Location:** Seattle, WA, US
+- 💰 **Salary:** $238k–$406k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-10
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=c637de545546da33) — Bainbridge Island Special Needs Foundation
-- 📍 **Location:** Bainbridge Island, WA, US
-- 💰 **Salary:** $28–$29/hr
+### [Deputy Director of Business Loan Fund](https://www.indeed.com/viewjob?jk=52470c231003d6c1) — Unknown
+- 📍 **Location:** Grand Junction, CO, US
+- 💰 **Salary:** $67k–$73k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-10
+
+### [Deputy Director of Business Loan Fund](https://www.indeed.com/viewjob?jk=55b762e2dc91450c) — Unknown
+- 📍 **Location:** Grand Junction, CO, US
+- 💰 **Salary:** $67k–$73k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-10
+
+### [Executive Director](https://www.indeed.com/viewjob?jk=951fd368019a5595) — Michigan Legacy Art Park
+- 📍 **Location:** Thompsonville, MI, US
+- 💰 **Salary:** $65k–$90k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-10
 
-### [President and Chief Executive Officer](https://www.indeed.com/viewjob?jk=31f932bfff8d8572) — Owen Electric Cooperative
-- 📍 **Location:** Owenton, KY, US
-- 💰 **Salary:** $1–$1000k/yr
+### [Campaign Director](https://www.indeed.com/viewjob?jk=fc48cd62700856f6) — UNITED WAY OF KITSAP COUNTY
+- 📍 **Location:** Silverdale, WA, US
+- 💰 **Salary:** $24–$26/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-10
-
-### [Chief Operating Officer (COO) – Access Serenity](https://www.indeed.com/viewjob?jk=ead8d1116867adbf) — Freedom Behavioral
-- 📍 **Location:** Lake Charles, LA, US
-- 💰 **Salary:** $100k–$125k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-10
-
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=6716439599c64be0) — Superior Electrical Solutions
-- 📍 **Location:** Clear Spring, MD, US
-- 💰 **Salary:** $85k–$103k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
+- **Job type:** parttime
 - 🕒 **Posted:** 2026-08-10
