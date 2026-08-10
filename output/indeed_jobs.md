@@ -1,32 +1,28 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-10 20:29 UTC*
+*Last updated: 2026-08-10 21:31 UTC*
 
-**4 new role(s)** since last run · 34 total in last 24h
+**4 new role(s)** since last run · 32 total in last 24h
 
-### [Learning & Development Director](https://www.indeed.com/viewjob?jk=9b2e7a24ef3b49a6) — Heart of Texas Goodwill Industries
-- 📍 **Location:** Waco, TX, US
-- 💰 **Salary:** $55k–$60k/yr
+### [Executive Director of Advancement Communications](https://www.indeed.com/viewjob?jk=0213ac0a9546c9f6) — California Institute of Technology
+- 📍 **Location:** Pasadena, CA, US
+- 💰 **Salary:** $175k–$250k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-10
 
-### [Managing Director of Talent](https://www.indeed.com/viewjob?jk=28ebe7a10da26b40) — E.L. Haynes Public Charter School
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $140k–$200k/yr
+### [Chief Program Officer](https://www.indeed.com/viewjob?jk=e2eced57c8fd0917) — Unknown
+- 📍 **Location:** Philadelphia, PA, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Community Engagement](https://www.indeed.com/viewjob?jk=677e1a986853f950) — Healthy Futures of Texas, Inc
+- 📍 **Location:** San Antonio, TX, US
+- 💰 **Salary:** $71k–$83k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-10
 
-### [Managing Director of Talent](https://www.indeed.com/viewjob?jk=5f2bed55747a833a) — E.L. Haynes Public Charter School
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $140k–$200k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-10
-
-### [Managing Director of Talent](https://www.indeed.com/viewjob?jk=184e31713dbd6fde) — E.L. Haynes Public Charter School
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $140k–$200k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Strategic National Account Development Director](https://www.indeed.com/viewjob?jk=bbb3531cf2087764) — CDK Global
+- 📍 **Location:** Hoffman Estates, IL, US
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-08-10
