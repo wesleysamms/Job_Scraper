@@ -1,154 +1,114 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-10 19:37 UTC*
+*Last updated: 2026-08-10 21:22 UTC*
 
-**34 new role(s)** since last run · 34 total in last 1h
+**24 new role(s)** since last run · 24 total in last 1h
 
-### [Assistant Program Director](https://www.linkedin.com/jobs/view/4451422572/) — Marsell Wellness Center
-- 📍 **Location:** Riverside, CA
-- 💰 **Salary:** $77,000.00/yr - $82,000.00/yr
+### [Executive Director/CEO](https://www.linkedin.com/jobs/view/4451427789/) — Sunflower Hill
+- 📍 **Location:** Pleasanton, CA
+- 💰 **Salary:** $140,000 - $165,000 annually
 - 🕒 **Posted:** 2026-08-10
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4440293331/) — Ernest
-- 📍 **Location:** San Luis Obispo, CA
-- 💰 **Salary:** $90,000.00/yr - $120,000.00/yr
+### [Executive Director of Advancement Communications](https://www.linkedin.com/jobs/view/4449599990/) — Caltech
+- 📍 **Location:** Pasadena, CA
+- 💰 **Salary:** $175,100 - $250,000 per year
 - 🕒 **Posted:** 2026-08-10
 
-### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4451850745/) — Specialty1 Partners
-- 📍 **Location:** Stamford, CT
-- 💰 **Salary:** $90,000 - $110,000 USD
+### [Executive Director for Energy, Climate, and Environment #86524](https://www.linkedin.com/jobs/view/4420214956/) — University of California, Berkeley
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $204,700 - $210,000
 - 🕒 **Posted:** 2026-08-10
 
-### [Director of Advancement](https://www.linkedin.com/jobs/view/4451845944/) — North Carolina Outward Bound School
-- 📍 **Location:** Asheville, NC
-- 💰 **Salary:** $105,000 - $115,000 Annually
+### [Policy Director](https://www.linkedin.com/jobs/view/4451885770/) — American Planning Association - Wisconsin Chapter
+- 📍 **Location:** Santa Rosa, CA
+- 💰 **Salary:** $112,570-$123,826 annually
 - 🕒 **Posted:** 2026-08-10
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4430778856/) — Versique Executive, Professional & Interim Recruiting
-- 📍 **Location:** Blue Earth, MN
-- 💰 **Salary:** $300 - $350K
-- 🕒 **Posted:** 2026-08-10
-
-### [Director of Operations for The ROCK Community Center for Youth & Children](https://www.linkedin.com/jobs/view/4451863028/) — Eastern Star Church
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-08-10
-
-### [Deputy Director Youth and Family Services](https://www.linkedin.com/jobs/view/4451839973/) — City of Albuquerque
-- 📍 **Location:** Albuquerque, NM
-- 🕒 **Posted:** 2026-08-10
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4451850969/) — Cogir Senior Living
-- 📍 **Location:** Edmonds, WA
-- 💰 **Salary:** $100,000 - $125,000 annually
-- 🕒 **Posted:** 2026-08-10
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4450632209/) — Ivy Living
-- 📍 **Location:** Castle Rock, CO
-- 💰 **Salary:** $115,000 - $125,000
-- 🕒 **Posted:** 2026-08-10
-
-### [Deputy Director- Park Services](https://www.linkedin.com/jobs/view/4451842979/) — City of Alexandria, Virginia
-- 📍 **Location:** Alexandria, VA
-- 🕒 **Posted:** 2026-08-10
-
-### [Director of Advancement, New Haven Free Public Library Foundation](https://www.linkedin.com/jobs/view/4450701806/) — New Haven Free Public Library
-- 📍 **Location:** New Haven, CT
-- 💰 **Salary:** $72,500 – $77,500 per year
-- 🕒 **Posted:** 2026-08-10
-
-### [CEO - Peachford BH Hospital](https://www.linkedin.com/jobs/view/4451853614/) — UHS
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $180,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-08-10
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4451829834/) — Regency Hospital Company
-- 📍 **Location:** Springdale, AR
-- 🕒 **Posted:** 2026-08-10
-
-### [Chief Executive Officer - Acute Psychiatric Hospital](https://www.linkedin.com/jobs/view/4451445204/) — Cedar Crest Hospital & Residential Treatment Center
-- 📍 **Location:** Belton, TX
-- 🕒 **Posted:** 2026-08-10
-
-### [Deputy Director, Government Affairs](https://www.linkedin.com/jobs/view/4449811365/) — Human Rights Campaign
-- 📍 **Location:** Washington DC-Baltimore Area
-- 🕒 **Posted:** 2026-08-10
-
-### [Managing Director of Staff Benefits and Wellness](https://www.linkedin.com/jobs/view/4451434359/) — IDEA Public Schools
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-08-10
-
-### [Managing Director](https://www.linkedin.com/jobs/view/4451868053/) — WealthBridge Financial Group
-- 📍 **Location:** Wichita, KS
-- 🕒 **Posted:** 2026-08-10
-
-### [Senior Director of Development](https://www.linkedin.com/jobs/view/4442681202/) — Career Blazers Nonprofit Search
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $145,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-08-10
-
-### [Director of Advancement, SZ-1001-00](https://www.linkedin.com/jobs/view/4451842324/) — Smithsonian Institution
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $151,661.00/yr - $228,300.00/yr
-- 🕒 **Posted:** 2026-08-10
-
-### [Deputy Director, Business Development and Licensing (BD&L), Global Health](https://www.linkedin.com/jobs/view/4451815929/) — Gates Foundation
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $238,400 to $369,400 USD
-- 🕒 **Posted:** 2026-08-10
-
-### [Assistant Director of Development, Ophthalmology and Visual Sciences](https://www.linkedin.com/jobs/view/4440253752/) — University of Iowa Center for Advancement
-- 📍 **Location:** Iowa City, IA
-- 🕒 **Posted:** 2026-08-10
-
-### [National Business Development Director – Commercial Construction](https://www.linkedin.com/jobs/view/4451855221/) — Henis Group
-- 📍 **Location:** Illinois, United States
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-08-10
-
-### [Deputy Director of Communications UN](https://www.linkedin.com/jobs/view/4451838930/) — City of Albuquerque
-- 📍 **Location:** Albuquerque, NM
-- 🕒 **Posted:** 2026-08-10
-
-### [Managing Director](https://www.linkedin.com/jobs/view/4451851809/) — WealthBridge Financial Group
-- 📍 **Location:** Conway, AR
-- 🕒 **Posted:** 2026-08-10
-
-### [Director of Operations, Men's Rowing](https://www.linkedin.com/jobs/view/4451844996/) — University of Washington
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-08-10
-
-### [Deputy Director-Recreation Services](https://www.linkedin.com/jobs/view/4451853677/) — City of Alexandria, Virginia
-- 📍 **Location:** Alexandria, VA
-- 🕒 **Posted:** 2026-08-10
-
-### [Sr Director of Operations](https://www.linkedin.com/jobs/view/4451854092/) — The Freeman Company (TFC) Brands
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-08-10
-
-### [PROGRAM DIRECTOR](https://www.linkedin.com/jobs/view/4451429360/) — Resources for Human Development
-- 📍 **Location:** King of Prussia, PA
-- 💰 **Salary:** $75,000.00/yr - $75,000.00/yr
-- 🕒 **Posted:** 2026-08-10
-
-### [Program Director - Public Safety](https://www.linkedin.com/jobs/view/4451861072/) — Willmeng Construction, Inc.
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-08-10
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4451853856/) — Larson Capital Management
-- 📍 **Location:** Chesterfield, MO
-- 🕒 **Posted:** 2026-08-10
-
-### [Managing Director, Manufacturing Operations Advisory and Business Development](https://www.linkedin.com/jobs/view/4451859893/) — FTE Factory Advisors
+### [Program Director](https://www.linkedin.com/jobs/view/4452008453/) — Children's Aid
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $66,300 - $68,000
 - 🕒 **Posted:** 2026-08-10
 
-### [Executive Director - Independent Living](https://www.linkedin.com/jobs/view/4451840694/) — Provincial Senior Living
-- 📍 **Location:** Rogers, AR
+### [Executive Director](https://www.linkedin.com/jobs/view/4451424006/) — Michigan Legacy Art Park
+- 📍 **Location:** Thompsonville, MI
+- 💰 **Salary:** $65,000–$90,000 annually
 - 🕒 **Posted:** 2026-08-10
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4451840613/) — Quantum Executive Search
-- 📍 **Location:** Grand Rapids, MI
+### [Executive Director](https://www.linkedin.com/jobs/view/4451439810/) — Mission Realty Advisors
+- 📍 **Location:** Clayton, MO
 - 🕒 **Posted:** 2026-08-10
 
-### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4451869073/) — TalentAlly
-- 📍 **Location:** Greater Pittsburgh Region
+### [Managing Director, Science, Technology and Public Policy program](https://www.linkedin.com/jobs/view/4449905485/) — University of Michigan
+- 📍 **Location:** Ann Arbor, MI
+- 💰 **Salary:** $90,000.00/yr - $110,000.00/yr
+- 🕒 **Posted:** 2026-08-10
+
+### [PROGRAM DIRECTOR](https://www.linkedin.com/jobs/view/4451451057/) — Resources for Human Development
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $80,000.00/yr - $85,000.00/yr
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Community Engagement & Marketing](https://www.linkedin.com/jobs/view/4449805800/) — Meals on Wheels Western Michigan
+- 📍 **Location:** Grandville, MI
+- 🕒 **Posted:** 2026-08-10
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4451893585/) — American Planning Association - Wisconsin Chapter
+- 📍 **Location:** Montgomery, AL
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Development - College of Liberal Arts](https://www.linkedin.com/jobs/view/4448459374/) — Auburn University
+- 📍 **Location:** Auburn, AL
+- 🕒 **Posted:** 2026-08-10
+
+### [Executive Director Human Resources](https://www.linkedin.com/jobs/view/4451426951/) — Firefly Recruiting
+- 📍 **Location:** Greater Abilene Area
+- 💰 **Salary:** $125,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4451885990/) — TalentAlly
+- 📍 **Location:** Cambridge, MA
+- 💰 **Salary:** $220,000 to $320,000
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4449812883/) — AMN Healthcare Leadership Solutions | B.E. Smith
+- 📍 **Location:** Anchorage, AK
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Development](https://www.linkedin.com/jobs/view/4450647328/) — Special Olympics Wyoming
+- 📍 **Location:** Wyoming, United States
+- 💰 **Salary:** $46,500-$50,000 annually
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Operations, Washington, DC](https://www.linkedin.com/jobs/view/4449912428/) — University of Michigan
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $120,000.00/yr - $135,000.00/yr
+- 🕒 **Posted:** 2026-08-10
+
+### [Senior Community Executive Director](https://www.linkedin.com/jobs/view/4449819852/) — Health Dimensions Group
+- 📍 **Location:** Eau Claire, WI
+- 🕒 **Posted:** 2026-08-10
+
+### [Generation Development Director, Large Load](https://www.linkedin.com/jobs/view/4451426867/) — National Grid
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $211,000 - $248,000
+- 🕒 **Posted:** 2026-08-10
+
+### [Executive Director, Solutions Implementation](https://www.linkedin.com/jobs/view/4452016026/) — Instruction Partners
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-10
+
+### [Family Medicine Residency Program Director](https://www.linkedin.com/jobs/view/4449821848/) — Northwest Permanente
+- 📍 **Location:** Portland, Oregon Metropolitan Area
+- 💰 **Salary:** $246,400 - $280,000
+- 🕒 **Posted:** 2026-08-10
+
+### [Chief Operating Officer (0953 - Deputy Director III) - San Francisco Public Library](https://www.linkedin.com/jobs/view/4452028130/) — City and County of San Francisco
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-10
+
+### [Marine Business Development Director](https://www.linkedin.com/jobs/view/4451449041/) — Cajun Industries, LLC
+- 📍 **Location:** Baton Rouge, LA
+- 🕒 **Posted:** 2026-08-10
+
+### [Senior, Program Director, Enterprise Business Systems](https://www.linkedin.com/jobs/view/4451030049/) — UF Health
+- 📍 **Location:** Gainesville, FL
 - 🕒 **Posted:** 2026-08-10
