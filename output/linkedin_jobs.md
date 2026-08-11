@@ -1,127 +1,60 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-11 21:25 UTC*
+*Last updated: 2026-08-11 22:25 UTC*
 
-**27 new role(s)** since last run · 27 total in last 1h
+**13 new role(s)** since last run · 17 total in last 1h
 
-### [Community Development Director](https://www.linkedin.com/jobs/view/4452653904/) — American Planning Association - Wisconsin Chapter
-- 📍 **Location:** West Sacramento, CA
-- 💰 **Salary:** $183,792.00 to $223,357.22
+### [Associate Director of Development, Stanford Live](https://www.linkedin.com/jobs/view/4452697003/) — Stanford University
+- 📍 **Location:** Stanford, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [Program Director](https://www.linkedin.com/jobs/view/4439266618/) — Jobot
-- 📍 **Location:** Corona, CA
-- 💰 **Salary:** $130,000.00/yr - $175,000.00/yr
+### [Managing Director of Enrollment](https://www.linkedin.com/jobs/view/4428299661/) — Brilla Schools
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $120,000 to $140,000,
 - 🕒 **Posted:** 2026-08-11
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4452677241/) — TalentRise, An Aleron Company
-- 📍 **Location:** Albany, NY
-- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-08-11
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4439457559/) — M3 Placement & Partnership
-- 📍 **Location:** Utica, NY
-- 💰 **Salary:** $65,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-08-11
-
-### [Managing Director](https://www.linkedin.com/jobs/view/4451936623/) — KPMG US
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-11
-
-### [Managing Director, Enterprise Accounts](https://www.linkedin.com/jobs/view/4452679146/) — EMARKETER
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000-$175,000
-- 🕒 **Posted:** 2026-08-11
-
-### [Executive Director, Global Business, Northeastern University – NYC](https://www.linkedin.com/jobs/view/4452660130/) — Northeastern University
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $172,845.00 - $250,627.50
-- 🕒 **Posted:** 2026-08-11
-
-### [Managing Director](https://www.linkedin.com/jobs/view/4451946497/) — KPMG US
+### [Associate Managing Director, Data Portfolio Management](https://www.linkedin.com/jobs/view/4447430380/) — KPMG US
 - 📍 **Location:** Montvale, NJ
 - 🕒 **Posted:** 2026-08-11
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4451939545/) — KPMG US
-- 📍 **Location:** Short Hills, NJ
+### [Executive Director](https://www.linkedin.com/jobs/view/4451937618/) — ProSearch
+- 📍 **Location:** Portland, ME
+- 💰 **Salary:** $140,000.00/yr - $145,000.00/yr
 - 🕒 **Posted:** 2026-08-11
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4452663883/) — JPRO of the Greater Palm Beaches
-- 📍 **Location:** Hendersonville, NC
-- 💰 **Salary:** $225,000-$250,000
+### [Executive Director, Jeffrey S. Raikes School of Computer Science and Management](https://www.linkedin.com/jobs/view/4449889210/) — University of Nebraska-Lincoln
+- 📍 **Location:** Lincoln, NE
 - 🕒 **Posted:** 2026-08-11
 
-### [Development Director](https://www.linkedin.com/jobs/view/4451949105/) — Motus Recruiting and Staffing, Inc.
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
+### [Director of Development](https://www.linkedin.com/jobs/view/4449062892/) — Fayetteville State University
+- 📍 **Location:** Fayetteville, NC
 - 🕒 **Posted:** 2026-08-11
 
-### [Chief Operating Officer (COO) - Mercy Care Atlanta](https://www.linkedin.com/jobs/view/4452624899/) — IHA
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $15-$20
+### [Preschool General Manager / Chief Operating Officer](https://www.linkedin.com/jobs/view/4447058104/) — Wooden Shoes CCC
+- 📍 **Location:** Sarasota, FL
+- 💰 **Salary:** $70,000.00/yr - $75,000.00/yr
 - 🕒 **Posted:** 2026-08-11
 
-### [Chief Operating Officer (COO) - Mercy Care Atlanta](https://www.linkedin.com/jobs/view/4452682416/) — Trinity Health
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $15-$20
+### [Chief Operating Officer - FOI Tampa](https://www.linkedin.com/jobs/view/4452683607/) — Florida Orthopaedic Institute
+- 📍 **Location:** Temple Terrace, FL
 - 🕒 **Posted:** 2026-08-11
 
-### [Director of Communications - MU Research Reactor](https://www.linkedin.com/jobs/view/4449879549/) — University of Missouri-Columbia
-- 📍 **Location:** Columbia, MO
-- 💰 **Salary:** $82,000 - $125,000 per year
+### [Development Director | Lead Philanthropy for Clean Water & Conservation](https://www.linkedin.com/jobs/view/4452687154/) — Raritan Headwaters Association
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $90,000–$110,000,
 - 🕒 **Posted:** 2026-08-11
 
-### [Managing Director of Policy & Advocacy](https://www.linkedin.com/jobs/view/4452622849/) — Fair Share Housing Center
-- 📍 **Location:** Cherry Hill, NJ
-- 🕒 **Posted:** 2026-08-11
-
-### [Chief Philanthropy Officer](https://www.linkedin.com/jobs/view/4451946159/) — Theatre Under The Stars
+### [Managing Director](https://www.linkedin.com/jobs/view/4451941611/) — KPMG US
 - 📍 **Location:** Houston, TX
-- 💰 **Salary:** $175,000-$200,000
 - 🕒 **Posted:** 2026-08-11
 
-### [Regional Director of Operations (73955)](https://www.linkedin.com/jobs/view/4451930997/) — Women's Care
-- 📍 **Location:** Tampa, FL
-- 🕒 **Posted:** 2026-08-11
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4446656632/) — PowerLines
+### [Director of Major Gifts](https://www.linkedin.com/jobs/view/4451622245/) — CIEE Council on International Educational Exchange
 - 📍 **Location:** United States
-- 💰 **Salary:** $150,000-$225,000
 - 🕒 **Posted:** 2026-08-11
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4446666231/) — crewhr
-- 📍 **Location:** Houston, TX
+### [(Senior) Business Development Director](https://www.linkedin.com/jobs/view/4409388057/) — WuXi AppTec
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-11
 
-### [Director of Development - College of Liberal Arts](https://www.linkedin.com/jobs/view/4452678120/) — Auburn University
-- 📍 **Location:** Auburn, AL
-- 🕒 **Posted:** 2026-08-11
-
-### [Director of Major Gifts & Individual Giving](https://www.linkedin.com/jobs/view/4452682253/) — KIPP Chicago
-- 📍 **Location:** Greater Chicago Area
-- 🕒 **Posted:** 2026-08-11
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4452623547/) — University of Miami
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-08-11
-
-### [Enterprise Business Development Director](https://www.linkedin.com/jobs/view/4450102022/) — Hyve Group
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $120,000–$150,000
-- 🕒 **Posted:** 2026-08-11
-
-### [Professor of the Practice (open-rank)/Program Director](https://www.linkedin.com/jobs/view/4441408901/) — The University of Kansas
-- 📍 **Location:** Lawrence, KS
-- 🕒 **Posted:** 2026-08-11
-
-### [Associate Director of Development, Athletics](https://www.linkedin.com/jobs/view/4452677336/) — Ball State University
-- 📍 **Location:** Muncie, IN
-- 💰 **Salary:** $55,000 - $65,000
-- 🕒 **Posted:** 2026-08-11
-
-### [Managing Director](https://www.linkedin.com/jobs/view/4451953246/) — KPMG US
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-08-11
-
-### [Director of Operations, Juarez, MX/Santa Teresa, NM](https://www.linkedin.com/jobs/view/4452655382/) — Legrand
-- 📍 **Location:** El Paso, TX
+### [Managing Director](https://www.linkedin.com/jobs/view/4451946495/) — KPMG US
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-08-11
