@@ -1,5 +1,5 @@
 # 🎓 CSU Careers — California State University Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-10 17:36 UTC*
+*Last updated: 2026-08-11 17:38 UTC*
 
 **0 new role(s)** since last run · 0 total in current CSU Careers postings
 
