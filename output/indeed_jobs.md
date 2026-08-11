@@ -1,39 +1,49 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-10 23:24 UTC*
+*Last updated: 2026-08-11 00:40 UTC*
 
-**5 new role(s)** since last run · 34 total in last 24h
+**7 new role(s)** since last run · 39 total in last 24h
 
-### [Deputy Director, Business Development and Licensing (BD&L), Global Health](https://www.indeed.com/viewjob?jk=abf2e9d5649c39f8) — Gates Foundation
+### [Program Director](https://www.indeed.com/viewjob?jk=904e3d4c85c76266) — Sevita
+- 📍 **Location:** Bakersfield, CA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-10
+
+### [Field CEO](https://www.indeed.com/viewjob?jk=2f9fb39f90fdc8a9) — Recovery Centers of America
+- 📍 **Location:** Waldorf, MD, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-04
+
+### [Regional Director of Development, Southern California](https://www.indeed.com/viewjob?jk=eb31d596ec3f870c) — University of Oregon
+- 📍 **Location:** Eugene, OR, US
+- 💰 **Salary:** $90k–$94k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-10
+
+### [Development Director, Arizona](https://www.indeed.com/viewjob?jk=e15abac0a716dbca) — Susan G. Komen
+- 📍 **Location:** Phoenix, AZ, US
+- 💰 **Salary:** $75k–$96k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-10
+
+### [Director of Operations, Men's Rowing](https://www.indeed.com/viewjob?jk=251b38d0f6d1f7eb) — University Of Washington
 - 📍 **Location:** Seattle, WA, US
-- 💰 **Salary:** $238k–$406k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-10
 
-### [Deputy Director of Business Loan Fund](https://www.indeed.com/viewjob?jk=52470c231003d6c1) — Unknown
-- 📍 **Location:** Grand Junction, CO, US
-- 💰 **Salary:** $67k–$73k/yr
+### [Senior Managing Policy Director](https://www.indeed.com/viewjob?jk=ea44ed34aa94f81c) — ACLU of Washington
+- 📍 **Location:** Seattle, WA, US
+- 💰 **Salary:** $154k–$189k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-10
 
-### [Deputy Director of Business Loan Fund](https://www.indeed.com/viewjob?jk=55b762e2dc91450c) — Unknown
-- 📍 **Location:** Grand Junction, CO, US
-- 💰 **Salary:** $67k–$73k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-10
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=951fd368019a5595) — Michigan Legacy Art Park
-- 📍 **Location:** Thompsonville, MI, US
-- 💰 **Salary:** $65k–$90k/yr
+### [Program Management Program Director](https://www.indeed.com/viewjob?jk=33003392f3053ecd) — Sevita
+- 📍 **Location:** Sheridan, IN, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-10
-
-### [Campaign Director](https://www.indeed.com/viewjob?jk=fc48cd62700856f6) — UNITED WAY OF KITSAP COUNTY
-- 📍 **Location:** Silverdale, WA, US
-- 💰 **Salary:** $24–$26/hr
-- **Work mode:** On-site
-- **Job type:** parttime
 - 🕒 **Posted:** 2026-08-10
