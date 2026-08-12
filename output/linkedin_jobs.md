@@ -1,127 +1,148 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-12 16:30 UTC*
+*Last updated: 2026-08-12 17:35 UTC*
 
-**28 new role(s)** since last run · 28 total in last 1h
+**33 new role(s)** since last run · 34 total in last 1h
 
-### [Executive Director, California Youth & Government.](https://www.linkedin.com/jobs/view/4452727402/) — YMCA of Metropolitan Los Angeles
-- 📍 **Location:** Los Angeles, CA
+### [Program Director Lodi California](https://www.linkedin.com/jobs/view/4442937296/) — Healogics, LLC.
+- 📍 **Location:** Lodi, CA
+- 💰 **Salary:** $97,800.00-$128,600.00 Annually
 - 🕒 **Posted:** 2026-08-12
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4451001228/) — SR Staffing
+### [Director of Development](https://www.linkedin.com/jobs/view/4452711365/) — Improve Your Tomorrow
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $25,000–$500,000
+- 🕒 **Posted:** 2026-08-12
+
+### [DEPUTY DIRECTOR OF FINANCE](https://www.linkedin.com/jobs/view/4453164035/) — City and County of San Francisco
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-12
 
-### [Development Director - Podiatric Medicine, Health Sciences and Community Engagement](https://www.linkedin.com/jobs/view/4432087477/) — Samuel Merritt University
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director-Supportive Housing](https://www.linkedin.com/jobs/view/4452480565/) — Women In Need, Inc. (Win)
-- 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $85,000 to $90,000
-- 🕒 **Posted:** 2026-08-12
-
-### [Senior Program Director, Tolling Operations (Onsite - New York | Relocation Available)](https://www.linkedin.com/jobs/view/4443525923/) — Maximus
-- 📍 **Location:** Albany, NY
-- 💰 **Salary:** $175,000.00 - $185,000.00
-- 🕒 **Posted:** 2026-08-12
-
-### [Business Development Director](https://www.linkedin.com/jobs/view/4452727221/) — HSO
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Major Gifts](https://www.linkedin.com/jobs/view/4452720543/) — Cancer Research Institute (CRI)
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-08-12
-
-### [Executive Director Hospital at Home Clinical Operations](https://www.linkedin.com/jobs/view/4441210214/) — Atlantic Health
-- 📍 **Location:** Morristown, NJ
-- 🕒 **Posted:** 2026-08-12
-
-### [Chief Operating Officer - Managed Care](https://www.linkedin.com/jobs/view/4453129778/) — HealthSearch Group
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-08-12
-
-### [Executive Director, Center for Journalism & Democracy](https://www.linkedin.com/jobs/view/4453138696/) — Howard University
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $170,000-$180,000
-- 🕒 **Posted:** 2026-08-12
-
-### [EXECUTIVE DIRECTOR OF BUSINESS SERVICES](https://www.linkedin.com/jobs/view/4450158321/) — Puyallup School District
-- 📍 **Location:** Puyallup, WA
-- 🕒 **Posted:** 2026-08-12
-
-### [Disability Determination Services Deputy Director](https://www.linkedin.com/jobs/view/4452717370/) — State of Delaware
-- 📍 **Location:** Delaware, United States
-- 🕒 **Posted:** 2026-08-12
-
-### [Executive Director (Full-Time) - Northstar Square](https://www.linkedin.com/jobs/view/4453139978/) — Navion Senior Solutions
-- 📍 **Location:** Kennesaw, GA
-- 🕒 **Posted:** 2026-08-12
-
-### [Executive Director of Parks, Recreation and Community Services](https://www.linkedin.com/jobs/view/4452714623/) — City of Santa Ana
+### [Executive Director of Parks, Recreation and Community Services](https://www.linkedin.com/jobs/view/4453167024/) — City of Santa Ana
 - 📍 **Location:** Santa Ana, CA
+- 💰 **Salary:** $198,840.00/yr - $260,004.00/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Managing Director, Turnaround Consulting](https://www.linkedin.com/jobs/view/4453142797/) — Hilco Real Estate Finance
-- 📍 **Location:** Northbrook, IL
-- 💰 **Salary:** $275000 - $345,000
+### [Executive Director, New York at OneGoal](https://www.linkedin.com/jobs/view/4452720615/) — On-Ramps
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $173,880 – $200,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Managing Director, Legislative Affairs](https://www.linkedin.com/jobs/view/4452722248/) — Cargo Airline Association
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $200,000 to $230,000
+### [Executive Director, Marketing Strategy](https://www.linkedin.com/jobs/view/4453154333/) — Syracuse University
+- 📍 **Location:** Syracuse, NY
 - 🕒 **Posted:** 2026-08-12
 
-### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4453126808/) — GNC
-- 📍 **Location:** Florida, United States
-- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
+### [Assistant Athletic Director of Development](https://www.linkedin.com/jobs/view/4453152372/) — Syracuse University
+- 📍 **Location:** Syracuse, NY
 - 🕒 **Posted:** 2026-08-12
 
-### [Managing Director, Client Growth](https://www.linkedin.com/jobs/view/4453150051/) — Pilot Energy
-- 📍 **Location:** California, United States
+### [Clinical Assistant Program Director](https://www.linkedin.com/jobs/view/4453152533/) — Mohawk Opportunities, Inc.
+- 📍 **Location:** Albany, NY
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4449062892/) — Fayetteville State University
-- 📍 **Location:** Fayetteville, NC
+### [Program Director - SAP Advanced Availability to Promise](https://www.linkedin.com/jobs/view/4452713785/) — Tata Consultancy Services
+- 📍 **Location:** Edison, NJ
+- 💰 **Salary:** $180,000 to $250,000 Per Annum
 - 🕒 **Posted:** 2026-08-12
 
-### [Business Development Director](https://www.linkedin.com/jobs/view/4440491140/) — SRC
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $188,000 - $270,000
+### [Executive Director](https://www.linkedin.com/jobs/view/4452714731/) — Cancer Support Community of Greater St. Louis
+- 📍 **Location:** Greater St. Louis
+- 💰 **Salary:** $100,000 to $125,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Associate Director of Development, Medical Education & Alumni Philanthropy](https://www.linkedin.com/jobs/view/4453133996/) — University of Maryland, Baltimore (UMB)
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $91,500 - $100,000,
+### [Chief Advancement Officer](https://www.linkedin.com/jobs/view/4453161020/) — The Oaks Academy
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-08-12
 
-### [Business Development Director](https://www.linkedin.com/jobs/view/4440477721/) — SRC
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $188,000 - $270,000 annually
+### [Chief Philanthropy Officer](https://www.linkedin.com/jobs/view/4452732034/) — Network of Jewish Human Service Agencies
+- 📍 **Location:** West Bloomfield Township, MI
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Partnerships](https://www.linkedin.com/jobs/view/4452718545/) — MyCatholicWill.com
-- 📍 **Location:** Pennsylvania, United States
+### [Executive Director](https://www.linkedin.com/jobs/view/4453169086/) — WesleyLife
+- 📍 **Location:** Atlantic, IA
 - 🕒 **Posted:** 2026-08-12
 
-### [Business Development Director- Infrastructure & Mobility](https://www.linkedin.com/jobs/view/4434125514/) — RINA
+### [Executive Director - Clemson Hillel](https://www.linkedin.com/jobs/view/4453168177/) — Hillel International
+- 📍 **Location:** Cleveland, OH
+- 💰 **Salary:** $85,000 – $100,000,
+- 🕒 **Posted:** 2026-08-12
+
+### [Executive Director of Development, Statler College](https://www.linkedin.com/jobs/view/4443583495/) — West Virginia University Foundation
+- 📍 **Location:** Morgantown, WV
+- 🕒 **Posted:** 2026-08-12
+
+### [Director of Development, Gift Planning](https://www.linkedin.com/jobs/view/4453147395/) — Rice University
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-08-12
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4444378092/) — Regency at Augusta
+- 📍 **Location:** Fishersville, VA
+- 💰 **Salary:** $90,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-08-12
+
+### [General Manager/COO](https://www.linkedin.com/jobs/view/4451542517/) — Geneva Golf & Country Club
+- 📍 **Location:** Muscatine, IA
+- 🕒 **Posted:** 2026-08-12
+
+### [CEO/Owner](https://www.linkedin.com/jobs/view/4311946830/) — RedBalloon
+- 📍 **Location:** Omaha, NE
+- 💰 **Salary:** $250,000.00/yr - $500,000.00/yr
+- 🕒 **Posted:** 2026-08-12
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4452713717/) — William Ferris Chorale
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $190,000 - $215,000
+- 💰 **Salary:** $10-15,000 annually
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Communications](https://www.linkedin.com/jobs/view/4453128868/) — USTelecom | The Broadband Association
-- 📍 **Location:** Washington, DC
+### [Executive Director of Operations](https://www.linkedin.com/jobs/view/4453164121/) — Aesthetic Partners
+- 📍 **Location:** Columbus, OH
 - 🕒 **Posted:** 2026-08-12
 
-### [Deputy Director](https://www.linkedin.com/jobs/view/4425932171/) — Jacobs
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $150,000.00/yr - $220,000.00/yr
+### [CEO/Owner](https://www.linkedin.com/jobs/view/4439671728/) — RedBalloon
+- 📍 **Location:** Oklahoma City, OK
+- 💰 **Salary:** $200,000.00/yr - $500,000.00/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Manufacturing Readiness Program Director, HACM](https://www.linkedin.com/jobs/view/4453140603/) — Raytheon
-- 📍 **Location:** Tucson, AZ
+### [Chief Executive Officer Equity base](https://www.linkedin.com/jobs/view/4453154278/) — 99 Yards Academy
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-12
 
-### [Academic Professional Track (Non-Tenure): Open Rank-Clinical, and Campus Executive Director for San Antonio Campus](https://www.linkedin.com/jobs/view/4453133744/) — Texas A&M University
-- 📍 **Location:** San Antonio, TX
+### [Executive Director - AL/MC](https://www.linkedin.com/jobs/view/4452726565/) — Brookdale
+- 📍 **Location:** Portage, MI
+- 🕒 **Posted:** 2026-08-12
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4450156484/) — SoTalent
+- 📍 **Location:** Floyds Knobs, IN
+- 🕒 **Posted:** 2026-08-12
+
+### [Senior Director of Development](https://www.linkedin.com/jobs/view/4441980281/) — KINEKTA
+- 📍 **Location:** United States
+- 💰 **Salary:** $200,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-08-12
+
+### [Business Development Director](https://www.linkedin.com/jobs/view/4383962947/) — Hill International, Inc.
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-08-12
+
+### [Managing Director, Enterprise Applications](https://www.linkedin.com/jobs/view/4440256140/) — Jewish Federation of Cleveland
+- 📍 **Location:** Beachwood, OH
+- 🕒 **Posted:** 2026-08-12
+
+### [Sr. Director, CEO Communications](https://www.linkedin.com/jobs/view/4434369337/) — Realtor.com
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-12
+
+### [Co Managing Director](https://www.linkedin.com/jobs/view/4452721658/) — RoboThink Middle & East TN
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-08-12
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4441477129/) — JRG Partners, LLC.
+- 📍 **Location:** Hawaii, United States
+- 🕒 **Posted:** 2026-08-12
+
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4453151380/) — Jackson Financial, LLC
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-12
+
+### [Program Director - Federal Health (CMS)](https://www.linkedin.com/jobs/view/4443579956/) — Commence
+- 📍 **Location:** Virginia Beach, VA
 - 🕒 **Posted:** 2026-08-12
