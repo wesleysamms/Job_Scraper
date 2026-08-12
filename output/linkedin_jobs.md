@@ -1,51 +1,39 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-12 21:21 UTC*
+*Last updated: 2026-08-12 22:19 UTC*
 
-**10 new role(s)** since last run · 11 total in last 1h
+**8 new role(s)** since last run · 19 total in last 1h
 
-### [Director of Grants, Contracts & Financial Compliance](https://www.linkedin.com/jobs/view/4436885930/) — GLIDEsf
+### [Deputy Director of Finance and Administration](https://www.linkedin.com/jobs/view/4453377182/) — City and County of San Francisco
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000 - $150,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Assistant Program Director, Compass Urgent Accommodation Vouchers](https://www.linkedin.com/jobs/view/4437455204/) — Compass Family Services
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $70,000 - $80,000
+### [Director of Philanthropy - New York City](https://www.linkedin.com/jobs/view/4442123055/) — Blood Cancer United
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $125K to $134K
 - 🕒 **Posted:** 2026-08-12
 
-### [Family Medicine Residency Program Director/Medical Director](https://www.linkedin.com/jobs/view/4337150972/) — Hackensack Meridian Health
-- 📍 **Location:** Edison, NJ
+### [Founding CEO](https://www.linkedin.com/jobs/view/4453374422/) — Revive Energy
+- 📍 **Location:** Greater Missoula Area
 - 🕒 **Posted:** 2026-08-12
 
-### [Deputy Executive Director - Operations - Exceptional Student Education](https://www.linkedin.com/jobs/view/4450036313/) — Detroit Public Schools Community District
-- 📍 **Location:** Detroit, MI
-- 💰 **Salary:** $111,190 - $159,276
+### [26-096.B - Business Development Director](https://www.linkedin.com/jobs/view/4450192368/) — Harvest Midstream Company
+- 📍 **Location:** Anchorage, AK
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Director, GO Virginia](https://www.linkedin.com/jobs/view/4451830138/) — University of Virginia
-- 📍 **Location:** Wise, VA
-- 💰 **Salary:** $65,000 - $75,000
+### [Executive Director of the Institute of Ecological Resilience](https://www.linkedin.com/jobs/view/4453371336/) — University of Houston
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Communications and External Relations](https://www.linkedin.com/jobs/view/4453339273/) — UC Irvine
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $100,100- $143,800
+### [Executive Director of Admissions](https://www.linkedin.com/jobs/view/4453374221/) — WWU College of Business & Economics
+- 📍 **Location:** Bellingham, WA
+- 💰 **Salary:** $137,968 - $158,664/year
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4445477647/) — Marriott Vacations Worldwide
-- 📍 **Location:** Koloa, HI
-- 💰 **Salary:** $110,925 - $150,000
+### [Program Director](https://www.linkedin.com/jobs/view/4453388230/) — Grand Street Settlement
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70,000.00/yr - $75,000.00/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Real Estate & Business Development Director](https://www.linkedin.com/jobs/view/4453351961/) — American Fidelity
-- 📍 **Location:** Oklahoma City, OK
-- 🕒 **Posted:** 2026-08-12
-
-### [Business Development Director](https://www.linkedin.com/jobs/view/4443957400/) — ✦✦✦ Quest Energy Group ✦✦✦
-- 📍 **Location:** Lake Charles-Jennings Area
-- 💰 **Salary:** $150,000–$185,000
-- 🕒 **Posted:** 2026-08-12
-
-### [Deputy Director of External Affairs](https://www.linkedin.com/jobs/view/4451400077/) — MBTA
-- 📍 **Location:** Boston, MA
+### [Associate Director of Development, Stanford Live](https://www.linkedin.com/jobs/view/4452697003/) — Stanford University
+- 📍 **Location:** Stanford, CA
 - 🕒 **Posted:** 2026-08-12
