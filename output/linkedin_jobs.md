@@ -1,240 +1,71 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-12 03:08 UTC*
+*Last updated: 2026-08-12 05:21 UTC*
 
-**48 new role(s)** since last run · 48 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Deputy Director of Institutional Giving](https://www.linkedin.com/jobs/view/4442642523/) — California Environmental Voters
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $115,000.00/yr - $125,000.00/yr
+### [Assistant Director of Development, Children’s Miracle Network (Fundraiser 3)](https://www.linkedin.com/jobs/view/4453066251/) — UC Davis Health
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $88,100 - $90,000/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452313308/) — Crossover
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Executive Director](https://www.linkedin.com/jobs/view/4450632105/) — Oakmont Senior Living
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $140,000 - $155,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452317325/) — Crossover
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Executive Director](https://www.linkedin.com/jobs/view/4452186538/) — Ivy Living
+- 📍 **Location:** Hayward, CA
+- 💰 **Salary:** $160,000 - $170,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452319320/) — Crossover
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452312347/) — Crossover
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452308356/) — Crossover
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [SHEGLAM Business Development Director (Retail Channels)](https://www.linkedin.com/jobs/view/4387305567/) — SHEGLAM
+### [Missile Production Program Director I](https://www.linkedin.com/jobs/view/4453072055/) — Northrop Grumman
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $130,000 - 250,000
+- 💰 **Salary:** $224,300.00 - $336,500.00
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Director - MS 671 Mott Hall Bridges Academy (SONYC)](https://www.linkedin.com/jobs/view/4451017781/) — The Child Center of NY
-- 📍 **Location:** Brooklyn, NY
+### [Executive Director, Global Patient Safety Sciences Delivery](https://www.linkedin.com/jobs/view/4452353336/) — BioSpace
+- 📍 **Location:** Warren, NJ
+- 💰 **Salary:** $285,600.00 - $475,900.00
 - 🕒 **Posted:** 2026-08-12
 
-### [Youth Development Director, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4452315310/) — Crossover
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director](https://www.linkedin.com/jobs/view/4452008453/) — Children's Aid
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $66,300 - $68,000
-- 🕒 **Posted:** 2026-08-12
-
-### [Youth Entrepreneurship Program Director, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4452307375/) — Crossover
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Control Manager - Executive Director](https://www.linkedin.com/jobs/view/4453028834/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,750.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452316336/) — Crossover
-- 📍 **Location:** Greenwich, CT
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452305360/) — Crossover
-- 📍 **Location:** Greenwich, CT
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Youth Development Director, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4452318345/) — Crossover
-- 📍 **Location:** Paterson, NJ
-- 💰 **Salary:** $200,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Executive Director of Engagement Strategy and Systems](https://www.linkedin.com/jobs/view/4452319147/) — University of Pennsylvania
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $122,100.00 - $160,000.00
-- 🕒 **Posted:** 2026-08-12
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4453045673/) — KinderCare Learning Companies
-- 📍 **Location:** Maple Grove, MN
-- 💰 **Salary:** $56,250.00 - $102,250.00
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452326314/) — Crossover
-- 📍 **Location:** Park City, UT
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director, GT School (Remote) - $400,000/year USD](https://www.linkedin.com/jobs/view/4452306363/) — Crossover
-- 📍 **Location:** Norfolk, VA
-- 💰 **Salary:** $200.00/hr - $200.00/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director, GT School (Remote) - $400,000/year USD](https://www.linkedin.com/jobs/view/4452319318/) — Crossover
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $200.00/hr - $200.00/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director, GT School (Remote) - $400,000/year USD](https://www.linkedin.com/jobs/view/4452325334/) — Crossover
-- 📍 **Location:** Raleigh, NC
-- 💰 **Salary:** $200.00/hr - $200.00/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director, GT School (Remote) - $400,000/year USD](https://www.linkedin.com/jobs/view/4452314361/) — Crossover
-- 📍 **Location:** Orlando, FL
-- 💰 **Salary:** $200.00/hr - $200.00/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director, GT School (Remote) - $400,000/year USD](https://www.linkedin.com/jobs/view/4452305349/) — Crossover
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $200.00/hr - $200.00/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4452320921/) — Encompass Health
-- 📍 **Location:** Charlottesville, VA
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452308350/) — Crossover
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Development - Penn Engineering](https://www.linkedin.com/jobs/view/4452305166/) — University of Pennsylvania
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $135,327.00 - $190,000.00
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452308377/) — Crossover
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452301324/) — Crossover
-- 📍 **Location:** Tulsa, OK
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452305381/) — Crossover
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director, GT School (Remote) - $400,000/year USD](https://www.linkedin.com/jobs/view/4452315329/) — Crossover
+### [Executive Director - ProAmpac Employee Assistance Fund (PEAF)](https://www.linkedin.com/jobs/view/4452340736/) — ProAmpac
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $200.00/hr - $200.00/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452312344/) — Crossover
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Executive Director, Institutional Effectiveness, Research, and Planning](https://www.linkedin.com/jobs/view/4452347870/) — Research Compliance Office at the Texas A&M University System
+- 📍 **Location:** Texarkana, TX
+- 💰 **Salary:** $0 - $30 per month
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Development, Alpha - $250,000/year USD](https://www.linkedin.com/jobs/view/4452327294/) — Crossover
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $250,000.00/yr - $250,000.00/yr
+### [Executive Director](https://www.linkedin.com/jobs/view/4453070136/) — Brookdale
+- 📍 **Location:** Farmington Hills, MI
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Development, Alpha - $250,000/year USD](https://www.linkedin.com/jobs/view/4452306399/) — Crossover
-- 📍 **Location:** Miami Beach, FL
-- 💰 **Salary:** $250,000.00/yr - $250,000.00/yr
+### [Executive Director](https://www.linkedin.com/jobs/view/4450632209/) — Ivy Living
+- 📍 **Location:** Castle Rock, CO
+- 💰 **Salary:** $115,000 - $125,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452318328/) — Crossover
-- 📍 **Location:** Park City, UT
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Business Development Director - Machining](https://www.linkedin.com/jobs/view/4453067150/) — Cogent Analytics
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $50,000.00/yr - $60,000.00/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452304373/) — Crossover
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Associate Business Development Director](https://www.linkedin.com/jobs/view/4446420964/) — IQVIA
+- 📍 **Location:** Durham, NC
+- 💰 **Salary:** $89,900.00 - $250,400.00
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452304358/) — Crossover
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Finance Director of Operations – Systems Dallas Fort Worth](https://www.linkedin.com/jobs/view/4452334838/) — Siemens
+- 📍 **Location:** Fort Worth, TX
+- 💰 **Salary:** $145,156 - $248,839
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452323311/) — Crossover
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Executive Assistant to the CEO](https://www.linkedin.com/jobs/view/4453060175/) — Panthalassa
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $130,000–$195,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452312346/) — Crossover
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452313333/) — Crossover
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452304361/) — Crossover
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Advancement, Alpha - $250,000/year USD](https://www.linkedin.com/jobs/view/4452308415/) — Crossover
-- 📍 **Location:** Miami Beach, FL
-- 💰 **Salary:** $250,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Strategic Partnerships, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4452320362/) — Crossover
-- 📍 **Location:** Burlington, VT
-- 💰 **Salary:** $200,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Community Engagement, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4452326355/) — Crossover
-- 📍 **Location:** Park City, UT
-- 💰 **Salary:** $200,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452301326/) — Crossover
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4452321668/) — Crossover
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Deputy Director of External Affairs](https://www.linkedin.com/jobs/view/4451400077/) — MBTA
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-08-12
-
-### [Hospice RN Executive Director I](https://www.linkedin.com/jobs/view/4453032503/) — Gentiva
-- 📍 **Location:** Franklin, TN
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Partnerships and Community Outreach, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4452319348/) — Crossover
-- 📍 **Location:** Las Vegas, NV
-- 💰 **Salary:** $200,000.00/yr - $200,000.00/yr
+### [Executive Director, Wealth Strategies Group - Wirehouse & Independent Broker-Dealers, South Region](https://www.linkedin.com/jobs/view/4442243223/) — Morgan Stanley
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-08-12
