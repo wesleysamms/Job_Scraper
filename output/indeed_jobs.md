@@ -1,30 +1,43 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-12 17:50 UTC*
+*Last updated: 2026-08-12 18:45 UTC*
 
-**4 new role(s)** since last run · 53 total in last 24h
+**6 new role(s)** since last run · 51 total in last 24h
 
-### [Director of Operations and Programs](https://www.indeed.com/viewjob?jk=6db135e4f70cdbb1) — New Art Center in Newton
-- 📍 **Location:** Newtonville, MA, US
-- 💰 **Salary:** $85k–$100k/yr
+### [Executive Director](https://www.indeed.com/viewjob?jk=a396a8dc4b9e965d) — Hill Country Community Needs Council
+- 📍 **Location:** Fredericksburg, TX, US
+- 💰 **Salary:** $70k–$100k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-12
 
-### [Angels Theater Managing Director](https://www.indeed.com/viewjob?jk=c5857abd05d1c984) — Unknown
-- 📍 **Location:** Lincoln, NE, US
-- 💰 **Salary:** $20k–$25k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime
+### [Executive Director of Admissions](https://www.indeed.com/viewjob?jk=9759fb609a4fa473) — Western Washington University
+- 📍 **Location:** Bellingham, WA, US
+- 💰 **Salary:** $138k–$159k/yr
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-08-12
 
-### [COO / CEO-in-Training — Trustbridge Design & Manufacturing (US)](https://www.indeed.com/viewjob?jk=fd7b800aea60c300) — Vulcury Venture Studio and Advisors
-- 📍 **Location:** Remote, US
-- **Work mode:** Remote in-state eligible
+### [Program Director](https://www.indeed.com/viewjob?jk=e390d996bc19346f) — Sevita
+- 📍 **Location:** Williamstown, WV, US
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-12
 
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=b469f3fd36494f5e) — Carnival Times
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $83k–$100k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime
+### [Clinical Assistant Program Director](https://www.indeed.com/viewjob?jk=d501d4f31c925147) — MOHAWK OPPORTUNITIES, INC.
+- 📍 **Location:** Albany, NY, US
+- 💰 **Salary:** $3044–$79k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-12
+
+### [Business Development Director](https://www.indeed.com/viewjob?jk=92027f4576fb49dd) — Harvest Midstream Company
+- 📍 **Location:** Anchorage, AK, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-12
+
+### [Director of Communications Division](https://www.indeed.com/viewjob?jk=bf7f4563db3a4c22) — Texas Department of Transportation
+- 📍 **Location:** Austin, TX, US
+- 💰 **Salary:** $165k–$210k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-12
