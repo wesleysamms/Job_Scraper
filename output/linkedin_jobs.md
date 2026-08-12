@@ -1,54 +1,51 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-12 18:29 UTC*
+*Last updated: 2026-08-12 19:45 UTC*
 
-**11 new role(s)** since last run · 43 total in last 1h
+**11 new role(s)** since last run · 11 total in last 1h
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4450575951/) — Hedge Impact headhunting
-- 📍 **Location:** San Francisco, CA
+### [CEO-In-Training, Executive Director](https://www.linkedin.com/jobs/view/4450178157/) — Pennant
+- 📍 **Location:** Los Angeles County, CA
+- 💰 **Salary:** $90,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Assistant Program Director, HCM](https://www.linkedin.com/jobs/view/4450158753/) — Samaritan Daytop Village, Inc.
-- 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $90,000-$103,872
+### [Associate Director of Communications](https://www.linkedin.com/jobs/view/4450173863/) — E-Frontiers
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4443365298/) — Third Street Education Center
-- 📍 **Location:** Greenville, NC
-- 💰 **Salary:** $55,000 – $75,000
+### [Managing Director](https://www.linkedin.com/jobs/view/4452737373/) — Juntos Community
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $80,000–$89,000,
 - 🕒 **Posted:** 2026-08-12
 
-### [Managing Director, Private Banker](https://www.linkedin.com/jobs/view/4443165673/) — Citi
-- 📍 **Location:** Jacksonville, FL
+### [Director of Operations](https://www.linkedin.com/jobs/view/4453174444/) — Chastain Horse Park
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-08-12
 
-### [Development Director](https://www.linkedin.com/jobs/view/4452738109/) — American Heart Association
-- 📍 **Location:** Glen Allen, VA
-- 💰 **Salary:** $61,500 to $80,000
+### [Deputy Executive Director](https://www.linkedin.com/jobs/view/4452740249/) — Virginia Cannabis Control Authority
+- 📍 **Location:** Henrico, VA
 - 🕒 **Posted:** 2026-08-12
 
-### [Global Partnership Executive Director](https://www.linkedin.com/jobs/view/4450174167/) — PISQUARED ENERGY LTD
+### [Executive Director - Located outside Utah](https://www.linkedin.com/jobs/view/4309685493/) — PACS
+- 📍 **Location:** Farmington, UT
+- 🕒 **Posted:** 2026-08-12
+
+### [Associate Program Director - ALMA](https://www.linkedin.com/jobs/view/4450171935/) — University of Notre Dame
+- 📍 **Location:** Notre Dame, IN
+- 🕒 **Posted:** 2026-08-12
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4452738387/) — Roofing Talent America (RTA)
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-12
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4452715993/) — Nursetech Medical
-- 📍 **Location:** United States
-- 💰 **Salary:** $110,000 to $120,000
+### [Director of Development, Department of Otolaryngology – Head and Neck Surgery](https://www.linkedin.com/jobs/view/4445459666/) — Johns Hopkins University & Medicine - Development and Alumni Relations
+- 📍 **Location:** Baltimore, MD
 - 🕒 **Posted:** 2026-08-12
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4452736008/) — Taft Brown Associates
-- 📍 **Location:** Geneva, OH
+### [Commercial Development Director](https://www.linkedin.com/jobs/view/4452745189/) — Dr. Simi
+- 📍 **Location:** Austin, Texas Metropolitan Area
 - 🕒 **Posted:** 2026-08-12
 
-### [Executive Director, Market Impact (Remote in Milwaukee, WI)](https://www.linkedin.com/jobs/view/4453187437/) — March of Dimes
-- 📍 **Location:** Milwaukee, WI
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Operations and Programs](https://www.linkedin.com/jobs/view/4452707935/) — New Art Center
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $85,000-$100,000,
-- 🕒 **Posted:** 2026-08-12
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4452714562/) — Holyoke Media
-- 📍 **Location:** Holyoke, MA
-- 💰 **Salary:** $68,000–$75,000/year
+### [Associate Director of Development, Heart and Vascular Institute](https://www.linkedin.com/jobs/view/4446714556/) — Johns Hopkins University & Medicine - Development and Alumni Relations
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $85k-$90k
 - 🕒 **Posted:** 2026-08-12
