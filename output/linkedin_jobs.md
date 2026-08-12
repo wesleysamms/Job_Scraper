@@ -1,51 +1,51 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-12 19:45 UTC*
+*Last updated: 2026-08-12 21:21 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**10 new role(s)** since last run · 11 total in last 1h
 
-### [CEO-In-Training, Executive Director](https://www.linkedin.com/jobs/view/4450178157/) — Pennant
-- 📍 **Location:** Los Angeles County, CA
-- 💰 **Salary:** $90,000.00/yr - $100,000.00/yr
+### [Director of Grants, Contracts & Financial Compliance](https://www.linkedin.com/jobs/view/4436885930/) — GLIDEsf
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000 - $150,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Associate Director of Communications](https://www.linkedin.com/jobs/view/4450173863/) — E-Frontiers
-- 📍 **Location:** New York City Metropolitan Area
+### [Assistant Program Director, Compass Urgent Accommodation Vouchers](https://www.linkedin.com/jobs/view/4437455204/) — Compass Family Services
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $70,000 - $80,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4452737373/) — Juntos Community
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $80,000–$89,000,
+### [Family Medicine Residency Program Director/Medical Director](https://www.linkedin.com/jobs/view/4337150972/) — Hackensack Meridian Health
+- 📍 **Location:** Edison, NJ
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4453174444/) — Chastain Horse Park
-- 📍 **Location:** Atlanta, GA
+### [Deputy Executive Director - Operations - Exceptional Student Education](https://www.linkedin.com/jobs/view/4450036313/) — Detroit Public Schools Community District
+- 📍 **Location:** Detroit, MI
+- 💰 **Salary:** $111,190 - $159,276
 - 🕒 **Posted:** 2026-08-12
 
-### [Deputy Executive Director](https://www.linkedin.com/jobs/view/4452740249/) — Virginia Cannabis Control Authority
-- 📍 **Location:** Henrico, VA
+### [Program Director, GO Virginia](https://www.linkedin.com/jobs/view/4451830138/) — University of Virginia
+- 📍 **Location:** Wise, VA
+- 💰 **Salary:** $65,000 - $75,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Executive Director - Located outside Utah](https://www.linkedin.com/jobs/view/4309685493/) — PACS
-- 📍 **Location:** Farmington, UT
+### [Director of Communications and External Relations](https://www.linkedin.com/jobs/view/4453339273/) — UC Irvine
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $100,100- $143,800
 - 🕒 **Posted:** 2026-08-12
 
-### [Associate Program Director - ALMA](https://www.linkedin.com/jobs/view/4450171935/) — University of Notre Dame
-- 📍 **Location:** Notre Dame, IN
+### [Director of Operations](https://www.linkedin.com/jobs/view/4445477647/) — Marriott Vacations Worldwide
+- 📍 **Location:** Koloa, HI
+- 💰 **Salary:** $110,925 - $150,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4452738387/) — Roofing Talent America (RTA)
-- 📍 **Location:** United States
+### [Real Estate & Business Development Director](https://www.linkedin.com/jobs/view/4453351961/) — American Fidelity
+- 📍 **Location:** Oklahoma City, OK
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Development, Department of Otolaryngology – Head and Neck Surgery](https://www.linkedin.com/jobs/view/4445459666/) — Johns Hopkins University & Medicine - Development and Alumni Relations
-- 📍 **Location:** Baltimore, MD
+### [Business Development Director](https://www.linkedin.com/jobs/view/4443957400/) — ✦✦✦ Quest Energy Group ✦✦✦
+- 📍 **Location:** Lake Charles-Jennings Area
+- 💰 **Salary:** $150,000–$185,000
 - 🕒 **Posted:** 2026-08-12
 
-### [Commercial Development Director](https://www.linkedin.com/jobs/view/4452745189/) — Dr. Simi
-- 📍 **Location:** Austin, Texas Metropolitan Area
-- 🕒 **Posted:** 2026-08-12
-
-### [Associate Director of Development, Heart and Vascular Institute](https://www.linkedin.com/jobs/view/4446714556/) — Johns Hopkins University & Medicine - Development and Alumni Relations
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $85k-$90k
+### [Deputy Director of External Affairs](https://www.linkedin.com/jobs/view/4451400077/) — MBTA
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-08-12
