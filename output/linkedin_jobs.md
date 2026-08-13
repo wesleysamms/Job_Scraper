@@ -1,35 +1,37 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-13 00:18 UTC*
+*Last updated: 2026-08-13 03:05 UTC*
 
-**7 new role(s)** since last run · 25 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4453397713/) — Edelweiss Software Group
-- 📍 **Location:** United States
+### [Managing Director, Real Estate Lending](https://www.linkedin.com/jobs/view/4450435062/) — NY Green Bank
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,562.00/yr - $223,625.00/yr
 - 🕒 **Posted:** 2026-08-13
 
-### [Expert Opportunity - Director of Strategic Partnerships ($100/hr, up to $2,000/week)](https://www.linkedin.com/jobs/view/4453381986/) — Ethos
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Chief Operating Officer - Studio Museum in Harlem](https://www.linkedin.com/jobs/view/4453607110/) — PBR Executive Search
+### [Operational Resiliency Business Management, Executive Director](https://www.linkedin.com/jobs/view/4453618842/) — JPMorganChase
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $275,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-08-12
+- 💰 **Salary:** $175,750.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-13
 
-### [Director of Marketing and Communications](https://www.linkedin.com/jobs/view/4453386976/) — University at Buffalo Campus Dining & Shops
-- 📍 **Location:** Buffalo, NY
-- 💰 **Salary:** $85,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-08-12
+### [Director of Operations](https://www.linkedin.com/jobs/view/4450425234/) — Southern West Virginia Health System
+- 📍 **Location:** Hamlin, WV
+- 🕒 **Posted:** 2026-08-13
 
-### [Deputy Chief Executive Officer](https://www.linkedin.com/jobs/view/4453603192/) — VONNE (Voluntary Organisations' Network North East)
-- 📍 **Location:** Durham, NC
-- 🕒 **Posted:** 2026-08-12
+### [Executive Director – BayWoods of ...](https://www.linkedin.com/jobs/view/4453627531/) — ProCare through LeadingAge New York
+- 📍 **Location:** Annapolis, MD
+- 🕒 **Posted:** 2026-08-13
 
-### [Program Director of VIA Journeys](https://www.linkedin.com/jobs/view/4450189899/) — Indiana Wesleyan University Nursing
-- 📍 **Location:** Marion, IN
-- 🕒 **Posted:** 2026-08-12
+### [Plan President & CEO](https://www.linkedin.com/jobs/view/4450423211/) — Health Net Health Plan of Oregon, Inc.
+- 📍 **Location:** Covington, LA
+- 💰 **Salary:** $270,000.00 - $580,000.00 per year
+- 🕒 **Posted:** 2026-08-13
 
-### [Program Director, Coastal Carolina Chapter](https://www.linkedin.com/jobs/view/4453600283/) — Blue Star Families
-- 📍 **Location:** Greater Wilmington Area
-- 💰 **Salary:** $69,000 - $88,000 per year
-- 🕒 **Posted:** 2026-08-12
+### [Senior Managing Director, Business Development](https://www.linkedin.com/jobs/view/4453635258/) — Pathward
+- 📍 **Location:** United States
+- 💰 **Salary:** $150,000 – $227,000
+- 🕒 **Posted:** 2026-08-13
+
+### [Engineering Program Director - Americas Distribution Quality Operations](https://www.linkedin.com/jobs/view/4449693335/) — Medtronic
+- 📍 **Location:** Memphis, TN
+- 💰 **Salary:** $198,400.00 - $297,600.00
+- 🕒 **Posted:** 2026-08-13
