@@ -1,88 +1,35 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-12 23:20 UTC*
+*Last updated: 2026-08-13 00:18 UTC*
 
-**19 new role(s)** since last run · 23 total in last 1h
+**7 new role(s)** since last run · 25 total in last 1h
 
-### [Organizational Development Director](https://www.linkedin.com/jobs/view/4453380548/) — University of California, San Francisco
+### [Managing Director](https://www.linkedin.com/jobs/view/4453397713/) — Edelweiss Software Group
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-13
+
+### [Expert Opportunity - Director of Strategic Partnerships ($100/hr, up to $2,000/week)](https://www.linkedin.com/jobs/view/4453381986/) — Ethos
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-12
 
-### [Deputy Director of Finance and Administration](https://www.linkedin.com/jobs/view/4453368882/) — City and County of San Francisco
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Development, Berkeley Law, University of California (Berkeley)](https://www.linkedin.com/jobs/view/4450180813/) — Association of Fundraising Professionals, Golden Gate Chapter (AFP Golden Gate)
-- 📍 **Location:** Berkeley, CA
-- 💰 **Salary:** $126,800.00 – $158,500
-- 🕒 **Posted:** 2026-08-12
-
-### [Triton Advanced Development Program Director 1 - San Diego CA](https://www.linkedin.com/jobs/view/4453373713/) — Northrop Grumman
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $224,300.00 - $336,500.00
-- 🕒 **Posted:** 2026-08-12
-
-### [Chief of Staff to Founder/CEO](https://www.linkedin.com/jobs/view/4453365901/) — Wayoh
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Deputy Executive Director, Humanitarian Action and Supply Operations, (Assistant Secretary -General), New York, USA](https://www.linkedin.com/jobs/view/4453389507/) — UNICEF
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-08-12
-
-### [Managing Director, Cyber Risk](https://www.linkedin.com/jobs/view/4450180854/) — Kroll
+### [Chief Operating Officer - Studio Museum in Harlem](https://www.linkedin.com/jobs/view/4453607110/) — PBR Executive Search
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $275,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Director - SAP Advanced Availability to Promise](https://www.linkedin.com/jobs/view/4450199153/) — Tata Consultancy Services
-- 📍 **Location:** Edison, NJ
-- 💰 **Salary:** $180,000 to $250,000 Per Annum
+### [Director of Marketing and Communications](https://www.linkedin.com/jobs/view/4453386976/) — University at Buffalo Campus Dining & Shops
+- 📍 **Location:** Buffalo, NY
+- 💰 **Salary:** $85,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Director, Coastal Carolina Chapter](https://www.linkedin.com/jobs/view/4453369942/) — Blue Star Families
-- 📍 **Location:** Jacksonville, NC
+### [Deputy Chief Executive Officer](https://www.linkedin.com/jobs/view/4453603192/) — VONNE (Voluntary Organisations' Network North East)
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-08-12
+
+### [Program Director of VIA Journeys](https://www.linkedin.com/jobs/view/4450189899/) — Indiana Wesleyan University Nursing
+- 📍 **Location:** Marion, IN
+- 🕒 **Posted:** 2026-08-12
+
+### [Program Director, Coastal Carolina Chapter](https://www.linkedin.com/jobs/view/4453600283/) — Blue Star Families
+- 📍 **Location:** Greater Wilmington Area
 - 💰 **Salary:** $69,000 - $88,000 per year
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director](https://www.linkedin.com/jobs/view/4450181782/) — Sevita
-- 📍 **Location:** Springfield, IL
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director](https://www.linkedin.com/jobs/view/4450181783/) — Sevita
-- 📍 **Location:** Minneapolis–Saint Paul, WI
-- 💰 **Salary:** $80,000-$95,000
-- 🕒 **Posted:** 2026-08-12
-
-### [Associate Director of Development – Leadership Giving](https://www.linkedin.com/jobs/view/4453368962/) — Harvard Graduate School of Education
-- 📍 **Location:** Cambridge, MA
-- 💰 **Salary:** $10,000-$25,000 annually
-- 🕒 **Posted:** 2026-08-12
-
-### [Assistant Director of Development, Watts College](https://www.linkedin.com/jobs/view/4453326828/) — ASU Foundation for a New American University
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director (Full-Time | Klamath County)](https://www.linkedin.com/jobs/view/4450188757/) — Oregon Child Development Coalition
-- 📍 **Location:** Klamath Falls, OR
-- 💰 **Salary:** $81,600.00 to $102,000.00 annually
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Management Program Director _2754](https://www.linkedin.com/jobs/view/4450196517/) — Sevita
-- 📍 **Location:** Lewisburg, WV
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director](https://www.linkedin.com/jobs/view/4450184678/) — Sevita
-- 📍 **Location:** Bullhead City, AZ
-- 🕒 **Posted:** 2026-08-12
-
-### [Managing Director, Cyber Risk](https://www.linkedin.com/jobs/view/4450182724/) — Kroll
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director](https://www.linkedin.com/jobs/view/4450199105/) — Sevita
-- 📍 **Location:** Natchez, MS
-- 🕒 **Posted:** 2026-08-12
-
-### [Assistant Executive Director (Director of Hospitality)](https://www.linkedin.com/jobs/view/4450197644/) — AgeWell Senior Living
-- 📍 **Location:** Boca Raton, FL
 - 🕒 **Posted:** 2026-08-12
