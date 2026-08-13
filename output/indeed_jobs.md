@@ -1,58 +1,62 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-13 00:49 UTC*
+*Last updated: 2026-08-13 03:23 UTC*
 
-**9 new role(s)** since last run · 56 total in last 24h
+**9 new role(s)** since last run · 46 total in last 24h
 
-### [Behavioral Health Program Director](https://www.indeed.com/viewjob?jk=5b07b1bfb74f4509) — Aspiranet
-- 📍 **Location:** Stockton, CA, US
-- 💰 **Salary:** $90k–$95k/yr
+### [Executive Director - LAEDFT](https://www.indeed.com/viewjob?jk=9557bfec8d13c426) — Ronald McDonald House Charities of Southern California
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $155k–$175k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-12
+
+### [Director of Communications and External Relations](https://www.indeed.com/viewjob?jk=388f4069c4982b56) — UC Irvine Health
+- 📍 **Location:** Irvine, CA, US
+- 💰 **Salary:** $100k–$144k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-12
 
-### [Executive Director - Sequoia](https://www.indeed.com/viewjob?jk=9f507fac3cc9a2c0) — YMCA of Silicon Valley
-- 📍 **Location:** Redwood City, CA, US
-- 💰 **Salary:** $135k–$145k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-12
-
-### [Director of Development, Turner College of Business and Honors College](https://www.indeed.com/viewjob?jk=56d1af11f9b75c9d) — Columbus State University
-- 📍 **Location:** Columbus, GA, US
+### [Director of Development](https://www.indeed.com/viewjob?jk=70280d110ba55c3f) — Committee for Hispanic Children and Fami
+- 📍 **Location:** Bronx, NY, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Management Program Director _2754](https://www.indeed.com/viewjob?jk=e782f12a48f878f4) — Sevita
-- 📍 **Location:** Lewisburg, WV, US
+### [Executive Director](https://www.indeed.com/viewjob?jk=7b6f82a8fb7bea7c) — Humane Society of Calloway County
+- 📍 **Location:** Murray, KY, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-13
+
+### [Special Assistant to the President and CEO](https://www.indeed.com/viewjob?jk=581b1674f87c88c3) — Capital Area Food Bank
+- 📍 **Location:** Washington, DC, US
+- 💰 **Salary:** $95k–$128k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-12
+
+### [Program Director, Coastal Carolina Chapter](https://www.indeed.com/viewjob?jk=6a4f2a70d9e75c57) — Blue Star Families, Inc
+- 📍 **Location:** Jacksonville, NC, US
+- 💰 **Salary:** $69k–$88k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-12
+
+### [Director of Development](https://www.indeed.com/viewjob?jk=648792469173590f) — University of Central Florida
+- 📍 **Location:** Orlando, FL, US
+- 💰 **Salary:** $76k–$104k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Director](https://www.indeed.com/viewjob?jk=218824024ebeaf0c) — Sevita
-- 📍 **Location:** Bullhead City, AZ, US
+### [Director of Advancement](https://www.indeed.com/viewjob?jk=1b40e3f31376e658) — THE FRANCES XAVIER WARDE SCHOOL
+- 📍 **Location:** Chicago, IL, US
+- 💰 **Salary:** $110k–$140k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Director](https://www.indeed.com/viewjob?jk=1543216c9d969f55) — Sevita
-- 📍 **Location:** Natchez, MS, US
+### [Associate Director of Development – Leadership Giving](https://www.indeed.com/viewjob?jk=b25d865098cb7db9) — Harvard University
+- 📍 **Location:** Cambridge, MA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director](https://www.indeed.com/viewjob?jk=cc2be30ff58bfa11) — Sevita
-- 📍 **Location:** Springfield, IL, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Director](https://www.indeed.com/viewjob?jk=bd210d8922b5f1a8) — Sevita
-- 📍 **Location:** Columbus, OH, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-12
-
-### [EVENT COORDINATOR/ASSISTANT TO EXECUTIVE DIRECTOR](https://www.indeed.com/viewjob?jk=bc204290f86eb652) — Northwestern State University
-- 📍 **Location:** Natchitoches, LA, US
-- **Work mode:** On-site
 - 🕒 **Posted:** 2026-08-12
