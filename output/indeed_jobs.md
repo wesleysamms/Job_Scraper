@@ -1,15 +1,58 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-12 23:31 UTC*
+*Last updated: 2026-08-13 00:49 UTC*
 
-**2 new role(s)** since last run · 53 total in last 24h
+**9 new role(s)** since last run · 56 total in last 24h
 
-### [Vice President of Development](https://www.indeed.com/viewjob?jk=855832c9daa329f0) — Big Brothers Big Sisters of the Capital Region
-- 📍 **Location:** Harrisburg, PA, US
-- **Work mode:** Remote in-state eligible
+### [Behavioral Health Program Director](https://www.indeed.com/viewjob?jk=5b07b1bfb74f4509) — Aspiranet
+- 📍 **Location:** Stockton, CA, US
+- 💰 **Salary:** $90k–$95k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-12
 
-### [Director of Communications](https://www.indeed.com/viewjob?jk=dcf36e9d6065f326) — University of West Alabama (UWA)
-- 📍 **Location:** Livingston, AL, US
+### [Executive Director - Sequoia](https://www.indeed.com/viewjob?jk=9f507fac3cc9a2c0) — YMCA of Silicon Valley
+- 📍 **Location:** Redwood City, CA, US
+- 💰 **Salary:** $135k–$145k/yr
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-07-02
+- 🕒 **Posted:** 2026-08-12
+
+### [Director of Development, Turner College of Business and Honors College](https://www.indeed.com/viewjob?jk=56d1af11f9b75c9d) — Columbus State University
+- 📍 **Location:** Columbus, GA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-12
+
+### [Program Management Program Director _2754](https://www.indeed.com/viewjob?jk=e782f12a48f878f4) — Sevita
+- 📍 **Location:** Lewisburg, WV, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-12
+
+### [Program Director](https://www.indeed.com/viewjob?jk=218824024ebeaf0c) — Sevita
+- 📍 **Location:** Bullhead City, AZ, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-12
+
+### [Program Director](https://www.indeed.com/viewjob?jk=1543216c9d969f55) — Sevita
+- 📍 **Location:** Natchez, MS, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-12
+
+### [Program Director](https://www.indeed.com/viewjob?jk=cc2be30ff58bfa11) — Sevita
+- 📍 **Location:** Springfield, IL, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-12
+
+### [Program Director](https://www.indeed.com/viewjob?jk=bd210d8922b5f1a8) — Sevita
+- 📍 **Location:** Columbus, OH, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-12
+
+### [EVENT COORDINATOR/ASSISTANT TO EXECUTIVE DIRECTOR](https://www.indeed.com/viewjob?jk=bc204290f86eb652) — Northwestern State University
+- 📍 **Location:** Natchitoches, LA, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-12
