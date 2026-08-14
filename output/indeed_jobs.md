@@ -1,38 +1,45 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-14 18:44 UTC*
+*Last updated: 2026-08-14 19:48 UTC*
 
-**5 new role(s)** since last run · 28 total in last 24h
+**6 new role(s)** since last run · 31 total in last 24h
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=126f00b76f784412) — Unknown
-- 📍 **Location:** Huntsville, TX, US
-- 💰 **Salary:** $85k–$95k/yr
+### [Executive Director, Grant Administration](https://www.indeed.com/viewjob?jk=41ddd272ec5e48f6) — Columbia University
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $160k–$180k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-14
 
-### [Executive Assistant to CEO & President](https://www.indeed.com/viewjob?jk=90350da2618a399b) — EasterSeals Southwest Florida, Inc.
+### [Executive Assistant to the CEO](https://www.indeed.com/viewjob?jk=0990cff347bde2a7) — The C. W. Williams Community Health Center, Inc.
+- 📍 **Location:** Charlotte, NC, US
+- 💰 **Salary:** $58k–$60k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-14
+
+### [Program Director, VRS](https://www.indeed.com/viewjob?jk=d46cd46021671db8) — Centerstone
+- 📍 **Location:** West Frankfort, IL, US
+- 💰 **Salary:** $90k–$135k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-14
+
+### [Executive Assistant to CEO & President](https://www.indeed.com/viewjob?jk=4bc31dfa14a5e56e) — EasterSeals Southwest Florida, Inc.
 - 📍 **Location:** Sarasota, FL, US
 - 💰 **Salary:** $50k–$60k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-14
 
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=0a07fbce3e958fd6) — Unknown
-- 📍 **Location:** Providence, RI, US
+### [Executive Director](https://www.indeed.com/viewjob?jk=125ad692578fe12c) — Lincoln County Coalition Against Child Abuse & Child Advocacy Center
+- 📍 **Location:** Lincolnton, NC, US
+- 💰 **Salary:** $55k–$75k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-14
 
-### [Director of Operations](https://www.indeed.com/viewjob?jk=35dc89b6c361e427) — Trinity Cathedral
-- 📍 **Location:** Cleveland, OH, US
-- 💰 **Salary:** $85k–$100k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-14
-
-### [Director of Development, Pauley Heart Center](https://www.indeed.com/viewjob?jk=60e34fecbee6f460) — Virginia Commonwealth University
-- 📍 **Location:** VA, US
-- 💰 **Salary:** $90k–$110k/yr
+### [Director of Development](https://www.indeed.com/viewjob?jk=51c3bdfa97931477) — Chicago Academy for the Arts
+- 📍 **Location:** Chicago, IL, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-14
