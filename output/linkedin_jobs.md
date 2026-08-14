@@ -1,25 +1,44 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-14 00:20 UTC*
+*Last updated: 2026-08-14 03:04 UTC*
 
-**5 new role(s)** since last run · 29 total in last 1h
+**9 new role(s)** since last run · 10 total in last 1h
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4453271534/) — Women's Telemed
-- 📍 **Location:** Newport Beach, CA
-- 🕒 **Posted:** 2026-08-13
+### [Hospice Executive Director Registered Nurse](https://www.linkedin.com/jobs/view/4454339965/) — AccentCare
+- 📍 **Location:** Orange, CA
+- 💰 **Salary:** $160,000 to $185,000
+- 🕒 **Posted:** 2026-08-14
 
-### [Senior Living Executive Director](https://www.linkedin.com/jobs/view/4453279510/) — Merrill Gardens
-- 📍 **Location:** Boise, ID
-- 🕒 **Posted:** 2026-08-13
+### [After Office Hours Program Director](https://www.linkedin.com/jobs/view/4453288605/) — Upstate Medical University
+- 📍 **Location:** Greater Syracuse-Auburn Area
+- 🕒 **Posted:** 2026-08-14
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4454316858/) — Storyboard
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-08-13
+### [Credit Originations Manager Regional Lead - Community Development Banking - Executive Director](https://www.linkedin.com/jobs/view/4454355986/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $171,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-08-14
 
-### [COO/CMO, Co-Founder](https://www.linkedin.com/jobs/view/4454323842/) — REV Global
+### [Director of Operations - MHAS](https://www.linkedin.com/jobs/view/4450512981/) — Ob Hospitalist Group
 - 📍 **Location:** United States
-- 💰 **Salary:** $250K–$750K
-- 🕒 **Posted:** 2026-08-13
+- 💰 **Salary:** $135,000 - $145,000
+- 🕒 **Posted:** 2026-08-14
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4453263235/) — BiznusSoft Inc.
-- 📍 **Location:** Roselle, IL
-- 🕒 **Posted:** 2026-08-13
+### [Program Director School Age Programs](https://www.linkedin.com/jobs/view/4450850331/) — YMCA of Greater Seattle
+- 📍 **Location:** Bothell, WA
+- 🕒 **Posted:** 2026-08-14
+
+### [Program Director](https://www.linkedin.com/jobs/view/4453502578/) — Empowered Staffing
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-08-14
+
+### [COO](https://www.linkedin.com/jobs/view/4450863128/) — Free Courses With Certificates
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-14
+
+### [EXECUTIVE DIRECTOR OF HUMAN RESOURCES](https://www.linkedin.com/jobs/view/4454344906/) — Grand Blanc Community Schools
+- 📍 **Location:** Flint, MI
+- 💰 **Salary:** $75,000 - $80,000
+- 🕒 **Posted:** 2026-08-14
+
+### [Director of Advancement Data and Research (Onsite) - Trine University](https://www.linkedin.com/jobs/view/4454363153/) — APRA Indiana
+- 📍 **Location:** University, MS
+- 🕒 **Posted:** 2026-08-14
