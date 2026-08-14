@@ -1,31 +1,42 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-14 03:20 UTC*
+*Last updated: 2026-08-14 05:29 UTC*
 
-**4 new role(s)** since last run · 42 total in last 24h
+**6 new role(s)** since last run · 42 total in last 24h
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=d0e9ccbc31b781e6) — Ascension
-- 📍 **Location:** Wichita, KS, US
-- 💰 **Salary:** $111k–$150k/yr
+### [Director of Development](https://www.indeed.com/viewjob?jk=87d6e3eb02222cda) — Sacramento SPCA
+- 📍 **Location:** Sacramento, CA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-13
 
-### [Director of Development & Engagement](https://www.indeed.com/viewjob?jk=61f2a9cbc12b9c9a) — Waterford Country School
-- 📍 **Location:** Quaker Hill, CT, US
-- 💰 **Salary:** $110k–$150k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-13
-
-### [Restorative Care Program Director](https://www.indeed.com/viewjob?jk=922bac4ad2d90829) — Unknown
-- 📍 **Location:** Martinsburg, WV, US
-- 💰 **Salary:** $65k–$85k/yr
+### [Director of Advancement](https://www.indeed.com/viewjob?jk=30c85340361cd164) — New Hope of Indiana
+- 📍 **Location:** Indianapolis, IN, US
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-14
 
-### [Clinical Program Director](https://www.indeed.com/viewjob?jk=5a95c5925ae1a195) — Southwest Key Programs
-- 📍 **Location:** Dallas, TX, US
+### [Development Director](https://www.indeed.com/viewjob?jk=023b96f091ffc1e0) — HR Synergy
+- 📍 **Location:** Moultonborough, NH, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-13
+
+### [Executive Assistant to the CEO & COO](https://www.indeed.com/viewjob?jk=81273f409abd35f9) — Xiente
+- 📍 **Location:** Philadelphia, PA, US
+- 💰 **Salary:** $40k–$45k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-13
+
+### [Director of Operations](https://www.indeed.com/viewjob?jk=0390d1f489f99851) — HYPER SOLUTIONS
+- 📍 **Location:** Richmond, VA, US
+- 💰 **Salary:** $160k–$180k/yr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-13
+
+### [Program Director - Youth Resource Center](https://www.indeed.com/viewjob?jk=bc0eb35edac73d65) — Volunteers of America, Utah
+- 📍 **Location:** Salt Lake City, UT, US
+- 💰 **Salary:** $65k–$70k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-13
