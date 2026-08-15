@@ -1,32 +1,43 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-14 23:56 UTC*
+*Last updated: 2026-08-15 02:08 UTC*
 
-**6 new role(s)** since last run · 33 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Vice President of Programs & Product](https://www.linkedin.com/jobs/view/4453744063/) — Heaviside Industries
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $200,000 – $400,000
-- 🕒 **Posted:** 2026-08-14
+### [Executive Director- Sycuan Health Center](https://www.linkedin.com/jobs/view/4453754862/) — Sycuan Tribal Government
+- 📍 **Location:** El Cajon, CA
+- 🕒 **Posted:** 2026-08-15
 
-### [Deputy Director, Thurgood Marshall Institute](https://www.linkedin.com/jobs/view/4366611074/) — NAACP Legal Defense and Education Fund, Inc.
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $147,200-$184,000
-- 🕒 **Posted:** 2026-08-14
+### [THAAD Interceptor and Deputy Development Director](https://www.linkedin.com/jobs/view/4451273554/) — Lockheed Martin
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $180000.00 - $325000.00
+- 🕒 **Posted:** 2026-08-15
 
-### [Program Director - Robert C. Wood Apartments](https://www.linkedin.com/jobs/view/4454822532/) — Bowery Residents' Committee
-- 📍 **Location:** Queens, NY
-- 🕒 **Posted:** 2026-08-14
+### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4454831615/) — MedMark Treatment Centers
+- 📍 **Location:** Dayton, OH
+- 🕒 **Posted:** 2026-08-15
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4453741287/) — Hillcrest Family Services
+### [PWM Trust Managing Director](https://www.linkedin.com/jobs/view/4375848327/) — U.S. Bank
 - 📍 **Location:** Dubuque, IA
-- 🕒 **Posted:** 2026-08-14
+- 💰 **Salary:** $124,695.00 - $146,700.00
+- 🕒 **Posted:** 2026-08-15
 
-### [Business Development Director (Utility Construction)](https://www.linkedin.com/jobs/view/4446944626/) — Tiello
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $160,000.00/yr - $215,000.00/yr
-- 🕒 **Posted:** 2026-08-14
+### [Executive Director: Human Capital Management](https://www.linkedin.com/jobs/view/4454848594/) — Anne Arundel County Public Schools
+- 📍 **Location:** Annapolis, MD
+- 🕒 **Posted:** 2026-08-15
 
-### [Program Director](https://www.linkedin.com/jobs/view/4454804986/) — Compucom
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $112,000 – $150,000 annually
-- 🕒 **Posted:** 2026-08-14
+### [Executive Director ADMINISTRATOR IV](https://www.linkedin.com/jobs/view/4454848227/) — State of Maryland
+- 📍 **Location:** Maryland, United States
+- 🕒 **Posted:** 2026-08-15
+
+### [Regional Director of Operations - Memphis/Mid-South District](https://www.linkedin.com/jobs/view/4453740843/) — Aramark
+- 📍 **Location:** Memphis, TN
+- 🕒 **Posted:** 2026-08-15
+
+### [Executive Director of Marketing](https://www.linkedin.com/jobs/view/4453753927/) — OREMOR Automotive Group
+- 📍 **Location:** Orange County, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Managing Director, AI Large Deal GTM](https://www.linkedin.com/jobs/view/4454850349/) — NTT DATA North America
+- 📍 **Location:** Plano, TX
+- 💰 **Salary:** $225,000 - $450,000 per year
+- 🕒 **Posted:** 2026-08-15
