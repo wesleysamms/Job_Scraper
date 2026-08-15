@@ -1,35 +1,23 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-15 16:59 UTC*
+*Last updated: 2026-08-15 17:53 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**4 new role(s)** since last run · 11 total in last 1h
 
-### [Program Director - Transformation - Full Time 8 Hour Days(Exempt) (Non-Union)](https://www.linkedin.com/jobs/view/4451724572/) — Engineering Management Student Association (EMSA)
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $126,547.00 - $208,803.00
-- 🕒 **Posted:** 2026-08-15
-
-### [Power and Energy Infrastructure Project Finance, Managing Director (New York)](https://www.linkedin.com/jobs/view/4415959842/) — Fitch Ratings
+### [Director of Operations](https://www.linkedin.com/jobs/view/4444379599/) — SBM Management Services, LP
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000-$160,000 per year
 - 🕒 **Posted:** 2026-08-15
 
-### [Partnership Development Director, Network Growth – Digital Assets](https://www.linkedin.com/jobs/view/4418034328/) — Early Warning
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $154,000 - $232,000
+### [Director of Operations](https://www.linkedin.com/jobs/view/4451727537/) — NYC Department of Finance
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $130,000.00 – $133,503.00
 - 🕒 **Posted:** 2026-08-15
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4451740505/) — Ascension Recovery Services
-- 📍 **Location:** Morgantown, WV
+### [Global Head of Governance | Threat Hunt | Executive Director](https://www.linkedin.com/jobs/view/4443172573/) — Morgan Stanley
+- 📍 **Location:** Baltimore, MD
 - 🕒 **Posted:** 2026-08-15
 
-### [Managing Director, Growth Strategy](https://www.linkedin.com/jobs/view/4455116630/) — Crest Carolina Capital Partners
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-15
-
-### [BUSINESS DEVELOPMENT DIRECTOR - HOSPITALITY](https://www.linkedin.com/jobs/view/4455109720/) — Dal-Tile LLC
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-15
-
-### [Executive Director, EaR Strategy & Alignment, Public Affairs](https://www.linkedin.com/jobs/view/4436398154/) — The College Board
-- 📍 **Location:** United States
-- 💰 **Salary:** $152,000 – $230,000
+### [Director of Operations](https://www.linkedin.com/jobs/view/4444390052/) — SBM Management Services, LP
+- 📍 **Location:** Detroit, MI
+- 💰 **Salary:** $150,000-$160,000 per year
 - 🕒 **Posted:** 2026-08-15
