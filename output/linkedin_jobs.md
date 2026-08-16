@@ -1,14 +1,16 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-16 04:15 UTC*
+*Last updated: 2026-08-16 15:51 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Vice President of Development and External Affairs](https://www.linkedin.com/jobs/view/4451762476/) — MDS Foundation, Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $120,000–$150,000,
+### [Executive Director of Strategic Operations (Program Management Leader), VPAS](https://www.linkedin.com/jobs/view/4455188742/) — Indiana University Bloomington
+- 📍 **Location:** Bloomington, IN
 - 🕒 **Posted:** 2026-08-16
 
-### [COO JN -072026-178838](https://www.linkedin.com/jobs/view/4443773792/) — Goodwin Recruiting
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $275,000 - $350,000,
+### [Director of Operations](https://www.linkedin.com/jobs/view/4444827733/) — Remington Hospitality
+- 📍 **Location:** Evansville, IN
+- 🕒 **Posted:** 2026-08-16
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4453972816/) — Lia's Landscaping
+- 📍 **Location:** Indian Hill, OH
 - 🕒 **Posted:** 2026-08-16
