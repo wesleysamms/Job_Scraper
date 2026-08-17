@@ -1,50 +1,59 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-17 20:11 UTC*
+*Last updated: 2026-08-17 21:18 UTC*
 
-**7 new role(s)** since last run · 29 total in last 24h
+**9 new role(s)** since last run · 33 total in last 24h
 
-### [Director of Development](https://www.indeed.com/viewjob?jk=6aff42515c34fa24) — Monsignor Scanlan High School
-- 📍 **Location:** Bronx, NY, US
-- 💰 **Salary:** $75k–$100k/yr
+### [Director of Operations](https://www.indeed.com/viewjob?jk=507568f353edaf8f) — Alliance Computing Solutions
+- 📍 **Location:** Flushing, NY, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-17
 
-### [GRANTS & ADVANCEMENT DIRECTOR (OKLAHOMA CITY, OK)](https://www.indeed.com/viewjob?jk=3a59b5ab774997d7) — Our blood institute
-- 📍 **Location:** Oklahoma City, OK, US
+### [Assistant Program Director & Case Worker](https://www.indeed.com/viewjob?jk=3fa6492356362951) — Carter Burden Network
+- 📍 **Location:** New York, NY, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-17
 
-### [Branch Executive Director](https://www.indeed.com/viewjob?jk=a153ca400a24ad2d) — YMCA
-- 📍 **Location:** Atlanta, GA, US
+### [Assistant Director of Development](https://www.indeed.com/viewjob?jk=f44a130b1b38917f) — GAMECOCK CLUB
+- 📍 **Location:** Columbia, SC, US
+- 💰 **Salary:** $55k–$60k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-17
 
-### [GRANTS & ADVANCEMENT DIRECTOR](https://www.indeed.com/viewjob?jk=b3289f453caa83ab) — Oklahoma Blood Institute
-- 📍 **Location:** Oklahoma City, OK, US
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=d4441737fe566867) — LifeSource
+- 📍 **Location:** Minneapolis, MN, US
+- 💰 **Salary:** $340k–$435k/yr
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-08-17
 
-### [Executive Director, Public Affairs - Georgia](https://www.indeed.com/viewjob?jk=e1cb827d1ab482e2) — Kaiser Permanente
-- 📍 **Location:** Atlanta, GA, US
-- 💰 **Salary:** $248k–$309k/yr
+### [Executive Director, Enterprise & Workforce Solutions](https://www.indeed.com/viewjob?jk=c040b75343ee730b) — Maryville University
+- 📍 **Location:** St. Louis, MO, US
+- 💰 **Salary:** $185k–$210k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-17
 
-### [Executive Director, Public Affairs - Colorado](https://www.indeed.com/viewjob?jk=912841e33fa704b8) — Kaiser Permanente
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $248k–$309k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-17
-
-### [Director of Development](https://www.indeed.com/viewjob?jk=f6ebb62c4500b4a1) — Equality Health Center
-- 📍 **Location:** Concord, NH, US
-- 💰 **Salary:** $52k–$60k/yr
+### [Senior Director of Development, Global Philanthropy](https://www.indeed.com/viewjob?jk=30607471eddf3f30) — Vanderbilt University
+- 📍 **Location:** Nashville, TN, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-17
+
+### [Co-Executive Director - Development, Finance, and Operations](https://www.indeed.com/viewjob?jk=84f27ccab19f203c) — Portland Immigrant Rights Coalition
+- 📍 **Location:** Portland, OR, US
+- 💰 **Salary:** $95k–$105k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-17
+
+### [Director of Communications and Engagement](https://www.indeed.com/viewjob?jk=9601490ecd5497f7) — West Virginia Primary Care Association
+- 📍 **Location:** Charleston, WV, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-17
+
+### [Executive Director, Clinical Operations](https://www.indeed.com/viewjob?jk=d6b74ef22439cef0) — Unknown
+- 📍 **Location:** US
+- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-08-17
