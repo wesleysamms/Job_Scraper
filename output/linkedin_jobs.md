@@ -1,31 +1,68 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-17 22:02 UTC*
+*Last updated: 2026-08-17 23:02 UTC*
 
-**6 new role(s)** since last run · 37 total in last 1h
+**14 new role(s)** since last run · 21 total in last 1h
 
-### [SY 26-27 Senior Director of Operations](https://www.linkedin.com/jobs/view/4449126753/) — School in the Square
+### [Deputy Director, Facilities Operations](https://www.linkedin.com/jobs/view/4454436078/) — California State Association of Counties®
+- 📍 **Location:** Santa Clara County, CA
+- 💰 **Salary:** $193,587 - $248,324 Annually
+- 🕒 **Posted:** 2026-08-17
+
+### [Senior Executive Business Partner, CEO's Office](https://www.linkedin.com/jobs/view/4455388638/) — Drata
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000 - $230,000
+- 🕒 **Posted:** 2026-08-17
+
+### [ESSC - Secretary to the Executive Director of ISS - #995](https://www.linkedin.com/jobs/view/4455392689/) — Chula Vista Elementary School District
+- 📍 **Location:** Chula Vista, CA
+- 🕒 **Posted:** 2026-08-17
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4445042503/) — SGTR, LLC
+- 📍 **Location:** Syracuse, NY
+- 💰 **Salary:** $150,000.00/yr - $170,000.00/yr
+- 🕒 **Posted:** 2026-08-17
+
+### [Assistant Deputy Director- C&S Projects and Technical Support](https://www.linkedin.com/jobs/view/4454448081/) — Metropolitan Transportation Authority
+- 📍 **Location:** White Plains, NY
+- 💰 **Salary:** $116,641- $145,800
+- 🕒 **Posted:** 2026-08-17
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4455391698/) — Independence Center
+- 📍 **Location:** St Louis, MO
+- 🕒 **Posted:** 2026-08-17
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4455391634/) — The Arc Connecticut
+- 📍 **Location:** Connecticut, United States
+- 🕒 **Posted:** 2026-08-17
+
+### [Executive Director - Confidential Developmental Services](https://www.linkedin.com/jobs/view/4448277548/) — Catholic Charities of the Archdiocese of New York
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,000 - $180,00
 - 🕒 **Posted:** 2026-08-17
 
-### [Director of Development & Community Relations](https://www.linkedin.com/jobs/view/4454412962/) — Clovernook Center for the Blind & Visually Impaired
-- 📍 **Location:** Cincinnati, OH
+### [Executive Director of the FHLBank Topeka Affordable Housing Institute](https://www.linkedin.com/jobs/view/4446537831/) — Metropolitan State University of Denver
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $130,000 - $143,000
 - 🕒 **Posted:** 2026-08-17
 
-### [Chief Program Officer](https://www.linkedin.com/jobs/view/4455390269/) — TalentAlly
-- 📍 **Location:** Portland, Oregon Metropolitan Area
+### [Program Director](https://www.linkedin.com/jobs/view/4454431942/) — Behavioral Health Group - BHG
+- 📍 **Location:** Westminster, CO
+- 💰 **Salary:** $90,000 - 100,000
 - 🕒 **Posted:** 2026-08-17
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4455382471/) — Project Access NOW
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $85,000.00/yr - $90,000.00/yr
+### [Executive Director](https://www.linkedin.com/jobs/view/4454442080/) — Brookdale
+- 📍 **Location:** Beavercreek, OH
 - 🕒 **Posted:** 2026-08-17
 
-### [Weekley Y Program Director-Healthy Living](https://www.linkedin.com/jobs/view/4455372998/) — YMCA of Greater Houston
-- 📍 **Location:** Houston, TX
+### [Membership Development Director](https://www.linkedin.com/jobs/view/4454423944/) — Salina Area Chamber of Commerce
+- 📍 **Location:** Salina, KS
+- 💰 **Salary:** $48,000-$52,000
 - 🕒 **Posted:** 2026-08-17
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4454425856/) — HCMGPT
-- 📍 **Location:** United States
-- 💰 **Salary:** $0 to $5
+### [Executive Director](https://www.linkedin.com/jobs/view/4454428980/) — UnitedHealth Group
+- 📍 **Location:** Huntington, IN
+- 💰 **Salary:** $91,700 to $163,700 annually
+- 🕒 **Posted:** 2026-08-17
+
+### [Director of Communications](https://www.linkedin.com/jobs/view/4454446122/) — Securin Inc.
+- 📍 **Location:** Albuquerque, NM
 - 🕒 **Posted:** 2026-08-17
