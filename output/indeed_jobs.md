@@ -1,18 +1,18 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-17 17:16 UTC*
+*Last updated: 2026-08-17 18:20 UTC*
 
-**2 new role(s)** since last run · 18 total in last 24h
+**2 new role(s)** since last run · 19 total in last 24h
 
-### [Program Director](https://www.indeed.com/viewjob?jk=3388c9796677b6f8) — Rainbow Playschool at Woodstock
-- 📍 **Location:** Woodstock, VT, US
-- 💰 **Salary:** $55k–$70k/yr
-- **Work mode:** On-site
+### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=d6249833a846cc62) — Unknown
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $200k–$250k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-17
 
-### [Executive Director Suicide Prevention](https://www.indeed.com/viewjob?jk=32cfe0f4fd675165) — US Department of Veterans Affairs
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $145k–$295k/yr
-- **Work mode:** Remote in-state eligible
+### [Executive Director](https://www.indeed.com/viewjob?jk=ed77e7b5b4e12786) — Englewood Florida Chamber of Commerce
+- 📍 **Location:** Englewood, FL, US
+- 💰 **Salary:** $70k–$90k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-17
