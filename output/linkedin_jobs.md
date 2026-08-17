@@ -1,96 +1,72 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-17 19:17 UTC*
+*Last updated: 2026-08-17 20:06 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**15 new role(s)** since last run · 36 total in last 1h
 
-### [Managing Director, Technology](https://www.linkedin.com/jobs/view/4440881376/) — Goodwin
-- 📍 **Location:** Santa Monica, CA
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4450575951/) — Hedge Impact headhunting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-17
+
+### [Managing Director, Technology](https://www.linkedin.com/jobs/view/4440871611/) — Goodwin
+- 📍 **Location:** San Francisco Bay Area
 - 💰 **Salary:** $300,000.00 - $400,000.00
 - 🕒 **Posted:** 2026-08-17
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4454401773/) — Happiest Baby (the maker of SNOO)
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $115,000 - $145,000
+### [Managing Director, Technology](https://www.linkedin.com/jobs/view/4440865903/) — Goodwin
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $300,000.00 - $400,000.00
 - 🕒 **Posted:** 2026-08-17
 
-### [Managing Director, Art Business](https://www.linkedin.com/jobs/view/4455333935/) — Masterworks
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-17
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4452274707/) — Abiclor | Associação Brasileira da Indústria de Álcalis, Cloro e Derivados
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-08-17
-
-### [Assistant Program Director and Case Worker](https://www.linkedin.com/jobs/view/4455338167/) — Carter Burden Network
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-17
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4455339547/) — Rutgers Brain Health Institute
-- 📍 **Location:** New Brunswick, NJ
-- 🕒 **Posted:** 2026-08-17
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4454406584/) — Franklin County Community Meals Program (FCCMP)
-- 📍 **Location:** Greenfield, MA
-- 🕒 **Posted:** 2026-08-17
-
-### [GreenLight Fund - Executive Director, Washington D.C. Metro](https://www.linkedin.com/jobs/view/4455358047/) — DSG | Koya
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-08-17
-
-### [Development Director- Individual Giving](https://www.linkedin.com/jobs/view/4439332800/) — Goodwill Legacy Group
-- 📍 **Location:** Greater Indianapolis
-- 🕒 **Posted:** 2026-08-17
-
-### [Deputy Director, Ending Infectious Diseases](https://www.linkedin.com/jobs/view/4438275797/) — Gates Foundation
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $238,400 to $303,900 USD
-- 🕒 **Posted:** 2026-08-17
-
-### [Executive Director - Full-Time](https://www.linkedin.com/jobs/view/4452281638/) — Affinity Hospice
-- 📍 **Location:** Bristol, TN
-- 🕒 **Posted:** 2026-08-17
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4455352158/) — Trades + Tech Education Foundation
-- 📍 **Location:** Charlottesville, VA
-- 💰 **Salary:** $30,000 - $40,000
-- 🕒 **Posted:** 2026-08-17
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4455334838/) — Morada Senior Living
-- 📍 **Location:** Oklahoma City, OK
-- 🕒 **Posted:** 2026-08-17
-
-### [Director of Development, College of Medicine](https://www.linkedin.com/jobs/view/4439328451/) — Florida State University
-- 📍 **Location:** Tallahassee Metropolitan Area
-- 🕒 **Posted:** 2026-08-17
-
-### [Executive Director Office of Apprenticeships](https://www.linkedin.com/jobs/view/4449400588/) — Community College of Rhode Island
-- 📍 **Location:** Warwick, RI
-- 💰 **Salary:** $129,000.00/yr - $129,000.00/yr
-- 🕒 **Posted:** 2026-08-17
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4454292912/) — SPG
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-17
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4455333999/) — Monsignor Scanlan High School
+### [Program Director (Poplar)](https://www.linkedin.com/jobs/view/4454429354/) — Children's Rescue Fund
 - 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $75,000 to $100,000
+- 💰 **Salary:** $90,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-08-17
 
-### [Summer Campus Program Director](https://www.linkedin.com/jobs/view/4455330923/) — University of Vermont
-- 📍 **Location:** Burlington, VT
-- 💰 **Salary:** $85,000-100,000
+### [Program Director - Global Health - ISM](https://www.linkedin.com/jobs/view/4451925874/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $115543.88 - $187951.66 Annually
 - 🕒 **Posted:** 2026-08-17
 
-### [Investment Counselor Team Lead, Southeast Region, Managing Director](https://www.linkedin.com/jobs/view/4398199212/) — Citi
-- 📍 **Location:** Atlanta, GA
+### [Executive Director](https://www.linkedin.com/jobs/view/4455364277/) — Florida Veterinary Medical Association
+- 📍 **Location:** Orlando, FL
+- 💰 **Salary:** $170,000-$200,000
 - 🕒 **Posted:** 2026-08-17
 
-### [Senior Program Director (Onsite Richmond, Virginia)](https://www.linkedin.com/jobs/view/4453341685/) — Maximus
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $130,000.00 - $175,000.00
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4455358320/) — Maryland Nonprofits
+- 📍 **Location:** Lutherville, MD
 - 🕒 **Posted:** 2026-08-17
 
-### [Managing Director | The Quoin Hotel | Wilmington, DE](https://www.linkedin.com/jobs/view/4452275712/) — PM Hotel Group
-- 📍 **Location:** Wilmington, DE
+### [Executive Director](https://www.linkedin.com/jobs/view/4454427425/) — Ascension
+- 📍 **Location:** Wichita, KS
+- 💰 **Salary:** $110,592.64 - $149,624.68 per year
+- 🕒 **Posted:** 2026-08-17
+
+### [Managing Director, Explore Hub](https://www.linkedin.com/jobs/view/4452290812/) — Britebound
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-08-17
+
+### [Director of Operations, Medical Group](https://www.linkedin.com/jobs/view/4450837125/) — Bon Secours Mercy Health
+- 📍 **Location:** Paducah, KY
+- 🕒 **Posted:** 2026-08-17
+
+### [Director of Operations, Medical Group](https://www.linkedin.com/jobs/view/4454058856/) — Mercy Health
+- 📍 **Location:** Paducah, KY
+- 🕒 **Posted:** 2026-08-17
+
+### [Regional Director Of Operations - Northern New England](https://www.linkedin.com/jobs/view/4455343725/) — Compass Group USA
+- 📍 **Location:** Portland, ME
+- 💰 **Salary:** $130,000 - $140,000
+- 🕒 **Posted:** 2026-08-17
+
+### [Director of Development & Strategic Partnerships](https://www.linkedin.com/jobs/view/4455352476/) — REBUILD globally
+- 📍 **Location:** West Palm Beach, FL
+- 🕒 **Posted:** 2026-08-17
+
+### [Program Director](https://www.linkedin.com/jobs/view/4454416044/) — D-Y-M-O-N In The Rough (Dynamic Young Minorities of Nashville)
+- 📍 **Location:** Nashville Metropolitan Area
+- 💰 **Salary:** $55,000-$65,000
+- 🕒 **Posted:** 2026-08-17
+
+### [Executive Director, IT Finance & Administration](https://www.linkedin.com/jobs/view/4455354616/) — University of Miami
+- 📍 **Location:** Coral Gables, FL
 - 🕒 **Posted:** 2026-08-17
