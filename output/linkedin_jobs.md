@@ -1,12 +1,17 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-16 23:49 UTC*
+*Last updated: 2026-08-17 02:12 UTC*
 
-**2 new role(s)** since last run · 8 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4455206413/) — Ecomade Center
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-08-16
+### [Director of Partnerships, Social Commerce](https://www.linkedin.com/jobs/view/4454231442/) — Favored
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $125K - $150K USD per year
+- 🕒 **Posted:** 2026-08-17
 
-### [Executive Director - Tennessee Fuel & Convenience Store Association](https://www.linkedin.com/jobs/view/4455208268/) — Southern Business Group, LLC
-- 📍 **Location:** Nashville Metropolitan Area
-- 🕒 **Posted:** 2026-08-16
+### [Chief Communications Officer](https://www.linkedin.com/jobs/view/4455229756/) — City of Indianapolis
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-08-17
+
+### [BUSINESS DEVELOPMENT DIRECTOR - HOSPITALITY](https://www.linkedin.com/jobs/view/4454211389/) — Mohawk Industries
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-17
