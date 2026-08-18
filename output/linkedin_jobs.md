@@ -1,88 +1,77 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-18 19:20 UTC*
+*Last updated: 2026-08-18 20:03 UTC*
 
-**20 new role(s)** since last run · 21 total in last 1h
+**17 new role(s)** since last run · 37 total in last 1h
 
-### [Vice President of Development & Head of Fundraising](https://www.linkedin.com/jobs/view/4426713593/) — Boys & Girls Clubs of San Francisco
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $195,000 – $220,000
+### [Fundraising Director, Development](https://www.linkedin.com/jobs/view/4439976048/) — Alzheimer's Association®
+- 📍 **Location:** Irvine, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Director of Operations and Business Development - Torrance, CA](https://www.linkedin.com/jobs/view/4454788236/) — Cornerstone Caregiving
-- 📍 **Location:** Torrance, CA
+### [Associate Director of Development](https://www.linkedin.com/jobs/view/4455939277/) — Chapman University
+- 📍 **Location:** Orange, CA
+- 💰 **Salary:** $115,000.00/yr - $125,000.00/yr
 - 🕒 **Posted:** 2026-08-18
 
-### [Director of Development And Public Relations](https://www.linkedin.com/jobs/view/4454794361/) — Family of Woodstock, Inc.
-- 📍 **Location:** Kingston, NY
+### [Fundraising Director, Walk to End Alzheimer's](https://www.linkedin.com/jobs/view/4379603247/) — Alzheimer's Association®
+- 📍 **Location:** Irvine, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Program Director](https://www.linkedin.com/jobs/view/4455911914/) — Connecticut Recreation and Parks Association
-- 📍 **Location:** Old Greenwich, CT
+### [Executive Director of Operations](https://www.linkedin.com/jobs/view/4454903496/) — DESTINATION TOMORROW
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $ 135,000 - $155,000
 - 🕒 **Posted:** 2026-08-18
 
-### [Managing Director of Humanities, K-8](https://www.linkedin.com/jobs/view/4446126864/) — Achievement First
-- 📍 **Location:** New York City Metropolitan Area
+### [Managing Director, Post War and Contemporary Art](https://www.linkedin.com/jobs/view/4455919600/) — Masterworks
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-18
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4455795085/) — North Light Community Center
-- 📍 **Location:** Philadelphia, PA
+### [Executive Director](https://www.linkedin.com/jobs/view/4454907243/) — Big Brothers Big Sisters of Johnson County
+- 📍 **Location:** Iowa City, IA
+- 💰 **Salary:** $75,000–$85,000 annually
 - 🕒 **Posted:** 2026-08-18
 
-### [Executive Director - Foundation](https://www.linkedin.com/jobs/view/4455924307/) — The Harris Center for Mental Health and IDD
-- 📍 **Location:** Houston, TX
+### [Chief Program Officer](https://www.linkedin.com/jobs/view/4455950034/) — The Arc Northern Chesapeake Region
+- 📍 **Location:** Aberdeen, MD
+- 💰 **Salary:** $150,000-$190,000
 - 🕒 **Posted:** 2026-08-18
 
-### [Director of Grants and Compliance](https://www.linkedin.com/jobs/view/4454903181/) — Metrocrest Services
-- 📍 **Location:** Carrollton, TX
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4455936896/) — Wheeler Mission
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-08-18
 
-### [Peers Program Director](https://www.linkedin.com/jobs/view/4454789215/) — First Choice Services
-- 📍 **Location:** Charleston, WV
+### [Senior Director of Development](https://www.linkedin.com/jobs/view/4455927863/) — Neighborhood House
+- 📍 **Location:** Chesapeake, VA
 - 🕒 **Posted:** 2026-08-18
 
-### [Chief Operating Officer - Richmond Office](https://www.linkedin.com/jobs/view/4451455014/) — Sands Anderson PC
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $275,000 to $325,000
+### [Director of Development](https://www.linkedin.com/jobs/view/4454791587/) — Allyfe Pregnancy Clinic
+- 📍 **Location:** Las Vegas, NV
 - 🕒 **Posted:** 2026-08-18
 
-### [Associate Director of Communications (Content & CRM) - Emory Goizueta Brain Health Institute (GBHI)](https://www.linkedin.com/jobs/view/4452839059/) — Emory University
-- 📍 **Location:** Atlanta, GA
+### [Fundraising Chief Executive Officer](https://www.linkedin.com/jobs/view/4455947123/) — Custom Fundraising Solutions
+- 📍 **Location:** El Paso, TX
+- 💰 **Salary:** $100,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-08-18
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4454785965/) — Quad Cities Chamber of Commerce
-- 📍 **Location:** Davenport, IA
-- 💰 **Salary:** $75,000-$100,000
+### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4455943035/) — The Just One Project
+- 📍 **Location:** Las Vegas, NV
 - 🕒 **Posted:** 2026-08-18
 
-### [Leadership Development Director](https://www.linkedin.com/jobs/view/4454787891/) — SustainED Leaders
-- 📍 **Location:** Dallas, TX
+### [Executive Director, Technology, Operations, & Strategy](https://www.linkedin.com/jobs/view/4455945207/) — University of La Verne
+- 📍 **Location:** La Verne, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Executive Director, Patient Support & Services](https://www.linkedin.com/jobs/view/4455913850/) — Ocular Therapeutix, Inc.
-- 📍 **Location:** Bedford, MA
-- 💰 **Salary:** $330,000 USD - $355,000 USD
+### [Director of Major Gifts](https://www.linkedin.com/jobs/view/4454905322/) — Make-A-Wish North Texas
+- 📍 **Location:** Dallas-Fort Worth Metroplex
 - 🕒 **Posted:** 2026-08-18
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4455906704/) — Opportunity Capital
-- 📍 **Location:** Indiana, United States
+### [Manager, Office of the CEO (Strategic Initiatives, Process, and Project Management)](https://www.linkedin.com/jobs/view/4454788505/) — GreenLight Fund
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-08-18
 
-### [Director of Community Engagement and Academy Giving](https://www.linkedin.com/jobs/view/4440656400/) — Great Hearts Academies
-- 📍 **Location:** San Antonio, TX
+### [Economic Development Director, (A267510-4), 217, Administration](https://www.linkedin.com/jobs/view/4455940609/) — City of Laredo
+- 📍 **Location:** Laredo, TX
 - 🕒 **Posted:** 2026-08-18
 
-### [Assoc Director of Communications (Events and Outreach) - Emory Goizueta Brain Health Institute (GBHI)](https://www.linkedin.com/jobs/view/4452848073/) — Emory University
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-08-18
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4454907133/) — Kensington International Executive Search
-- 📍 **Location:** DuPage County, IL
-- 🕒 **Posted:** 2026-08-18
-
-### [Program Director](https://www.linkedin.com/jobs/view/4454902174/) — Intuitive Health
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-08-18
-
-### [Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4454911102/) — Imagine Learning
-- 📍 **Location:** United States
+### [Deputy Director Community Development and Regulatory Affairs](https://www.linkedin.com/jobs/view/4455936826/) — City of South Fulton
+- 📍 **Location:** South Fulton, GA
 - 🕒 **Posted:** 2026-08-18
