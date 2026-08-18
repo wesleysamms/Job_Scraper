@@ -1,112 +1,72 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-18 02:10 UTC*
+*Last updated: 2026-08-18 03:28 UTC*
 
-**25 new role(s)** since last run · 25 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Program Director](https://www.linkedin.com/jobs/view/4455564146/) — Anti-Defamation League
+### [Director of Operations](https://www.linkedin.com/jobs/view/4455565666/) — Stonebridge
+- 📍 **Location:** Inglewood, CA
+- 💰 **Salary:** $100,000 - $110,000
+- 🕒 **Posted:** 2026-08-18
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4455563836/) — AMETEK
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [PROGRAM DIRECTOR (MENTAL DISABILITIES-SAFETY)](https://www.linkedin.com/jobs/view/4454474109/) — California Department of State Hospitals
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $90,000 to $100,000
+- 💰 **Salary:** $9,741.00/mo - $11,334.00/mo
 - 🕒 **Posted:** 2026-08-18
 
-### [Clinical Program Director, Compass Behavioral Health Services](https://www.linkedin.com/jobs/view/4455564132/) — Compass Family Services
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000 - $140,000 annually
+### [Managing Director, Head of Business Operations & Chief of Staff](https://www.linkedin.com/jobs/view/4454485065/) — TIAA
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-18
 
-### [Executive Director Accounting - Tribal Government (7596)](https://www.linkedin.com/jobs/view/4455557396/) — Twenty-Nine Palms Band of Mission Indians
-- 📍 **Location:** Coachella, CA
+### [Director of Operations](https://www.linkedin.com/jobs/view/4452536686/) — Highgate
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-18
 
-### [Assistant to the Executive Director, Berkeley Art Museum Pacific Film Archive (4702C) #88190](https://www.linkedin.com/jobs/view/4455564365/) — University of California, Berkeley
-- 📍 **Location:** Berkeley, CA
+### [Executive Director](https://www.linkedin.com/jobs/view/4454469230/) — Astral at Auburn
+- 📍 **Location:** Auburn, IN
 - 🕒 **Posted:** 2026-08-18
 
-### [Managing Director, Strategic Pursuit Lead - HiTech](https://www.linkedin.com/jobs/view/4455557212/) — NTT DATA North America
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000 - $350,000 per year
+### [Chief Operating Officer - Atrium Health University City](https://www.linkedin.com/jobs/view/4454474268/) — Atrium Health
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $131.90 - $211.05
 - 🕒 **Posted:** 2026-08-18
 
-### [GRANTS & ADVANCEMENT DIRECTOR (OKLAHOMA CITY, OK)](https://www.linkedin.com/jobs/view/4454460165/) — Our Blood Institute
-- 📍 **Location:** Oklahoma City, OK
+### [Managing Director, Head of Business Operations & Chief of Staff](https://www.linkedin.com/jobs/view/4454476085/) — TIAA
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-08-18
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4455553535/) — El Programa Hispano
-- 📍 **Location:** Gresham, OR
-- 💰 **Salary:** $115,000-$125,000 annually
+### [Program Director-Katy ISD](https://www.linkedin.com/jobs/view/4455383096/) — YMCA of Greater Houston
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-08-18
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4454467043/) — Harmony Senior Services
-- 📍 **Location:** Morgantown, WV
+### [Senior Director of Development II, College of Agricultural and Life Sciences](https://www.linkedin.com/jobs/view/4454486101/) — University of Idaho
+- 📍 **Location:** Moscow, ID
 - 🕒 **Posted:** 2026-08-18
 
-### [Executive Director AI Engineering and Process Automation](https://www.linkedin.com/jobs/view/4455571380/) — Presbyterian Healthcare Services
-- 📍 **Location:** Albuquerque, NM
+### [Erie County Seeking a Deputy Director](https://www.linkedin.com/jobs/view/4455552961/) — Pennsylvania Chapter of the American Planning Association
+- 📍 **Location:** Erie, PA
 - 🕒 **Posted:** 2026-08-18
 
-### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4455552254/) — National Fitness Partners
-- 📍 **Location:** Belmont, NC
+### [Managing Director - Regulatory Supervision](https://www.linkedin.com/jobs/view/4454483075/) — TIAA
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-08-18
 
-### [Co-founder, CEO for AI Startup](https://www.linkedin.com/jobs/view/4454455738/) — HCMGPT
+### [Managing Director, Head of Business Operations & Chief of Staff](https://www.linkedin.com/jobs/view/4454484073/) — TIAA
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-08-18
+
+### [Director of Communications and Advocacy](https://www.linkedin.com/jobs/view/4454270450/) — Jobgether
 - 📍 **Location:** United States
-- 💰 **Salary:** $0 to $5
+- 💰 **Salary:** $90,000–$110,000,
 - 🕒 **Posted:** 2026-08-18
 
-### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4455568136/) — National Fitness Partners
-- 📍 **Location:** Greensboro, NC
+### [Program Director School Age Programs](https://www.linkedin.com/jobs/view/4450850331/) — YMCA of Greater Seattle
+- 📍 **Location:** Bothell, WA
 - 🕒 **Posted:** 2026-08-18
 
-### [Managing Director, Strategic Pursuit Lead - Healthcare](https://www.linkedin.com/jobs/view/4455566099/) — NTT DATA North America
-- 📍 **Location:** Plano, TX
-- 💰 **Salary:** $150,000 - $350,000 per year
-- 🕒 **Posted:** 2026-08-18
-
-### [Regional Business Development Director **Remote** Must be located in the Midwest or Eastern part of the US.](https://www.linkedin.com/jobs/view/4454458525/) — UPS
-- 📍 **Location:** Durham, NC
-- 🕒 **Posted:** 2026-08-18
-
-### [Deputy Director (PROGRAM MANAGER SENIOR II) Revenue Administration Division](https://www.linkedin.com/jobs/view/4455565011/) — State of Maryland
-- 📍 **Location:** Maryland, United States
-- 🕒 **Posted:** 2026-08-18
-
-### [Regional Business Development Director **Remote** Must be located in the Midwest or Eastern part of the US](https://www.linkedin.com/jobs/view/4454439737/) — UPS
-- 📍 **Location:** Durham, NC
-- 🕒 **Posted:** 2026-08-18
-
-### [Emergency Management Program Director](https://www.linkedin.com/jobs/view/4452520695/) — University of Colorado Colorado Springs
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $ 67,449 - $ 93,033 annually
-- 🕒 **Posted:** 2026-08-18
-
-### [Program Director, Global Clients Data Centers](https://www.linkedin.com/jobs/view/4452539513/) — Securitas Security Services USA, Inc.
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-08-18
-
-### [Regional Business Development Director **Remote** Must be located in the Midwest or Eastern part of the US](https://www.linkedin.com/jobs/view/4454460193/) — UPS
-- 📍 **Location:** Durham, NC
-- 🕒 **Posted:** 2026-08-18
-
-### [Program Director](https://www.linkedin.com/jobs/view/4454432063/) — Beacon Specialized Living
-- 📍 **Location:** Minneapolis, MN
-- 🕒 **Posted:** 2026-08-18
-
-### [INTERIM PROGRAM DIRECTOR - Nationwide Travel](https://www.linkedin.com/jobs/view/4455555414/) — Horizon Health
-- 📍 **Location:** Lewisville, TX
-- 🕒 **Posted:** 2026-08-18
-
-### [Chief of Staff to CEO](https://www.linkedin.com/jobs/view/4455550564/) — Agile People & Payroll
-- 📍 **Location:** Richardson, TX
-- 🕒 **Posted:** 2026-08-18
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4453710885/) — Abound Food Care
-- 📍 **Location:** Santa Ana, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Executive Assistant to CEO at Prominent Non-Profit, Arlington, VA (4 Weeks’ Paid Vacation)](https://www.linkedin.com/jobs/view/4446918809/) — C-SUITE ASSISTANTS
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $110,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-08-18
-
-### [Area Director of Operations](https://www.linkedin.com/jobs/view/4454484018/) — Gentiva
-- 📍 **Location:** Pittsburgh, PA
+### [Weekley Y Program Director-Healthy Living](https://www.linkedin.com/jobs/view/4455372998/) — YMCA of Greater Houston
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-08-18
