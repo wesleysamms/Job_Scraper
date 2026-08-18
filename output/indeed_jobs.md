@@ -1,52 +1,82 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-18 18:19 UTC*
+*Last updated: 2026-08-18 19:27 UTC*
 
-**7 new role(s)** since last run · 48 total in last 24h
+**12 new role(s)** since last run · 54 total in last 24h
 
-### [Executive Assistant to the CEO](https://www.indeed.com/viewjob?jk=14021957f8989d61) — Destination Tomorrow
-- 📍 **Location:** Bronx, NY, US
+### [Special Assistant (Deputy Director Social and Economic Equity) - VID 221990](https://www.indeed.com/viewjob?jk=ffec635bf4577733) — Unknown
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $115k–$146k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=e8b04c2abe8afc53) — NEVADA STATE MEDICAL ASSOCIATION
-- 📍 **Location:** Reno, NV, US
-- 💰 **Salary:** $80k–$90k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-18
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=0653540bd7ca52d1) — NEVADA STATE MEDICAL ASSOCIATION
-- 📍 **Location:** Reno, NV, US
-- 💰 **Salary:** $80k–$90k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-18
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=b1546651c19304c7) — Care Net Pregnancy Center of IRC
-- 📍 **Location:** Vero Beach, FL, US
-- 💰 **Salary:** $58k–$60k/yr
+### [Executive Assistant to the Chief Executive Officer & Special Projects Coordinator](https://www.indeed.com/viewjob?jk=9b0d5d174fd02e7b) — Cincinnati Health Network
+- 📍 **Location:** Cincinnati, OH, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=930136f0d6380595) — Scuba Dogs Society
-- 📍 **Location:** PR, US
-- 💰 **Salary:** $35k–$40k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
+### [Director of Philanthropy](https://www.indeed.com/viewjob?jk=4e50589d4175b4d9) — Carleton-Willard Village
+- 📍 **Location:** Bedford, MA, US
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-08-18
 
-### [Executive Director | Marietta Cobb Museum of Art](https://www.indeed.com/viewjob?jk=ec7640e01f74a3ae) — Marietta Cobb Museum of Art
-- 📍 **Location:** Marietta, GA, US
-- 💰 **Salary:** $80k–$100k/yr
+### [Executive Director](https://www.indeed.com/viewjob?jk=ef59b2948ee058c2) — EN-RICH-MENT
+- 📍 **Location:** Canton, OH, US
+- 💰 **Salary:** $65k–$75k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
 
-### [Development Director- Individual Giving](https://www.indeed.com/viewjob?jk=da820ea172f6453d) — Goodwill Industries
-- 📍 **Location:** Indianapolis, IN, US
-- 💰 **Salary:** $80k–$100k/yr
-- **Work mode:** Remote in-state eligible
+### [Development Director](https://www.indeed.com/viewjob?jk=b29539957288442a) — Sarasota Housing Authority
+- 📍 **Location:** Sarasota, FL, US
+- 💰 **Salary:** $69k–$80k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-17
+- 🕒 **Posted:** 2026-08-18
+
+### [Director of Development](https://www.indeed.com/viewjob?jk=113edb56f24579d6) — Clement Manor
+- 📍 **Location:** Greenfield, WI, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-18
+
+### [Development Director](https://www.indeed.com/viewjob?jk=8056d10a51bfc5e8) — Access to Success
+- 📍 **Location:** Davidson, NC, US
+- 💰 **Salary:** $70k–$90k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-18
+
+### [Director of Advancement](https://www.indeed.com/viewjob?jk=afb69d64c10ff10a) — McKamey Animal Center
+- 📍 **Location:** Chattanooga, TN, US
+- 💰 **Salary:** $55k–$70k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-18
+
+### [Program Director - Nashville](https://www.indeed.com/viewjob?jk=8302a672cb2125e0) — Communities In Schools
+- 📍 **Location:** Nashville, TN, US
+- 💰 **Salary:** $69k–$81k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-08-18
+
+### [Special Assistant (Deputy Director Social and Economic Equity) - VID 221986](https://www.indeed.com/viewjob?jk=db27a856b696d9e2) — Unknown
+- 📍 **Location:** Albany, NY, US
+- 💰 **Salary:** $115k–$146k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-18
+
+### [Executive Director, Special Initiatives](https://www.indeed.com/viewjob?jk=bb8f80b6d205b998) — Colorado Springs Chamber & EDC
+- 📍 **Location:** Colorado Springs, CO, US
+- 💰 **Salary:** $185k–$250k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-18
+
+### [Program Director](https://www.indeed.com/viewjob?jk=ad0ac7be7e532ed0) — Beacon Specialized Living
+- 📍 **Location:** Madison, WI, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-18
