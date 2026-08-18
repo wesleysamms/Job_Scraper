@@ -1,30 +1,24 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-18 20:10 UTC*
+*Last updated: 2026-08-18 21:12 UTC*
 
-**4 new role(s)** since last run · 52 total in last 24h
+**3 new role(s)** since last run · 50 total in last 24h
 
-### [Senior Director of Philanthropy](https://www.indeed.com/viewjob?jk=80c224728245c63f) — Unknown
-- 📍 **Location:** Long Beach, CA, US
-- 💰 **Salary:** $95k–$105k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-17
-
-### [Program Director LMSW](https://www.indeed.com/viewjob?jk=e798d55b75e19463) — Kings Bay YM-YWHA
-- 📍 **Location:** Brooklyn, NY, US
-- 💰 **Salary:** $90k–$95k/yr
+### [Project Development Director](https://www.indeed.com/viewjob?jk=82ad2d40f73e47b2) — T. W. Frierson Contractor, Inc.
+- 📍 **Location:** Nashville, TN, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
 
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=89cfc0d97f0eab22) — Black Canyon Community Health Center
-- 📍 **Location:** Black Canyon City, AZ, US
-- 💰 **Salary:** $120k–$135k/yr
+### [Director of Development and Engagement](https://www.indeed.com/viewjob?jk=1a66524f77881c31) — American Jewish Committee
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $170k–$180k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
 
-### [Program Director](https://www.indeed.com/viewjob?jk=58ae5d59d85ffbc4) — Unknown
-- 📍 **Location:** Eastland, TX, US
-- **Work mode:** Remote in-state eligible
+### [Executive Director](https://www.indeed.com/viewjob?jk=0f279530722832f6) — Big Brothers Big Sisters
+- 📍 **Location:** Iowa City, IA, US
+- 💰 **Salary:** $75k–$85k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
