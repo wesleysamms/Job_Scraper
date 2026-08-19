@@ -1,82 +1,87 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-19 21:23 UTC*
+*Last updated: 2026-08-19 22:14 UTC*
 
-**12 new role(s)** since last run · 64 total in last 24h
+**13 new role(s)** since last run · 67 total in last 24h
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=202e39fb2de1cf59) — Bessie Green Community
-- 📍 **Location:** Newark, NJ, US
-- 💰 **Salary:** $75k–$80k/yr
+### [CERC Program Director](https://www.indeed.com/viewjob?jk=0cbaa140b93e3776) — Bay Area Community Resources
+- 📍 **Location:** El Cerrito, CA, US
+- 💰 **Salary:** $95k–$103k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-19
 
-### [Program Director (KECS)](https://www.indeed.com/viewjob?jk=66791d4131e4be89) — Chinese-American Planning Council
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $60k–$65k/yr
+### [Executive Director](https://www.indeed.com/viewjob?jk=7934d77487e3a99a) — YMCA
+- 📍 **Location:** Barco, NC, US
+- 💰 **Salary:** $65k–$70k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-19
 
-### [Executive Director, Global Oncology Medical Affairs, Clinical Trial Management, Resources, Operations & Governance](https://www.indeed.com/viewjob?jk=1bec3fc0d2ed463b) — Daiichi Sankyo
-- 📍 **Location:** Basking Ridge, NJ, US
-- 💰 **Salary:** $272k–$452k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-19
-
-### [Senior Director of Grants](https://www.indeed.com/viewjob?jk=dda6644cc6fa352b) — Communities In Schools
-- 📍 **Location:** Austin, TX, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-19
-
-### [Executive Assistant to the President and CEO](https://www.indeed.com/viewjob?jk=da5b206f5861fdf0) — YMCA
-- 📍 **Location:** Lawrence, MA, US
-- 💰 **Salary:** $75k–$90k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-19
-
-### [Director of Development](https://www.indeed.com/viewjob?jk=ca2693b02b18d000) — Arts Garage
-- 📍 **Location:** Delray Beach, FL, US
-- 💰 **Salary:** $65k–$75k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-19
-
-### [CEO](https://www.indeed.com/viewjob?jk=b1bfd7d0bdad036f) — Association Headquarters
-- 📍 **Location:** Mount Laurel, NJ, US
-- 💰 **Salary:** $150k–$165k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-19
-
-### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=decc951914bbed3b) — Adams Keegan
-- 📍 **Location:** Memphis, TN, US
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-19
-
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=804b0439b7329e41) — Tri-Lakes Collision
-- 📍 **Location:** Houston, TX, US
-- 💰 **Salary:** $100–$150/hr
+### [Business Development Director | Executive Retained Search](https://www.indeed.com/viewjob?jk=fde489a883d6c72c) — CBIZ
+- 📍 **Location:** Denver, CO, US
 - **Work mode:** Remote in-state eligible
-- **Job type:** parttime
 - 🕒 **Posted:** 2026-08-19
 
-### [Director of Operations](https://www.indeed.com/viewjob?jk=07ec615aa7f93af8) — WEST BAY CLUB BEACH CLUB
-- 📍 **Location:** Estero, FL, US
+### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=8feabd3c413ec201) — EDASC
+- 📍 **Location:** Mount Vernon, WA, US
+- 💰 **Salary:** $140k–$195k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-19
 
-### [Director of External Affairs and Government Relations](https://www.indeed.com/viewjob?jk=ab0a5ff931025f65) — Winston-Salem State University
-- 📍 **Location:** Winston-Salem, NC, US
+### [Director of Operations](https://www.indeed.com/viewjob?jk=7c6886270a51517e) — ReSource
+- 📍 **Location:** Williston, VT, US
+- 💰 **Salary:** $85k–$100k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-19
 
-### [Managing Director, Public Affairs | Strategic Communications](https://www.indeed.com/viewjob?jk=bb10e814a44ec6d4) — FTI Consulting, Inc.
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $198k–$356k/yr
+### [Business Relationship Manager Area Manager - Executive Director](https://www.indeed.com/viewjob?jk=529220fd21afbc9d) — JPMorganChase
+- 📍 **Location:** Lexington, KY, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-19
+
+### [Executive Director](https://www.indeed.com/viewjob?jk=ca9501a77b1d33b7) — McMinn County Living Heritage Museum
+- 📍 **Location:** Athens, TN, US
+- 💰 **Salary:** $40k–$45k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-19
+
+### [Senior Executive Assistant to the President & CEO](https://www.indeed.com/viewjob?jk=76fb4e589951ece7) — McLeod Centers for Wellbeing
+- 📍 **Location:** Charlotte, NC, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-19
+
+### [Program Director](https://www.indeed.com/viewjob?jk=995cfbca5c74ac7c) — AJCC Preschool
+- 📍 **Location:** Knoxville, TN, US
+- 💰 **Salary:** $45k–$55k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-19
+
+### [Chief Advancement Officer](https://www.indeed.com/viewjob?jk=e49ee4e4506ae418) — Autism Treatment Center
+- 📍 **Location:** Dallas, TX, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-19
+
+### [COO](https://www.indeed.com/viewjob?jk=c515a25af8342bfb) — GPW Health Center
+- 📍 **Location:** Woodbridge, VA, US
+- 💰 **Salary:** $110k–$150k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-19
+
+### [Development Director](https://www.indeed.com/viewjob?jk=c4d0aa11b434e28f) — Community Health Center of Franklin Count
+- 📍 **Location:** Greenfield, MA, US
+- 💰 **Salary:** $95k–$110k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-19
+
+### [Director of Development & Planned Giving](https://www.indeed.com/viewjob?jk=7e7c8120cd56de62) — Phoebe Ministries
+- 📍 **Location:** Allentown, PA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-17
