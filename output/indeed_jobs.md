@@ -1,65 +1,40 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-19 02:20 UTC*
+*Last updated: 2026-08-19 03:43 UTC*
 
-**9 new role(s)** since last run · 43 total in last 24h
+**6 new role(s)** since last run · 45 total in last 24h
 
-### [Director of Development](https://www.indeed.com/viewjob?jk=93f049d1ef7fc40f) — Asian Health Services
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $125k–$150k/yr
+### [Asst. Director of Communications, Social Sciences](https://www.indeed.com/viewjob?jk=78581536e4876d1d) — UC San Diego
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $85k–$111k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
 
-### [Co-Founder & Chief Operating Officer](https://www.indeed.com/viewjob?jk=6bd2aea3bb90635d) — Methodolia
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $200k–$400k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime, fulltime, contract
-- 🕒 **Posted:** 2026-08-18
-
-### [Assistant Program Director - Melrose](https://www.indeed.com/viewjob?jk=dd484c6a25e672dd) — Jericho Project
-- 📍 **Location:** Bronx, NY, US
-- 💰 **Salary:** $67k–$70k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-18
-
-### [Assistant Program Director - SSVF](https://www.indeed.com/viewjob?jk=8fa46b8b46ea70c9) — Jericho Project
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $67k–$70k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-18
-
-### [Assistant Program Director - Walton House](https://www.indeed.com/viewjob?jk=54d448773cf6a8a0) — Jericho Project
-- 📍 **Location:** Bronx, NY, US
-- 💰 **Salary:** $67k–$70k/yr
+### [Assistant Director of Development, Leadership Annual Giving and Discovery](https://www.indeed.com/viewjob?jk=316cf3f3f825390d) — Syracuse University
+- 📍 **Location:** Syracuse, NY, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
 
-### [Director of Development, Athletics](https://www.indeed.com/viewjob?jk=329b7e05c7f4f081) — Columbus State University
-- 📍 **Location:** Columbus, GA, US
+### [Chief Development Officer](https://www.indeed.com/viewjob?jk=b9feb17eb6da5795) — Charles Drew Health Center
+- 📍 **Location:** Omaha, NE, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-17
+
+### [Assistant Director of Advancement Events & Operations (2026-2027)](https://www.indeed.com/viewjob?jk=fc2b0cc9889ad4df) — The Key School
+- 📍 **Location:** Annapolis, MD, US
+- 💰 **Salary:** $61k–$64k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
 
-### [Director of Advancement](https://www.indeed.com/viewjob?jk=24511f9900bae285) — The Fletcher School
-- 📍 **Location:** Charlotte, NC, US
-- 💰 **Salary:** $125k–$135k/yr
+### [Director of Communications and Stewardship](https://www.indeed.com/viewjob?jk=0d077376583a392d) — Archdiocese of St. Louis
+- 📍 **Location:** St. Louis, MO, US
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
 
-### [Development Director- Individual Giving](https://www.indeed.com/viewjob?jk=d835cb43a9d58a05) — Unknown
-- 📍 **Location:** Indianapolis, IN, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-18
-
-### [Hospice Program Director](https://www.indeed.com/viewjob?jk=ffefc534195e9cf6) — Hospice of the West
-- 📍 **Location:** Mesa, AZ, US
-- 💰 **Salary:** $135k–$150k/yr
+### [Executive Director, Academic Affairs Finance & Administration (INTERNAL)](https://www.indeed.com/viewjob?jk=79b1ee1710fd4dc8) — University of Houston
+- 📍 **Location:** Houston, TX, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
