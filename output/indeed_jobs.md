@@ -1,43 +1,31 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-19 17:20 UTC*
+*Last updated: 2026-08-19 18:11 UTC*
 
-**6 new role(s)** since last run · 54 total in last 24h
+**4 new role(s)** since last run · 53 total in last 24h
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=4ce6a0eb79902ce4) — Unknown
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $115k–$120k/yr
+### [Director of Development and Administration](https://www.indeed.com/viewjob?jk=9cd75d7a8cc5ae9b) — Philadelphia Interfaith Hospitality Network
+- 📍 **Location:** Philadelphia, PA, US
+- 💰 **Salary:** $68k–$75k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-19
 
-### [Youth Development Director- Sussex YMCA Family Location](https://www.indeed.com/viewjob?jk=73cd574d5178a597) — YMCA
-- 📍 **Location:** Rehoboth Beach, DE, US
-- 💰 **Salary:** $56k–$62k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-19
-
-### [Executive Director of Editorial Services](https://www.indeed.com/viewjob?jk=c3243285bec9f6ae) — Howard University
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $135k–$140k/yr
-- **Work mode:** On-site
+### [Director of Advancement](https://www.indeed.com/viewjob?jk=4b1c471871098fc8) — Casa Central
+- 📍 **Location:** Chicago, IL, US
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-19
 
-### [Director of Development - UH Foundation](https://www.indeed.com/viewjob?jk=31a25a75158f73b7) — University Health
-- 📍 **Location:** San Antonio, TX, US
-- 💰 **Salary:** $40–$91/hr
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=89cfc0d97f0eab22) — Black Canyon Community Health Center
+- 📍 **Location:** Black Canyon City, AZ, US
+- 💰 **Salary:** $120k–$135k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-18
 
-### [Executive Director of Operations](https://www.indeed.com/viewjob?jk=34e5eee4ccbdaceb) — Bralle Home
-- 📍 **Location:** Texas City, TX, US
+### [Director of Marketing and Communications](https://www.indeed.com/viewjob?jk=09fd13b0d687d2bf) — Unknown
+- 📍 **Location:** Providence, RI, US
+- 💰 **Salary:** $100k–$150k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-19
-
-### [PROGRAM DIRECTOR II](https://www.indeed.com/viewjob?jk=14a6c3c3ff77c240) — University of Alabama, Birmingham
-- 📍 **Location:** Birmingham, AL, US
-- 💰 **Salary:** $61k–$99k/yr
-- **Work mode:** On-site
 - 🕒 **Posted:** 2026-08-19
