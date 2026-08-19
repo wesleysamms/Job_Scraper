@@ -1,59 +1,60 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-18 23:59 UTC*
+*Last updated: 2026-08-19 02:13 UTC*
 
-**12 new role(s)** since last run · 39 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4455977614/) — HumanePro
-- 📍 **Location:** Greater Sacramento
-- 💰 **Salary:** $235,000-$250,000
-- 🕒 **Posted:** 2026-08-18
+### [Executive Director of Sales](https://www.linkedin.com/jobs/view/4454957009/) — Fouquet's New York
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-19
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4455982549/) — HumanePro
-- 📍 **Location:** San Andreas, CA
-- 💰 **Salary:** $4–$5
-- 🕒 **Posted:** 2026-08-18
+### [Executive Director](https://www.linkedin.com/jobs/view/4452885077/) — KB Search Team
+- 📍 **Location:** Fort Wayne, IN
+- 🕒 **Posted:** 2026-08-19
 
-### [Director of Development - Western Center on Law & Poverty](https://www.linkedin.com/jobs/view/4455971541/) — Maneva Group
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $140,000 - $175,000
-- 🕒 **Posted:** 2026-08-18
+### [Executive Director](https://www.linkedin.com/jobs/view/4456107443/) — DANK Haus German American Cultural Center
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $90,000 – $125,000,
+- 🕒 **Posted:** 2026-08-19
 
-### [Director of Government Relations](https://www.linkedin.com/jobs/view/4454925755/) — IAPMO
-- 📍 **Location:** Ontario, CA
-- 💰 **Salary:** $135,000-$160,000
-- 🕒 **Posted:** 2026-08-18
+### [VSF Executive Director](https://www.linkedin.com/jobs/view/4454962086/) — Veterans Education Transition & Employment Services
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-08-19
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4454923627/) — ScionHealth
-- 📍 **Location:** Greater Seattle Area
-- 🕒 **Posted:** 2026-08-18
+### [Executive Director Programs](https://www.linkedin.com/jobs/view/4456107734/) — Strategic Exceptions Professional Consulting INC
+- 📍 **Location:** Peoria Metropolitan Area
+- 🕒 **Posted:** 2026-08-19
 
-### [Executive Director - Clemson Hillel](https://www.linkedin.com/jobs/view/4453168177/) — Hillel International
-- 📍 **Location:** Clemson, SC
-- 💰 **Salary:** $85,000 – $100,000,
-- 🕒 **Posted:** 2026-08-18
+### [We’re Hiring: Executive Director](https://www.linkedin.com/jobs/view/4454943264/) — Valley Children’s Advocacy Center
+- 📍 **Location:** Indiana, United States
+- 💰 **Salary:** $70,000 to $90,000,
+- 🕒 **Posted:** 2026-08-19
 
-### [HYBRID Sr. Director of Fundraising & Development (Nonprofit exp req)](https://www.linkedin.com/jobs/view/4454925405/) — #twiceasnice Recruiting
-- 📍 **Location:** Fort Worth, TX
-- 🕒 **Posted:** 2026-08-18
+### [COO/CNO](https://www.linkedin.com/jobs/view/4452881326/) — Ascension
+- 📍 **Location:** Wichita, KS
+- 🕒 **Posted:** 2026-08-19
 
-### [Georgia 4-H Foundation - Executive Director](https://www.linkedin.com/jobs/view/4452843963/) — The University of Georgia
-- 📍 **Location:** Athens, GA
-- 🕒 **Posted:** 2026-08-18
+### [Executive Director - eCityGov Alliance](https://www.linkedin.com/jobs/view/4454955070/) — City of Bellevue, Washington
+- 📍 **Location:** Bellevue, WA
+- 🕒 **Posted:** 2026-08-19
 
-### [Director of External Affairs & Government Relations](https://www.linkedin.com/jobs/view/4455977492/) — Montgomery County Coalition for the Homeless
-- 📍 **Location:** Rockville, MD
-- 💰 **Salary:** $90,000 - $115,000
-- 🕒 **Posted:** 2026-08-18
+### [Executive Director](https://www.linkedin.com/jobs/view/4456103724/) — Cogir Senior Living
+- 📍 **Location:** Owings Mills, MD
+- 💰 **Salary:** $140,000 - $165,000 per year
+- 🕒 **Posted:** 2026-08-19
 
-### [Deputy Director of Facilities](https://www.linkedin.com/jobs/view/4455985443/) — State of Colorado
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-08-18
+### [Director of Operations, Women's Basketball](https://www.linkedin.com/jobs/view/4455960171/) — The University of Texas at Austin
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-19
 
-### [Executive Director, Clinical Integrated Network (CIN)](https://www.linkedin.com/jobs/view/4455968589/) — Trinity Health
-- 📍 **Location:** Westchester, IL
-- 💰 **Salary:** $128,000 - $211,200
-- 🕒 **Posted:** 2026-08-18
+### [Emergency Management Program Director](https://www.linkedin.com/jobs/view/4452520695/) — University of Colorado Colorado Springs
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $ 67,449 - $ 93,033 annually
+- 🕒 **Posted:** 2026-08-19
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4454431513/) — Headfarmer
-- 📍 **Location:** Greater Phoenix Area
-- 🕒 **Posted:** 2026-08-18
+### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4456114229/) — Blue Stone Therapy
+- 📍 **Location:** Boys Town, NE
+- 🕒 **Posted:** 2026-08-19
+
+### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4456100974/) — Blue Stone Therapy
+- 📍 **Location:** Lincoln, NE
+- 🕒 **Posted:** 2026-08-19
