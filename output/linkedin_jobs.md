@@ -1,90 +1,87 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-20 21:07 UTC*
+*Last updated: 2026-08-20 22:08 UTC*
 
-**19 new role(s)** since last run · 22 total in last 1h
+**19 new role(s)** since last run · 38 total in last 1h
 
-### [COO](https://www.linkedin.com/jobs/view/4456786670/) — Proven Recruiting
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $180,000-$220,000
+### [Associate Program Director for Transformational Technologies and Phase 1s - Active Security Clearance Required](https://www.linkedin.com/jobs/view/4457027349/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
+- 💰 **Salary:** $338,580 - $431,568 Annually
 - 🕒 **Posted:** 2026-08-20
 
-### [Student Development Director](https://www.linkedin.com/jobs/view/4457006083/) — Cal Alumni Association | UC Berkeley
-- 📍 **Location:** Berkeley, CA
-- 💰 **Salary:** $85,000 - $105,000
-- 🕒 **Posted:** 2026-08-20
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4447555883/) — Project Healthy Minds
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $150,000 to $200,000,
-- 🕒 **Posted:** 2026-08-20
-
-### [Senior Managing Director, Georgeson Advisory, North America](https://www.linkedin.com/jobs/view/4456046528/) — Computershare U.S.
+### [Executive Director](https://www.linkedin.com/jobs/view/4454137534/) — BOMA New York
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000 - $210,000
+- 💰 **Salary:** $200,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Program Director 2](https://www.linkedin.com/jobs/view/4456792844/) — Lutheran Community Services Northwest
-- 📍 **Location:** Kennewick, WA
-- 💰 **Salary:** $96,139.18/yr - $144,208.77/yr
+### [Program Director](https://www.linkedin.com/jobs/view/4457011291/) — Temple Beth Zion
+- 📍 **Location:** Buffalo, NY
+- 💰 **Salary:** $80,000.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Development Director](https://www.linkedin.com/jobs/view/4456367946/) — The Salvation Army USA Eastern Territory
-- 📍 **Location:** Cincinnati, OH
+### [Director of Development](https://www.linkedin.com/jobs/view/4428101299/) — Fort Greene Park Conservancy
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $90,000-$110,000
 - 🕒 **Posted:** 2026-08-20
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4456046505/) — NU Advisory Partners
+### [Director of Major Gifts](https://www.linkedin.com/jobs/view/4456036912/) — Convent of the Sacred Heart, 91st Street
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $160,000 - $180,000 annually
+- 🕒 **Posted:** 2026-08-20
+
+### [Executive Director of Operations](https://www.linkedin.com/jobs/view/4457019038/) — Midland Group of Companies, Inc.
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-20
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4456385020/) — Michigan Medicine
-- 📍 **Location:** Ann Arbor, MI
+### [Program Director](https://www.linkedin.com/jobs/view/4437006573/) — The Salvation Army USA Central Territory
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4457010027/) — Cogir Senior Living
-- 📍 **Location:** Owings Mills, MD
-- 💰 **Salary:** $140,000.00/yr - $165,000.00/yr
+### [IDD Program Director](https://www.linkedin.com/jobs/view/4456031874/) — Alvis, Inc.
+- 📍 **Location:** Columbus, Ohio Metropolitan Area
 - 🕒 **Posted:** 2026-08-20
 
-### [Chief Operating Officer (COO) - Crestview, FL](https://www.linkedin.com/jobs/view/4456793723/) — North Okaloosa Medical Center
-- 📍 **Location:** Crestview, FL
+### [Business Development Director – Power Markets - 1898 & Co.](https://www.linkedin.com/jobs/view/4456033722/) — Burns & McDonnell
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $170,000.00-330,000.00
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director Specialist](https://www.linkedin.com/jobs/view/4456787878/) — Cogir Senior Living
-- 📍 **Location:** Arizona, United States
-- 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
+### [Executive Director of Development, School of Medicine and Special Projects](https://www.linkedin.com/jobs/view/4457019263/) — University of Pittsburgh
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-08-20
 
-### [Senior Director of Philanthropy](https://www.linkedin.com/jobs/view/4457022031/) — TALENThire LLC.
-- 📍 **Location:** Atlanta Metropolitan Area
-- 🕒 **Posted:** 2026-08-20
-
-### [BUSINESS DEVELOPMENT DIRECTOR](https://www.linkedin.com/jobs/view/4454113593/) — The Carlisle Group (TCG)
-- 📍 **Location:** Hanover, PA
-- 🕒 **Posted:** 2026-08-20
-
-### [Development Director](https://www.linkedin.com/jobs/view/4456783994/) — Cystic Fibrosis Foundation
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4454134551/) — Tennessee Hospital Association
 - 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $81,800.00 to $92,070.00
 - 🕒 **Posted:** 2026-08-20
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4456783831/) — Spruce MD Integrative Medicine
-- 📍 **Location:** Greenville, SC
+### [Executive Director of Strategic Operations (Program Management Leader), VPAS](https://www.linkedin.com/jobs/view/4455188742/) — Indiana University Bloomington
+- 📍 **Location:** Bloomington, IN
 - 🕒 **Posted:** 2026-08-20
 
-### [Marine Business Development Director](https://www.linkedin.com/jobs/view/4451449041/) — Cajun Industries, LLC
-- 📍 **Location:** Baton Rouge, LA
+### [CEO, Bixby Chamber of Commerce](https://www.linkedin.com/jobs/view/4454137496/) — Cadamy Business Consulting
+- 📍 **Location:** Bixby, OK
 - 🕒 **Posted:** 2026-08-20
 
-### [Program Director](https://www.linkedin.com/jobs/view/4457009119/) — Amentum
-- 📍 **Location:** Oklahoma, United States
+### [COMMUNITY DEVELOPMENT DIRECTOR](https://www.linkedin.com/jobs/view/4457020213/) — Grosse Ile Township
+- 📍 **Location:** Utica, MI
+- 💰 **Salary:** $70-$80
 - 🕒 **Posted:** 2026-08-20
 
-### [Chief Operating Officer / Integrator](https://www.linkedin.com/jobs/view/4454137298/) — VisionSpark
+### [Program Director](https://www.linkedin.com/jobs/view/4454138588/) — Community Services Group - CSG
+- 📍 **Location:** Highspire, PA
+- 🕒 **Posted:** 2026-08-20
+
+### [Associate Executive Director](https://www.linkedin.com/jobs/view/4454137493/) — Community Options, Inc.
 - 📍 **Location:** Salt Lake City Metropolitan Area
-- 💰 **Salary:** $210,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4456036568/) — Birch, Stewart, Kolasch & Birch, LLP (BSKB)
-- 📍 **Location:** Vienna, VA
-- 💰 **Salary:** $165,000 to $250,000 per year
+### [Director of Development](https://www.linkedin.com/jobs/view/4456045991/) — North Texas Rehabilitation Center
+- 📍 **Location:** Wichita Falls, TX
+- 🕒 **Posted:** 2026-08-20
+
+### [Program Director](https://www.linkedin.com/jobs/view/4456038873/) — Texas State Association of Fire and Emergency Districts
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-08-20
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4457014402/) — Senior Lifestyle
+- 📍 **Location:** St Charles, IL
 - 🕒 **Posted:** 2026-08-20
