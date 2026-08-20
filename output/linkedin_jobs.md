@@ -1,114 +1,70 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-20 17:18 UTC*
+*Last updated: 2026-08-20 18:10 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**14 new role(s)** since last run · 37 total in last 1h
 
-### [Executive Director of Development](https://www.linkedin.com/jobs/view/4456737946/) — University of Southern California
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $151,435.99 - $198,266.85
+### [Economic Development Director](https://www.linkedin.com/jobs/view/4456768408/) — Confidential
+- 📍 **Location:** Brea, CA
+- 💰 **Salary:** $170,000 – $255,000
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director of Development](https://www.linkedin.com/jobs/view/4454125544/) — Engineering Management Student Association (EMSA)
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $151,435.99 - $198,266.85
-- 🕒 **Posted:** 2026-08-20
-
-### [Remote Business Development Director](https://www.linkedin.com/jobs/view/4456736894/) — Kforce Inc
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Inpatient Rehabilitation Services Program Director](https://www.linkedin.com/jobs/view/4438526043/) — HCA Healthcare
-- 📍 **Location:** Thousand Oaks, CA
-- 💰 **Salary:** $118996.80 - $178464.00
-- 🕒 **Posted:** 2026-08-20
-
-### [Associate Program Director – Technology/Digital Transformation](https://www.linkedin.com/jobs/view/4446469855/) — Cognizant
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4456013948/) — Camp Tawonga
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $160,000 - $180,000
+- 💰 **Salary:** $245,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Program Director (West Side YMCA)](https://www.linkedin.com/jobs/view/4444538597/) — YMCA of the USA
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $66,300 - $70,000 Annually
+### [Deal Services Consulting Managing Director - Value Creation (New York, Chicago, Atlanta, LA or Bay Area)](https://www.linkedin.com/jobs/view/4428415756/) — RSM US LLP
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $181,900 - $397,700
 - 🕒 **Posted:** 2026-08-20
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4456008596/) — New York School of Interior Design
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000 - $179,000
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4456023484/) — DRG Consulting
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $245,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4456741783/) — In The Image
-- 📍 **Location:** Grand Rapids, MI
+### [Executive Director](https://www.linkedin.com/jobs/view/4395208869/) — University of Utah Health
+- 📍 **Location:** Salt Lake City Metropolitan Area
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4456002578/) — Community Partners for Affordable Housing
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $160,000 – $167,000
+### [Managing Director, Turnaround & Restructuring Services](https://www.linkedin.com/jobs/view/4000718073/) — Portage Point Partners
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $925,000 - $2,000,000
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director - Community Partners for Affordable Housing](https://www.linkedin.com/jobs/view/4456007652/) — Kathy Kniep Consulting
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $160,000 – $167,000,
+### [Director of Development](https://www.linkedin.com/jobs/view/4456017853/) — Sisters IHM
+- 📍 **Location:** Scranton, PA
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director (UW Health Riverfront YMCA)](https://www.linkedin.com/jobs/view/4444523925/) — YMCA of the USA
-- 📍 **Location:** Rockford, IL
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4456009863/) — North10, Philadelphia
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $180,000.00/yr - $210,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4456008465/) — Community Food Basket - Idaho Falls
-- 📍 **Location:** Idaho Falls, ID
+### [Director of Communications and Advancement](https://www.linkedin.com/jobs/view/4456021919/) — German International School Boston
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $95,000 - $105,000
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director - Senior Living](https://www.linkedin.com/jobs/view/4454110598/) — HumanGood
-- 📍 **Location:** Las Vegas, NV
+### [Branch Executive Director](https://www.linkedin.com/jobs/view/4444527831/) — YMCA of the USA
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director, Land and Communities](https://www.linkedin.com/jobs/view/4456733867/) — Lincoln Institute of Land Policy
-- 📍 **Location:** Cambridge, MA
-- 💰 **Salary:** $188,000.00/yr - $250,000.00/yr
+### [Chief Program Officer](https://www.linkedin.com/jobs/view/4456011887/) — Center for Human Services - Missouri
+- 📍 **Location:** Sedalia, MO
 - 🕒 **Posted:** 2026-08-20
 
-### [Market Director of Operations](https://www.linkedin.com/jobs/view/4456748970/) — Longevity Health
-- 📍 **Location:** Atlanta, GA
+### [Program Director (5823)](https://www.linkedin.com/jobs/view/4450018109/) — NextPath Workforce Solutions
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $80,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Program Director](https://www.linkedin.com/jobs/view/4446882987/) — Day & Zimmermann
-- 📍 **Location:** Middletown, IA
-- 💰 **Salary:** $143,440 - $215,160 annually
+### [Maternal and Child Health Director of Operations](https://www.linkedin.com/jobs/view/4455490124/) — Texas Department of State Health Services
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $6,377.50 - $8,581.66
 - 🕒 **Posted:** 2026-08-20
 
-### [BMG ADMIN-DIRECTOR OF OPERATIONS, SURGICAL](https://www.linkedin.com/jobs/view/4456001550/) — Beebe Healthcare
-- 📍 **Location:** Lewes, DE
-- 🕒 **Posted:** 2026-08-20
-
-### [President of The CEO Council of Connecticut](https://www.linkedin.com/jobs/view/4453209717/) — The CEO Council
-- 📍 **Location:** Greater Hartford
-- 🕒 **Posted:** 2026-08-20
-
-### [Executive Director, Campus Dining Services](https://www.linkedin.com/jobs/view/4455982295/) — The George Washington University
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $117,875.00 - $214,251.07
-- 🕒 **Posted:** 2026-08-20
-
-### [Vice President of Development](https://www.linkedin.com/jobs/view/4456005467/) — HR Media & Co.
-- 📍 **Location:** Dallas-Fort Worth Metroplex
-- 💰 **Salary:** $160,000.00 - $175,000.00 per year
-- 🕒 **Posted:** 2026-08-20
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4456018453/) — Brookdale
-- 📍 **Location:** Englewood, CO
-- 💰 **Salary:** $133,760.00/yr - $170,400.00/yr
-- 🕒 **Posted:** 2026-08-20
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4454116654/) — The National Center for Urban Solutions - NCUS
-- 📍 **Location:** Columbus, Ohio Metropolitan Area
-- 🕒 **Posted:** 2026-08-20
-
-### [Program Director of Clubs](https://www.linkedin.com/jobs/view/4456749822/) — Fellowship of Christian Athletes
-- 📍 **Location:** Portland, OR
-- 🕒 **Posted:** 2026-08-20
-
-### [Deputy Program Director](https://www.linkedin.com/jobs/view/4454108665/) — BAE Systems, Inc.
-- 📍 **Location:** California, MD
-- 💰 **Salary:** $173023 - $294137
+### [Managing Director of the Institute for Policy Solutions (IPS) (Research Administration)](https://www.linkedin.com/jobs/view/4456765450/) — The Johns Hopkins University
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $102,295 - $179,375 Annually
 - 🕒 **Posted:** 2026-08-20
