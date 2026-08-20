@@ -1,174 +1,114 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-20 16:12 UTC*
+*Last updated: 2026-08-20 17:18 UTC*
 
-**39 new role(s)** since last run · 39 total in last 1h
+**24 new role(s)** since last run · 24 total in last 1h
 
-### [Chief Executive Officer (CEO)](https://www.linkedin.com/jobs/view/4456014244/) — The Life You Can Save
-- 📍 **Location:** United States
-- 💰 **Salary:** $150,000 USD - $225,000 USD
+### [Executive Director of Development](https://www.linkedin.com/jobs/view/4456737946/) — University of Southern California
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $151,435.99 - $198,266.85
 - 🕒 **Posted:** 2026-08-20
 
-### [Development Director](https://www.linkedin.com/jobs/view/4456742422/) — Steamboat Creates
-- 📍 **Location:** San Francisco, CA
+### [Executive Director of Development](https://www.linkedin.com/jobs/view/4454125544/) — Engineering Management Student Association (EMSA)
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $151,435.99 - $198,266.85
 - 🕒 **Posted:** 2026-08-20
 
-### [CEO for Existing NCA Portfolio Company (Utility & Infrastructure/ Southern California)](https://www.linkedin.com/jobs/view/4443600473/) — Novastone Capital Advisors
-- 📍 **Location:** Bakersfield, CA
+### [Remote Business Development Director](https://www.linkedin.com/jobs/view/4456736894/) — Kforce Inc
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [CEO for Existing NCA Portfolio Company (Utility & Infrastructure/ Southern California)](https://www.linkedin.com/jobs/view/4443611159/) — Novastone Capital Advisors
-- 📍 **Location:** Temecula, CA
+### [Inpatient Rehabilitation Services Program Director](https://www.linkedin.com/jobs/view/4438526043/) — HCA Healthcare
+- 📍 **Location:** Thousand Oaks, CA
+- 💰 **Salary:** $118996.80 - $178464.00
 - 🕒 **Posted:** 2026-08-20
 
-### [CEO for Existing NCA Portfolio Company (Utility & Infrastructure/ Southern California)](https://www.linkedin.com/jobs/view/4443299520/) — Novastone Capital Advisors
-- 📍 **Location:** San Diego, CA
+### [Associate Program Director – Technology/Digital Transformation](https://www.linkedin.com/jobs/view/4446469855/) — Cognizant
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $160,000 - $180,000
 - 🕒 **Posted:** 2026-08-20
 
-### [CEO for Existing NCA Portfolio Company (Utility & Infrastructure/ Southern California)](https://www.linkedin.com/jobs/view/4443606291/) — Novastone Capital Advisors
-- 📍 **Location:** Long Beach, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [CEO for Existing NCA Portfolio Company (Utility & Infrastructure/ Southern California)](https://www.linkedin.com/jobs/view/4443299524/) — Novastone Capital Advisors
-- 📍 **Location:** Ventura County, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [CEO for Existing NCA Portfolio Company (Utility & Infrastructure/ Southern California)](https://www.linkedin.com/jobs/view/4443612127/) — Novastone Capital Advisors
-- 📍 **Location:** Riverside County, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [CEO for Existing NCA Portfolio Company (Utility & Infrastructure/ Southern California)](https://www.linkedin.com/jobs/view/4443616041/) — Novastone Capital Advisors
-- 📍 **Location:** Los Angeles County, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [CEO for Existing NCA Portfolio Company (Utility & Infrastructure/ Southern California)](https://www.linkedin.com/jobs/view/4443606265/) — Novastone Capital Advisors
-- 📍 **Location:** Orange County, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [CEO for Existing NCA Portfolio Company (Utility & Infrastructure/ Southern California)](https://www.linkedin.com/jobs/view/4441553555/) — Novastone Capital Advisors
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-08-20
-
-### [CEO for Existing NCA Portfolio Company (Utility & Infrastructure/ Southern California)](https://www.linkedin.com/jobs/view/4443298587/) — Novastone Capital Advisors
-- 📍 **Location:** San Bernardino County, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Program Director (Ellington)](https://www.linkedin.com/jobs/view/4456007395/) — Children's Rescue Fund
+### [Program Director (West Side YMCA)](https://www.linkedin.com/jobs/view/4444538597/) — YMCA of the USA
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $90,000.00/yr - $90,000.00/yr
+- 💰 **Salary:** $66,300 - $70,000 Annually
 - 🕒 **Posted:** 2026-08-20
 
-### [Program Director](https://www.linkedin.com/jobs/view/4408445161/) — Services for the UnderServed
-- 📍 **Location:** Jamaica, NY
-- 🕒 **Posted:** 2026-08-20
-
-### [Director of Partnerships](https://www.linkedin.com/jobs/view/4387781703/) — Pagaya
+### [Director of Development](https://www.linkedin.com/jobs/view/4456008596/) — New York School of Interior Design
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000—$240,000 USD
+- 💰 **Salary:** $160,000 - $179,000
 - 🕒 **Posted:** 2026-08-20
 
-### [Director of Communications](https://www.linkedin.com/jobs/view/4454108279/) — Atlas Search
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+### [Executive Director](https://www.linkedin.com/jobs/view/4456741783/) — In The Image
+- 📍 **Location:** Grand Rapids, MI
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director, Head of Global Site Management](https://www.linkedin.com/jobs/view/4367255893/) — Kardigan
-- 📍 **Location:** Princeton, NJ
+### [Executive Director](https://www.linkedin.com/jobs/view/4456002578/) — Community Partners for Affordable Housing
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $160,000 – $167,000
 - 🕒 **Posted:** 2026-08-20
 
-### [Deputy Director](https://www.linkedin.com/jobs/view/4454118168/) — Rhode Island Free Clinic
-- 📍 **Location:** Providence, RI
+### [Executive Director - Community Partners for Affordable Housing](https://www.linkedin.com/jobs/view/4456007652/) — Kathy Kniep Consulting
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $160,000 – $167,000,
 - 🕒 **Posted:** 2026-08-20
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4456006388/) — Greater Gallatin United Way
-- 📍 **Location:** Bozeman, MT
+### [Executive Director (UW Health Riverfront YMCA)](https://www.linkedin.com/jobs/view/4444523925/) — YMCA of the USA
+- 📍 **Location:** Rockford, IL
 - 🕒 **Posted:** 2026-08-20
 
-### [Development Director, Columbus](https://www.linkedin.com/jobs/view/4429597855/) — Susan G. Komen
-- 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $75,000-$96,000/annual
+### [Executive Director](https://www.linkedin.com/jobs/view/4456008465/) — Community Food Basket - Idaho Falls
+- 📍 **Location:** Idaho Falls, ID
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director Cancer WFD](https://www.linkedin.com/jobs/view/4456403321/) — AdventHealth
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $127,310.90 - $236,789.66
+### [Executive Director - Senior Living](https://www.linkedin.com/jobs/view/4454110598/) — HumanGood
+- 📍 **Location:** Las Vegas, NV
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4454125140/) — CFA Society Washington, DC
-- 📍 **Location:** Washington DC-Baltimore Area
+### [Executive Director, Land and Communities](https://www.linkedin.com/jobs/view/4456733867/) — Lincoln Institute of Land Policy
+- 📍 **Location:** Cambridge, MA
+- 💰 **Salary:** $188,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Development Director](https://www.linkedin.com/jobs/view/4456740582/) — Parkinson Association of the Carolinas
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $78,000-$80,000
+### [Market Director of Operations](https://www.linkedin.com/jobs/view/4456748970/) — Longevity Health
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-08-20
 
-### [Program Director](https://www.linkedin.com/jobs/view/4456013374/) — Dungarvin
-- 📍 **Location:** Gallup, NM
+### [Program Director](https://www.linkedin.com/jobs/view/4446882987/) — Day & Zimmermann
+- 📍 **Location:** Middletown, IA
+- 💰 **Salary:** $143,440 - $215,160 annually
 - 🕒 **Posted:** 2026-08-20
 
-### [Director of Development, Planned Giving](https://www.linkedin.com/jobs/view/4456013288/) — Volunteers of America Colorado
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $85,000-$100,000
+### [BMG ADMIN-DIRECTOR OF OPERATIONS, SURGICAL](https://www.linkedin.com/jobs/view/4456001550/) — Beebe Healthcare
+- 📍 **Location:** Lewes, DE
 - 🕒 **Posted:** 2026-08-20
 
-### [Program Director, TRIO SSS](https://www.linkedin.com/jobs/view/4446850376/) — The University of Texas at Arlington
-- 📍 **Location:** Arlington, TX
-- 💰 **Salary:** $71,200 to $73,000
+### [President of The CEO Council of Connecticut](https://www.linkedin.com/jobs/view/4453209717/) — The CEO Council
+- 📍 **Location:** Greater Hartford
 - 🕒 **Posted:** 2026-08-20
 
-### [Chief Executive Officer, Long-Term Acute Care Hospital](https://www.linkedin.com/jobs/view/4456749530/) — Principal Healthcare Solutions
-- 📍 **Location:** Missouri, United States
+### [Executive Director, Campus Dining Services](https://www.linkedin.com/jobs/view/4455982295/) — The George Washington University
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $117,875.00 - $214,251.07
 - 🕒 **Posted:** 2026-08-20
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4456014246/) — Fidler and Associates
-- 📍 **Location:** Mount Pleasant, TX
+### [Vice President of Development](https://www.linkedin.com/jobs/view/4456005467/) — HR Media & Co.
+- 📍 **Location:** Dallas-Fort Worth Metroplex
+- 💰 **Salary:** $160,000.00 - $175,000.00 per year
 - 🕒 **Posted:** 2026-08-20
 
-### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4454120304/) — Chesapeake Search Partners
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $140,000.00/yr - $160,000.00/yr
+### [Executive Director](https://www.linkedin.com/jobs/view/4456018453/) — Brookdale
+- 📍 **Location:** Englewood, CO
+- 💰 **Salary:** $133,760.00/yr - $170,400.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Residence Director (Executive Director)](https://www.linkedin.com/jobs/view/4456752345/) — Legend Senior Living®
-- 📍 **Location:** Broken Arrow, OK
+### [Executive Director](https://www.linkedin.com/jobs/view/4454116654/) — The National Center for Urban Solutions - NCUS
+- 📍 **Location:** Columbus, Ohio Metropolitan Area
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director Instructional Technology and Innovation - Instructional Tech and Innovation](https://www.linkedin.com/jobs/view/4456008409/) — Gwinnett County Public Schools
-- 📍 **Location:** Gwinnett County, GA
+### [Program Director of Clubs](https://www.linkedin.com/jobs/view/4456749822/) — Fellowship of Christian Athletes
+- 📍 **Location:** Portland, OR
 - 🕒 **Posted:** 2026-08-20
 
-### [Chief Operating Officer / Integrator (EOS) - LAW FIRM](https://www.linkedin.com/jobs/view/4444171706/) — CyberCoders
-- 📍 **Location:** Boca Raton, FL
-- 💰 **Salary:** $130,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-08-20
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4436411820/) — Atria Senior Living
-- 📍 **Location:** Katy, TX
-- 💰 **Salary:** $113,000.00/yr - $129,950.00/yr
-- 🕒 **Posted:** 2026-08-20
-
-### [Development Director - Urology](https://www.linkedin.com/jobs/view/4426865316/) — Houston Methodist
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-08-20
-
-### [Associate Managing Director I](https://www.linkedin.com/jobs/view/4419482537/) — Syska Hennessy Group
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $110,538 USD - $189,237 USD
-- 🕒 **Posted:** 2026-08-20
-
-### [Associate Director of Advancement (Development Officer), Eskenazi Museum of Art](https://www.linkedin.com/jobs/view/4456741504/) — Indiana University Bloomington
-- 📍 **Location:** Bloomington, IN
-- 🕒 **Posted:** 2026-08-20
-
-### [Managing Director, Real Assets/Infrastructure Product Specialist](https://www.linkedin.com/jobs/view/4437327434/) — Hamilton Lane
-- 📍 **Location:** Conshohocken, PA
-- 🕒 **Posted:** 2026-08-20
-
-### [Managing Director, Investment Banking // Consumer, Beauty & Wellness Mergers & Acquisitions (M&A)](https://www.linkedin.com/jobs/view/4226928265/) — Portage Point Partners
-- 📍 **Location:** West Palm Beach, FL
-- 💰 **Salary:** $1,200,000 - $3,000,000
-- 🕒 **Posted:** 2026-08-20
-
-### [Executive Director | Global Cyber and Intelligence Partnerships Lead](https://www.linkedin.com/jobs/view/4446405680/) — Morgan Stanley
-- 📍 **Location:** Baltimore, MD
+### [Deputy Program Director](https://www.linkedin.com/jobs/view/4454108665/) — BAE Systems, Inc.
+- 📍 **Location:** California, MD
+- 💰 **Salary:** $173023 - $294137
 - 🕒 **Posted:** 2026-08-20
