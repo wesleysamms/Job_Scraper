@@ -1,72 +1,70 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-20 00:02 UTC*
+*Last updated: 2026-08-20 02:13 UTC*
 
-**15 new role(s)** since last run · 40 total in last 1h
+**15 new role(s)** since last run · 15 total in last 1h
 
-### [Managing Director, Cultural Mobilization](https://www.linkedin.com/jobs/view/4456412242/) — Bully Pulpit International
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-08-19
+### [Director of Advancement](https://www.linkedin.com/jobs/view/4456430918/) — TVT Community Day School
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-08-20
 
-### [Affordable Housing Finance Product Manager - Executive Director](https://www.linkedin.com/jobs/view/4444612657/) — Morgan Stanley
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $150,000 - $250,000
-- 🕒 **Posted:** 2026-08-19
+### [CCPA - Associate Program Director & Open Rank Faculty](https://www.linkedin.com/jobs/view/4456453110/) — A.T. Still University
+- 📍 **Location:** San Luis Obispo, CA
+- 🕒 **Posted:** 2026-08-20
 
-### [Director of Development-Mission Critical](https://www.linkedin.com/jobs/view/4453483641/) — Kimmel & Associates
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000–$225,000
-- 🕒 **Posted:** 2026-08-19
+### [Assistant Director of Advancement](https://www.linkedin.com/jobs/view/4456438285/) — French American International School (San Francisco, CA)
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $110,000-$125,000
+- 🕒 **Posted:** 2026-08-20
 
-### [Affordable Housing Finance Product Manager - Executive Director](https://www.linkedin.com/jobs/view/4444393988/) — Morgan Stanley
-- 📍 **Location:** Greenwich, CT
-- 💰 **Salary:** $150,000 - $250,000
-- 🕒 **Posted:** 2026-08-19
+### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4443917628/) — Magical Beginnings Learning Centers
+- 📍 **Location:** Westchester County, NY
+- 🕒 **Posted:** 2026-08-20
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4455462844/) — Quick Quack Car Wash
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-08-19
+### [Human Services Deputy Director](https://www.linkedin.com/jobs/view/4453494707/) — Jefferson County, Colorado
+- 📍 **Location:** Golden, CO
+- 💰 **Salary:** $145,000 - $175,000 USD
+- 🕒 **Posted:** 2026-08-20
 
-### [Director Of Development](https://www.linkedin.com/jobs/view/4455482172/) — Young Professionals of Henderson County
-- 📍 **Location:** Hendersonville, TN
-- 🕒 **Posted:** 2026-08-19
+### [Executive Director - Specialty Infusion and Oncology Pharmacy Services](https://www.linkedin.com/jobs/view/4453498813/) — Cone Health
+- 📍 **Location:** Greensboro, NC
+- 🕒 **Posted:** 2026-08-20
 
-### [Business Development Director | Executive Retained Search](https://www.linkedin.com/jobs/view/4455455802/) — CBIZ
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-08-19
+### [Deputy Executive Director of Operations PROGRAM MANAGER SENIOR II](https://www.linkedin.com/jobs/view/4456427896/) — State of Maryland
+- 📍 **Location:** Maryland, United States
+- 🕒 **Posted:** 2026-08-20
 
-### [Development Director](https://www.linkedin.com/jobs/view/4456409183/) — HumanePro
-- 📍 **Location:** Port St Lucie, FL
-- 💰 **Salary:** $65,000.00 - $70,000.00 per year
-- 🕒 **Posted:** 2026-08-19
+### [Managing Director](https://www.linkedin.com/jobs/view/4455489441/) — IPD Media Networks
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-20
 
-### [Program Director](https://www.linkedin.com/jobs/view/4456403941/) — HumanePro
-- 📍 **Location:** Madison, WI
-- 🕒 **Posted:** 2026-08-19
+### [Chief Advancement Officer](https://www.linkedin.com/jobs/view/4456436424/) — Autism Treatment Center
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-08-20
 
-### [Family Preservation Services Program Director (69870)](https://www.linkedin.com/jobs/view/4455485121/) — Variety Care
-- 📍 **Location:** Oklahoma City, OK
-- 🕒 **Posted:** 2026-08-19
-
-### [Affordable Housing Finance Product Manager - Executive Director](https://www.linkedin.com/jobs/view/4444606762/) — Morgan Stanley
-- 📍 **Location:** Salt Lake City, UT
-- 💰 **Salary:** $150,000 - $250,000
-- 🕒 **Posted:** 2026-08-19
-
-### [Health Care Home Program Director](https://www.linkedin.com/jobs/view/4455482134/) — ReDiscover
-- 📍 **Location:** Lees Summit, MO
-- 🕒 **Posted:** 2026-08-19
-
-### [Youth Development Director- Sussex YMCA Family Location](https://www.linkedin.com/jobs/view/4455489063/) — YMCA of Delaware
-- 📍 **Location:** Rehoboth Beach, DE
-- 💰 **Salary:** $55,517 – $62,457 per year
-- 🕒 **Posted:** 2026-08-19
-
-### [Affordable Housing Finance Product Manager - Executive Director](https://www.linkedin.com/jobs/view/4444604773/) — Morgan Stanley
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $150,000 - $250,000
-- 🕒 **Posted:** 2026-08-19
-
-### [Maternal and Child Health Director of Operations](https://www.linkedin.com/jobs/view/4455490124/) — Texas Department of State Health Services
+### [Senior Director of Development](https://www.linkedin.com/jobs/view/4450690244/) — The University of Texas at Austin
 - 📍 **Location:** Austin, TX
-- 💰 **Salary:** $6,377.50 - $8,581.66
-- 🕒 **Posted:** 2026-08-19
+- 🕒 **Posted:** 2026-08-20
+
+### [Strategic Business Alliances Business Development Director - CyberArk/SailPoint (Location Flexible)](https://www.linkedin.com/jobs/view/4455488438/) — RSM US LLP
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $147,000 - $260,700
+- 🕒 **Posted:** 2026-08-20
+
+### [Client Development Director](https://www.linkedin.com/jobs/view/4455474590/) — Pioneer Management Consulting
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $120,000-150,000
+- 🕒 **Posted:** 2026-08-20
+
+### [Ascent Managing Director Client Advisor](https://www.linkedin.com/jobs/view/4456443147/) — U.S. Bank
+- 📍 **Location:** Sarasota, FL
+- 💰 **Salary:** $197,100.00 - 240,900.00
+- 🕒 **Posted:** 2026-08-20
+
+### [Ascent Managing Director Client Advisor](https://www.linkedin.com/jobs/view/4387768847/) — U.S. Bank
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $197,100.00 - 240,900.00
+- 🕒 **Posted:** 2026-08-20
+
+### [Program Director](https://www.linkedin.com/jobs/view/4443645486/) — Securitas Security Services USA, Inc.
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-08-20
