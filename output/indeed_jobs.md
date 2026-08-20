@@ -1,50 +1,58 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-20 03:43 UTC*
+*Last updated: 2026-08-20 04:30 UTC*
 
-**7 new role(s)** since last run · 70 total in last 24h
+**8 new role(s)** since last run · 67 total in last 24h
 
-### [Director of Advancement](https://www.indeed.com/viewjob?jk=f40102c9785e39a0) — TVT Community Day School
-- 📍 **Location:** Irvine, CA, US
-- 💰 **Salary:** $185k–$220k/yr
+### [Chief Operating Officer (COO)](https://www.indeed.com/viewjob?jk=1f633dcb89c27455) — Wellness and Equity Alliance LLC
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $170k–$240k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-08-19
+
+### [Director of Advancement](https://www.indeed.com/viewjob?jk=4e7d72dd68ceb037) — Centro Tyrone Guzman
+- 📍 **Location:** Minneapolis, MN, US
+- 💰 **Salary:** $80k–$90k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-19
 
-### [Executive Director of Operations](https://www.indeed.com/viewjob?jk=6b20f81923d58edb) — Unknown
-- 📍 **Location:** Texarkana, TX, US
+### [Director of Development and Marketing](https://www.indeed.com/viewjob?jk=54c45de9c314d6ae) — Sunnyhill Inc.
+- 📍 **Location:** Fenton, MO, US
+- 💰 **Salary:** $74k–$104k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-19
+
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=db6e967c2b790e5f) — International Football League (IFL)
+- 📍 **Location:** Meadville, PA, US
+- 💰 **Salary:** $80k–$165k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-20
 
-### [Senior Director of Communications and Marketing](https://www.indeed.com/viewjob?jk=d4f09c1eac79aec3) — Friendship Public Charter School
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $145k–$170k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-19
-
-### [Marketing & Development Director](https://www.indeed.com/viewjob?jk=0feb602d159897a3) — YMCA
-- 📍 **Location:** Northampton, MA, US
-- 💰 **Salary:** $75k–$85k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-08-19
-
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=d95a61ea66ddc8dd) — By George HR Solutions
-- 📍 **Location:** Sumter, SC, US
-- 💰 **Salary:** $100k–$120k/yr
-- **Work mode:** On-site
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=1bcb4cdc52acf133) — International Football League (IFL)
+- 📍 **Location:** Meadville, PA, US
+- 💰 **Salary:** $80k–$165k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-20
 
-### [Senior Director of Development](https://www.indeed.com/viewjob?jk=1df3276bf312f748) — Communities In Schools
-- 📍 **Location:** Austin, TX, US
+### [Deputy Athletic Director – Chief Operating Officer](https://www.indeed.com/viewjob?jk=d7570ab8b8455d36) — Colorado Mesa University
+- 📍 **Location:** Grand Junction, CO, US
+- 💰 **Salary:** $90k–$103k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-19
 
-### [Development Director](https://www.indeed.com/viewjob?jk=7aa5ae9e20512dfb) — Archdiocese of St. Paul & Minneapolis
-- 📍 **Location:** MN, US
-- 💰 **Salary:** $65k–$80k/yr
+### [Executive Director/Administrator](https://www.indeed.com/viewjob?jk=858d7f2f28e7f140) — Unknown
+- 📍 **Location:** Saginaw, MI, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-18
+- 🕒 **Posted:** 2026-08-19
+
+### [Human Services Deputy Director](https://www.indeed.com/viewjob?jk=c33b6fdefc9793b9) — Jefferson County Colorado
+- 📍 **Location:** Golden, CO, US
+- 💰 **Salary:** $145k–$175k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-19
