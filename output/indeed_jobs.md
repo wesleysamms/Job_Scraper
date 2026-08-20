@@ -1,50 +1,37 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-20 22:17 UTC*
+*Last updated: 2026-08-20 23:24 UTC*
 
-**7 new role(s)** since last run · 53 total in last 24h
+**5 new role(s)** since last run · 54 total in last 24h
 
-### [Student Development Director](https://www.indeed.com/viewjob?jk=104f94f8fa26dbc3) — Cal Alumni Association
-- 📍 **Location:** Berkeley, CA, US
-- 💰 **Salary:** $85k–$105k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-20
-
-### [Business Banking Head of Planning and Analysis-Executive Director](https://www.indeed.com/viewjob?jk=a2ef2daaf5e98a67) — JPMorganChase
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $171k–$260k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-20
-
-### [Executive Director, National Capital Region (NCR Chapter)](https://www.indeed.com/viewjob?jk=e75de6142d09ddc0) — Blue Star Families, Inc
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $128k–$177k/yr
+### [Executive Director](https://www.indeed.com/viewjob?jk=5d48ab13f11885b3) — Minnesota Solar Energy Industries Association (MnSEIA)
+- 📍 **Location:** Minneapolis-Saint Paul, MN, US
+- 💰 **Salary:** $120k–$150k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-20
 
-### [Director of Communications and Engagement - IAWA](https://www.indeed.com/viewjob?jk=545385aadda39c6f) — IOWA SOYBEAN ASSOCIATION
-- 📍 **Location:** Ankeny, IA, US
+### [Director of Development, Planned Giving](https://www.indeed.com/viewjob?jk=61d492cefa2c591b) — Volunteers of America
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $85k–$100k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-08-20
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=91ceb1aa6ade1b47) — Greater Indiana Clean Cities, Inc.
-- 📍 **Location:** Indianapolis, IN, US
-- 💰 **Salary:** $70k–$75k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-20
-
-### [Director of Advancement & Communications](https://www.indeed.com/viewjob?jk=2370d6be9a8785cd) — Webb Deane Stevens Museum
-- 📍 **Location:** Wethersfield, CT, US
-- 💰 **Salary:** $68k–$74k/yr
+### [Director of Philanthropy](https://www.indeed.com/viewjob?jk=e4cb01ac1f44b624) — Girl Scouts of the USA
+- 📍 **Location:** Mableton, GA, US
+- 💰 **Salary:** $90k–$104k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-20
 
-### [SVP, Chief Development Officer](https://www.indeed.com/viewjob?jk=4a78cc928325a64d) — Phoenix Children's
-- 📍 **Location:** Phoenix, AZ, US
+### [Director of Operations](https://www.indeed.com/viewjob?jk=c86c8137e23bc4e0) — HopeCentral
+- 📍 **Location:** Seattle, WA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-20
+
+### [Senior Director of Development - Cheshire Development](https://www.indeed.com/viewjob?jk=51c4bda5f1aa7a4c) — Cheshire Medical Center
+- 📍 **Location:** Keene, NH, US
+- 💰 **Salary:** $50–$84/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-20
