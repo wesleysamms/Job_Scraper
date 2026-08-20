@@ -1,21 +1,13 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-20 03:29 UTC*
+*Last updated: 2026-08-20 04:16 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 6 total in last 1h
 
-### [Fundraising Director, Development](https://www.linkedin.com/jobs/view/4439976048/) — Alzheimer's Association®
-- 📍 **Location:** Irvine, CA
+### [Director of Development for Athletics (Administrator II)](https://www.linkedin.com/jobs/view/4446022348/) — Sonoma State University
+- 📍 **Location:** Sonoma, CA
+- 💰 **Salary:** $8,334 - $8,667
 - 🕒 **Posted:** 2026-08-20
 
-### [Payments - Industry Solutions - Executive Director](https://www.linkedin.com/jobs/view/4456439773/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $166,250.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-08-20
-
-### [Director of Advancement Data and Research (Onsite) - Trine University](https://www.linkedin.com/jobs/view/4456453378/) — APRA Indiana
-- 📍 **Location:** University, MS
-- 🕒 **Posted:** 2026-08-20
-
-### [Business Relationship Manager Area Manager - Executive Director](https://www.linkedin.com/jobs/view/4456439760/) — JPMorganChase
-- 📍 **Location:** Lexington, KY
+### [Program Director](https://www.linkedin.com/jobs/view/4456448907/) — Wevise
+- 📍 **Location:** Lake Oswego, OR
 - 🕒 **Posted:** 2026-08-20
