@@ -1,66 +1,87 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-21 22:02 UTC*
+*Last updated: 2026-08-21 23:02 UTC*
 
-**13 new role(s)** since last run · 33 total in last 1h
+**18 new role(s)** since last run · 19 total in last 1h
 
-### [Chief Philanthropy Officer](https://www.linkedin.com/jobs/view/4456293373/) — CommonSpirit Health
-- 📍 **Location:** Northridge, CA
-- 💰 **Salary:** $87.81 - $122.93 /hour
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior Director of Executive Communications, EVP/COO](https://www.linkedin.com/jobs/view/4456299439/) — Loyola Marymount University
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $125,000.00/yr - $135,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Physical Therapist Assistant (PTA) - Program Director](https://www.linkedin.com/jobs/view/4457521402/) — Pima Medical Institute
-- 📍 **Location:** San Marcos, CA
-- 💰 **Salary:** $98,705 – $123,385 per year
-- 🕒 **Posted:** 2026-08-21
-
-### [Program Director (Ellington)](https://www.linkedin.com/jobs/view/4456007395/) — Children's Rescue Fund
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $90,000.00/yr - $90,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Managing Director, Elvis Duran Podcast Network](https://www.linkedin.com/jobs/view/4457512573/) — iHeartMedia
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $120,000 - $150,000
-- 🕒 **Posted:** 2026-08-21
-
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4448524803/) — Youth Empowerment Project (YEP)
-- 📍 **Location:** New Orleans, LA
-- 💰 **Salary:** $110,000–$135,000,
-- 🕒 **Posted:** 2026-08-21
-
-### [Associate Director of Development and Alumni Relations](https://www.linkedin.com/jobs/view/4446241906/) — Marshall B. Ketchum University
+### [Director of Operations](https://www.linkedin.com/jobs/view/4456093790/) — MeoowzResQ Inc
 - 📍 **Location:** Anaheim, CA
-- 💰 **Salary:** $75,000.00/yr - $80,000.00/yr
+- 💰 **Salary:** $42,000-52,000/annually
 - 🕒 **Posted:** 2026-08-21
 
-### [Chief Executive Officer - Phi Kappa Tau](https://www.linkedin.com/jobs/view/4457509708/) — Maneva Group
-- 📍 **Location:** Oxford, OH
+### [Senior/Executive Director, Business Operations](https://www.linkedin.com/jobs/view/4456288525/) — BridgeBio
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $249,000 - $330,000 USD
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Director (Volunteer) — Global Health Nonprofit](https://www.linkedin.com/jobs/view/4456293359/) — Techies Without Borders
-- 📍 **Location:** United States
+### [Vice President / Director of Operations](https://www.linkedin.com/jobs/view/4454445253/) — Vitality Group
+- 📍 **Location:** Santa Monica, CA
+- 💰 **Salary:** $300,000.00/yr - $450,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Director of Communications & Member Engagement](https://www.linkedin.com/jobs/view/4457516366/) — Arkansas Economic Developers & Chamber Executives
-- 📍 **Location:** Indiana, United States
-- 💰 **Salary:** $44,000-$48,000
+### [Director of Operations](https://www.linkedin.com/jobs/view/4454454240/) — Vitality Group
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $300,000.00/yr - $450,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4456292428/) — Aristocrat Interactive
-- 📍 **Location:** Lansing, MI
-- 💰 **Salary:** $185,262 - $344,058 per year
+### [Executive Director at New Settlement](https://www.linkedin.com/jobs/view/4456294606/) — On-Ramps
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $225,000 to $250,000,
 - 🕒 **Posted:** 2026-08-21
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4456276798/) — Recovery Representative, LLC
-- 📍 **Location:** United States
-- 💰 **Salary:** $150,000–$275,000
+### [ISG Management – Executive Director, ISG Management (New York)](https://www.linkedin.com/jobs/view/4456284645/) — Morgan Stanley
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4456298396/) — East Central Iowa Workforce Development Board
-- 📍 **Location:** Iowa City-Cedar Rapids Area
+### [Managing Director, Value Access and Evidence Advisory](https://www.linkedin.com/jobs/view/4457520759/) — Red Nucleus
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-21
+
+### [Executive Director, Commercial Marketing & Guardian Labs](https://www.linkedin.com/jobs/view/4457534061/) — The Guardian US
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $190,000 - $220,000
+- 🕒 **Posted:** 2026-08-21
+
+### [[DANK Haus German American Cultural Center] Executive Director](https://www.linkedin.com/jobs/view/4456294618/) — GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $90,000 – $125,000,
+- 🕒 **Posted:** 2026-08-21
+
+### [Program Director, Campus Communications](https://www.linkedin.com/jobs/view/4445453133/) — Kamehameha Schools
+- 📍 **Location:** Honolulu, HI
+- 🕒 **Posted:** 2026-08-21
+
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4450575951/) — Hedge Impact headhunting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Director of Operations for Residential Facility](https://www.linkedin.com/jobs/view/4457526044/) — San Antonio Recovery Center
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-08-21
+
+### [Program Management Program Director](https://www.linkedin.com/jobs/view/4454678210/) — Sevita
+- 📍 **Location:** Henrico, VA
+- 💰 **Salary:** $49,000 - $54,000
+- 🕒 **Posted:** 2026-08-21
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4454690168/) — City of El Paso Employees Retirement Trust (CEPERT)
+- 📍 **Location:** El Paso, TX
+- 💰 **Salary:** $200.00/yr - $250.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4457505895/) — Confidential Careers
+- 📍 **Location:** Greater Philadelphia
+- 🕒 **Posted:** 2026-08-21
+
+### [Technical Program Director - Product Formulation](https://www.linkedin.com/jobs/view/4454690187/) — Blue Origin
+- 📍 **Location:** Greater Seattle Area
+- 💰 **Salary:** $169,624.00 - $237,473.25
+- 🕒 **Posted:** 2026-08-21
+
+### [Associate Program Director, Israel Education](https://www.linkedin.com/jobs/view/4457536015/) — The George Washington University
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $82,950.66 - $114,012.01
+- 🕒 **Posted:** 2026-08-21
+
+### [Program Director](https://www.linkedin.com/jobs/view/4454685180/) — Sevita
+- 📍 **Location:** Katy, TX
 - 🕒 **Posted:** 2026-08-21
