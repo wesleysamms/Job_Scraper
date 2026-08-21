@@ -1,94 +1,84 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-21 19:15 UTC*
+*Last updated: 2026-08-21 19:58 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**18 new role(s)** since last run · 34 total in last 1h
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4457385066/) — The Peninsula Hotels
+### [Chief Philanthropy Officer](https://www.linkedin.com/jobs/view/4454663643/) — Dignity Health
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $87.81 - $122.93 /hour
+- 🕒 **Posted:** 2026-08-21
+
+### [Director of Operations – Mandarin Fluency Required](https://www.linkedin.com/jobs/view/4407510374/) — Annie Aesthetic
 - 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Director Digital Brand](https://www.linkedin.com/jobs/view/4456257701/) — Orveon Global
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $157,500 – $225K
+### [Director of Development - Western Center on Law & Poverty](https://www.linkedin.com/jobs/view/4457396650/) — Maneva Group
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $140,000 - $175,000
 - 🕒 **Posted:** 2026-08-21
 
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4456264837/) — United Way of Greater Newark
-- 📍 **Location:** Newark, NJ
-- 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
+### [Managing Director](https://www.linkedin.com/jobs/view/4456283077/) — Epiq
+- 📍 **Location:** Buffalo-Niagara Falls Area
+- 💰 **Salary:** $225,000 to $250,000 USD annually
 - 🕒 **Posted:** 2026-08-21
 
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4456274770/) — DRG Consulting
-- 📍 **Location:** Newark, NJ
-- 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
+### [Visiting or Tenure-Track Assistant Professor & Program Director of Public Health and Health Sciences](https://www.linkedin.com/jobs/view/4429486651/) — Manhattan University
+- 📍 **Location:** Bronx County, NY
+- 💰 **Salary:** $75,000-$80,000
 - 🕒 **Posted:** 2026-08-21
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4456257624/) — The Master's Apprentice Program
-- 📍 **Location:** Denver Metropolitan Area
-- 💰 **Salary:** $135-$150,000,
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4457394895/) — Ijams Nature Center
+- 📍 **Location:** Knoxville, TN
+- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4457383076/) — The Elizabeth River Trail Foundation
-- 📍 **Location:** Norfolk, VA
-- 💰 **Salary:** $90,000 - $110,000
+### [President and Chief Executive Officer](https://www.linkedin.com/jobs/view/4456299007/) — Better Markets
+- 📍 **Location:** Washington DC-Baltimore Area
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4456259833/) — Greater Indiana Clean Cities, Inc.
-- 📍 **Location:** Indianapolis, IN
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4456275968/) — Saige Partners
+- 📍 **Location:** Iowa City, IA
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4456267610/) — Frequent Flyers Aerial Dance
-- 📍 **Location:** Boulder, CO
-- 💰 **Salary:** $95,000-111,000
+### [Vice President for Development and Alumni Relations and Executive Director of the Montgomery College Foundation (A01072)](https://www.linkedin.com/jobs/view/4432344138/) — Montgomery College
+- 📍 **Location:** Rockville, MD
+- 💰 **Salary:** $135,044–$236,298 annually
 - 🕒 **Posted:** 2026-08-21
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4457383485/) — Oklahoma State Medical Association
-- 📍 **Location:** Oklahoma City, OK
+### [Managing Director, Transformation](https://www.linkedin.com/jobs/view/4457500593/) — Trimont
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-08-21
 
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4454658365/) — American Baptist Home Mission Societies
-- 📍 **Location:** King of Prussia, PA
-- 💰 **Salary:** $130,000 - $150,000
+### [Executive Managing Director, Transformation](https://www.linkedin.com/jobs/view/4457386663/) — Trimont
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-08-21
 
-### [Upward Bound Program Director](https://www.linkedin.com/jobs/view/4457397054/) — University of Wisconsin-Milwaukee
-- 📍 **Location:** Milwaukee, WI
-- 💰 **Salary:** $55,000 - $65,000
+### [Managing Partner / COO - Boutique Chicago Law Firm](https://www.linkedin.com/jobs/view/4456258915/) — McCormack Schreiber Legal Search
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4456013287/) — Arthur, Chapman, Kettering, Smetak & Pikala, P.A.
-- 📍 **Location:** Minneapolis, MN
+### [Managing Director](https://www.linkedin.com/jobs/view/4454667623/) — TalentoHC
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Program Director](https://www.linkedin.com/jobs/view/4454652364/) — Alsana
-- 📍 **Location:** Birmingham, AL
+### [Executive Director, Advancement Communications and Marketing - University Advancement](https://www.linkedin.com/jobs/view/4456295048/) — Carnegie Mellon University
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-08-21
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4457388205/) — The Harris Center for Mental Health and IDD
-- 📍 **Location:** Houston, TX
+### [Family Justice Project Program Director (40037)](https://www.linkedin.com/jobs/view/4456600025/) — RAICES
+- 📍 **Location:** San Antonio, TX
 - 🕒 **Posted:** 2026-08-21
 
-### [Regional Director Of Operations](https://www.linkedin.com/jobs/view/4456258693/) — Vision Hospitality Group, Inc.
-- 📍 **Location:** Nashville, TN
+### [Community And Economic Development Director](https://www.linkedin.com/jobs/view/4457501770/) — Town of Bridgewater MA
+- 📍 **Location:** Bridgewater, MA
+- 💰 **Salary:** $113,713.72 TO $152,849.32 PER YEAR
 - 🕒 **Posted:** 2026-08-21
 
-### [Development Director](https://www.linkedin.com/jobs/view/4456257699/) — Timbers Company
-- 📍 **Location:** Winter Park, FL
+### [Deputy Director-Recreation Services](https://www.linkedin.com/jobs/view/4457388600/) — City of Alexandria, Virginia
+- 📍 **Location:** Alexandria, VA
 - 🕒 **Posted:** 2026-08-21
 
-### [Senior Program Director (Onsite Richmond, Virginia)](https://www.linkedin.com/jobs/view/4453341685/) — Maximus
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $130,000.00 - $175,000.00
-- 🕒 **Posted:** 2026-08-21
-
-### [Executive Director, Enterprise Brand Practice](https://www.linkedin.com/jobs/view/4457386180/) — CVS Health
-- 📍 **Location:** Woonsocket, RI
-- 💰 **Salary:** $131,500.00 - $303,195.00
-- 🕒 **Posted:** 2026-08-21
-
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4454666394/) — Confidential Jobs
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-21
-
-### [Assistant Executive Director - The Springs at Lake Oswego](https://www.linkedin.com/jobs/view/4457501331/) — The Springs Living, LLC
-- 📍 **Location:** Lake Oswego, OR
+### [Deputy Director- Park Services](https://www.linkedin.com/jobs/view/4457385622/) — City of Alexandria, Virginia
+- 📍 **Location:** Alexandria, VA
 - 🕒 **Posted:** 2026-08-21
