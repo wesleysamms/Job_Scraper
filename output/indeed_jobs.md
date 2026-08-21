@@ -1,45 +1,49 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-21 18:26 UTC*
+*Last updated: 2026-08-21 19:24 UTC*
 
-**6 new role(s)** since last run · 52 total in last 24h
+**7 new role(s)** since last run · 53 total in last 24h
 
-### [SONYC MIDDLE SCHOOL PROGRAM DIRECTOR - Manhattan Location (Teachers College)](https://www.indeed.com/viewjob?jk=e83e1cbd80b47337) — Aspira of New York, Inc.
-- 📍 **Location:** New York, NY, US
+### [CEO](https://www.indeed.com/viewjob?jk=e98985eebe2d48ee) — ＰＬＡＮＴ
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $20–$37/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** contract
+- 🕒 **Posted:** 2026-08-21
+
+### [Director of Community Engagement](https://www.indeed.com/viewjob?jk=06d85b76f79cc157) — Amarillo Habitat for Humanity
+- 📍 **Location:** Amarillo, TX, US
 - **Work mode:** On-site
-- **Job type:** parttime
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=49eb8b3d8b6a03f8) — Naugatuck Youth Services
-- 📍 **Location:** Naugatuck, CT, US
-- 💰 **Salary:** $65k–$70k/yr
+### [Executive Director](https://www.indeed.com/viewjob?jk=800dc2416f40d35d) — St. Lawrence County Center for History and Culture
+- 📍 **Location:** Canton, NY, US
+- 💰 **Salary:** $66k–$70k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-21
 
-### [Director of Operations](https://www.indeed.com/viewjob?jk=4c288f5884f60372) — Heartland Farm Sanctuary
-- 📍 **Location:** Stoughton, WI, US
-- 💰 **Salary:** $70k–$80k/yr
-- **Work mode:** Remote in-state eligible
+### [Program Director](https://www.indeed.com/viewjob?jk=1ceaa4cd9e127672) — Sevita
+- 📍 **Location:** Bemidji, MN, US
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-21
 
-### [One Family Inc. Senior Director of Development](https://www.indeed.com/viewjob?jk=5a037239b3fd4b95) — Positively Partners
-- 📍 **Location:** Boston, MA, US
-- 💰 **Salary:** $155k–$165k/yr
-- **Work mode:** Remote in-state eligible
+### [Program Management Program Director](https://www.indeed.com/viewjob?jk=b06b57689ef89f1d) — Sevita
+- 📍 **Location:** Lafayette, LA, US
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-21
 
-### [Program Director and Portfolio Manager, Accelerate Blue Foundry](https://www.indeed.com/viewjob?jk=9306bb07b857e4de) — The University of Michigan
-- 📍 **Location:** Ann Arbor, MI, US
-- 💰 **Salary:** $145k–$150k/yr
-- **Work mode:** Remote in-state eligible
+### [Program Director](https://www.indeed.com/viewjob?jk=cbed5757d4933be7) — Sevita
+- 📍 **Location:** Hutchinson, MN, US
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-21
 
-### [Embracing Freedom Ministry Program Director Drop-In Center](https://www.indeed.com/viewjob?jk=0f9c9c40a8195e31) — Embracing Freedom Ministry
-- 📍 **Location:** Beaumont, TX, US
-- 💰 **Salary:** $46k–$50k/yr
+### [Neuro Program Director](https://www.indeed.com/viewjob?jk=190cb516d9c521cd) — Timberlyn Heights Nursing & Rehabilitation
+- 📍 **Location:** Great Barrington, MA, US
+- 💰 **Salary:** $108k–$115k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-21
