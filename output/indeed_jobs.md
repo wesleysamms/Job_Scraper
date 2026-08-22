@@ -1,44 +1,36 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-22 00:12 UTC*
+*Last updated: 2026-08-22 02:18 UTC*
 
-**6 new role(s)** since last run · 46 total in last 24h
+**5 new role(s)** since last run · 38 total in last 24h
 
-### [Director of Development (Non-Profit)](https://www.indeed.com/viewjob?jk=966bfd95dc530310) — The Pettengill House, Inc.
-- 📍 **Location:** Amesbury, MA, US
-- 💰 **Salary:** $90k–$105k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-21
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=dbfaeb4676d42446) — Cohere
-- 📍 **Location:** Buckeye, AZ, US
-- 💰 **Salary:** $190k–$200k/yr
+### [Executive Director, Technology External Communications](https://www.indeed.com/viewjob?jk=c2e6d1a49745642e) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $133k–$245k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Director, Advancement Communications and Marketing - University Advancement](https://www.indeed.com/viewjob?jk=485584b4a6ca19bc) — Carnegie Mellon University
-- 📍 **Location:** Pittsburgh, PA, US
+### [Executive Director - Senior Living](https://www.indeed.com/viewjob?jk=befe5a79a9333370) — HumanGood
+- 📍 **Location:** Boise, ID, US
+- 💰 **Salary:** $165k–$195k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-22
+
+### [CEO - Chief Executive Officer](https://www.indeed.com/viewjob?jk=602c18a9cfa03210) — Table Rock Sandstone, LLC
+- 📍 **Location:** Boise, ID, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-21
 
-### [Director of Development](https://www.indeed.com/viewjob?jk=62bbeb035450a963) — Rise Recovery
-- 📍 **Location:** San Antonio, TX, US
-- 💰 **Salary:** $85k–$115k/yr
+### [Chief Executive Officer, Temple Faculty Physicians](https://www.indeed.com/viewjob?jk=9aed99e5dd3e4f9b) — Temple University Health System
+- 📍 **Location:** Philadelphia, PA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-21
 
-### [Managing Director (Posted 5/10/26)](https://www.indeed.com/viewjob?jk=80e16e4c3f1f1058) — Park Square Theatre
-- 📍 **Location:** Saint Paul, MN, US
+### [Program Management Program Director](https://www.indeed.com/viewjob?jk=a07abaf84e0e9280) — Sevita
+- 📍 **Location:** Richmond, VA, US
+- 💰 **Salary:** $49k–$54k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-05-10
-
-### [Associate Program Director, Israel Education](https://www.indeed.com/viewjob?jk=46bfbe2b9ec8c21c) — George Washington University
-- 📍 **Location:** Foggy Bottom, DC, US
-- 💰 **Salary:** $83k–$114k/yr
-- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-21
