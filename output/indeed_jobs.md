@@ -1,11 +1,11 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-22 18:10 UTC*
+*Last updated: 2026-08-22 19:26 UTC*
 
-**1 new role(s)** since last run · 40 total in last 24h
+**1 new role(s)** since last run · 37 total in last 24h
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=d3ac65daa5561cb7) — Unknown
-- 📍 **Location:** Blaine, WA, US
-- 💰 **Salary:** $25–$28/hr
+### [Executive Director](https://www.indeed.com/viewjob?jk=051c728c17f42450) — Unknown
+- 📍 **Location:** Centerville, MA, US
+- 💰 **Salary:** $90k–$130k/yr
 - **Work mode:** On-site
-- **Job type:** parttime
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-22
