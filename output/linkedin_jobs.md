@@ -1,87 +1,58 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-21 23:02 UTC*
+*Last updated: 2026-08-22 00:03 UTC*
 
-**18 new role(s)** since last run · 19 total in last 1h
+**12 new role(s)** since last run · 30 total in last 1h
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4456093790/) — MeoowzResQ Inc
-- 📍 **Location:** Anaheim, CA
-- 💰 **Salary:** $42,000-52,000/annually
-- 🕒 **Posted:** 2026-08-21
-
-### [Senior/Executive Director, Business Operations](https://www.linkedin.com/jobs/view/4456288525/) — BridgeBio
+### [Case Management Program Director](https://www.linkedin.com/jobs/view/4456280747/) — PRC
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $249,000 - $330,000 USD
+- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Vice President / Director of Operations](https://www.linkedin.com/jobs/view/4454445253/) — Vitality Group
-- 📍 **Location:** Santa Monica, CA
-- 💰 **Salary:** $300,000.00/yr - $450,000.00/yr
+### [Executive Director of Player Personnel and Brand Development](https://www.linkedin.com/jobs/view/4457535336/) — UCLA
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $67,700.00/yr - $134,700.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4454454240/) — Vitality Group
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $300,000.00/yr - $450,000.00/yr
+### [Assistant Director of Development, Leadership Annual Giving and Discovery](https://www.linkedin.com/jobs/view/4457526222/) — Syracuse University
+- 📍 **Location:** Syracuse, NY
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Director at New Settlement](https://www.linkedin.com/jobs/view/4456294606/) — On-Ramps
-- 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $225,000 to $250,000,
-- 🕒 **Posted:** 2026-08-21
-
-### [ISG Management – Executive Director, ISG Management (New York)](https://www.linkedin.com/jobs/view/4456284645/) — Morgan Stanley
+### [Head of Business Controls Transformation, SVP (Senior Managing Director)](https://www.linkedin.com/jobs/view/4451584449/) — State Street
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-21
 
-### [Managing Director, Value Access and Evidence Advisory](https://www.linkedin.com/jobs/view/4457520759/) — Red Nucleus
-- 📍 **Location:** New York, NY
+### [Program Director](https://www.linkedin.com/jobs/view/4456600655/) — Behavioral Health Group - BHG
+- 📍 **Location:** Brooklyn Park, MN
+- 💰 **Salary:** $85,000 - $90,000/annually
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Director, Commercial Marketing & Guardian Labs](https://www.linkedin.com/jobs/view/4457534061/) — The Guardian US
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $190,000 - $220,000
+### [Executive Director](https://www.linkedin.com/jobs/view/4456287942/) — Era Living
+- 📍 **Location:** Shoreline, WA
+- 💰 **Salary:** $150,000.00/yr - $175,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [[DANK Haus German American Cultural Center] Executive Director](https://www.linkedin.com/jobs/view/4456294618/) — GACC Midwest - German American Chamber of Commerce of the Midwest, Inc.
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $90,000 – $125,000,
+### [Executive Director - Career Futures](https://www.linkedin.com/jobs/view/4457536353/) — Northeastern University
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $130,945.00 - $189,868.75
 - 🕒 **Posted:** 2026-08-21
 
-### [Program Director, Campus Communications](https://www.linkedin.com/jobs/view/4445453133/) — Kamehameha Schools
-- 📍 **Location:** Honolulu, HI
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4456285850/) — Islamic Relief USA
+- 📍 **Location:** Alexandria, VA
 - 🕒 **Posted:** 2026-08-21
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4450575951/) — Hedge Impact headhunting
-- 📍 **Location:** San Francisco, CA
+### [Program Director, Carolina East Chapter](https://www.linkedin.com/jobs/view/4453600283/) — Blue Star Families
+- 📍 **Location:** Greater Wilmington Area
+- 💰 **Salary:** $69,000 - $88,000 per year
 - 🕒 **Posted:** 2026-08-21
 
-### [Director of Operations for Residential Facility](https://www.linkedin.com/jobs/view/4457526044/) — San Antonio Recovery Center
-- 📍 **Location:** San Antonio, TX
+### [Executive Director of Strategic Growth](https://www.linkedin.com/jobs/view/4454673313/) — PCI Aviation, LLC
+- 📍 **Location:** Orlando, FL
 - 🕒 **Posted:** 2026-08-21
 
-### [Program Management Program Director](https://www.linkedin.com/jobs/view/4454678210/) — Sevita
-- 📍 **Location:** Henrico, VA
-- 💰 **Salary:** $49,000 - $54,000
+### [Program Director Youth and Family Services - Abingdon (Ward)](https://www.linkedin.com/jobs/view/4456600901/) — The Y in Central Maryland
+- 📍 **Location:** Abingdon, MD
 - 🕒 **Posted:** 2026-08-21
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4454690168/) — City of El Paso Employees Retirement Trust (CEPERT)
-- 📍 **Location:** El Paso, TX
-- 💰 **Salary:** $200.00/yr - $250.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4457505895/) — Confidential Careers
-- 📍 **Location:** Greater Philadelphia
-- 🕒 **Posted:** 2026-08-21
-
-### [Technical Program Director - Product Formulation](https://www.linkedin.com/jobs/view/4454690187/) — Blue Origin
-- 📍 **Location:** Greater Seattle Area
-- 💰 **Salary:** $169,624.00 - $237,473.25
-- 🕒 **Posted:** 2026-08-21
-
-### [Associate Program Director, Israel Education](https://www.linkedin.com/jobs/view/4457536015/) — The George Washington University
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $82,950.66 - $114,012.01
-- 🕒 **Posted:** 2026-08-21
-
-### [Program Director](https://www.linkedin.com/jobs/view/4454685180/) — Sevita
-- 📍 **Location:** Katy, TX
+### [Executive Director, Outsourced Managed Services](https://www.linkedin.com/jobs/view/4456271260/) — MUSC Health
+- 📍 **Location:** Charleston, SC
 - 🕒 **Posted:** 2026-08-21
