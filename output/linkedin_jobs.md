@@ -1,63 +1,76 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-22 17:02 UTC*
+*Last updated: 2026-08-22 17:54 UTC*
 
-**13 new role(s)** since last run · 13 total in last 1h
+**16 new role(s)** since last run · 24 total in last 1h
 
-### [Associate Director of Development, University Advancement](https://www.linkedin.com/jobs/view/4419326214/) — California State University San Marcos
-- 📍 **Location:** San Marcos, CA
-- 💰 **Salary:** $5k-$25k
+### [Executive Director, Security](https://www.linkedin.com/jobs/view/4457852157/) — FAMU National Alumni Association
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Executive Director, People & Culture Business Partner](https://www.linkedin.com/jobs/view/4447777138/) — Kardigan
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $274,000 - $357,000 USD
+### [Affordable Housing Finance Product Manager - Executive Director](https://www.linkedin.com/jobs/view/4444612657/) — Morgan Stanley
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $150,000 - $250,000
 - 🕒 **Posted:** 2026-08-22
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4457829245/) — Behzadi Marketing Agency
-- 📍 **Location:** Los Angeles County, CA
+### [Director of Development for the College of Business](https://www.linkedin.com/jobs/view/4380106909/) — San José State University
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Chief Operating Officer / Business Manager – Fixed Income & Currencies – Energy Trading - Vice President](https://www.linkedin.com/jobs/view/4447717312/) — Deutsche Bank
+### [Deputy Director, Rapid Bus Network Development](https://www.linkedin.com/jobs/view/4455056094/) — City of New York
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $75,777.00 – $97,951.00
+- 🕒 **Posted:** 2026-08-22
+
+### [Executive Director, FICC eTrading Development](https://www.linkedin.com/jobs/view/4430773000/) — CIBC US
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000 to $190,000
+- 💰 **Salary:** $200,000 - $290,000
 - 🕒 **Posted:** 2026-08-22
 
-### [Executive Director of Career Development](https://www.linkedin.com/jobs/view/4446896703/) — Oregon State University
-- 📍 **Location:** Corvallis, OR
-- 💰 **Salary:** $123,800-$136,800
+### [Deputy Director](https://www.linkedin.com/jobs/view/4455063088/) — City of New York
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $86,843.00 – $187,716.00
 - 🕒 **Posted:** 2026-08-22
 
-### [Executive Director of Academic and Career Engagement](https://www.linkedin.com/jobs/view/4447180105/) — UMass Boston
-- 📍 **Location:** Greater Boston
+### [Executive Director, Real Estate - Asset Manager, Industrials](https://www.linkedin.com/jobs/view/4444393987/) — Morgan Stanley
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-22
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4396033496/) — SCIENTIFIC GAMES
-- 📍 **Location:** Home, KS
+### [Affordable Housing Finance Product Manager - Executive Director](https://www.linkedin.com/jobs/view/4444393988/) — Morgan Stanley
+- 📍 **Location:** Greenwich, CT
+- 💰 **Salary:** $150,000 - $250,000
 - 🕒 **Posted:** 2026-08-22
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4456660287/) — The 44 Group Healthcare Consulting Services
-- 📍 **Location:** Atlanta Metropolitan Area
+### [BUDGET DEPUTY DIRECTOR OF ADULTS](https://www.linkedin.com/jobs/view/4455069073/) — City of New York
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $98,140.00 – $98,140.00
 - 🕒 **Posted:** 2026-08-22
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4456657332/) — Origin Minerals, LLC
-- 📍 **Location:** Dallas, TX
+### [Executive Director](https://www.linkedin.com/jobs/view/4457828319/) — TRI-LAKES CASA
+- 📍 **Location:** Hot Springs, AR
 - 🕒 **Posted:** 2026-08-22
 
-### [Chief of Staff, Co-CEO](https://www.linkedin.com/jobs/view/4457842187/) — Swooped
-- 📍 **Location:** United States
-- 💰 **Salary:** $160,000.00/yr - $210,000.00/yr
+### [Executive Director, NARPM](https://www.linkedin.com/jobs/view/4447735153/) — MCI USA
+- 📍 **Location:** Washington, United States
+- 💰 **Salary:** $190,000-200,000 annually
 - 🕒 **Posted:** 2026-08-22
 
-### [Volunteer Director of Development & Donor Relations](https://www.linkedin.com/jobs/view/4457835149/) — Amending America
-- 📍 **Location:** United States
+### [Associate Executive Director](https://www.linkedin.com/jobs/view/4447786200/) — YMCA of the USA
+- 📍 **Location:** Norfolk, VA
 - 🕒 **Posted:** 2026-08-22
 
-### [Assistant Director of Partnerships for School of Education](https://www.linkedin.com/jobs/view/4430973941/) — Liberty University
-- 📍 **Location:** Lynchburg, VA
-- 💰 **Salary:** $50,000.00 - $60,000.00
+### [Associate Executive Director](https://www.linkedin.com/jobs/view/4447788212/) — YMCA of the USA
+- 📍 **Location:** Chesapeake, VA
 - 🕒 **Posted:** 2026-08-22
 
-### [Executive Assistant to the CEO and President](https://www.linkedin.com/jobs/view/4455052088/) — The Patrick J. McGovern Foundation
-- 📍 **Location:** United States
-- 💰 **Salary:** $75,000.00/yr - $90,000.00/yr
+### [Executive Director of UDRI Human Resources](https://www.linkedin.com/jobs/view/4390145623/) — University of Dayton Research Institute
+- 📍 **Location:** Dayton, OH
+- 🕒 **Posted:** 2026-08-22
+
+### [Senior Director of Development for the College of Engineering](https://www.linkedin.com/jobs/view/4380179014/) — San José State University
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [Director of Partnerships | Full-Time | Mullett Arena](https://www.linkedin.com/jobs/view/4457833285/) — Oak View Group
+- 📍 **Location:** Tempe, AZ
+- 💰 **Salary:** $70,000-$80,000
 - 🕒 **Posted:** 2026-08-22
