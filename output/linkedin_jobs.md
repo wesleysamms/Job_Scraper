@@ -1,13 +1,22 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-22 20:58 UTC*
+*Last updated: 2026-08-22 21:54 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**4 new role(s)** since last run · 5 total in last 1h
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4456669534/) — Flying Horse Capital
-- 📍 **Location:** Fort Lauderdale, FL
+### [Tax Equity Originator - Executive Director](https://www.linkedin.com/jobs/view/4457859416/) — Wells Fargo
+- 📍 **Location:** Short Hills, NJ
+- 💰 **Salary:** $215,000.00 - $355,000.00
 - 🕒 **Posted:** 2026-08-22
 
-### [Program Director, Nuclear Medicine Technician](https://www.linkedin.com/jobs/view/4452624480/) — American Career College
-- 📍 **Location:** Anaheim, CA
-- 💰 **Salary:** $123,478.46/yr - $179,098.46/yr
+### [BUSINESS DEVELOPMENT DIRECTOR](https://www.linkedin.com/jobs/view/4454113593/) — The Carlisle Group (TCG)
+- 📍 **Location:** Hanover, PA
+- 🕒 **Posted:** 2026-08-22
+
+### [Managing Director II Trade Finance](https://www.linkedin.com/jobs/view/4457853388/) — First Citizens Bank
+- 📍 **Location:** Charlotte, NC
+- 🕒 **Posted:** 2026-08-22
+
+### [Tax Equity Originator - Executive Director](https://www.linkedin.com/jobs/view/4457853412/) — Wells Fargo
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $215,000.00 - $355,000.00
 - 🕒 **Posted:** 2026-08-22
