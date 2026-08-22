@@ -1,22 +1,26 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-22 03:28 UTC*
+*Last updated: 2026-08-22 04:15 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**5 new role(s)** since last run · 9 total in last 1h
 
-### [Director of Partnerships](https://www.linkedin.com/jobs/view/4456614702/) — Harri
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000 - $170,000
+### [Program Director](https://www.linkedin.com/jobs/view/4456614863/) — The Little Gym International
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $24.00 - $30.00 per hour
 - 🕒 **Posted:** 2026-08-22
 
-### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4454685722/) — Compass Senior Living
-- 📍 **Location:** Oregon, United States
+### [Executive Director](https://www.linkedin.com/jobs/view/4457556928/) — TerraBella Senior Living
+- 📍 **Location:** Summerville, SC
 - 🕒 **Posted:** 2026-08-22
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4456606810/) — KPMG US
-- 📍 **Location:** Detroit, MI
+### [Campaign Fundraising Director - Student Visionaries of the Year - Tampa & Jacksonville](https://www.linkedin.com/jobs/view/4442117317/) — Blood Cancer United
+- 📍 **Location:** Tampa, FL
 - 🕒 **Posted:** 2026-08-22
 
-### [Utility Scale Development Director](https://www.linkedin.com/jobs/view/4457565514/) — RWE
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $190,000 - $286,000
+### [Campaign Fundraising Director - Visionaries of the Year - Houston](https://www.linkedin.com/jobs/view/4442106928/) — Blood Cancer United
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-08-22
+
+### [Executive Director - Head of Energy Markets Research & Analysis](https://www.linkedin.com/jobs/view/4457556811/) — Dow Jones
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $200,000 - $245,000
 - 🕒 **Posted:** 2026-08-22
