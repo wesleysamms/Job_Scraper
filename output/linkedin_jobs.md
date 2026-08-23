@@ -1,8 +1,12 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-23 02:18 UTC*
+*Last updated: 2026-08-23 03:35 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4457858970/) — Flying Horse Capital
-- 📍 **Location:** Fort Lauderdale, FL
+### [Program Director](https://www.linkedin.com/jobs/view/4456693709/) — Postgraduate Center for Mental Health
+- 📍 **Location:** Bronx, NY
+- 🕒 **Posted:** 2026-08-23
+
+### [Program Director](https://www.linkedin.com/jobs/view/4456689649/) — Postgraduate Center for Mental Health
+- 📍 **Location:** Bronx, NY
 - 🕒 **Posted:** 2026-08-23
