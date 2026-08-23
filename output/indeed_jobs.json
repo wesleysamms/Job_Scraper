@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 20:11 UTC",
+  "scraped_at": "2026-08-23 21:11 UTC",
   "total": 6,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Center for Urban Community Services",
@@ -112,24 +112,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Zapier",
-      "title": "Chief Operating Officer",
-      "location": "Washington, DC, US",
-      "url": "https://www.indeed.com/viewjob?jk=e249a6faba637072",
-      "direct_url": "http://www.indeed.com/job/chief-operating-officer-e249a6faba637072",
-      "company_url": "https://www.indeed.com/cmp/Zapier",
-      "date_posted": "2026-08-23",
-      "description": "**Job Summary**\n\nWe are seeking a dynamic and strategic Chief Operating Officer (COO) to lead our organization’s operational functions and drive sustainable growth. As a key member of the executive leadership team, the COO will oversee business operations, implement operational excellence initiatives, and foster a culture of continuous improvement. This role demands a proactive leader with exceptional management skills, strategic vision, and a passion for optimizing processes to achieve organizational goals. The ideal candidate will excel in managing large\\-scale organizational change, developing innovative business strategies, and ensuring operational efficiency across all departments.\n\n**Duties**\n\n* Lead the development and execution of strategic plans to advance operational efficiency and organizational growth.\n* Oversee daily business operations, ensuring alignment with company objectives and industry best practices.\n* Drive operational excellence initiatives by implementing process improvements, quality standards, and performance metrics.\n* Manage business development efforts to identify new opportunities, expand market presence, and foster client relationships.\n* Supervise senior leadership teams across departments, promoting collaboration and accountability.\n* Develop and manage budgets, forecasts, and financial plans to ensure fiscal responsibility and profitability.\n* Lead large\\-scale organizational change management projects to adapt to evolving market conditions and internal growth strategies.\n* Utilize data\\-driven decision\\-making techniques to analyze operational performance and inform strategic initiatives.\n* Oversee project management efforts ensuring timely delivery within scope and budget constraints.\n* Conduct profit and loss analysis to optimize revenue streams and control costs effectively.\n* Foster a culture of continuous improvement by encouraging innovation, teamwork, and leadership development at all levels.\n\n**Qualifications**\n\n* Proven experience in senior leadership roles with a focus on operations management and strategic planning.\n* Demonstrated success in leading operational excellence initiatives and large\\-scale organizational change management projects.\n* Strong background in business development management, financial management, budgeting, forecasting, and profit \\& loss analysis.\n* Expertise in process improvement methodologies such as Lean or Six Sigma is highly desirable.\n* Excellent verbal communication skills with the ability to engage effectively with executives, stakeholders, and teams at all levels.\n* Experience managing cross\\-functional teams with supervising responsibilities across multiple departments or regions.\n* Proficiency in data analysis tools and data\\-driven decision\\-making processes.\n* Knowledge of project management principles with a track record of delivering complex programs on time and within budget.\n* Ability to lead change management initiatives confidently while maintaining high levels of team engagement.\n* Bachelor's degree in Business Administration, Management or related field; advanced degrees or certifications are preferred.\n\nJoin us as our Chief Operating Officer to shape the future of our organization through innovative leadership, strategic vision, and operational excellence!\n\nPay: $119,276\\.03 \\- $143,644\\.25 per year\n\nBenefits:\n\n* Relocation assistance\n\nWork Location: Hybrid remote in Washington, DC 20005",
-      "salary": "$119k–$144k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "parttime",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
