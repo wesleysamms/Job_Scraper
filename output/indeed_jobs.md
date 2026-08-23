@@ -1,10 +1,11 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-23 19:19 UTC*
+*Last updated: 2026-08-23 20:11 UTC*
 
 **1 new role(s)** since last run · 6 total in last 24h
 
-### [Business Relationship Manager Area Manager - Executive Director](https://www.indeed.com/viewjob?jk=01bd6512974860e1) — JPMorganChase
-- 📍 **Location:** Lexington, KY, US
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=e249a6faba637072) — Zapier
+- 📍 **Location:** Washington, DC, US
+- 💰 **Salary:** $119k–$144k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
 - 🕒 **Posted:** 2026-08-23
