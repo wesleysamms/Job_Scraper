@@ -1,6 +1,10 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-23 03:52 UTC*
+*Last updated: 2026-08-23 04:34 UTC*
 
-**0 new role(s)** since last run · 22 total in last 24h
+**1 new role(s)** since last run · 17 total in last 24h
 
-No new roles since the last run.
+### [Executive Director](https://www.indeed.com/viewjob?jk=227a9be768472e45) — Unknown
+- 📍 **Location:** Grand Rapids, MI, US
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-08-23
