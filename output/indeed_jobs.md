@@ -1,6 +1,10 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-23 21:11 UTC*
+*Last updated: 2026-08-23 22:11 UTC*
 
-**0 new role(s)** since last run · 6 total in last 24h
+**1 new role(s)** since last run · 7 total in last 24h
 
-No new roles since the last run.
+### [Executive Director](https://www.indeed.com/viewjob?jk=b211b94916adfd86) — Mackinac Island Tourism Bureau
+- 📍 **Location:** Mackinac Island, MI, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-23
