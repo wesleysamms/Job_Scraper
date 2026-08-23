@@ -1,29 +1,21 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-23 15:54 UTC*
+*Last updated: 2026-08-23 17:52 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Assistant Program Director](https://www.linkedin.com/jobs/view/4420646387/) — Services for the UnderServed
-- 📍 **Location:** Bronx, NY
+### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4456804655/) — San Diego Natural History Museum
+- 📍 **Location:** San Diego Metropolitan Area
+- 💰 **Salary:** $1,500- $10,000
 - 🕒 **Posted:** 2026-08-23
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4458107503/) — Winter Park History Museum
-- 📍 **Location:** Winter Park, FL
+### [Executive Director](https://www.linkedin.com/jobs/view/4456804626/) — Sonida Senior Living
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-08-23
 
-### [Executive Director for Transitional Care/Skilled Nursing Rehabilitation Community](https://www.linkedin.com/jobs/view/4458106455/) — The Goodman Group, LLC
-- 📍 **Location:** Flagstaff, AZ
+### [Executive Director - Memory Care](https://www.linkedin.com/jobs/view/4428503845/) — Marquis Companies
+- 📍 **Location:** Eugene, OR
 - 🕒 **Posted:** 2026-08-23
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4458117342/) — A&E Healthcare Recruiting Firm LLC
-- 📍 **Location:** Colorado Springs, CO
-- 🕒 **Posted:** 2026-08-23
-
-### [Executive Director, Reading Partners Tulsa](https://www.linkedin.com/jobs/view/4421223530/) — Reading Partners
-- 📍 **Location:** Tulsa, OK
-- 💰 **Salary:** $114,121 - $152,162 per year
-- 🕒 **Posted:** 2026-08-23
-
-### [CEO-in-Residence](https://www.linkedin.com/jobs/view/4457896569/) — Flying Horse Capital
-- 📍 **Location:** United States
+### [Rehabilitation Services Program Director](https://www.linkedin.com/jobs/view/4410775795/) — HCA Healthcare
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-08-23
