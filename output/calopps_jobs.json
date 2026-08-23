@@ -1,35 +1,8 @@
 {
-  "scraped_at": "2026-08-05 18:00 UTC",
-  "total": 7,
+  "scraped_at": "2026-08-23 17:03 UTC",
+  "total": 3,
   "new_count": 0,
   "jobs": [
-    {
-      "company": "San Bruno",
-      "title": "Deputy Director of Community Services",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-bruno/job-20762862",
-      "date_posted": "",
-      "salary": "$153,308.00-$188,128.00 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo County",
-      "title": "Deputy Director Of Public Works- Engineering and Resource Protection (Open and Promotional)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20762670",
-      "date_posted": "",
-      "salary": "$197,537.60-$247,041.60 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Menlo Park",
-      "title": "Assistant Community Development Director- Building",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/menlo-park/job-20760163",
-      "date_posted": "",
-      "salary": "$170,271.00-$229,866.00 Annually",
-      "ats": "CalOpps"
-    },
     {
       "company": "Mill Valley",
       "title": "Recreation- After School Program Director",
@@ -37,15 +10,6 @@
       "url": "https://www.calopps.org/mill-valley/job-20756007",
       "date_posted": "",
       "salary": "$25.00-$28.00 Hourly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Tri City Mental Health Authority",
-      "title": "Deputy Director",
-      "location": "Los Angeles Area",
-      "url": "https://www.calopps.org/tri-city-mental-health-authority/job-20753992",
-      "date_posted": "",
-      "salary": "$139,855.24-$178,494.66 Annually",
       "ats": "CalOpps"
     },
     {
