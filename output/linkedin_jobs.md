@@ -1,12 +1,12 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-23 19:55 UTC*
+*Last updated: 2026-08-23 20:57 UTC*
 
-**2 new role(s)** since last run · 6 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Before and After School Program Director](https://www.linkedin.com/jobs/view/4458109810/) — AlphaBEST Education, Inc.
-- 📍 **Location:** Alamo, CA
+### [Executive Director](https://www.linkedin.com/jobs/view/4458109888/) — Northwest Environmental Business Council
+- 📍 **Location:** Lake Oswego, OR
 - 🕒 **Posted:** 2026-08-23
 
-### [CEO](https://www.linkedin.com/jobs/view/4458101881/) — Health Plus Management
-- 📍 **Location:** Uniondale, NY
+### [BUSINESS DEVELOPMENT DIRECTOR](https://www.linkedin.com/jobs/view/4454113593/) — The Carlisle Group (TCG)
+- 📍 **Location:** Hanover, PA
 - 🕒 **Posted:** 2026-08-23
