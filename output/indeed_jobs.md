@@ -1,6 +1,10 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-23 23:14 UTC*
+*Last updated: 2026-08-24 00:13 UTC*
 
-**0 new role(s)** since last run · 7 total in last 24h
+**1 new role(s)** since last run · 8 total in last 24h
 
-No new roles since the last run.
+### [Executive Director - Museum Operations & Fundraising (Organizational Leadership) (Financial Mgmt.)](https://www.indeed.com/viewjob?jk=f78e5459e3bac2e5) — Finger Lakes Boating Museum
+- 📍 **Location:** Hammondsport, NY, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-23
