@@ -1,144 +1,124 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-24 16:18 UTC*
+*Last updated: 2026-08-24 18:09 UTC*
 
-**32 new role(s)** since last run · 32 total in last 1h
+**27 new role(s)** since last run · 27 total in last 1h
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4457102426/) — APGA
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $180,000 - $200,00 per year
+### [President and CEO](https://www.linkedin.com/jobs/view/4456897848/) — WASC
+- 📍 **Location:** Burlingame, CA
 - 🕒 **Posted:** 2026-08-24
 
-### [Managing Director Relationship Manager-Energy](https://www.linkedin.com/jobs/view/4458246000/) — First Citizens Bank
-- 📍 **Location:** Santa Monica, CA
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4450575951/) — Hedge Impact headhunting
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-24
 
-### [LTFC Program Director](https://www.linkedin.com/jobs/view/4456897598/) — Children's Home of Poughkeepsie
-- 📍 **Location:** Poughkeepsie, NY
+### [Community Development Director](https://www.linkedin.com/jobs/view/4458243676/) — City of Ventura
+- 📍 **Location:** Ventura, CA
 - 🕒 **Posted:** 2026-08-24
 
-### [Program Director, Buffalo Veterans Village](https://www.linkedin.com/jobs/view/4458246187/) — Tunnel to Towers Foundation
-- 📍 **Location:** Cheektowaga, NY
-- 🕒 **Posted:** 2026-08-24
-
-### [Associate Director of Stroke/Program Director, Neurologist](https://www.linkedin.com/jobs/view/4363026936/) — Tal Healthcare
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $300,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Managing Director](https://www.linkedin.com/jobs/view/4457106575/) — The Calendar Group
-- 📍 **Location:** Westport, CT
-- 🕒 **Posted:** 2026-08-24
-
-### [Managing Director](https://www.linkedin.com/jobs/view/4456898595/) — Highgate
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-24
-
-### [Executive Director of Strategic Operations (Program Management Leader), VPAS](https://www.linkedin.com/jobs/view/4455188742/) — Indiana University Bloomington
-- 📍 **Location:** Bloomington, IN
-- 🕒 **Posted:** 2026-08-24
-
-### [Director of Partnerships](https://www.linkedin.com/jobs/view/4455885900/) — MinistrySafe
-- 📍 **Location:** Fort Worth, TX
-- 🕒 **Posted:** 2026-08-24
-
-### [Development Director](https://www.linkedin.com/jobs/view/4457108560/) — Christian School Association of Greater Harrisburg (CSAGH)
-- 📍 **Location:** Harrisburg, PA
-- 🕒 **Posted:** 2026-08-24
-
-### [Director of Major Gifts, South Central & Plains States](https://www.linkedin.com/jobs/view/4458243083/) — University of Michigan
-- 📍 **Location:** Ann Arbor, MI
-- 💰 **Salary:** $100,000.00/yr - $105,000.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4458251037/) — Solid Waste Association of North America (SWANA)
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $215,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Deputy Director, IACUC Office (Research Compliance Leader)](https://www.linkedin.com/jobs/view/4458233289/) — Indiana University
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-08-24
-
-### [Director of Communications](https://www.linkedin.com/jobs/view/4456506041/) — Educational Service Center of Central Ohio
-- 📍 **Location:** Delaware, OH
-- 🕒 **Posted:** 2026-08-24
-
-### [Assistant Executive Director](https://www.linkedin.com/jobs/view/4455893146/) — Edgewood Healthcare
-- 📍 **Location:** Norfolk, NE
-- 🕒 **Posted:** 2026-08-24
-
-### [President/ CEO](https://www.linkedin.com/jobs/view/4456894552/) — Livingston Parish Chamber of Commerce
-- 📍 **Location:** Denham Springs, LA
-- 💰 **Salary:** $100,000.00/yr - $115,000.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Program Director, Contact Center Operations](https://www.linkedin.com/jobs/view/4454927078/) — Peckham, Inc.
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-08-24
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4456897500/) — Macdonald & Company
-- 📍 **Location:** Raleigh-Durham-Chapel Hill Area
-- 🕒 **Posted:** 2026-08-24
-
-### [Director of Development - Retail Real Estate](https://www.linkedin.com/jobs/view/4457102563/) — Hirewell
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $175,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4458247179/) — Neighborhood House Charter School
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $1 - $1.25
-- 🕒 **Posted:** 2026-08-24
-
-### [Southern California Fundraising Director](https://www.linkedin.com/jobs/view/4455432285/) — 21st Century Alliance
+### [Managing Director](https://www.linkedin.com/jobs/view/4456511345/) — Madison-Davis, LLC
 - 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-08-24
 
-### [Development Director](https://www.linkedin.com/jobs/view/4456895591/) — Christian School Association of Greater Harrisburg (CSAGH)
-- 📍 **Location:** Harrisburg, PA
+### [Policy Director](https://www.linkedin.com/jobs/view/4457116052/) — Generation Housing
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $112,570-$123,826 annually
 - 🕒 **Posted:** 2026-08-24
 
-### [Director/ Senior Director / Executive Director –  Translational PKPD Project Leader](https://www.linkedin.com/jobs/view/4390653191/) — Eli Lilly and Company
+### [Director of Major Gifts](https://www.linkedin.com/jobs/view/4458233855/) — Relay Recruiting
+- 📍 **Location:** Rochester, NY
+- 💰 **Salary:** $75K-$90K
+- 🕒 **Posted:** 2026-08-24
+
+### [Executive Director, Client Business Leadership](https://www.linkedin.com/jobs/view/4457115136/) — PHD
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00-$300,000.00
+- 🕒 **Posted:** 2026-08-24
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4457101776/) — United Way of Greenbrier Valley
+- 📍 **Location:** Lewisburg, WV
+- 🕒 **Posted:** 2026-08-24
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4456741783/) — In The Image
+- 📍 **Location:** Grand Rapids, MI
+- 🕒 **Posted:** 2026-08-24
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4458236782/) — FAMU National Alumni Association
+- 📍 **Location:** Lake Oswego, OR
+- 🕒 **Posted:** 2026-08-24
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4456501375/) — YWCA Metropolitan Phoenix
+- 📍 **Location:** Glendale, AZ
+- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-08-24
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4457128558/) — Beyond Literacy
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $150,000.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-08-24
+
+### [Hospice Executive Director](https://www.linkedin.com/jobs/view/4458232866/) — Affinity Care of Indiana
 - 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $177,000 - $308,000
 - 🕒 **Posted:** 2026-08-24
 
-### [Managing Director, PB](https://www.linkedin.com/jobs/view/4393936298/) — BMO U.S.
-- 📍 **Location:** Milwaukee, WI
-- 💰 **Salary:** $123,300.00 - $214,200.00
+### [Family Preservation Services Program Director (69870)](https://www.linkedin.com/jobs/view/4455485121/) — Variety Care
+- 📍 **Location:** Oklahoma City, OK
 - 🕒 **Posted:** 2026-08-24
 
-### [Deputy Director, Integrated Organizing Communications](https://www.linkedin.com/jobs/view/4458237257/) — SEIU
-- 📍 **Location:** Washington, DC
+### [Managing Director of the Institute for Policy Solutions (IPS) (Research Administration)](https://www.linkedin.com/jobs/view/4456765450/) — The Johns Hopkins University
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $102,295 - $179,375 Annually
 - 🕒 **Posted:** 2026-08-24
 
-### [Director of Development for University Priorities](https://www.linkedin.com/jobs/view/4456169771/) — George Mason University
+### [Executive Director, Clinical Platforms & Product Development](https://www.linkedin.com/jobs/view/4458246596/) — Fortrea
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-08-24
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4458271259/) — DealTeam
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-24
+
+### [BUSINESS DEVELOPMENT DIRECTOR](https://www.linkedin.com/jobs/view/4454113593/) — The Carlisle Group (TCG)
+- 📍 **Location:** Hanover, PA
+- 🕒 **Posted:** 2026-08-24
+
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4457154300/) — ThinkTV
+- 📍 **Location:** Dayton Metropolitan Area
+- 💰 **Salary:** $100,000–$120,000 annually
+- 🕒 **Posted:** 2026-08-24
+
+### [Executive Director- Business Development-Air Force Research Laboratory (AFRL)](https://www.linkedin.com/jobs/view/4451956988/) — Riverside Research
 - 📍 **Location:** Fairfax, VA
 - 🕒 **Posted:** 2026-08-24
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4458246264/) — ABA Centers of America
-- 📍 **Location:** Celebration, FL
-- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
+### [Scientific Program Director | ND Human Neuroimaging Center](https://www.linkedin.com/jobs/view/4446211233/) — University of Notre Dame
+- 📍 **Location:** Notre Dame, IN
 - 🕒 **Posted:** 2026-08-24
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4458233275/) — The McDonnel Group
-- 📍 **Location:** Metairie, LA
+### [Executive Director](https://www.linkedin.com/jobs/view/4458271172/) — Panhandle Home Health Inc
+- 📍 **Location:** Inwood, WV
 - 🕒 **Posted:** 2026-08-24
 
-### [Executive Director Medical Economics](https://www.linkedin.com/jobs/view/4390388031/) — Health Care Service Corporation
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $161,500.00 - $299,700.00
+### [Deputy Commissioner & Chief Operating Officer (COO)](https://www.linkedin.com/jobs/view/4455857920/) — State of Utah
+- 📍 **Location:** Salt Lake City, UT
+- 💰 **Salary:** $76.92 - $96.15/hr
 - 🕒 **Posted:** 2026-08-24
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4455893160/) — SoTalent
-- 📍 **Location:** New Albany, IN
+### [Director of Community Engagement](https://www.linkedin.com/jobs/view/4454320572/) — Horizon Hobby
+- 📍 **Location:** Champaign, IL
+- 💰 **Salary:** $100,000-$115,000
 - 🕒 **Posted:** 2026-08-24
 
-### [Managing Director of Enrollment](https://www.linkedin.com/jobs/view/4428299661/) — Brilla Schools
-- 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $120,000 to $140,000,
+### [Executive Director of Finance and Support Services](https://www.linkedin.com/jobs/view/4456896520/) — CLARENCEVILLE SCHOOL DISTRICT
+- 📍 **Location:** Livonia, MI
 - 🕒 **Posted:** 2026-08-24
 
-### [Assistant Director of Institutional Giving, Corporate Membership](https://www.linkedin.com/jobs/view/4458230829/) — The Museum of Modern Art
-- 📍 **Location:** New York, NY
+### [Managing Director](https://www.linkedin.com/jobs/view/4450129546/) — Madison-Davis, LLC
+- 📍 **Location:** Miami-Fort Lauderdale Area
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-08-24
+
+### [Director of Operations, New Content Experiences (NCX)](https://www.linkedin.com/jobs/view/4456509454/) — Netflix
+- 📍 **Location:** United States
+- 💰 **Salary:** $540,000.00 - $870,000.00
 - 🕒 **Posted:** 2026-08-24
