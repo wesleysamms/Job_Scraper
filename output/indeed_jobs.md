@@ -1,10 +1,11 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-24 00:13 UTC*
+*Last updated: 2026-08-24 02:21 UTC*
 
-**1 new role(s)** since last run · 8 total in last 24h
+**1 new role(s)** since last run · 9 total in last 24h
 
-### [Executive Director - Museum Operations & Fundraising (Organizational Leadership) (Financial Mgmt.)](https://www.indeed.com/viewjob?jk=f78e5459e3bac2e5) — Finger Lakes Boating Museum
-- 📍 **Location:** Hammondsport, NY, US
+### [Executive Director Historic Home Museum](https://www.indeed.com/viewjob?jk=3abb53875fd933f7) — Linden Place
+- 📍 **Location:** Bristol, RI, US
+- 💰 **Salary:** $76k–$91k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-23
