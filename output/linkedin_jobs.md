@@ -1,12 +1,18 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-24 02:14 UTC*
+*Last updated: 2026-08-24 03:34 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4455833321/) — The Children's TherAplay Foundation, Inc.
-- 📍 **Location:** Indianapolis, IN
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4450089462/) — Inkinen Executive Search
+- 📍 **Location:** Honolulu, HI
+- 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-08-24
 
-### [Community Business Development Director](https://www.linkedin.com/jobs/view/4458132531/) — Cogir Senior Living
-- 📍 **Location:** Colorado Springs, CO
+### [Executive Director](https://www.linkedin.com/jobs/view/4455825556/) — Sonida Senior Living
+- 📍 **Location:** Macedonia, OH
+- 🕒 **Posted:** 2026-08-24
+
+### [Chief Executive Officer (Oahu)](https://www.linkedin.com/jobs/view/4453900548/) — Inkinen Executive Search
+- 📍 **Location:** Honolulu County, HI
+- 💰 **Salary:** $240,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-08-24
