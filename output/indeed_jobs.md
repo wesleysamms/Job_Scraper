@@ -1,57 +1,76 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-25 02:22 UTC*
+*Last updated: 2026-08-25 03:53 UTC*
 
-**8 new role(s)** since last run · 46 total in last 24h
+**11 new role(s)** since last run · 50 total in last 24h
 
-### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=24b0b8166694858c) — Community Health Center Network
-- 📍 **Location:** San Leandro, CA, US
+### [Director of Development, Athletics](https://www.indeed.com/viewjob?jk=a2810db0ce619a63) — California State Polytechnic University Pomona
+- 📍 **Location:** Pomona, CA, US
+- 💰 **Salary:** $100k–$115k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Director of Public Policy & Community Relations](https://www.indeed.com/viewjob?jk=c8c028b76e29c015) — DAP Health
+- 📍 **Location:** Palm Springs, CA, US
+- 💰 **Salary:** $130k–$152k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=8d98483cd1995a3f) — Community Health Center Network
-- 📍 **Location:** San Leandro, CA, US
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=a5f8507271571265) — Ameriprise Financial
+- 📍 **Location:** Greenwich, CT, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Chief Advancement Officer](https://www.indeed.com/viewjob?jk=839a3696a2bdcff8) — Summit Federal Services
-- 📍 **Location:** Staten Island, NY, US
-- 💰 **Salary:** $120k–$125k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Director of Fundraising and Events](https://www.indeed.com/viewjob?jk=3875a02dd189528f) — Summit Federal Services
-- 📍 **Location:** Staten Island, NY, US
-- 💰 **Salary:** $80k–$85k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Executive Director, Technology External Communications](https://www.indeed.com/viewjob?jk=da9310e0a56aa64f) — JPMorganChase
+### [Director of Development & Communications](https://www.indeed.com/viewjob?jk=b79cdec35ff01a5f) — Yeshiva University
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $157k–$245k/yr
+- 💰 **Salary:** $70k–$85k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=ebc80717018911fa) — Generational Care
-- 📍 **Location:** Richland, WA, US
-- 💰 **Salary:** $180k–$225k/yr
+### [Executive Director CEO](https://www.indeed.com/viewjob?jk=8bdc65dc40976ae8) — PVI
+- 📍 **Location:** Orem, UT, US
+- **Work mode:** On-site
+- **Job type:** temporary, parttime, fulltime, contract
+- 🕒 **Posted:** 2026-08-25
+
+### [Executive Director, AAFP Foundation & Vice President, Development](https://www.indeed.com/viewjob?jk=3ebf41e4d34beb82) — American Academy of Family Physicians
+- 📍 **Location:** Leawood, KS, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
 
-### [Associate Director of Development, Krieger School of Arts & Sciences](https://www.indeed.com/viewjob?jk=2b0c5569e2c5fbf9) — Johns Hopkins University
-- 📍 **Location:** Baltimore, MD, US
-- 💰 **Salary:** $64k–$113k/yr
+### [Chief Operating Officer - East Market](https://www.indeed.com/viewjob?jk=5318d3c54f3466ff) — Essentia Health
+- 📍 **Location:** Duluth, MN, US
+- 💰 **Salary:** $198–$297/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Chief Development Officer](https://www.indeed.com/viewjob?jk=f0a0cd497297dbac) — Habitat For Humanity Central Arizona
+- 📍 **Location:** Phoenix, AZ, US
+- 💰 **Salary:** $135k–$155k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-20
+- 🕒 **Posted:** 2026-08-24
 
-### [Assist Director of Advancement Strategy & Operations](https://www.indeed.com/viewjob?jk=d9623f39a30874b3) — HIGH JUMP
-- 📍 **Location:** Chicago, IL, US
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=61ac9ae127426d65) — Hiring Agency: The Emporia Group
+- 📍 **Location:** New Holland, PA, US
+- 💰 **Salary:** $120k–$160k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-24
+
+### [Director of Advancement](https://www.indeed.com/viewjob?jk=116f25cc7f68e613) — Cleary University
+- 📍 **Location:** Howell, MI, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-24
+
+### [Executive Director of Communications and Marketing](https://www.indeed.com/viewjob?jk=9869878ee0f1f3ae) — Prince George's County Memorial Library System
+- 📍 **Location:** Largo, MD, US
+- 💰 **Salary:** $111k–$119k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-24
