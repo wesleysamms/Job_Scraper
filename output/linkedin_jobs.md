@@ -1,57 +1,39 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-25 23:06 UTC*
+*Last updated: 2026-08-26 00:01 UTC*
 
-**12 new role(s)** since last run · 13 total in last 1h
+**8 new role(s)** since last run · 20 total in last 1h
 
-### [Executive Director - myPlace Health PACE](https://www.linkedin.com/jobs/view/2148454997/) — myPlace Health
-- 📍 **Location:** Los Angeles County, CA
-- 💰 **Salary:** $150,000-$200,000,
+### [Executive Director](https://www.linkedin.com/jobs/view/4459062996/) — Oakmont Senior Living
+- 📍 **Location:** Orange County, CA
+- 💰 **Salary:** $130,000 - $150,000
 - 🕒 **Posted:** 2026-08-25
 
-### [Program Manager, Arts and Culture with a Racial Equity Lens and Movement-Building](https://www.linkedin.com/jobs/view/4459046621/) — East Bay Community Foundation
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $90,000.00/yr - $95,000.00/yr
+### [Executive Director of Safe and Supportive Schools - Office of Superintendent](https://www.linkedin.com/jobs/view/4457495369/) — Gwinnett County Public Schools
+- 📍 **Location:** Gwinnett County, GA
 - 🕒 **Posted:** 2026-08-25
 
-### [Co-Founder / CEO — Niibu Inc.](https://www.linkedin.com/jobs/view/4457659189/) — Niibu Inc
-- 📍 **Location:** Los Angeles Metropolitan Area
+### [Director of Development & Community Engagement](https://www.linkedin.com/jobs/view/4459051938/) — YWCA Knoxville and the Tennessee Valley
+- 📍 **Location:** Knoxville, TN
 - 🕒 **Posted:** 2026-08-25
 
-### [Director of Partnerships](https://www.linkedin.com/jobs/view/4457650194/) — IDL international dance league
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000 - $180,000 per year
-- 🕒 **Posted:** 2026-08-25
-
-### [Unit Specific-Executive Director, Community Initiatives, Partnerships, and Engagements](https://www.linkedin.com/jobs/view/4459064289/) — University of Maryland, Baltimore (UMB)
-- 📍 **Location:** Baltimore, MD
-- 🕒 **Posted:** 2026-08-25
-
-### [Executive Director - Strategic Initiatives](https://www.linkedin.com/jobs/view/4458502893/) — University of Maryland, Baltimore (UMB)
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $200,000 - $230,000,
-- 🕒 **Posted:** 2026-08-25
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4459047745/) — Midland-Marvel Recruiters, LLC
-- 📍 **Location:** Morgantown, WV
-- 🕒 **Posted:** 2026-08-25
-
-### [Transitional Year Program Director for Baptist Health/UAMS GME](https://www.linkedin.com/jobs/view/4459052723/) — Baptist Health
-- 📍 **Location:** Little Rock, AR
-- 🕒 **Posted:** 2026-08-25
-
-### [Program Director, Early Childhood](https://www.linkedin.com/jobs/view/4457613399/) — Palm Beach State College
-- 📍 **Location:** Lake Worth, FL
-- 🕒 **Posted:** 2026-08-25
-
-### [Development Director](https://www.linkedin.com/jobs/view/4457652236/) — Kids FIRST
-- 📍 **Location:** Eugene, OR
-- 🕒 **Posted:** 2026-08-25
-
-### [Chief Executive Officer - Rare Earth - Critical Minerals](https://www.linkedin.com/jobs/view/4459066200/) — HR Exchange
+### [Campaign Director](https://www.linkedin.com/jobs/view/4459076115/) — Sierra Club
 - 📍 **Location:** United States
-- 💰 **Salary:** $250,000.00/yr - $450,000.00/yr
+- 💰 **Salary:** $210,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Program Management Program Director](https://www.linkedin.com/jobs/view/4456975174/) — Sevita
-- 📍 **Location:** Princeton, WV
+### [Office Managing Director](https://www.linkedin.com/jobs/view/4459051960/) — Haga Kommer, Ltd.
+- 📍 **Location:** West Des Moines, IA
+- 🕒 **Posted:** 2026-08-25
+
+### [Office Managing Director](https://www.linkedin.com/jobs/view/4459065807/) — Haga Kommer, Ltd.
+- 📍 **Location:** Scottsdale, AZ
+- 🕒 **Posted:** 2026-08-25
+
+### [Director of Communications](https://www.linkedin.com/jobs/view/4456967958/) — VIVAZEN
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-25
+
+### [Director of Operations, Site Director](https://www.linkedin.com/jobs/view/4456980154/) — Oracle
+- 📍 **Location:** Abilene, TX
+- 💰 **Salary:** $146,300 - $306,400 per year
 - 🕒 **Posted:** 2026-08-25
