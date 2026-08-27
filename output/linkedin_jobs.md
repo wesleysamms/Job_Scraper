@@ -1,121 +1,105 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-26 19:43 UTC*
+*Last updated: 2026-08-27 00:00 UTC*
 
-**26 new role(s)** since last run · 26 total in last 1h
+**22 new role(s)** since last run · 22 total in last 1h
 
-### [Transitional Executive Director for Student Health / Assistant Vice Chancellor for Integrated Care](https://www.linkedin.com/jobs/view/4456968063/) — UC Santa Barbara
-- 📍 **Location:** Santa Barbara, CA
+### [Executive Director](https://www.linkedin.com/jobs/view/4458301848/) — First Graduate
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $170,000-$200,000
 - 🕒 **Posted:** 2026-08-26
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4459062996/) — Oakmont Senior Living
-- 📍 **Location:** Orange County, CA
-- 💰 **Salary:** $130,000 - $150,000
+### [VP of Operations / COO](https://www.linkedin.com/jobs/view/4458315516/) — age1
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4458294510/) — Ivy Living
-- 📍 **Location:** Los Gatos, CA
-- 💰 **Salary:** $145,000 - $165,000
+### [Program Director](https://www.linkedin.com/jobs/view/4441273842/) — CBEM LLC
+- 📍 **Location:** East Los Angeles, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4458298485/) — Ivy Living
-- 📍 **Location:** Hayward, CA
-- 💰 **Salary:** $160,000 - $170,000
+### [Senior or Executive Director, Analytical Development CMC](https://www.linkedin.com/jobs/view/4459387831/) — Iambic
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $224,000.00/yr - $310,000.00/yr
 - 🕒 **Posted:** 2026-08-26
 
-### [Business Development Executive Director (Hyperscaler Partnerships)](https://www.linkedin.com/jobs/view/4459339720/) — Iridium
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $280,000 - $335,000 USD
+### [Program Director (Humanities & Social Sciences)](https://www.linkedin.com/jobs/view/4459336952/) — UCLA
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $80,700.00/yr - $168,500.00/yr
 - 🕒 **Posted:** 2026-08-26
 
-### [Managing Director, Investment Counselor, Orange County](https://www.linkedin.com/jobs/view/4423909481/) — Citi
-- 📍 **Location:** Costa Mesa, CA
+### [Senior or Executive Director, Analytical Development CMC](https://www.linkedin.com/jobs/view/4459606773/) — Iambic
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $224,000.00/yr - $310,000.00/yr
 - 🕒 **Posted:** 2026-08-26
 
-### [Executive Director, Head of Digital Workspace](https://www.linkedin.com/jobs/view/4449021418/) — CLS Group
-- 📍 **Location:** Iselin, NJ
-- 💰 **Salary:** $250,000.00/yr - $260,000.00/yr
+### [Director of Operations for Olympic Sports](https://www.linkedin.com/jobs/view/4459602894/) — University of Southern California
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $70,304 - $74,000
 - 🕒 **Posted:** 2026-08-26
 
-### [Director of Operations & Facilities](https://www.linkedin.com/jobs/view/4459348884/) — Cyera
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $175,000-220,000
+### [Director of Operations - Hospitality](https://www.linkedin.com/jobs/view/4458317506/) — Casa de Fruta
+- 📍 **Location:** Hollister, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Associate Program Director](https://www.linkedin.com/jobs/view/4457971775/) — Integrity House
-- 📍 **Location:** Newark, NJ
+### [Executive Director, AI-BIOME Programmable Cloud Laboratory](https://www.linkedin.com/jobs/view/4459617093/) — Research Foundation of The City University of New York
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $120,000 - $130,000
 - 🕒 **Posted:** 2026-08-26
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4457987699/) — DEARBORN SYMPHONY
-- 📍 **Location:** Detroit Metropolitan Area
+### [Director of Operations, AI-BIOME Programmable Cloud Laboratory](https://www.linkedin.com/jobs/view/4459623030/) — Research Foundation of The City University of New York
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $85,000 - $95,000
 - 🕒 **Posted:** 2026-08-26
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4457986699/) — Legacy Greenscapes
-- 📍 **Location:** Winchester, KY
-- 💰 **Salary:** $90,000.00/yr - $105,000.00/yr
+### [Director of Development](https://www.linkedin.com/jobs/view/4459393899/) — Nascentia Health
+- 📍 **Location:** Syracuse, NY
+- 💰 **Salary:** $66,129- $88,792/annually
 - 🕒 **Posted:** 2026-08-26
 
-### [Senior Executive Director, Green Hills](https://www.linkedin.com/jobs/view/4459343764/) — YMCA of Middle Tennessee
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $95,000 to $125,000
+### [Data Platform Enablement, Managing Director](https://www.linkedin.com/jobs/view/4459624135/) — State Street
+- 📍 **Location:** Princeton, NJ
+- 💰 **Salary:** $170,000 - $282,500
 - 🕒 **Posted:** 2026-08-26
 
-### [Vice President of Development](https://www.linkedin.com/jobs/view/4457971667/) — Big Brothers Big Sisters of South-Central PA
-- 📍 **Location:** Greater Harrisburg Area
+### [Nonprofit Executive Director (relocate to Douglas, WY) ~Relocation Assistance~](https://www.linkedin.com/jobs/view/4457999678/) — Montana Nonprofit Association
+- 📍 **Location:** Douglas, WY
 - 🕒 **Posted:** 2026-08-26
 
-### [Director of Advancement](https://www.linkedin.com/jobs/view/4447054887/) — Florida Cooperative of Theological Schools
-- 📍 **Location:** West Palm Beach, FL
+### [Program Director](https://www.linkedin.com/jobs/view/4457705498/) — Sevita
+- 📍 **Location:** Toledo, OH
 - 🕒 **Posted:** 2026-08-26
 
-### [Program Director, Freestanding ER and Urgent Care](https://www.linkedin.com/jobs/view/4457978526/) — Intuitive Health
-- 📍 **Location:** Sellersburg, IN
+### [Data Platform Enablement, Managing Director](https://www.linkedin.com/jobs/view/4459628110/) — State Street
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $170,000 - $282,500
 - 🕒 **Posted:** 2026-08-26
 
-### [Residential Program Director](https://www.linkedin.com/jobs/view/4457281683/) — Vinfen
-- 📍 **Location:** Weymouth, MA
-- 💰 **Salary:** USD $60,372.50 - USD $60,372.50 /Yr
+### [Director of Development](https://www.linkedin.com/jobs/view/4458313553/) — Cy-Fair Helping Hands
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $58,000 - $60,000 annually
 - 🕒 **Posted:** 2026-08-26
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4459362494/) — ABA Centers of Delaware
-- 📍 **Location:** New Castle, DE
-- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
+### [Program Director](https://www.linkedin.com/jobs/view/4457296623/) — Sevita
+- 📍 **Location:** Minot, ND
 - 🕒 **Posted:** 2026-08-26
 
-### [Managing Partner / COO - Boutique Chicago Law Firm](https://www.linkedin.com/jobs/view/4456258915/) — McCormack Schreiber Legal Search
-- 📍 **Location:** Chicago, IL
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4459393988/) — JSpire Recruiting
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-08-26
 
-### [Director of Development, College of Social Sciences and Public Policy](https://www.linkedin.com/jobs/view/4459356406/) — Florida State University
-- 📍 **Location:** Tallahassee Metropolitan Area
+### [Assistant/Associate Director of Development, College of Arts & Architecture](https://www.linkedin.com/jobs/view/4457995704/) — Penn State University
+- 📍 **Location:** University Park, PA
+- 💰 **Salary:** $59,580.00 - $108,444.00
 - 🕒 **Posted:** 2026-08-26
 
-### [Program Director, Emergency and Urgent Care](https://www.linkedin.com/jobs/view/4457991458/) — Intuitive Health
-- 📍 **Location:** Raleigh, NC
+### [Executive Director, Digital Subscription Growth](https://www.linkedin.com/jobs/view/4444428183/) — Massachusetts Medical Society
+- 📍 **Location:** Waltham, MA
 - 🕒 **Posted:** 2026-08-26
 
-### [Director of Development, Anne Spencer Daves College of Education, Health, and Human Sciences](https://www.linkedin.com/jobs/view/4459356388/) — Florida State University
-- 📍 **Location:** Tallahassee Metropolitan Area
+### [Technical Program Director - MK2 Lunar Lander](https://www.linkedin.com/jobs/view/4457702634/) — Blue Origin
+- 📍 **Location:** Merritt Island, FL
 - 🕒 **Posted:** 2026-08-26
 
-### [Deputy Director, Digital Advertising & Marketing](https://www.linkedin.com/jobs/view/4457968750/) — World Food Program USA
-- 📍 **Location:** Washington DC-Baltimore Area
-- 🕒 **Posted:** 2026-08-26
-
-### [Co-Founder/CEO](https://www.linkedin.com/jobs/view/4435257104/) — AI Fund
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-26
-
-### [Chief Operating Officer (COO) – Commercial Liquidity Management](https://www.linkedin.com/jobs/view/4442496503/) — Citizens
-- 📍 **Location:** Conshohocken, PA
-- 💰 **Salary:** $180,000 - $205,000 per year
-- 🕒 **Posted:** 2026-08-26
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4459355825/) — Rawls Museum Arts
-- 📍 **Location:** Courtland, VA
-- 💰 **Salary:** $50,000-$56,000,
-- 🕒 **Posted:** 2026-08-26
-
-### [Executive Director of Hospital Facilities Management](https://www.linkedin.com/jobs/view/4459353679/) — HealthCare Support
-- 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $217,000–$230,000/year
+### [Program Director, Global Trade Technology](https://www.linkedin.com/jobs/view/4457708543/) — BAE Systems, Inc.
+- 📍 **Location:** Falls Church, VA
+- 💰 **Salary:** $153377 - $260743
 - 🕒 **Posted:** 2026-08-26
