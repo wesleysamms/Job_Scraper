@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-27 12:08 UTC*
+*Last updated: 2026-08-28 13:27 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
