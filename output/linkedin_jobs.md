@@ -1,111 +1,68 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-28 13:11 UTC*
+*Last updated: 2026-08-29 00:24 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Senior Development Director](https://www.linkedin.com/jobs/view/4458952683/) — American Heart Association
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $88,320 to $105,000 annually
+### [Associate Executive Director](https://www.linkedin.com/jobs/view/4460546130/) — Brightview Senior Living
+- 📍 **Location:** Wayne, NJ
+- 💰 **Salary:** USD $105,000.00 - USD $115,000.00 /Yr
+- 🕒 **Posted:** 2026-08-29
+
+### [State Chief Operating Officer, Medical Group - Virginia](https://www.linkedin.com/jobs/view/4459432870/) — Bon Secours
+- 📍 **Location:** Richmond, VA
+- 💰 **Salary:** $300k - $400k
+- 🕒 **Posted:** 2026-08-29
+
+### [Senior Director of Government Relations](https://www.linkedin.com/jobs/view/4459449741/) — Qcells North America
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $263,300 – $329,200
+- 🕒 **Posted:** 2026-08-29
+
+### [Communications Manager, CEO Communications](https://www.linkedin.com/jobs/view/4460551002/) — Amazon
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-08-29
+
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4460544179/) — Harbor Regional Center
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $177,516.00/yr - $197,579.75/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [Executive Director, Labor Relations - MOCS](https://www.linkedin.com/jobs/view/4458964423/) — Kaiser Permanente
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $247,500.00/yr - $309,375.00/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Executive Director, Labor Relations - NCAL](https://www.linkedin.com/jobs/view/4458959504/) — Kaiser Permanente
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $247,500.00/yr - $309,375.00/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Program Director](https://www.linkedin.com/jobs/view/4441287159/) — CBEM LLC
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4459442434/) — Orangewood Foundation
 - 📍 **Location:** Santa Ana, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Executive Director, Labor Relations - SCAL](https://www.linkedin.com/jobs/view/4458971063/) — Kaiser Permanente
-- 📍 **Location:** Pasadena, CA
-- 💰 **Salary:** $247,500.00/yr - $309,375.00/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Associate Executive Director Of Strategy and Quality & Safety](https://www.linkedin.com/jobs/view/4423340325/) — NYC Health + Hospitals
+### [North America Strategic Business Development Director](https://www.linkedin.com/jobs/view/4459440233/) — Western Union
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $144,550.00/yr - $200,000.00/yr
+- 💰 **Salary:** $150,000 – $190,000 USD annually
 - 🕒 **Posted:** 2026-08-28
 
-### [Assistant Program Director](https://www.linkedin.com/jobs/view/4410627333/) — Samaritan Daytop Village, Inc.
-- 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $75,000-$80,000
+### [Executive Director, Banking](https://www.linkedin.com/jobs/view/4448242921/) — Morgan Stanley
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-28
 
-### [Senior Business Development Director (HoldCo)](https://www.linkedin.com/jobs/view/4412936861/) — The Trade Desk
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $121,700—$223,100 USD
+### [Business Development Director](https://www.linkedin.com/jobs/view/4460537458/) — EXP
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000 to $200,000
 - 🕒 **Posted:** 2026-08-28
 
-### [Program Director – Agentic Commerce Initiatives](https://www.linkedin.com/jobs/view/4414626900/) — Criteo
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $175,000 - $220,000
+### [Director of Operations](https://www.linkedin.com/jobs/view/4460526585/) — EXP
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000 to $250,000
 - 🕒 **Posted:** 2026-08-28
 
-### [Senior Vice President of Development & Community Health](https://www.linkedin.com/jobs/view/4458963475/) — American Heart Association
-- 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $20-$25
-- 🕒 **Posted:** 2026-08-28
-
-### [Senior Vice President of Development & Community Health](https://www.linkedin.com/jobs/view/4458971115/) — American Heart Association
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $20-$25
-- 🕒 **Posted:** 2026-08-28
-
-### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4458961646/) — Edgar Cayce's Association for Research and Enlightenment
-- 📍 **Location:** Norfolk, VA
-- 💰 **Salary:** $125,000–$150,000
-- 🕒 **Posted:** 2026-08-28
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4453004412/) — Trustwell Living, LLC
-- 📍 **Location:** Klamath Falls, OR
-- 🕒 **Posted:** 2026-08-28
-
-### [Program Management Program Director](https://www.linkedin.com/jobs/view/4438777892/) — Sevita
-- 📍 **Location:** Tucson, AZ
-- 🕒 **Posted:** 2026-08-28
-
-### [Managing Director](https://www.linkedin.com/jobs/view/4460331407/) — J.S. Held LLC
+### [Executive Director, Resilience](https://www.linkedin.com/jobs/view/4459438475/) — Johns Hopkins Carey Net Impact
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $250,000 - $300,000
 - 🕒 **Posted:** 2026-08-28
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4458953789/) — The Renaissance Network, Inc.
-- 📍 **Location:** United States
+### [Executive Director](https://www.linkedin.com/jobs/view/4459452361/) — YMCA of Greater San Antonio
+- 📍 **Location:** San Antonio, TX
 - 🕒 **Posted:** 2026-08-28
 
-### [Senior Vice President of Development & Community Health](https://www.linkedin.com/jobs/view/4458953664/) — American Heart Association
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $20-$25
+### [Associate Executive Director, Child and Family Services - Baltimore County](https://www.linkedin.com/jobs/view/4459436481/) — The Y in Central Maryland
+- 📍 **Location:** Baltimore County, MD
 - 🕒 **Posted:** 2026-08-28
 
-### [Senior Vice President of Development & Community Health](https://www.linkedin.com/jobs/view/4458962534/) — American Heart Association
-- 📍 **Location:** Irving, TX
-- 💰 **Salary:** $20-$25
-- 🕒 **Posted:** 2026-08-28
-
-### [Senior Vice President of Development & Community Health](https://www.linkedin.com/jobs/view/4458948720/) — American Heart Association
-- 📍 **Location:** Fort Worth, TX
-- 💰 **Salary:** $20-$25
-- 🕒 **Posted:** 2026-08-28
-
-### [Business Development Director](https://www.linkedin.com/jobs/view/4422663826/) — Encompass Health
-- 📍 **Location:** Fredericksburg, VA
-- 🕒 **Posted:** 2026-08-28
-
-### [Executive Director- East Region](https://www.linkedin.com/jobs/view/4460344739/) — Munson Healthcare
-- 📍 **Location:** Gaylord, MI
-- 🕒 **Posted:** 2026-08-28
-
-### [Program Management Program Director](https://www.linkedin.com/jobs/view/4438438536/) — Sevita
-- 📍 **Location:** Logan, WV
-- 🕒 **Posted:** 2026-08-28
-
-### [Program Director](https://www.linkedin.com/jobs/view/4418783065/) — Sevita
-- 📍 **Location:** Independence, OH
+### [Transaction Advisory Services - Managing Director](https://www.linkedin.com/jobs/view/4460541481/) — CohnReznick
+- 📍 **Location:** Bethesda, MD
+- 💰 **Salary:** $200,000 to $325,000
 - 🕒 **Posted:** 2026-08-28
