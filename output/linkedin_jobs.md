@@ -1,103 +1,120 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-08-31 07:26 UTC*
+*Last updated: 2026-08-31 21:13 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**27 new role(s)** since last run · 27 total in last 1h
 
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4457640559/) — Crossover
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Contra Costa County Program Director](https://www.linkedin.com/jobs/view/4460071358/) — Sustainable Wellness Solutions
+- 📍 **Location:** Sacramento, CA
 - 🕒 **Posted:** 2026-08-31
 
-### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4457642371/) — Crossover
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [COO](https://www.linkedin.com/jobs/view/4460064402/) — Urban Youth Collaborative
+- 📍 **Location:** San Diego County, CA
+- 💰 **Salary:** $110,000–$125,000
 - 🕒 **Posted:** 2026-08-31
 
-### [Medi-Cal Provider/Member Services Organization Deputy Director- West Sacramento, CA (Hybrid)](https://www.linkedin.com/jobs/view/4452859458/) — Gainwell Technologies
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $81,000.00 - $115,700.00 per year
-- 🕒 **Posted:** 2026-08-31
-
-### [Youth Development Director, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4457619884/) — Crossover
+### [Chief Operating Officer, Fedcap Rehabilitation Services](https://www.linkedin.com/jobs/view/4454596484/) — The Fedcap Group
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $200,000.00/yr
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Director of Community Engagement, 2 Hour Learning - $400,000/year USD](https://www.linkedin.com/jobs/view/4457620809/) — Crossover
+### [Vice President, Office of the COO (Hedge Fund/Trading)](https://www.linkedin.com/jobs/view/4461294006/) — Coda Search│Staffing
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+- 💰 **Salary:** $350,000.00/yr - $725,000.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4457635632/) — Crossover
-- 📍 **Location:** Tulsa, OK
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Director of Operations - Newark, NJ](https://www.linkedin.com/jobs/view/4454800147/) — LAZ Parking
+- 📍 **Location:** Newark, NJ
 - 🕒 **Posted:** 2026-08-31
 
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4457620879/) — Crossover
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Executive Director for Medical Development](https://www.linkedin.com/jobs/view/4461279895/) — Case Western Reserve University
+- 📍 **Location:** Cleveland, OH
+- 💰 **Salary:** $118,409.00/yr - $159,853.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4459759684/) — New York Auto Museum Experience Center - NYAM
+### [Executive Director of Strategic Communications](https://www.linkedin.com/jobs/view/4460062568/) — Butler University
+- 📍 **Location:** Indianapolis, IN
+- 🕒 **Posted:** 2026-08-31
+
+### [Director of Philanthropy](https://www.linkedin.com/jobs/view/4416324651/) — Trust for Public Land
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $115,000-$125,000
+- 🕒 **Posted:** 2026-08-31
+
+### [Hospice RN Executive Director I](https://www.linkedin.com/jobs/view/4460067301/) — Gentiva
+- 📍 **Location:** Lancaster, PA
+- 🕒 **Posted:** 2026-08-31
+
+### [Senior Director of Operations - New Orleans, LA](https://www.linkedin.com/jobs/view/4454594192/) — LAZ Parking
+- 📍 **Location:** New Orleans, LA
+- 🕒 **Posted:** 2026-08-31
+
+### [Director of Operations - Long Term Care](https://www.linkedin.com/jobs/view/4459235799/) — gpac
+- 📍 **Location:** Dallas, TX
+- 🕒 **Posted:** 2026-08-31
+
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4461282229/) — Encompass Health
+- 📍 **Location:** Cumming, GA
+- 🕒 **Posted:** 2026-08-31
+
+### [Executive Director, CAAI and Booth AI Transformation](https://www.linkedin.com/jobs/view/4458682635/) — The University of Chicago Booth School of Business
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $230,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [Executive Director of Procedural Services](https://www.linkedin.com/jobs/view/4460079185/) — Singing River Health System
+- 📍 **Location:** Pascagoula, MS
+- 🕒 **Posted:** 2026-08-31
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4459242683/) — Morning Pointe Senior Living
+- 📍 **Location:** Ooltewah, TN
+- 🕒 **Posted:** 2026-08-31
+
+### [Executive Director, CEO Member Relations](https://www.linkedin.com/jobs/view/4459230870/) — USAA
+- 📍 **Location:** San Antonio, TX
+- 💰 **Salary:** $147,750-$265,950
+- 🕒 **Posted:** 2026-08-31
+
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4452626710/) — LaunchCode
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-31
 
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4457631775/) — Crossover
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Director of Development and Construction - Guggenheim Retail Real Estate Partners](https://www.linkedin.com/jobs/view/4461278692/) — Guggenheim Securities
+- 📍 **Location:** Frisco, TX
 - 🕒 **Posted:** 2026-08-31
 
-### [Director of Community Engagement, 2 Hour Learning - $400,000/year USD](https://www.linkedin.com/jobs/view/4457626770/) — Crossover
-- 📍 **Location:** Lakeland, FL
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Associate Director of Development, Opus College of Business and Schulze School of Entrepreneurship](https://www.linkedin.com/jobs/view/4459228907/) — University of St. Thomas
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Director of Community Engagement, 2 Hour Learning - $400,000/year USD](https://www.linkedin.com/jobs/view/4457623712/) — Crossover
-- 📍 **Location:** Palm Bay, FL
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [ECMO - Program Director Corporate Functions](https://www.linkedin.com/jobs/view/4461259859/) — SECU
+- 📍 **Location:** Raleigh-Durham-Chapel Hill Area
 - 🕒 **Posted:** 2026-08-31
 
-### [Youth Development Director, Waypoint Academy - $150,000/year USD](https://www.linkedin.com/jobs/view/4457641403/) — Crossover
-- 📍 **Location:** Dripping Springs, TX
-- 💰 **Salary:** $150,000.00/yr - $150,000.00/yr
+### [ECMO - Program Director Credit and Revenue](https://www.linkedin.com/jobs/view/4461275589/) — SECU
+- 📍 **Location:** Raleigh-Durham-Chapel Hill Area
 - 🕒 **Posted:** 2026-08-31
 
-### [Program Director, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4457642321/) — Crossover
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $150,000.00/yr - $150,000.00/yr
+### [Program Director for State Sponsored Threats (SST)](https://www.linkedin.com/jobs/view/4461258988/) — C4ADS
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-08-31
 
-### [Director of Advancement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4457633687/) — Crossover
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Deputy Director DLA Energy Pacific East](https://www.linkedin.com/jobs/view/4460072343/) — DLA Careers
+- 📍 **Location:** Joint Base Pearl Harbor-Hickam, HI
 - 🕒 **Posted:** 2026-08-31
 
-### [Director of Community Engagement, 2 Hour Learning - $400,000/year USD](https://www.linkedin.com/jobs/view/4457631703/) — Crossover
-- 📍 **Location:** Santa Monica, CA
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [ECMO - Program Director Retail Delivery and Administration](https://www.linkedin.com/jobs/view/4461279515/) — SECU
+- 📍 **Location:** Raleigh-Durham-Chapel Hill Area
 - 🕒 **Posted:** 2026-08-31
 
-### [Youth Program Director, Waypoint Academy - $150,000/year USD](https://www.linkedin.com/jobs/view/4457639549/) — Crossover
-- 📍 **Location:** Dripping Springs, TX
-- 💰 **Salary:** $150,000.00/yr - $150,000.00/yr
+### [Director of Operations](https://www.linkedin.com/jobs/view/4461265938/) — Hyatt Centric
+- 📍 **Location:** Park City, UT
 - 🕒 **Posted:** 2026-08-31
 
-### [Director of Community Engagement, 2 Hour Learning - $400,000/year USD](https://www.linkedin.com/jobs/view/4457622685/) — Crossover
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Director of Operations](https://www.linkedin.com/jobs/view/4461268986/) — MMG
+- 📍 **Location:** Charlotte Metro
 - 🕒 **Posted:** 2026-08-31
 
-### [Director of Communications](https://www.linkedin.com/jobs/view/4461049753/) — The Dalton School
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000 - $110,000
-- 🕒 **Posted:** 2026-08-31
-
-### [Executive Director of Interschool](https://www.linkedin.com/jobs/view/4461047816/) — The Dalton School
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000-$160,000 annually
-- 🕒 **Posted:** 2026-08-31
-
-### [After-School Program Director, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4457622733/) — Crossover
-- 📍 **Location:** Fort Lauderdale, FL
-- 💰 **Salary:** $200,000.00/yr - $200,000.00/yr
+### [Program Director, Seniors Active in Learning](https://www.linkedin.com/jobs/view/4460068294/) — Collin College
+- 📍 **Location:** Plano, TX
 - 🕒 **Posted:** 2026-08-31
