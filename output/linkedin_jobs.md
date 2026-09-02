@@ -1,119 +1,132 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-02 19:06 UTC*
+*Last updated: 2026-09-02 22:13 UTC*
 
-**26 new role(s)** since last run · 26 total in last 1h
+**28 new role(s)** since last run · 28 total in last 1h
 
-### [Assistant Director of Development, Children’s Miracle Network (Fundraiser 3)](https://www.linkedin.com/jobs/view/4453066251/) — UC Davis Health
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $88,100 - $90,000/yr
+### [Executive Director](https://www.linkedin.com/jobs/view/4461339645/) — Bay Area Disc Association
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-02
 
-### [Executive Director-Premier Senior Living](https://www.linkedin.com/jobs/view/4448229724/) — Westport One
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+### [Deputy Director - Portfolio Management - 0904-Mayoral Staff XVI](https://www.linkedin.com/jobs/view/4462477561/) — City and County of San Francisco
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Director of Operations, Division of Portfolio Management & Conversions](https://www.linkedin.com/jobs/view/4461316656/) — NYC Department of Housing Preservation & Development
+### [Deputy Director, Multifamily Housing and Homeownership Programs - 0904-Mayoral Staff XVI](https://www.linkedin.com/jobs/view/4462487219/) — City and County of San Francisco
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Director of Communications & Digital Media](https://www.linkedin.com/jobs/view/4462474939/) — Roman Catholic Diocese of Orange
+- 📍 **Location:** Garden Grove, CA
+- 💰 **Salary:** $75,000 to $90,000
+- 🕒 **Posted:** 2026-09-02
+
+### [CEO In Training (CIT)](https://www.linkedin.com/jobs/view/4388991266/) — Pennant
+- 📍 **Location:** California, United States
+- 🕒 **Posted:** 2026-09-02
+
+### [Managing Director of Operations](https://www.linkedin.com/jobs/view/4461345409/) — Morris Heights Health Center
+- 📍 **Location:** Bronx, NY
+- 🕒 **Posted:** 2026-09-02
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4462475739/) — Atria Senior Living
+- 📍 **Location:** Patchogue, NY
+- 💰 **Salary:** $130,000.00/yr - $149,500.00/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Managing Director](https://www.linkedin.com/jobs/view/4461336698/) — KPMG US
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $86,749.00/yr - $115,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Director Of Communications And Systems](https://www.linkedin.com/jobs/view/4462435953/) — Mid-Hudson Energy Transition
-- 📍 **Location:** Kingston, NY
-- 🕒 **Posted:** 2026-09-02
-
-### [Assistant Program Director](https://www.linkedin.com/jobs/view/4462437852/) — Services for the UnderServed
+### [User Experience Strategy Lead, Executive Director](https://www.linkedin.com/jobs/view/4462472633/) — JPMorganChase
 - 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $180,500.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Managing Director, Chief Marketing Officer](https://www.linkedin.com/jobs/view/4444467939/) — ProShares
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $300,000–$385,000
+### [Executive Director](https://www.linkedin.com/jobs/view/4461322852/) — Nicole's House NWA
+- 📍 **Location:** Fayetteville, AR
 - 🕒 **Posted:** 2026-09-02
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4461309788/) — THRIVE Center for Survivors of Torture
-- 📍 **Location:** Murray, UT
-- 💰 **Salary:** $100,000 to $115,000 annually
+### [Executive Director](https://www.linkedin.com/jobs/view/4450634887/) — Project C.U.R.E.
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $95,000 to $110,000 annually
 - 🕒 **Posted:** 2026-09-02
 
-### [Executive Director Government Relations](https://www.linkedin.com/jobs/view/4418176460/) — Archdiocese of St. Louis
-- 📍 **Location:** St Louis, MO
+### [Founding Executive Director](https://www.linkedin.com/jobs/view/4461336827/) — Ocean of Wisdom School
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $74,000 - $80,000 per year
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Director of Advancement Services and Operations or VP of Advancement Services and Operations](https://www.linkedin.com/jobs/view/4461309802/) — Millikin University
-- 📍 **Location:** Decatur, IL
+### [Executive Director](https://www.linkedin.com/jobs/view/4438656617/) — Grace Management, Inc.
+- 📍 **Location:** Tucson, AZ
+- 💰 **Salary:** $130,000.00/yr - $145,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Program Director](https://www.linkedin.com/jobs/view/4457960838/) — Boys and Girls Clubs of Boston
-- 📍 **Location:** Boston, MA
+### [Executive Director of Partnerships](https://www.linkedin.com/jobs/view/4462413859/) — AdventHealth
+- 📍 **Location:** Maitland, FL
+- 💰 **Salary:** $111,800.00 - $207,979.20
 - 🕒 **Posted:** 2026-09-02
 
-### [PROGRAM DIRECTOR](https://www.linkedin.com/jobs/view/4462457104/) — Connecticut Recreation and Parks Association
-- 📍 **Location:** Newtown, CT
+### [CHIEF EXECUTIVE OFFICER (CEO)](https://www.linkedin.com/jobs/view/4461342712/) — The Carlisle Group (TCG)
+- 📍 **Location:** Dayton, OH
+- 💰 **Salary:** $90,000 – $115,000
 - 🕒 **Posted:** 2026-09-02
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4447166141/) — Brookdale
-- 📍 **Location:** Durham, NC
+### [Director of Operations](https://www.linkedin.com/jobs/view/4461346025/) — Insight Global
+- 📍 **Location:** Tucson, AZ
+- 💰 **Salary:** $175,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Managing Director](https://www.linkedin.com/jobs/view/4461316925/) — AmeriLife
-- 📍 **Location:** McKinney, TX
+### [Development Director](https://www.linkedin.com/jobs/view/4457407028/) — Friends of the Texas Historical Commission
+- 📍 **Location:** Austin, Texas Metropolitan Area
 - 🕒 **Posted:** 2026-09-02
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4461302924/) — INTERSTATE COUNCIL ON WATER POLICY
-- 📍 **Location:** United States
+### [Managing Director](https://www.linkedin.com/jobs/view/4458301354/) — KPMG US
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-09-02
 
-### [Director of Development – Healthcare Fundraising](https://www.linkedin.com/jobs/view/4459977660/) — SoTalent
-- 📍 **Location:** Fort Myers, FL
-- 💰 **Salary:** $31.15–$42.04 per hour
-- 🕒 **Posted:** 2026-09-02
-
-### [Program Director (Mental Health Services)](https://www.linkedin.com/jobs/view/4459975819/) — Vinfen
-- 📍 **Location:** Somerville, MA
-- 🕒 **Posted:** 2026-09-02
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4459994186/) — H2 Recruits
-- 📍 **Location:** Indianapolis, IN
-- 🕒 **Posted:** 2026-09-02
-
-### [Business Development Director Americas, Decarbonization](https://www.linkedin.com/jobs/view/4460997941/) — Technip Energies
+### [Director of Development- Houston Public Media](https://www.linkedin.com/jobs/view/4462475786/) — University of Houston
 - 📍 **Location:** Houston, TX
+- 💰 **Salary:** $75,100.00 - $95,800.00
 - 🕒 **Posted:** 2026-09-02
 
-### [Program Director](https://www.linkedin.com/jobs/view/4462455010/) — Day & Zimmermann
-- 📍 **Location:** Middletown, IA
-- 💰 **Salary:** $143,440 - $215,160 annually
+### [National Director of Operations](https://www.linkedin.com/jobs/view/4450651086/) — Project C.U.R.E.
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $95,000 to $100,000
 - 🕒 **Posted:** 2026-09-02
 
-### [Deputy Director, Airport/Chief Infrastructure Officer](https://www.linkedin.com/jobs/view/4461312909/) — Charlotte Douglas International Airport
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $240,000.00/yr - $302,000.00/yr
+### [Executive Director Neeley Marketing & Communications](https://www.linkedin.com/jobs/view/4461334738/) — Texas Christian University
+- 📍 **Location:** Fort Worth, TX
 - 🕒 **Posted:** 2026-09-02
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4462448527/) — American Royal Association
-- 📍 **Location:** Kansas City, KS
+### [Director of Development](https://www.linkedin.com/jobs/view/4461338669/) — Maydm
+- 📍 **Location:** Madison, WI
+- 💰 **Salary:** $70,000–$80,000,
 - 🕒 **Posted:** 2026-09-02
 
-### [Associate Director of Development, Peabody](https://www.linkedin.com/jobs/view/4459979506/) — Vanderbilt University
+### [Executive Director - International Partnerships](https://www.linkedin.com/jobs/view/4462475775/) — Project C.U.R.E.
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $95,000.00/yr - $105,000.00/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Public Health Program Director](https://www.linkedin.com/jobs/view/4461343623/) — American Business Solutions Inc.
 - 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $25,000 to $250,000
 - 🕒 **Posted:** 2026-09-02
 
-### [Subsidiary Chief Executive Officer](https://www.linkedin.com/jobs/view/4462447592/) — McLaren Health Care
-- 📍 **Location:** Petoskey, MI
+### [Executive Director](https://www.linkedin.com/jobs/view/4439096599/) — Grace Management, Inc.
+- 📍 **Location:** Tucson, AZ
+- 💰 **Salary:** $130,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Director of Communications](https://www.linkedin.com/jobs/view/4462438951/) — Vaco by Highspring
-- 📍 **Location:** Brentwood, TN
-- 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
+### [Assistant Deputy Director - MDO](https://www.linkedin.com/jobs/view/4462467687/) — City of Philadelphia
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-09-02
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4462446243/) — The Goodwin Group
-- 📍 **Location:** Atlanta, GA
+### [Business Development Director](https://www.linkedin.com/jobs/view/4462475636/) — M+C Saatchi Group
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4461309988/) — McCabe Industrial Minerals
-- 📍 **Location:** Tulsa, OK
-- 💰 **Salary:** $95,000–$115,000
+### [Office of the US CEO | Firm Associate Director, Communications](https://www.linkedin.com/jobs/view/4462491087/) — The Business of HLTH Podcast
+- 📍 **Location:** Salt Lake City Metropolitan Area
+- 💰 **Salary:** $107,700 to $221,200
 - 🕒 **Posted:** 2026-09-02
