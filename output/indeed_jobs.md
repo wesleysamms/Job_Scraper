@@ -1,102 +1,135 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-03 00:59 UTC*
+*Last updated: 2026-09-03 05:19 UTC*
 
-**15 new role(s)** since last run · 62 total in last 24h
+**20 new role(s)** since last run · 58 total in last 24h
 
-### [EXECUTIVE DIRECTOR](https://www.indeed.com/viewjob?jk=c536b318fb7c4a06) — Center for Community Advocacy
-- 📍 **Location:** Salinas, CA, US
-- 💰 **Salary:** $105k–$125k/yr
+### [Executive Director, Technology, Operations, & Strategy](https://www.indeed.com/viewjob?jk=955088df4e60b037) — University of La Verne
+- 📍 **Location:** La Verne, CA, US
+- 💰 **Salary:** $150k–$175k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-10
+
+### [Executive Director, Business Affairs & Legal Affairs](https://www.indeed.com/viewjob?jk=cd80e566ba7a4dda) — Fox Corporation
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $179k–$250k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-02
 
-### [Executive Assistant to the President & CEO](https://www.indeed.com/viewjob?jk=6013c827d3aff2ca) — Ventura County Community Foundation
-- 📍 **Location:** Camarillo, CA, US
-- 💰 **Salary:** $65k–$78k/yr
+### [Association Executive/CEO-REALTOR® Association](https://www.indeed.com/viewjob?jk=a893badcdd38e0cb) — Pocono Mountains Association of REALTORS®
+- 📍 **Location:** Stroudsburg, PA, US
+- 💰 **Salary:** $75k–$100k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-03
 
-### [Deputy Director, Procurement & Operations](https://www.indeed.com/viewjob?jk=07ffc4faef9aeac3) — NYC Kids RISE
-- 📍 **Location:** Long Island City, NY, US
-- 💰 **Salary:** $91k–$114k/yr
+### [Executive Director of Operations](https://www.indeed.com/viewjob?jk=910bd1435baaf019) — Marketplace Chaplains
+- 📍 **Location:** Greensboro, NC, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-02
 
-### [Director of Development Strategy & Operations](https://www.indeed.com/viewjob?jk=da4a6c2bb5cd430b) — One More Child
-- 📍 **Location:** Lakeland, FL, US
+### [Associate Executive Director of Childcare](https://www.indeed.com/viewjob?jk=cf07c3b5bab14a55) — YMCA
+- 📍 **Location:** Andover, MA, US
+- 💰 **Salary:** $73k–$87k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-02
 
-### [Executive Director, Development (Orlando, FL)](https://www.indeed.com/viewjob?jk=c268a18cc30a9204) — American Diabetes Association
-- 📍 **Location:** Orlando, FL, US
-- 💰 **Salary:** $112k–$122k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-02
-
-### [Program Director](https://www.indeed.com/viewjob?jk=d066330676feb814) — PorchLight Services
-- 📍 **Location:** Pierre, SD, US
-- 💰 **Salary:** $30k–$40k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime, fulltime, contract
-- 🕒 **Posted:** 2026-09-02
-
-### [Program Director: Holistic Mental Health and Wellness Empowerment Pilot Program](https://www.indeed.com/viewjob?jk=0ac6041f8fe4a230) — Unknown
-- 📍 **Location:** Chicago, IL, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-02
-
-### [Charlotte Water Deputy Director II - Chief Financial Officer](https://www.indeed.com/viewjob?jk=7e0c3ce696170770) — City of Charlotte, NC
-- 📍 **Location:** Charlotte, NC, US
+### [Associate Executive Director of Childcare](https://www.indeed.com/viewjob?jk=b5ed4d6e940fd08c) — YMCA
+- 📍 **Location:** Lawrence, MA, US
+- 💰 **Salary:** $73k–$87k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-02
 
-### [Chief Executive Officer - Grid Modernization Engine in the Carolinas](https://www.indeed.com/viewjob?jk=461ce7382e9ecf90) — UNC Charlotte
-- 📍 **Location:** Charlotte, NC, US
+### [Associate Executive Director of Childcare](https://www.indeed.com/viewjob?jk=fe694630a4c02cf1) — YMCA
+- 📍 **Location:** Methuen, MA, US
+- 💰 **Salary:** $73k–$87k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-02
 
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=7bd114d2a00ebb75) — Verily
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $260k–$322k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-09-02
-
-### [Director of Development Communications](https://www.indeed.com/viewjob?jk=99d7d01de6613b71) — One More Child
-- 📍 **Location:** FL, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-02
-
-### [Director of Philanthropy](https://www.indeed.com/viewjob?jk=634c47a49180d21f) — Sun Health
-- 📍 **Location:** Surprise, AZ, US
-- 💰 **Salary:** $96k–$106k/yr
+### [Associate Executive Director of Childcare](https://www.indeed.com/viewjob?jk=ab9cebebfb380cc4) — YMCA
+- 📍 **Location:** Boxford, MA, US
+- 💰 **Salary:** $73k–$87k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-02
 
-### [Senior Director of Development, Massey Comprehensive Cancer Center](https://www.indeed.com/viewjob?jk=ea25fc656f6a6cc0) — Virginia Commonwealth University
-- 📍 **Location:** VA, US
+### [Executive Director for Corporate Sponsorship and Engagement](https://www.indeed.com/viewjob?jk=913629011c5c3224) — The University of Iowa
+- 📍 **Location:** Iowa City, IA, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-02
+
+### [Director of Community Engagement](https://www.indeed.com/viewjob?jk=e96e10b414c67f8b) — YMCA of the Twin Tiers
+- 📍 **Location:** Olean, NY, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-02
+
+### [Director of Development- Houston Public Media](https://www.indeed.com/viewjob?jk=91b96ebe5ed5d056) — University of Houston
+- 📍 **Location:** Houston, TX, US
+- 💰 **Salary:** $75k–$100k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-02
+
+### [Deputy Director](https://www.indeed.com/viewjob?jk=0574248940f46e56) — Ocala Housing Authority
+- 📍 **Location:** Ocala, FL, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-02
+
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=ea4d2e2883b6aba1) — Unknown
+- 📍 **Location:** Greenbrier, AR, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-02
+
+### [Development Director](https://www.indeed.com/viewjob?jk=c638a3858285e96a) — Rainbows United, Inc.
+- 📍 **Location:** Wichita, KS, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-02
+
+### [Program Director - West Side](https://www.indeed.com/viewjob?jk=5336de9795024052) — Devereux
+- 📍 **Location:** Rutland, MA, US
+- 💰 **Salary:** $56k–$65k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-02
+
+### [SNOOK PROGRAM DIRECTOR](https://www.indeed.com/viewjob?jk=bba1602a337028e4) — Ymca Of South Alabama Inc
+- 📍 **Location:** Foley, AL, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-02
+
+### [Senior Director of Development, Massey Comprehensive Cancer Center](https://www.indeed.com/viewjob?jk=e26f2b50e3b387a4) — Virginia Commonwealth University
+- 📍 **Location:** Richmond, VA, US
 - 💰 **Salary:** $165k–$180k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-02
 
-### [Director of Government Relations](https://www.indeed.com/viewjob?jk=bc9c57a142037f6a) — Texas State Technical College
-- 📍 **Location:** Hutto, TX, US
+### [Director of Philanthropy](https://www.indeed.com/viewjob?jk=2f9e76c7f03b65e1) — Lutheran Social Ministries of Maryland
+- 📍 **Location:** Westminster, MD, US
+- 💰 **Salary:** $88k–$110k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-02
 
-### [Assistant Director of Marketing and Communications](https://www.indeed.com/viewjob?jk=64e994a4062fd444) — University of Massachusetts Amherst
-- 📍 **Location:** Amherst, MA, US
+### [Director of Operations - Office of Academic Services - Penn Engineering](https://www.indeed.com/viewjob?jk=1c4417f5fb214def) — University of Pennsylvania
+- 📍 **Location:** Philadelphia, PA, US
+- 💰 **Salary:** $67k–$105k/yr
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-02
+
+### [Associate Director of Community Engagements & Partnerships](https://www.indeed.com/viewjob?jk=b509a20eaf4afe60) — Washington State Opportunity Scholarship
+- 📍 **Location:** Seattle, WA, US
+- **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-02
