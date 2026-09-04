@@ -1,151 +1,98 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-03 22:05 UTC*
+*Last updated: 2026-09-04 00:28 UTC*
 
-**33 new role(s)** since last run · 33 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [CEO](https://www.linkedin.com/jobs/view/4460756500/) — Acre
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-09-03
+### [Program Director- Targets](https://www.linkedin.com/jobs/view/4461935522/) — Stratolaunch
+- 📍 **Location:** Mojave, CA
+- 💰 **Salary:** $214,000 - $249,000
+- 🕒 **Posted:** 2026-09-04
 
-### [Executive Assistant to Chief Executive Officer](https://www.linkedin.com/jobs/view/4461910834/) — Mango Pixel
-- 📍 **Location:** Riverside, CA
-- 🕒 **Posted:** 2026-09-03
+### [Administrative Director of Operations, Surgery](https://www.linkedin.com/jobs/view/4463150595/) — Beth Israel Lahey Health
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $125,000.00 USD - $165,000.00 USD
+- 🕒 **Posted:** 2026-09-04
 
-### [Associate Program Director, Connected Warfare](https://www.linkedin.com/jobs/view/4463130245/) — Anduril Industries
-- 📍 **Location:** Costa Mesa, CA
-- 💰 **Salary:** $191,000—$239,000 USD
-- 🕒 **Posted:** 2026-09-03
+### [Program Director (RN) Hospice](https://www.linkedin.com/jobs/view/4463152619/) — Crescent Hospice
+- 📍 **Location:** Sumter, SC
+- 💰 **Salary:** $110,000 - $120,000 per year
+- 🕒 **Posted:** 2026-09-04
 
-### [Director of Grants & Institutional Partnerships](https://www.linkedin.com/jobs/view/4461915780/) — ReSurge International
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $90,000–$120,000
-- 🕒 **Posted:** 2026-09-03
+### [Director of Operations](https://www.linkedin.com/jobs/view/4461927564/) — Hypertension and Kidney Specialists
+- 📍 **Location:** Lancaster, PA
+- 🕒 **Posted:** 2026-09-04
 
-### [Program Director (Autonomous Vehicle Simulation Operations)](https://www.linkedin.com/jobs/view/4461339147/) — AppLab Systems, Inc
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-03
+### [Executive Director, Project Management](https://www.linkedin.com/jobs/view/4461936496/) — Worldwide Clinical Trials
+- 📍 **Location:** Durham, NC
+- 💰 **Salary:** $185,500.00 - $367,500.00
+- 🕒 **Posted:** 2026-09-04
 
-### [Program Director](https://www.linkedin.com/jobs/view/4463127699/) — K&K Global Talent Solutions INC.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-03
+### [Sr. Business Development Director, POLITICO Live](https://www.linkedin.com/jobs/view/4460760930/) — POLITICO
+- 📍 **Location:** Arlington, VA
+- 💰 **Salary:** $135,000- 145,000
+- 🕒 **Posted:** 2026-09-04
 
-### [SkillSpring CRED NYC Program Director](https://www.linkedin.com/jobs/view/4460751573/) — The New Jewish Home
+### [Coalition Manager - Government Affairs](https://www.linkedin.com/jobs/view/4463137918/) — Gordian
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-04
+
+### [Project-Program Director 4](https://www.linkedin.com/jobs/view/4463154284/) — Los Alamos National Laboratory
+- 📍 **Location:** Los Alamos, NM
+- 🕒 **Posted:** 2026-09-04
+
+### [Program Director](https://www.linkedin.com/jobs/view/4462727112/) — Stars Behavioral Health Group
+- 📍 **Location:** Fresno, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Executive Director, Provider Contracting- Work from home](https://www.linkedin.com/jobs/view/4463150731/) — Health Care Service Corporation
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $161,500.00 - $299,700.00
+- 🕒 **Posted:** 2026-09-04
+
+### [Deputy Director of Organizational Development & Innovation](https://www.linkedin.com/jobs/view/4463147349/) — Research Foundation of The City University of New York
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $95,000 – $105,000
 - 🕒 **Posted:** 2026-09-03
 
-### [Senior Director of Advancement Communications](https://www.linkedin.com/jobs/view/4460749571/) — Colgate University
-- 📍 **Location:** Hamilton, NY
+### [Associate Dean for Academic Affairs and MSW Program Director](https://www.linkedin.com/jobs/view/4460754881/) — Adelphi University College of Nursing and Public Health
+- 📍 **Location:** Garden City, NY
+- 💰 **Salary:** $140,000 - $170,000
 - 🕒 **Posted:** 2026-09-03
 
-### [Managing Director, Media Relations](https://www.linkedin.com/jobs/view/4463117746/) — The Rockefeller Foundation
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $230,000.00/yr - $280,000.00/yr
+### [Executive Director](https://www.linkedin.com/jobs/view/4461944063/) — Anthem Memory Care
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $90,000.00/yr - $115,000.00/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4461693798/) — Fort Pilates
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $90,000–$110,000,
+### [Executive Managing Director](https://www.linkedin.com/jobs/view/4461941273/) — Vantage Group
+- 📍 **Location:** Green Bay, WI
+- 💰 **Salary:** $165,000.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4460759538/) — Social Capital Initiatives
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $150,000.00/yr - $160,000.00/yr
+### [Executive Director of Senior Living](https://www.linkedin.com/jobs/view/4461933409/) — Morningside House Senior Living
+- 📍 **Location:** Laurel, MD
+- 💰 **Salary:** $110,000.00/yr - $125,000.00/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Program Director of CBH and RCC](https://www.linkedin.com/jobs/view/4463130014/) — Mental Health Association
-- 📍 **Location:** Montclair, NJ
-- 💰 **Salary:** $90K - $95K
+### [CHIEF OPERATING OFFICER - JOHN L. GILDNER-RICA ((MDH Chief Operating Officer I)) - #26-002917-0001](https://www.linkedin.com/jobs/view/4461934423/) — Maryland Department of Health
+- 📍 **Location:** Maryland, United States
+- 💰 **Salary:** $105,501.00 - $176,591.00/year
 - 🕒 **Posted:** 2026-09-03
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4463118764/) — Chester County Connect Care
-- 📍 **Location:** Coatesville, PA
-- 💰 **Salary:** $80,000.00/yr - $90,000.00/yr
+### [Business Development Director](https://www.linkedin.com/jobs/view/4461938390/) — Schneider
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-03
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4461906941/) — RIDGEFIELD MAIN STREET
-- 📍 **Location:** Ridgefield, WA
-- 💰 **Salary:** $65,000–$75,000 annually
+### [Director of Operations, WatchTime Studios](https://www.linkedin.com/jobs/view/4463134549/) — Swooped
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-03
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4460762545/) — Boys & Girls Clubs of Dane County
-- 📍 **Location:** Madison, WI
+### [Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4461921583/) — Firestorm
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,000-170,000
 - 🕒 **Posted:** 2026-09-03
 
-### [Foundation Executive Director](https://www.linkedin.com/jobs/view/4463115866/) — AdventHealth
-- 📍 **Location:** Rome, GA
-- 💰 **Salary:** $106,849.60 - $198,764.80
-- 🕒 **Posted:** 2026-09-03
-
-### [Executive Director - Philadelphia & Wilmington](https://www.linkedin.com/jobs/view/4463129611/) — Blood Cancer United
-- 📍 **Location:** Wilmington, DE
-- 💰 **Salary:** $147K to $175K
-- 🕒 **Posted:** 2026-09-03
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4463132013/) — National Association of Development Organizations (NADO)
-- 📍 **Location:** Brockton, MA
-- 🕒 **Posted:** 2026-09-03
-
-### [Executive Director of School Operations and Support - School Operations and Support](https://www.linkedin.com/jobs/view/4461903981/) — Gwinnett County Public Schools
-- 📍 **Location:** Gwinnett County, GA
-- 🕒 **Posted:** 2026-09-03
-
-### [Program Director - Residential](https://www.linkedin.com/jobs/view/4463110564/) — Merakey
-- 📍 **Location:** Chestnut Hill, PA
-- 🕒 **Posted:** 2026-09-03
-
-### [CHIEF EXECUTIVE OFFICER (CEO)](https://www.linkedin.com/jobs/view/4461908914/) — The Carlisle Group (TCG)
-- 📍 **Location:** Dayton, OH
-- 💰 **Salary:** $90,000 – $115,000
-- 🕒 **Posted:** 2026-09-03
-
-### [Chief Executive Officer - Tenet Physician Resources - West Palm Beach, FL](https://www.linkedin.com/jobs/view/4463114751/) — Tenet Healthcare
-- 📍 **Location:** Coral Springs, FL
-- 🕒 **Posted:** 2026-09-03
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4461909844/) — Partners Bank of Wisconsin
-- 📍 **Location:** Marshfield, WI
-- 🕒 **Posted:** 2026-09-03
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4463115745/) — Justice Resource Institute
-- 📍 **Location:** Concord, MA
-- 💰 **Salary:** $75,000 to $90,000 per year
-- 🕒 **Posted:** 2026-09-03
-
-### [Managing Director](https://www.linkedin.com/jobs/view/4461920559/) — J. Shaw Enterprises
-- 📍 **Location:** Washington DC-Baltimore Area
-- 🕒 **Posted:** 2026-09-03
-
-### [Community Development Director](https://www.linkedin.com/jobs/view/4461903979/) — California State Association of Counties®
-- 📍 **Location:** Lake County, IL
-- 💰 **Salary:** $11,612.00 - $14,113.00
-- 🕒 **Posted:** 2026-09-03
-
-### [Director of Philanthropy - Orlando, Jacksonville, & Gainesville](https://www.linkedin.com/jobs/view/4442113626/) — Blood Cancer United
-- 📍 **Location:** Jacksonville, FL
-- 🕒 **Posted:** 2026-09-03
-
-### [Assistant Director of Advancement Services and Stewardship](https://www.linkedin.com/jobs/view/4461900757/) — Loras College
-- 📍 **Location:** Dubuque, IA
-- 🕒 **Posted:** 2026-09-03
-
-### [Regional Managing Director of Academics - Tarrant County (Immediate Opening)](https://www.linkedin.com/jobs/view/4463126424/) — IDEA Public Schools
-- 📍 **Location:** Dallas-Fort Worth Metroplex
-- 🕒 **Posted:** 2026-09-03
-
-### [Director of Government Relations](https://www.linkedin.com/jobs/view/4462843385/) — Business Council for Sustainable Energy (BCSE)
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-09-03
-
-### [Managing Director, Media Relations](https://www.linkedin.com/jobs/view/4463114769/) — The Rockefeller Foundation
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $230,000.00/yr - $280,000.00/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [Managing Director, Strategic Initiatives, Transformation & PMO](https://www.linkedin.com/jobs/view/4461696799/) — Florida Cancer Specialists & Research Institute
-- 📍 **Location:** Florida, United States
-- 🕒 **Posted:** 2026-09-03
-
-### [Associate Program Director, Connected Warfare](https://www.linkedin.com/jobs/view/4463123691/) — Anduril Industries
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $191,000—$239,000 USD
+### [Senior Director of Operations](https://www.linkedin.com/jobs/view/4463148603/) — Hyve Solutions
+- 📍 **Location:** Reno, NV
+- 💰 **Salary:** $215,680.00/yr - $255,009.00/yr
 - 🕒 **Posted:** 2026-09-03
