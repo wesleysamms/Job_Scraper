@@ -1,138 +1,88 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-04 18:48 UTC*
+*Last updated: 2026-09-04 21:50 UTC*
 
-**30 new role(s)** since last run · 30 total in last 1h
+**19 new role(s)** since last run · 19 total in last 1h
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4462303322/) — Stacy Nelson & Associates
-- 📍 **Location:** Hayward, CA
-- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
+### [Deputy Director of Environmental Health (0932 Manager IV)–DPH–167383](https://www.linkedin.com/jobs/view/4461402498/) — City and County of San Francisco
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $173,264 to $221,052 Annually
 - 🕒 **Posted:** 2026-09-04
 
-### [Managing Director, Producers & Engineers Wing](https://www.linkedin.com/jobs/view/4459191441/) — The Recording Academy
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 💰 **Salary:** $124,300.00/yr - $139,800.00/yr
+### [Assistant Port Director/Chief Operating Officer - Port of San Francisco (0954)](https://www.linkedin.com/jobs/view/4461411233/) — City and County of San Francisco
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $228,332 - $291,330
 - 🕒 **Posted:** 2026-09-04
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4452977192/) — Uline
-- 📍 **Location:** Riverside, CA
-- 💰 **Salary:** $300,000 to $375,000 per year
+### [Deputy Director of Maritime - Port of San Francisco (0953)](https://www.linkedin.com/jobs/view/4461408429/) — City and County of San Francisco
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,538 - $255,996
 - 🕒 **Posted:** 2026-09-04
 
-### [Chief of Staff to the CEO](https://www.linkedin.com/jobs/view/4453585419/) — OpenGov Inc.
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $150,000 - $200,000
+### [Director of Development Engineering](https://www.linkedin.com/jobs/view/4460447290/) — Oklo Inc
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $225,000-$275,000
 - 🕒 **Posted:** 2026-09-04
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4444209357/) — ISS Facility Services - North America
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 🕒 **Posted:** 2026-09-04
-
-### [Managing Director, Data Reporting and Analytics, TPMG](https://www.linkedin.com/jobs/view/4462318209/) — Kaiser Permanente
-- 📍 **Location:** Pleasanton, CA
-- 💰 **Salary:** $238,800.00/yr - $308,990.00/yr
-- 🕒 **Posted:** 2026-09-04
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4452964257/) — Uline
-- 📍 **Location:** San Bernardino, CA
-- 💰 **Salary:** $300,000 to $375,000 per year
-- 🕒 **Posted:** 2026-09-04
-
-### [Managing Director, Technology Media & Telecommunications Banking](https://www.linkedin.com/jobs/view/4463620200/) — HSBC
-- 📍 **Location:** Beverly Hills, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Diagnostic Medical Sonography and Cardiovascular Sonography Program Director](https://www.linkedin.com/jobs/view/4432707762/) — Concorde Career Colleges
+### [Program Director III](https://www.linkedin.com/jobs/view/4463642700/) — Community Solutions, Inc. (CSI)
 - 📍 **Location:** San Bernardino, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Program Director](https://www.linkedin.com/jobs/view/4463608463/) — Services for the UnderServed
-- 📍 **Location:** Bronx, NY
+### [Program Director - Healthy Steps](https://www.linkedin.com/jobs/view/4450775712/) — One Brooklyn Health
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-09-04
 
-### [Head of Applied AI & Agent Factory - Managing Director](https://www.linkedin.com/jobs/view/4415975138/) — Citi
+### [Area Director of Operations, Live Events](https://www.linkedin.com/jobs/view/4461193696/) — Convene
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $250,000.00 - $500,000.00
 - 🕒 **Posted:** 2026-09-04
 
-### [Executive Director, Senior Managing Counsel](https://www.linkedin.com/jobs/view/4463613229/) — Page Executive
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $550,000.00/yr - $600,000.00/yr
+### [Executive Director](https://www.linkedin.com/jobs/view/4462329014/) — ArtWorks for Milwaukee, Inc.
+- 📍 **Location:** Milwaukee, WI
+- 💰 **Salary:** $72,000 – $78,000 annually
 - 🕒 **Posted:** 2026-09-04
 
-### [Assistant Program Director](https://www.linkedin.com/jobs/view/4463600769/) — Services for the UnderServed
-- 📍 **Location:** Bronx, NY
+### [Deputy Director, Monitoring, Evaluation, Accountability & Learning](https://www.linkedin.com/jobs/view/4461197620/) — Southern Poverty Law Center
+- 📍 **Location:** Jackson, MS
 - 🕒 **Posted:** 2026-09-04
 
-### [Executive Director, Enterprise Sales (Health Systems Partnerships)](https://www.linkedin.com/jobs/view/4463102700/) — Cadence
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $250,000 – $300,000
+### [Deputy Director, Monitoring, Evaluation, Accountability & Learning](https://www.linkedin.com/jobs/view/4461196748/) — Southern Poverty Law Center
+- 📍 **Location:** New Orleans, LA
 - 🕒 **Posted:** 2026-09-04
 
-### [Executive Director, Philanthropy -Beverly Hospital](https://www.linkedin.com/jobs/view/4417426215/) — Beth Israel Lahey Health
-- 📍 **Location:** Beverly, MA
-- 💰 **Salary:** $149,989.00 USD - $215,000.00 USD
+### [Chief Executive Officer - Phi Kappa Tau](https://www.linkedin.com/jobs/view/4457509708/) — Maneva Group
+- 📍 **Location:** Cincinnati Metropolitan Area
 - 🕒 **Posted:** 2026-09-04
 
-### [Director of Institutional Giving and Relations](https://www.linkedin.com/jobs/view/4463607583/) — ASSOCIATION OF INDEPENDENT COLLEGES OF ART AND DESIGN INC
-- 📍 **Location:** Cleveland, OH
+### [Chief Executive Officer - AgeGuide](https://www.linkedin.com/jobs/view/4462847329/) — Maneva Group
+- 📍 **Location:** Greater Chicago Area
+- 💰 **Salary:** $130,000 to $160,000,
 - 🕒 **Posted:** 2026-09-04
 
-### [Assistant Vice President of Development](https://www.linkedin.com/jobs/view/4463617084/) — Ivy Tech Community College
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $110,000-120,000 K
+### [Director of Operations Home Health](https://www.linkedin.com/jobs/view/4463641769/) — PruittHealth
+- 📍 **Location:** Tifton, GA
 - 🕒 **Posted:** 2026-09-04
 
-### [Executive Director Revenue Cycle](https://www.linkedin.com/jobs/view/4444022189/) — Nicklaus Children's Health System
+### [Managing Director](https://www.linkedin.com/jobs/view/4461401686/) — CoralTree Hospitality
+- 📍 **Location:** Portland, OR
+- 🕒 **Posted:** 2026-09-04
+
+### [Industrial Partnerships Program Director (Remote Eligible)](https://www.linkedin.com/jobs/view/4463640739/) — Oak Ridge National Laboratory
+- 📍 **Location:** Oak Ridge, TN
+- 💰 **Salary:** $175,000.00 - $225,000.00
+- 🕒 **Posted:** 2026-09-04
+
+### [Deputy Director, Monitoring, Evaluation, Accountability & Learning](https://www.linkedin.com/jobs/view/4461413080/) — Southern Poverty Law Center
+- 📍 **Location:** Montgomery, AL
+- 🕒 **Posted:** 2026-09-04
+
+### [Deputy Director, Monitoring, Evaluation, Accountability & Learning](https://www.linkedin.com/jobs/view/4461404565/) — Southern Poverty Law Center
 - 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-09-04
 
-### [Licensed Executive Director](https://www.linkedin.com/jobs/view/4461406015/) — Harmony Senior Services
-- 📍 **Location:** Hockessin, DE
+### [Executive Director, Discovery Oncology](https://www.linkedin.com/jobs/view/4461196769/) — Johnson & Johnson Innovative Medicine
+- 📍 **Location:** Spring House, PA
 - 🕒 **Posted:** 2026-09-04
 
-### [Executive Director-Quality & Safety (NWA Community)](https://www.linkedin.com/jobs/view/4461183901/) — Mercy Hospital St. Louis Critical Care Medicine Fellowship
-- 📍 **Location:** Rogers, AR
-- 🕒 **Posted:** 2026-09-04
-
-### [PROGRAM DIRECTOR](https://www.linkedin.com/jobs/view/4463601774/) — Connecticut Recreation and Parks Association
-- 📍 **Location:** Newtown, CT
-- 🕒 **Posted:** 2026-09-04
-
-### [Executive Director, Biological Design Center Biomedical Engineering](https://www.linkedin.com/jobs/view/4463609293/) — Boston University
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-09-04
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4463608443/) — Water's Edge Ministries (formerly Green Lake Lutheran Ministries)
-- 📍 **Location:** Spicer, MN
-- 🕒 **Posted:** 2026-09-04
-
-### [Director of Advancement](https://www.linkedin.com/jobs/view/4462313254/) — Magellan International School
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-09-04
-
-### [Business Development Director](https://www.linkedin.com/jobs/view/4436357753/) — HCA HealthONE
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $102960.00 - $160617.60
-- 🕒 **Posted:** 2026-09-04
-
-### [Chief Executive Officer (CEO)](https://www.linkedin.com/jobs/view/4463390479/) — TFI, Inc.
-- 📍 **Location:** Kansas, United States
-- 🕒 **Posted:** 2026-09-04
-
-### [Executive Director, Advanced Clinical Practice](https://www.linkedin.com/jobs/view/4463618272/) — Grow in Greenville, NC
-- 📍 **Location:** Greenville, NC
-- 💰 **Salary:** $143041.60 - $208494.00
-- 🕒 **Posted:** 2026-09-04
-
-### [Global Executive Program Director](https://www.linkedin.com/jobs/view/4453704267/) — Atrium
-- 📍 **Location:** Westerville, OH
-- 🕒 **Posted:** 2026-09-04
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4463394836/) — Protouch Staffing
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-09-04
-
-### [Executive Director-Quality & Safety (NWA Community)](https://www.linkedin.com/jobs/view/4462320217/) — Mercy
-- 📍 **Location:** Rogers, AR
+### [Program Director, Major Accounts & District Partnerships](https://www.linkedin.com/jobs/view/4455425411/) — ACT
+- 📍 **Location:** United States
+- 💰 **Salary:** $115,000 to $125,000
 - 🕒 **Posted:** 2026-09-04
