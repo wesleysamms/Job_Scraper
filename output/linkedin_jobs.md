@@ -1,26 +1,42 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-05 04:52 UTC*
+*Last updated: 2026-09-05 17:38 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Development Bioanalytical Leader (Director / Senior Director / Executive Director)](https://www.linkedin.com/jobs/view/4463707529/) — BioSpace
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $200,000 to $260,000
+### [Affordable Housing Finance Product Manager - Executive Director](https://www.linkedin.com/jobs/view/4444610706/) — Morgan Stanley
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $150,000 - $250,000
 - 🕒 **Posted:** 2026-09-05
 
-### [Security Program Director](https://www.linkedin.com/jobs/view/4439231923/) — Securitas Security Services USA, Inc.
-- 📍 **Location:** Sunnyvale, CA
+### [Deputy Director, Behavioral Care and Support Section](https://www.linkedin.com/jobs/view/4461498308/) — City of New York
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $68,213.00 – $175,000.00
 - 🕒 **Posted:** 2026-09-05
 
-### [Head/CEO](https://www.linkedin.com/jobs/view/4463710263/) — Siddaganga TBI
-- 📍 **Location:** Indiana, United States
+### [Head of AI-First Development (Firmwide AI) - Managing Director](https://www.linkedin.com/jobs/view/4415978075/) — Citi
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $250,000.00 - $500,000.00
 - 🕒 **Posted:** 2026-09-05
 
-### [Associate Executive Director](https://www.linkedin.com/jobs/view/4462351545/) — Brookdale
-- 📍 **Location:** Mesa, AZ
+### [Director of Communications, Digital Liquidity Networks](https://www.linkedin.com/jobs/view/4454807163/) — Nasdaq
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $116,000 - $203,000
 - 🕒 **Posted:** 2026-09-05
 
-### [Industrial Partnerships Program Director (Remote Eligible)](https://www.linkedin.com/jobs/view/4463700621/) — UT-Battelle
-- 📍 **Location:** Oak Ridge, TN
-- 💰 **Salary:** $175,000.00 - $225,000.00
+### [Executive Director, EaR Strategy & Alignment, Public Affairs](https://www.linkedin.com/jobs/view/4436398154/) — The College Board
+- 📍 **Location:** United States
+- 💰 **Salary:** $152,000 – $230,000
+- 🕒 **Posted:** 2026-09-05
+
+### [Deputy Director for Rank The Vote Ohio](https://www.linkedin.com/jobs/view/4461975881/) — Rank the Vote Ohio
+- 📍 **Location:** Ohio, United States
+- 🕒 **Posted:** 2026-09-05
+
+### [Business Development Director - Data Centers](https://www.linkedin.com/jobs/view/4453593903/) — Kiewit
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-09-05
+
+### [Health and Wellbeing Program Director](https://www.linkedin.com/jobs/view/4461802284/) — YMCA of Pierce and Kitsap Counties
+- 📍 **Location:** Puyallup, WA
+- 💰 **Salary:** $23.70/hr - $29.91/hr
 - 🕒 **Posted:** 2026-09-05
