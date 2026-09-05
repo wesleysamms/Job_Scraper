@@ -1,22 +1,26 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-05 20:40 UTC*
+*Last updated: 2026-09-05 23:14 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Clinical Program Director, Compass Behavioral Health Services](https://www.linkedin.com/jobs/view/4463682752/) — Compass Family Services
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000 - $140,000 annually
+### [Director of Operations – Mandarin Fluency Required](https://www.linkedin.com/jobs/view/4407510374/) — Annie Aesthetic
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-09-05
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4462669039/) — SOS Recovery Community Organization
-- 📍 **Location:** Dover, NH
+### [Project Manager/Program Director](https://www.linkedin.com/jobs/view/4461510194/) — Parsons Corporation
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $157,500.00 - $283,500.00
 - 🕒 **Posted:** 2026-09-05
 
-### [Business Development Director, Science + Technology](https://www.linkedin.com/jobs/view/4447732231/) — HKS, Inc.
-- 📍 **Location:** Dallas, TX
+### [Chief of Staff to CEO](https://www.linkedin.com/jobs/view/4450379988/) — Treeswift
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $160,000 to $195,000
 - 🕒 **Posted:** 2026-09-05
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4458106921/) — Keurig Dr Pepper Inc.
-- 📍 **Location:** Northlake, IL
-- 💰 **Salary:** $160,000 - $200,000
+### [Virginia House Democratic Caucus, Executive Director](https://www.linkedin.com/jobs/view/4461805599/) — Jobs That Are Left
+- 📍 **Location:** Richmond, VA
+- 🕒 **Posted:** 2026-09-05
+
+### [Program Director](https://www.linkedin.com/jobs/view/4462653263/) — New Season
+- 📍 **Location:** St George, UT
 - 🕒 **Posted:** 2026-09-05
