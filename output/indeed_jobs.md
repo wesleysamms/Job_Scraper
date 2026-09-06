@@ -1,6 +1,11 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-06 18:03 UTC*
+*Last updated: 2026-09-06 19:44 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Director of Operations](https://www.indeed.com/viewjob?jk=518c3126d84e8768) — Fold'd
+- 📍 **Location:** Dover, NH, US
+- 💰 **Salary:** $68k–$75k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-06
