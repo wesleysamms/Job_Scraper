@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-05 18:40 UTC",
+  "scraped_at": "2026-09-06 18:41 UTC",
   "total": 4,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Burlingame",
@@ -40,24 +40,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Burlingame",
-      "title": "Assistant Community Development Director",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/burlingame/job-20772810",
-      "date_posted": "",
-      "salary": "$176,169.55-$214,102.02 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Bruno",
-      "title": "Assistant Community Development Director",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-bruno/job-20772081",
-      "date_posted": "",
-      "salary": "$0.00-$204,853.00 Annually",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
