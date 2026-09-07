@@ -1,39 +1,36 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-07 19:29 UTC*
+*Last updated: 2026-09-07 22:20 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Director of Operations for The ROCK Community Center for Youth & Children](https://www.linkedin.com/jobs/view/4464370905/) — Eastern Star Church
-- 📍 **Location:** Indianapolis, IN
+### [Brand Manager & Executive Assistant to the CEO](https://www.linkedin.com/jobs/view/4464400206/) — Phil's BBQ
+- 📍 **Location:** San Diego Metropolitan Area
 - 🕒 **Posted:** 2026-09-07
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4462986136/) — Summit Park Ventures
+### [Program Director - Healthy Steps](https://www.linkedin.com/jobs/view/4450775712/) — One Brooklyn Health
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-09-07
+
+### [CHIEF EXECUTIVE OFFICER (CEO)](https://www.linkedin.com/jobs/view/4462983421/) — The Carlisle Group (TCG)
+- 📍 **Location:** Dayton, OH
+- 💰 **Salary:** $90,000 – $115,000
+- 🕒 **Posted:** 2026-09-07
+
+### [Program Director, Major Accounts & District Partnerships](https://www.linkedin.com/jobs/view/4455425411/) — ACT
+- 📍 **Location:** United States
+- 💰 **Salary:** $115,000 to $125,000
+- 🕒 **Posted:** 2026-09-07
+
+### [CEO-in-Residence - Private Equity (Buy & Build Model)](https://www.linkedin.com/jobs/view/4305759827/) — Three Pillars Recruiting
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-07
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4462985120/) — Bike-Walk Alliance of NH
-- 📍 **Location:** New Hampshire, United States
-- 💰 **Salary:** $250K–$1
-- 🕒 **Posted:** 2026-09-07
-
-### [Executive Director of Marketing](https://www.linkedin.com/jobs/view/4418008958/) — Golden Nugget Hotel and Casino Lake Tahoe
-- 📍 **Location:** Stateline, NV
-- 🕒 **Posted:** 2026-09-07
-
-### [Chief Operating Officer (COO)](https://www.linkedin.com/jobs/view/4462243130/) — Stitch Fusion Apparel Group
+### [Senior Program Director, State Chief Liaison](https://www.linkedin.com/jobs/view/4451917231/) — ACT
 - 📍 **Location:** United States
+- 💰 **Salary:** $120,000 to $160,000
 - 🕒 **Posted:** 2026-09-07
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4464366788/) — Bluestar Air Group Inc
-- 📍 **Location:** Sanford, FL
-- 🕒 **Posted:** 2026-09-07
-
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4464379656/) — GS2 | B Corp™
-- 📍 **Location:** United States
-- 💰 **Salary:** $275,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-09-07
-
-### [Senior Director of Partnerships](https://www.linkedin.com/jobs/view/4462978120/) — Stack Trading
-- 📍 **Location:** United States
-- 💰 **Salary:** $100,000-$120,000
+### [Managing Director, Energy - Corporate Banking](https://www.linkedin.com/jobs/view/4462984487/) — Citi
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $250,000.00 - $500,000.00
 - 🕒 **Posted:** 2026-09-07
