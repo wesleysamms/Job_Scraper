@@ -1,74 +1,62 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-11 00:29 UTC*
+*Last updated: 2026-09-11 05:06 UTC*
 
-**15 new role(s)** since last run · 15 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Executive Director, Growth Strategy — Health100](https://www.linkedin.com/jobs/view/4465896227/) — CVS Health
-- 📍 **Location:** Albany, NY
-- 💰 **Salary:** $131,500.00 - $303,195.00
+### [Program Manager Program Director](https://www.linkedin.com/jobs/view/4463945299/) — Sevita
+- 📍 **Location:** Antelope, CA
 - 🕒 **Posted:** 2026-09-11
 
-### [Associate Director of Advancement](https://www.linkedin.com/jobs/view/4464816396/) — Lutheran Community Services Northwest
-- 📍 **Location:** Seattle, WA
+### [Fundraising Director, Do What You Love](https://www.linkedin.com/jobs/view/4466021722/) — Alzheimer's Association Arizona
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-11
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4465896260/) — DC Department of Human Resources
-- 📍 **Location:** Washington, DC
+### [Executive Director, Global Patient Safety Sciences Delivery](https://www.linkedin.com/jobs/view/4466025736/) — BioSpace
+- 📍 **Location:** Warren, NJ
+- 💰 **Salary:** $285,600.00 - $475,900.00
 - 🕒 **Posted:** 2026-09-11
 
-### [Chief Operating Officer Atrium Health Union](https://www.linkedin.com/jobs/view/4466011111/) — Atrium Health
-- 📍 **Location:** Monroe, NC
-- 💰 **Salary:** $131.90 - $211.05
+### [Executive Director](https://www.linkedin.com/jobs/view/4466028636/) — TerraBella Senior Living
+- 📍 **Location:** Gainesville, GA
 - 🕒 **Posted:** 2026-09-11
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4463923501/) — SUICIDE PREVENTION AND CRISIS SERVICE OF TOMPKINS COUNTY INC
-- 📍 **Location:** Ithaca, NY
-- 💰 **Salary:** $96,000.00/yr - $120,000.00/yr
+### [Director of Operations](https://www.linkedin.com/jobs/view/4464838421/) — Behavioral Health Group - BHG
+- 📍 **Location:** Montgomery, AL
 - 🕒 **Posted:** 2026-09-11
 
-### [Director Of Operations/Chief Operating Officer](https://www.linkedin.com/jobs/view/4459466194/) — Ron Some & Associates
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Managing Director, Curran Theatre](https://www.linkedin.com/jobs/view/4465881876/) — San Francisco Giants
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000 - $160,000
-- 🕒 **Posted:** 2026-09-10
-
-### [Managing Director- Commercial Banking](https://www.linkedin.com/jobs/view/4465890688/) — Western Alliance Bank
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $237,605.00 - $293,511.00
-- 🕒 **Posted:** 2026-09-10
-
-### [Program Director](https://www.linkedin.com/jobs/view/4465886805/) — GE Vernova
-- 📍 **Location:** Schenectady, NY
-- 🕒 **Posted:** 2026-09-10
-
-### [Global Head of Professional Services (Technical Implementation Services) Managing Director](https://www.linkedin.com/jobs/view/4459866782/) — State Street
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000 - $252,500
-- 🕒 **Posted:** 2026-09-10
-
-### [Salus Populi Program Director](https://www.linkedin.com/jobs/view/4465884897/) — Northeastern University
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $76,335.00 - $107,823.75
-- 🕒 **Posted:** 2026-09-10
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4464809315/) — Wisen Digital Health
+### [Director of Partnerships](https://www.linkedin.com/jobs/view/4466040532/) — Sage Bionetworks
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-10
+- 💰 **Salary:** $160,930 to $210,000
+- 🕒 **Posted:** 2026-09-11
 
-### [Campaign Director - South Asia](https://www.linkedin.com/jobs/view/4464818320/) — Young Life
-- 📍 **Location:** Colorado, United States
-- 💰 **Salary:** $76,150 - $104,075
-- 🕒 **Posted:** 2026-09-10
+### [Chief Operating Officer - KRMC](https://www.linkedin.com/jobs/view/4466034759/) — Bryan Health
+- 📍 **Location:** Kearney, NE
+- 🕒 **Posted:** 2026-09-11
 
-### [Associate Director of Operations, Conference and Event Services](https://www.linkedin.com/jobs/view/4464808444/) — Colorado School of Mines
-- 📍 **Location:** Colorado, United States
-- 💰 **Salary:** $74,500–$95,000
-- 🕒 **Posted:** 2026-09-10
+### [Sr. Clinical Development Director](https://www.linkedin.com/jobs/view/4463944253/) — Enveda
+- 📍 **Location:** Boulder, CO
+- 💰 **Salary:** $225,000-$280,000
+- 🕒 **Posted:** 2026-09-11
 
-### [Transformation Change Leader (Middle Office), Managing Director](https://www.linkedin.com/jobs/view/4460136253/) — State Street
-- 📍 **Location:** Quincy, MA
-- 💰 **Salary:** $170,000 - $252,500
-- 🕒 **Posted:** 2026-09-10
+### [Campaign Fundraising Director](https://www.linkedin.com/jobs/view/4466040536/) — Association of Fundraising Professionals (AFP) Tampa Bay
+- 📍 **Location:** Metro Jacksonville
+- 💰 **Salary:** $86,000 - $95,000 annually
+- 🕒 **Posted:** 2026-09-11
+
+### [Campaign Fundraising Director - Light the Night - St. Louis](https://www.linkedin.com/jobs/view/4442110696/) — Blood Cancer United
+- 📍 **Location:** St Louis, MO
+- 💰 **Salary:** $87K to $93K
+- 🕒 **Posted:** 2026-09-11
+
+### [Fundraising Director, Relationship Events](https://www.linkedin.com/jobs/view/4466038540/) — Alzheimer's Association Arizona
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-09-11
+
+### [Managing Director, Construction Advisory](https://www.linkedin.com/jobs/view/4466037478/) — talisman
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-11
+
+### [Executive Director, Portfolio Analytics & Systems Architecture](https://www.linkedin.com/jobs/view/4466032706/) — BioSpace
+- 📍 **Location:** Waltham, MA
+- 💰 **Salary:** $249,000 - $305,000 USD
+- 🕒 **Posted:** 2026-09-11
