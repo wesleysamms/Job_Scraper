@@ -1,81 +1,74 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-10 22:02 UTC*
+*Last updated: 2026-09-11 00:29 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**15 new role(s)** since last run · 15 total in last 1h
 
-### [Assistant Deputy Director, Aviation and Mobile Equipment](https://www.linkedin.com/jobs/view/4461292165/) — California Department of Forestry and Fire Protection (CAL FIRE)
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $16,759.00/mo - $16,759.00/mo
+### [Executive Director, Growth Strategy — Health100](https://www.linkedin.com/jobs/view/4465896227/) — CVS Health
+- 📍 **Location:** Albany, NY
+- 💰 **Salary:** $131,500.00 - $303,195.00
+- 🕒 **Posted:** 2026-09-11
+
+### [Associate Director of Advancement](https://www.linkedin.com/jobs/view/4464816396/) — Lutheran Community Services Northwest
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-09-11
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4465896260/) — DC Department of Human Resources
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-09-11
+
+### [Chief Operating Officer Atrium Health Union](https://www.linkedin.com/jobs/view/4466011111/) — Atrium Health
+- 📍 **Location:** Monroe, NC
+- 💰 **Salary:** $131.90 - $211.05
+- 🕒 **Posted:** 2026-09-11
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4463923501/) — SUICIDE PREVENTION AND CRISIS SERVICE OF TOMPKINS COUNTY INC
+- 📍 **Location:** Ithaca, NY
+- 💰 **Salary:** $96,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Director Of Operations/Chief Operating Officer](https://www.linkedin.com/jobs/view/4459466194/) — Ron Some & Associates
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Associate Business Development Director](https://www.linkedin.com/jobs/view/4458360518/) — IQVIA
-- 📍 **Location:** Carlsbad, CA
-- 💰 **Salary:** $89,900.00 - $250,400.00
+### [Managing Director, Curran Theatre](https://www.linkedin.com/jobs/view/4465881876/) — San Francisco Giants
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000 - $160,000
 - 🕒 **Posted:** 2026-09-10
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4464802739/) — LHH
-- 📍 **Location:** Milpitas, CA
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+### [Managing Director- Commercial Banking](https://www.linkedin.com/jobs/view/4465890688/) — Western Alliance Bank
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $237,605.00 - $293,511.00
 - 🕒 **Posted:** 2026-09-10
 
-### [Executive Assistant to CEO and President](https://www.linkedin.com/jobs/view/4464582855/) — Stephen Silver Fine Jewelry
-- 📍 **Location:** Menlo Park, CA
+### [Program Director](https://www.linkedin.com/jobs/view/4465886805/) — GE Vernova
+- 📍 **Location:** Schenectady, NY
 - 🕒 **Posted:** 2026-09-10
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4464594728/) — National Center for Civil and Human Rights
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $175,000.00/yr - $200,000.00/yr
+### [Global Head of Professional Services (Technical Implementation Services) Managing Director](https://www.linkedin.com/jobs/view/4459866782/) — State Street
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000 - $252,500
 - 🕒 **Posted:** 2026-09-10
 
-### [Economic Development Director](https://www.linkedin.com/jobs/view/4464583859/) — City of Staples
-- 📍 **Location:** Minnesota, United States
-- 💰 **Salary:** $70,703.00/yr - $90,645.00/yr
+### [Salus Populi Program Director](https://www.linkedin.com/jobs/view/4465884897/) — Northeastern University
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $76,335.00 - $107,823.75
 - 🕒 **Posted:** 2026-09-10
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4464594759/) — DRG Consulting
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $175,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4463924030/) — INVESTech - Innovation Vocational Excellence in Tech
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4464809315/) — Wisen Digital Health
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-10
 
-### [Director of Development for Madison House](https://www.linkedin.com/jobs/view/4464805141/) — UVA External Relations
-- 📍 **Location:** Greater Charlottesville Area
+### [Campaign Director - South Asia](https://www.linkedin.com/jobs/view/4464818320/) — Young Life
+- 📍 **Location:** Colorado, United States
+- 💰 **Salary:** $76,150 - $104,075
 - 🕒 **Posted:** 2026-09-10
 
-### [Fundraising Director, Relationship Events](https://www.linkedin.com/jobs/view/4464595672/) — Alzheimer's Association®
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $100,000-$110,000
+### [Associate Director of Operations, Conference and Event Services](https://www.linkedin.com/jobs/view/4464808444/) — Colorado School of Mines
+- 📍 **Location:** Colorado, United States
+- 💰 **Salary:** $74,500–$95,000
 - 🕒 **Posted:** 2026-09-10
 
-### [Business Development Director - Commercial](https://www.linkedin.com/jobs/view/4465884277/) — AV
-- 📍 **Location:** Pennsylvania, United States
-- 💰 **Salary:** $126,500 - $192,750
-- 🕒 **Posted:** 2026-09-10
-
-### [Sr. Director of Advancement](https://www.linkedin.com/jobs/view/4461672980/) — Kids' Meals, Inc.
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-09-10
-
-### [Executive Director of Operations (Central North Carolina/Virginia area)](https://www.linkedin.com/jobs/view/4464803874/) — Marketplace Chaplains
-- 📍 **Location:** Greensboro, NC
-- 🕒 **Posted:** 2026-09-10
-
-### [Federal Environmental Program Director - Federal CERCLA/RCRA Programs and Client Development](https://www.linkedin.com/jobs/view/4465872270/) — True Environmental
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-10
-
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4464590845/) — Apollo Global Management
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-10
-
-### [Program Director](https://www.linkedin.com/jobs/view/4464810002/) — General Dynamics Mission Systems
-- 📍 **Location:** Scottsdale, AZ
-- 🕒 **Posted:** 2026-09-10
-
-### [Program Director, Heartbeat](https://www.linkedin.com/jobs/view/4465854037/) — GE HealthCare
-- 📍 **Location:** United States
-- 💰 **Salary:** $169,600.00-$254,400.00
+### [Transformation Change Leader (Middle Office), Managing Director](https://www.linkedin.com/jobs/view/4460136253/) — State Street
+- 📍 **Location:** Quincy, MA
+- 💰 **Salary:** $170,000 - $252,500
 - 🕒 **Posted:** 2026-09-10
