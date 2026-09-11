@@ -1,92 +1,114 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-11 21:30 UTC*
+*Last updated: 2026-09-11 23:39 UTC*
 
-**13 new role(s)** since last run · 59 total in last 24h
+**16 new role(s)** since last run · 61 total in last 24h
 
-### [Interim Executive Director](https://www.indeed.com/viewjob?jk=9e14949ab4b0dbc0) — The HR Firm
-- 📍 **Location:** Ventura, CA, US
-- 💰 **Salary:** $70k–$85k/yr
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=bb55c2087fac9ce8) — Children's Institute, Inc.
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $275k–$310k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-11
 
-### [Medical Program Director (Registered Nurse)](https://www.indeed.com/viewjob?jk=8af686455280a012) — Fresh Start Surgical Gifts
-- 📍 **Location:** Carlsbad, CA, US
+### [Program Director of CCCYO Workforce Development and School Bus Services](https://www.indeed.com/viewjob?jk=a3786f04934169cd) — Catholic Charities San Francisco
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $85k–$90k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-11
+
+### [Residential Services Program Director](https://www.indeed.com/viewjob?jk=4e09d0db0705fbe2) — PRC Baker Places
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $125k–$140k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
+
+### [Executive Director, Business Systems & PMO](https://www.indeed.com/viewjob?jk=718d2c7132d6dbdd) — Boston Children's Hospital
+- 📍 **Location:** Boston, MA, US
+- 💰 **Salary:** $211k–$338k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-11
+
+### [Executive Director](https://www.indeed.com/viewjob?jk=4dd259849b3e32f1) — Sacred Threads
+- 📍 **Location:** Newton, MA, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-11
+
+### [Director of Operations](https://www.indeed.com/viewjob?jk=cf11e746461ecbe6) — Peninsula Light Company
+- 📍 **Location:** Gig Harbor, WA, US
+- 💰 **Salary:** $169k–$214k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-11
+
+### [President and Chief Executive Officer (2027-28 SY)](https://www.indeed.com/viewjob?jk=6d1727e1c42acf2b) — STAR Academy Charter School
+- 📍 **Location:** Memphis, TN, US
+- 💰 **Salary:** $130k–$180k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-11
+
+### [Director of Operations & Strategy](https://www.indeed.com/viewjob?jk=ab2425247555fe8f) — United Way
+- 📍 **Location:** Keene, NH, US
+- 💰 **Salary:** $80k–$83k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-11
+
+### [Development Director](https://www.indeed.com/viewjob?jk=76c88d572bafbd85) — Colorado Mountain Club
+- 📍 **Location:** Golden, CO, US
+- 💰 **Salary:** $75k–$90k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-11
+
+### [Assistant Director of Advancement Communications](https://www.indeed.com/viewjob?jk=9c70ac344e2f2b43) — Stonehill College
+- 📍 **Location:** Easton, MA, US
+- 💰 **Salary:** $69k–$74k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-08-27
+
+### [Executive Director - Illini Union](https://www.indeed.com/viewjob?jk=88241d3911015178) — University of Illinois
+- 📍 **Location:** Urbana, IL, US
+- 💰 **Salary:** $170k–$190k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-11
+
+### [Managing Director, Development & External Affairs](https://www.indeed.com/viewjob?jk=e801034f68e05d0a) — KID Museum
+- 📍 **Location:** Bethesda, MD, US
+- 💰 **Salary:** $140k–$150k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-11
+
+### [Executive Director, Pharmaceutical Development, Small Molecule](https://www.indeed.com/viewjob?jk=a369341342c23909) — Insmed Incorporated
+- 📍 **Location:** Bridgewater, NJ, US
+- 💰 **Salary:** $247k–$337k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-11
+
+### [Executive Director, API Development, Small Molecule](https://www.indeed.com/viewjob?jk=70c91ade332ebb19) — Insmed Incorporated
+- 📍 **Location:** Bridgewater, NJ, US
+- 💰 **Salary:** $247k–$337k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-11
+
+### [Managing Director, Philanthropy and External Affairs](https://www.indeed.com/viewjob?jk=7fc32aea8f4d9bc7) — Kids in Tech
+- 📍 **Location:** Lowell, MA, US
 - 💰 **Salary:** $120k–$140k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-11
 
-### [Deputy Director (Deputy Director of Operations) - VID 223602](https://www.indeed.com/viewjob?jk=998ee6f41642e8dc) — Unknown
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $148k–$187k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
-
-### [Associate Executive Director](https://www.indeed.com/viewjob?jk=027684af817f6297) — Jewish Service for the Developmentally Disabled
-- 📍 **Location:** Livingston, NJ, US
-- 💰 **Salary:** $95k–$110k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
-
-### [The Thomas A. 1977 and Gina T. Russo 1977 Executive Director](https://www.indeed.com/viewjob?jk=27d3bed4112d1beb) — Dartmouth College
-- 📍 **Location:** Hanover, NH, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
-
-### [Senior Director of Advancement](https://www.indeed.com/viewjob?jk=2dc206b446774f73) — Knox County Homeless Coalition
-- 📍 **Location:** Rockport, ME, US
-- 💰 **Salary:** $94k–$104k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
-
-### [Association Executive Director](https://www.indeed.com/viewjob?jk=f886a5a4b9caef81) — Raybourn Group International
-- 📍 **Location:** Indianapolis, IN, US
-- 💰 **Salary:** $100k–$105k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=525d024e0b61ee87) — United Way of Seneca County, Inc.
-- 📍 **Location:** Waterloo, NY, US
-- 💰 **Salary:** $55k–$60k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
-
-### [Director of Development (SBS)](https://www.indeed.com/viewjob?jk=6d69f98bc2cfb030) — University of Massachusetts Amherst
-- 📍 **Location:** Hadley, MA, US
-- 💰 **Salary:** $142k–$152k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
-
-### [COO](https://www.indeed.com/viewjob?jk=d6658d097300eb0c) — Continuum Packing Solutions, LLC
-- 📍 **Location:** Glenview, IL, US
-- 💰 **Salary:** $300k–$350k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-11
-
-### [Chief Program Officer](https://www.indeed.com/viewjob?jk=f929a3dbe79250bc) — Gordon JCC
-- 📍 **Location:** Nashville, TN, US
-- 💰 **Salary:** $95k–$105k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-10
-
-### [Advancement Executive Director, University of Rochester Medicine Clinical Programs](https://www.indeed.com/viewjob?jk=0b14490573ecab81) — University of Rochester
-- 📍 **Location:** River Road, NC, US
-- 💰 **Salary:** $109k–$164k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
-
-### [Development Director at FeedNC](https://www.indeed.com/viewjob?jk=4f6607454db1b55e) — Mooresville Soup Kitchen
-- 📍 **Location:** Mooresville, NC, US
-- 💰 **Salary:** $62k–$72k/yr
+### [MCTF ASSOCIATE DEPUTY DIRECTOR NF5](https://www.indeed.com/viewjob?jk=db4b223370899bde) — Marine Corps Community Services/USMC Civilian
+- 📍 **Location:** Quantico, VA, US
+- 💰 **Salary:** $165k–$180k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-11
