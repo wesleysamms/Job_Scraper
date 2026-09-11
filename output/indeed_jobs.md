@@ -1,68 +1,105 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-10 23:30 UTC*
+*Last updated: 2026-09-11 01:38 UTC*
 
-**10 new role(s)** since last run · 66 total in last 24h
+**16 new role(s)** since last run · 59 total in last 24h
 
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=45303fc6220d7296) — San Luis & Delta-Mendota Water Authority
-- 📍 **Location:** Byron, CA, US
-- 💰 **Salary:** $227k–$265k/yr
+### [Program Manager Program Director](https://www.indeed.com/viewjob?jk=ae377747caf0e658) — Sevita
+- 📍 **Location:** Antelope, CA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-10
 
-### [Program Director (Prevention Services)](https://www.indeed.com/viewjob?jk=10dedcf032e3ee22) — REM Center Inc.
-- 📍 **Location:** Bronx, NY, US
-- 💰 **Salary:** $80k–$85k/yr
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=d527f0bc34011033) — Bakersfield Homeless Center
+- 📍 **Location:** Bakersfield, CA, US
+- 💰 **Salary:** $120k–$150k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-10
 
-### [Executive Director, Global Scientific Communications Lead - Hematology](https://www.indeed.com/viewjob?jk=b6a4510d584b6c3d) — Menarini
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $260k–$362k/yr
-- **Work mode:** Remote in-state eligible
+### [Director of Operations](https://www.indeed.com/viewjob?jk=c724b2b391fca5cc) — Northeast Community Clinic
+- 📍 **Location:** Alhambra, CA, US
+- 💰 **Salary:** $150k–$200k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
+
+### [Program Director-Hybrid](https://www.indeed.com/viewjob?jk=9dba2033f66e8dd3) — Unknown
+- 📍 **Location:** San Fernando, CA, US
+- 💰 **Salary:** $83k–$100k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-09
 
-### [Program Director, Fidelity Charitable Catalyst Fund](https://www.indeed.com/viewjob?jk=fcfb907e58eacf13) — Fidelity Investments
-- 📍 **Location:** Merrimack, NH, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-10
-
-### [Executive Assistant to the CEO](https://www.indeed.com/viewjob?jk=6292191b0d165318) — The Forum for Youth Investment
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $75k–$85k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-10
-
-### [CEO](https://www.indeed.com/viewjob?jk=39bbf905617fdeab) — Olympus Gaming Lounge
-- 📍 **Location:** Louisville, KY, US
+### [President and Chief Executive Officer - Meals on Wheels of Metro Tulsa](https://www.indeed.com/viewjob?jk=beca76abf4368c58) — Schnake Turnbo Frank
+- 📍 **Location:** Tulsa, OK, US
 - **Work mode:** On-site
-- **Job type:** parttime, fulltime, contract, internship
 - 🕒 **Posted:** 2026-09-10
 
-### [Chief Operating Officer Atrium Health Union](https://www.indeed.com/viewjob?jk=69c974d515bfc9b2) — Advocate Aurora Health
-- 📍 **Location:** Monroe, NC, US
+### [Director of Advancement](https://www.indeed.com/viewjob?jk=223051d6839477b1) — Unknown
+- 📍 **Location:** Clive, IA, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
+
+### [Executive Director](https://www.indeed.com/viewjob?jk=d3a86147b6ca9ea9) — City Colleges of Chicago
+- 📍 **Location:** Chicago, IL, US
+- 💰 **Salary:** $105k–$107k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-10
 
-### [Director of Development](https://www.indeed.com/viewjob?jk=9740c366bbf32b3a) — American Red Cross
-- 📍 **Location:** TX, US
+### [Director of Development](https://www.indeed.com/viewjob?jk=2597206cebfb6d24) — St. Luke's University Health Network
+- 📍 **Location:** Bethlehem, PA, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-10
 
-### [Executive Director, Partnerships](https://www.indeed.com/viewjob?jk=e5b68f6299211a12) — Ballast Research
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $180k–$200k/yr
+### [Senior Director of Major Gifts & Legacy Planning](https://www.indeed.com/viewjob?jk=fed4c051ca3619c2) — First Liberty Institute
+- 📍 **Location:** Plano, TX, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-10
+
+### [Director of Development](https://www.indeed.com/viewjob?jk=4d8be514b180052d) — L.E.A.D. INC
+- 📍 **Location:** Naples, FL, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
+
+### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=724ce38a826a48a9) — VISION CORPORATION
+- 📍 **Location:** Phoenix, AZ, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-10
 
-### [Executive Director, Corporate Communications](https://www.indeed.com/viewjob?jk=fd66e29493c7cdc3) — Ocular Therapeutix, Inc.
-- 📍 **Location:** Bedford, MA, US
-- 💰 **Salary:** $320k–$345k/yr
+### [Executive Director, Philanthropy, Newton-Wellesley Hospital](https://www.indeed.com/viewjob?jk=cc36e74f428a2386) — Newton-Wellesley Hospital
+- 📍 **Location:** Newton, MA, US
+- 💰 **Salary:** $162k–$250k/yr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
+
+### [Executive Director, Philanthropy, Newton-Wellesley Hospital](https://www.indeed.com/viewjob?jk=a0cdfb2429f6c937) — Newton-Wellesley Hospital
+- 📍 **Location:** Somerville, MA, US
+- 💰 **Salary:** $162k–$250k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
+
+### [Program Director](https://www.indeed.com/viewjob?jk=541c13e42f229c61) — The Boys & Girls Clubs of Metro Atlanta
+- 📍 **Location:** Norcross, GA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
+
+### [Associate Director of Development](https://www.indeed.com/viewjob?jk=c7a227a28aca69d3) — The Nature Conservancy
+- 📍 **Location:** Brunswick, ME, US
+- 💰 **Salary:** $88k–$93k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
+
+### [Director of Development](https://www.indeed.com/viewjob?jk=f1a4cf260134b0b9) — Read To Succeed Asheville
+- 📍 **Location:** Asheville, NC, US
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-10
