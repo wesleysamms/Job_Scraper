@@ -1,16 +1,13 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-13 21:04 UTC*
+*Last updated: 2026-09-13 23:24 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Director of Partnerships & Growth](https://www.linkedin.com/jobs/view/4465491208/) — PLOT Daily
-- 📍 **Location:** Los Angeles Metropolitan Area
+### [Public Assets Institute, Executive Director](https://www.linkedin.com/jobs/view/4464754793/) — Jobs That Are Left
+- 📍 **Location:** Montpelier, VT
 - 🕒 **Posted:** 2026-09-13
 
-### [executive director](https://www.linkedin.com/jobs/view/4465482236/) — WNC Nonprofit Pathways
-- 📍 **Location:** Home, KS
-- 🕒 **Posted:** 2026-09-13
-
-### [Senior Director of Operations](https://www.linkedin.com/jobs/view/4464756687/) — Scientific Search
-- 📍 **Location:** Philadelphia, PA
+### [Executive Director](https://www.linkedin.com/jobs/view/4465486316/) — Optimal HR Solutions
+- 📍 **Location:** Willimantic, CT
+- 💰 **Salary:** $80,000–$100,000 annually
 - 🕒 **Posted:** 2026-09-13
