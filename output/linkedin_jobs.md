@@ -1,71 +1,91 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-14 23:28 UTC*
+*Last updated: 2026-09-15 01:51 UTC*
 
-**15 new role(s)** since last run · 15 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [Executive Director, Institutional Sales - West Coast](https://www.linkedin.com/jobs/view/4466129775/) — Morgan Stanley
+### [VP of Data Center Development / Chief Development Officer](https://www.linkedin.com/jobs/view/4466154620/) — POSH
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-14
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-15
 
-### [Executive Director, Institutional Sales - West Coast](https://www.linkedin.com/jobs/view/4466137029/) — Morgan Stanley
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-14
+### [GCO M&A Program Director](https://www.linkedin.com/jobs/view/4465270116/) — Workday
+- 📍 **Location:** Pleasanton, CA
+- 💰 **Salary:** $176,400 USD - $264,600 USD
+- 🕒 **Posted:** 2026-09-15
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4466130719/) — Scion Executive Search
-- 📍 **Location:** Essex County, NJ
-- 🕒 **Posted:** 2026-09-14
+### [Executive Director (IDD Services)](https://www.linkedin.com/jobs/view/4466143521/) — Community Options, Inc.
+- 📍 **Location:** Binghamton, NY
+- 🕒 **Posted:** 2026-09-15
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4466115883/) — Norwalk ACTS
-- 📍 **Location:** Norwalk, CT
-- 🕒 **Posted:** 2026-09-14
+### [Managing Director, Engineering Group Leader](https://www.linkedin.com/jobs/view/4467428027/) — BNY
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-15
 
-### [Executive Director, Facilities (SY26-27)](https://www.linkedin.com/jobs/view/4465242810/) — Boston Public Schools
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-09-14
+### [GCO M&A Program Director](https://www.linkedin.com/jobs/view/4465266124/) — Workday
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $176,400 USD - $264,600 USD
+- 🕒 **Posted:** 2026-09-15
 
-### [Area Director of Operations (Hospice)](https://www.linkedin.com/jobs/view/4465244945/) — Care Hospice, Inc.
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $150,000 - $160,000 per year
-- 🕒 **Posted:** 2026-09-14
+### [Executive Director](https://www.linkedin.com/jobs/view/4466147744/) — Parents Attentive to Children (PATCH) Hawaii
+- 📍 **Location:** Honolulu, HI
+- 🕒 **Posted:** 2026-09-15
 
-### [Area Director of Operations - Hospice](https://www.linkedin.com/jobs/view/4465257179/) — Care Hospice, Inc.
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $150,000 - $160,000 per year
-- 🕒 **Posted:** 2026-09-14
+### [Executive Director – Agriculture, Natural Resources & Strategic Centers, USU Extension](https://www.linkedin.com/jobs/view/4467437134/) — Utah State University
+- 📍 **Location:** Logan, UT
+- 🕒 **Posted:** 2026-09-15
 
-### [Development Director](https://www.linkedin.com/jobs/view/4466116881/) — Utah Valley University
-- 📍 **Location:** Orem, UT
-- 💰 **Salary:** $90,311.00 - $106,248.00 Annually
-- 🕒 **Posted:** 2026-09-14
+### [Executive Director/Creative District Coordinator](https://www.linkedin.com/jobs/view/4467403641/) — The Golden Husk Theatre
+- 📍 **Location:** Ord, NE
+- 💰 **Salary:** $52,000-$65,000
+- 🕒 **Posted:** 2026-09-15
 
-### [Director of Development](https://www.linkedin.com/jobs/view/4467281978/) — The Florida Orchestra
-- 📍 **Location:** St. Petersburg, FL
-- 💰 **Salary:** $75k-$80k
-- 🕒 **Posted:** 2026-09-14
+### [Hospice Executive Director – HS Operations](https://www.linkedin.com/jobs/view/4466148696/) — LifeCare Home Health Family
+- 📍 **Location:** Reno, NV
+- 🕒 **Posted:** 2026-09-15
 
-### [Director of Development, GWSB](https://www.linkedin.com/jobs/view/4466405720/) — The George Washington University
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $123,884.24 - $173,365.68
-- 🕒 **Posted:** 2026-09-14
+### [Senior Program Director (Onsite Richmond, Virginia)](https://www.linkedin.com/jobs/view/4453341685/) — Maximus
+- 📍 **Location:** Richmond, VA
+- 💰 **Salary:** $130,000.00 - $175,000.00
+- 🕒 **Posted:** 2026-09-15
 
-### [Executive Director, Sales & Marketing](https://www.linkedin.com/jobs/view/4467412038/) — Legends Global
-- 📍 **Location:** Detroit, MI
-- 🕒 **Posted:** 2026-09-14
+### [Executive Director (Volunteer)](https://www.linkedin.com/jobs/view/4466151786/) — Pupcycled
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-15
 
-### [Program Director](https://www.linkedin.com/jobs/view/4465245894/) — Sevita
-- 📍 **Location:** Alexandria, MN
-- 🕒 **Posted:** 2026-09-14
+### [RESIDENT REGIONAL DIRECTOR of OPERATIONS (HEALTHCARE) VANCOUVER WA](https://www.linkedin.com/jobs/view/4467416803/) — Compass Healthcare
+- 📍 **Location:** Vancouver, WA
+- 💰 **Salary:** $145000-$155000
+- 🕒 **Posted:** 2026-09-15
 
-### [Program Manager-Deputy Director (Residential Construction Department)](https://www.linkedin.com/jobs/view/4467299278/) — Jacobs
-- 📍 **Location:** Fort Lauderdale, FL
-- 💰 **Salary:** $250,000.00/yr - $330,000.00/yr
-- 🕒 **Posted:** 2026-09-14
+### [CEO - AI Finance](https://www.linkedin.com/jobs/view/4466153447/) — Protingent
+- 📍 **Location:** Algona, WA
+- 🕒 **Posted:** 2026-09-15
 
-### [Program Manager-Deputy Director (Residential Construction Department)](https://www.linkedin.com/jobs/view/4467417020/) — Jacobs
-- 📍 **Location:** Davie, FL
-- 💰 **Salary:** $250,000.00/yr - $330,000.00/yr
-- 🕒 **Posted:** 2026-09-14
+### [Director of Operations](https://www.linkedin.com/jobs/view/4465278036/) — crewhr
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-09-15
 
-### [Director of Operations, Geospatial](https://www.linkedin.com/jobs/view/4457165834/) — Settimio Consulting Services, Inc.
-- 📍 **Location:** Florida, United States
-- 🕒 **Posted:** 2026-09-14
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4467410888/) — Autosphere Labs
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-15
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4465473181/) — Amara NZero USA
+- 📍 **Location:** Stafford, TX
+- 🕒 **Posted:** 2026-09-15
+
+### [CEO - AI Neobank](https://www.linkedin.com/jobs/view/4466154453/) — Protingent
+- 📍 **Location:** Algona, WA
+- 🕒 **Posted:** 2026-09-15
+
+### [CEO - AI Stockbroking](https://www.linkedin.com/jobs/view/4466147571/) — Protingent
+- 📍 **Location:** Algona, WA
+- 🕒 **Posted:** 2026-09-15
+
+### [CEO - AI Investing](https://www.linkedin.com/jobs/view/4466140656/) — Protingent
+- 📍 **Location:** Algona, WA
+- 🕒 **Posted:** 2026-09-15
+
+### [Founding Director of Partnerships](https://www.linkedin.com/jobs/view/4466153544/) — SportsWrap Productions
+- 📍 **Location:** United States
+- 💰 **Salary:** $100,000–$250,000
+- 🕒 **Posted:** 2026-09-15
