@@ -1,103 +1,53 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-15 22:37 UTC*
+*Last updated: 2026-09-16 00:46 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**11 new role(s)** since last run · 11 total in last 1h
 
-### [President & CEO](https://www.linkedin.com/jobs/view/4466587416/) — East Bay SPCA
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $275,000.00/yr - $325,000.00/yr
-- 🕒 **Posted:** 2026-09-15
+### [Director of Partnerships](https://www.linkedin.com/jobs/view/4467915194/) — TailorMed
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-16
 
-### [Deputy Chief Executive Officer](https://www.linkedin.com/jobs/view/4466570949/) — California State Association of Counties®
-- 📍 **Location:** Alameda, CA
-- 💰 **Salary:** $223,349.10 to $321,622.86
-- 🕒 **Posted:** 2026-09-15
+### [Executive Director, Clinical Operations](https://www.linkedin.com/jobs/view/4467932031/) — Beth Israel Lahey Health
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $190,000.00 USD - $250,000.00 USD
+- 🕒 **Posted:** 2026-09-16
 
-### [Chief of Staff to the CEO](https://www.linkedin.com/jobs/view/4466591030/) — San Francisco Compute Company
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-15
+### [Director of Development, CANR / Development Officer II/S](https://www.linkedin.com/jobs/view/4466591604/) — Michigan State University College of Engineering
+- 📍 **Location:** East Lansing, MI
+- 🕒 **Posted:** 2026-09-16
 
-### [UN Women: Deputy Director for Financial Management, New York, USA, D1 FTA](https://www.linkedin.com/jobs/view/4467900359/) — International Civil Aviation Organization
-- 📍 **Location:** New York, United States
-- 🕒 **Posted:** 2026-09-15
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4467792244/) — Animal Humane New Mexico
-- 📍 **Location:** Albuquerque, NM
-- 💰 **Salary:** $150,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-09-15
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4467900244/) — Specialized Recruiting Group - Central Oregon
-- 📍 **Location:** Redmond, OR
-- 💰 **Salary:** $105,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-09-15
-
-### [Executive Director, Angelo State Global](https://www.linkedin.com/jobs/view/4467907246/) — Angelo State University
-- 📍 **Location:** San Angelo, TX
-- 🕒 **Posted:** 2026-09-15
-
-### [Executive Director of Practice Operations](https://www.linkedin.com/jobs/view/4467799123/) — AdventHealth
-- 📍 **Location:** Maitland, FL
-- 💰 **Salary:** $111,800.00 - $207,979.20
-- 🕒 **Posted:** 2026-09-15
-
-### [Program Director 1 - Reporting Services](https://www.linkedin.com/jobs/view/4467900083/) — University of Houston
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-09-15
-
-### [Program Director- Youth Development Houston ISD](https://www.linkedin.com/jobs/view/4467293258/) — YMCA of Greater Houston
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-09-15
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4467911007/) — Prime Healthcare
-- 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-09-15
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4467791113/) — Prime Healthcare
-- 📍 **Location:** Providence, RI
-- 💰 **Salary:** $280,000.00 to $320,000.00
-- 🕒 **Posted:** 2026-09-15
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4467799071/) — Prime Healthcare
-- 📍 **Location:** Trenton, NJ
-- 💰 **Salary:** $280,000.00 to $320,000.00
-- 🕒 **Posted:** 2026-09-15
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4467786971/) — Prime Healthcare
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $270,000.00 to $300,000.00
-- 🕒 **Posted:** 2026-09-15
-
-### [Program Director, School Based Services](https://www.linkedin.com/jobs/view/4467795188/) — Centerstone
-- 📍 **Location:** Alton, IL
-- 🕒 **Posted:** 2026-09-15
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4467903364/) — Knuckleball Consulting
-- 📍 **Location:** Kansas City, MO
-- 💰 **Salary:** $90,000.00/yr - $100,000.00/yr
-- 🕒 **Posted:** 2026-09-15
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4467904078/) — University of Nebraska Foundation
-- 📍 **Location:** Lincoln, NE
-- 🕒 **Posted:** 2026-09-15
-
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4465934036/) — bigybtykhans
+### [Director of Partnerships](https://www.linkedin.com/jobs/view/4466513438/) — Jobgether
 - 📍 **Location:** United States
+- 💰 **Salary:** $160,930 to $210,000,
+- 🕒 **Posted:** 2026-09-16
+
+### [Museum Association of Arizona Executive Director](https://www.linkedin.com/jobs/view/4467920050/) — Western Museums Association (WMA)
+- 📍 **Location:** Atherton, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Director of Philanthropy, Community Giving District 2](https://www.linkedin.com/jobs/view/4463075057/) — YMCA of Greater Seattle
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $85,000 - $110,000/annually
+### [Managing Director](https://www.linkedin.com/jobs/view/4464916848/) — BerkeleyHaas Ventures
+- 📍 **Location:** Berkeley, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Campaign Fundraising Director - Light the Night - Orlando, Tampa, and Jacksonville](https://www.linkedin.com/jobs/view/4467911130/) — Blood Cancer United
-- 📍 **Location:** Orlando, FL
+### [Director of Operations](https://www.linkedin.com/jobs/view/4467905922/) — ABA Centers of Georgia
+- 📍 **Location:** Tucker, GA
+- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-09-15
 
-### [Community Development Director](https://www.linkedin.com/jobs/view/4467786832/) — City of Delano, CA
-- 📍 **Location:** Delano, CA
+### [Interim CEO](https://www.linkedin.com/jobs/view/4466597382/) — Scion Staffing
+- 📍 **Location:** Detroit, MI
+- 💰 **Salary:** $160.00/hr - $168.00/hr
 - 🕒 **Posted:** 2026-09-15
 
-### [Program Director III – Arlington Drive (Tacoma, WA)](https://www.linkedin.com/jobs/view/4458029582/) — YMCA of Greater Seattle
-- 📍 **Location:** Tacoma, WA
-- 💰 **Salary:** $98,000-105,000/yr
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4467903871/) — TALTRAN Global
+- 📍 **Location:** Boca Raton, FL
+- 🕒 **Posted:** 2026-09-15
+
+### [Managing Director, Lead for Product Transformation - SSIM](https://www.linkedin.com/jobs/view/4467795771/) — State Street
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $170,000 - $282,500
+- 🕒 **Posted:** 2026-09-15
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4463970687/) — Trustwell Living, LLC
+- 📍 **Location:** Klamath Falls, OR
 - 🕒 **Posted:** 2026-09-15
