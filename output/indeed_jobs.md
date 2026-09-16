@@ -1,140 +1,138 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-16 07:01 UTC*
+*Last updated: 2026-09-16 19:26 UTC*
 
-**21 new role(s)** since last run · 56 total in last 24h
+**21 new role(s)** since last run · 52 total in last 24h
 
-### [Deputy Director](https://www.indeed.com/viewjob?jk=61af8877f862b2e7) — California Foundation for Independent Living Centers - CFILC
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $88k–$102k/yr
+### [Lead Development Officer (Director of Development)](https://www.indeed.com/viewjob?jk=18fd1d943aae3510) — University of Southern California
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $132k–$160k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-15
+
+### [Executive Director of Advocacy (Remote)](https://www.indeed.com/viewjob?jk=49ddc716a016f450) — LEARN Behavioral
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $120k–$170k/yr
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-15
 
-### [Program Director](https://www.indeed.com/viewjob?jk=c9a1ba45c3d9e666) — Sevita
-- 📍 **Location:** Bakersfield, CA, US
+### [Program Director – Respite & Social Services](https://www.indeed.com/viewjob?jk=2956b20fccbfe8e5) — Unknown
+- 📍 **Location:** Corona, CA, US
+- 💰 **Salary:** $125k–$155k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-08-19
 
-### [CHC - Department Chair and Program Director, Physical Therapy](https://www.indeed.com/viewjob?jk=1c3105dde2f4ad35) — A T Still University Of Health Sciences
-- 📍 **Location:** San Luis Obispo, CA, US
-- 💰 **Salary:** $116k–$210k/yr
+### [Interim Executive Director ( Must Submit Proposal)](https://www.indeed.com/viewjob?jk=7ca39dfec23c1f8e) — Avenues for Youth
+- 📍 **Location:** Minneapolis, MN, US
+- 💰 **Salary:** $95–$125/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
-
-### [Program Director - Older Adult Center](https://www.indeed.com/viewjob?jk=39b53b268e76a070) — Commonpoint
-- 📍 **Location:** Forest Hills, NY, US
-- 💰 **Salary:** $75k–$100k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=3c5bbab9c8c55844) — Unknown
-- 📍 **Location:** Albany, OR, US
-- 💰 **Salary:** $85k–$107k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
+- **Job type:** temporary, contract
 - 🕒 **Posted:** 2026-09-16
 
-### [Director of Development](https://www.indeed.com/viewjob?jk=a1af8f41ff1571f1) — Academy of Music Production Education and Development (AMPED)
-- 📍 **Location:** Louisville, KY, US
-- 💰 **Salary:** $75k–$110k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-16
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=b08cda889efe26d2) — Midwest Food Bank NFP
-- 📍 **Location:** Sioux Falls, SD, US
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-15
-
-### [EXECUTIVE DIRECTOR NASHVILLE GENERAL HOSPITAL FOUNDATION](https://www.indeed.com/viewjob?jk=9af0d27a4caa6a59) — Nashville General Hospital at Meharry
-- 📍 **Location:** Nashville, TN, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
-
-### [Senior Director of Operations](https://www.indeed.com/viewjob?jk=013a59fa682e0a82) — Beyond Impact
-- 📍 **Location:** US
-- 💰 **Salary:** $180k–$220k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
-
-### [Fund Development Director](https://www.indeed.com/viewjob?jk=5df632eda6d8c07c) — Arc Herkimer
-- 📍 **Location:** Herkimer, NY, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
-
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=1383956d4e129589) — Sussman Shank LLP
-- 📍 **Location:** Portland, OR, US
+### [Director of Communications and Marketing](https://www.indeed.com/viewjob?jk=da72f165af2d6c0a) — University of Minnesota
+- 📍 **Location:** Minneapolis, MN, US
+- 💰 **Salary:** $160k–$195k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-16
 
-### [Non Profit CEO](https://www.indeed.com/viewjob?jk=12c3ea5719ecd781) — The Arc Gateway, Inc.
-- 📍 **Location:** Pensacola, FL, US
-- 💰 **Salary:** $125k–$175k/yr
+### [Executive Assistant, CEO's Office, Governance, & Development](https://www.indeed.com/viewjob?jk=22896e76c38694b2) — Girl Scouts of the USA
+- 📍 **Location:** Jacksonville, FL, US
+- 💰 **Salary:** $58k–$65k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-16
 
-### [Chief Program Officer](https://www.indeed.com/viewjob?jk=8d80f1e345e3f663) — Cook Inlet Tribal Council
-- 📍 **Location:** Anchorage, AK, US
+### [Executive Director](https://www.indeed.com/viewjob?jk=c393627372fbe4d4) — Congregation Kol Ami
+- 📍 **Location:** Tampa, FL, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-09-16
 
-### [Director of Operations](https://www.indeed.com/viewjob?jk=911b41b54fce3681) — Coury Hospitality
-- 📍 **Location:** Dallas, TX, US
+### [Director of Operations](https://www.indeed.com/viewjob?jk=a5b042b778abcb2f) — Kairos Academies
+- 📍 **Location:** St. Louis, MO, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-09-16
 
-### [Executive Director of Online Learning and Distance Education](https://www.indeed.com/viewjob?jk=b4e7da0b63d47a49) — Bradley University
-- 📍 **Location:** Peoria, IL, US
-- 💰 **Salary:** $115k–$125k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
-
-### [Associate Director of Philanthropy](https://www.indeed.com/viewjob?jk=4295955882a1facc) — Texas A&M University Commerce
-- 📍 **Location:** Commerce, TX, US
+### [Program Director - School To Work Program](https://www.indeed.com/viewjob?jk=7529a362efffd811) — TriHealth Inc.
+- 📍 **Location:** Cincinnati, OH, US
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-09-16
 
-### [Executive Director of Annual Giving](https://www.indeed.com/viewjob?jk=e9cc58203d7e6514) — Massachusetts Institute of Technology
-- 📍 **Location:** Cambridge, MA, US
-- 💰 **Salary:** $189k–$245k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
-
-### [Managing Director - Exempt Organizations and Philanthropy - Washington National Tax](https://www.indeed.com/viewjob?jk=be891168407cf853) — RSM
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $172k–$376k/yr
+### [Executive Director](https://www.indeed.com/viewjob?jk=387dd9f2db97788e) — PARTNERSHIP FOR CHILDREN
+- 📍 **Location:** Dallas, NC, US
+- 💰 **Salary:** $84k–$92k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-09-16
 
-### [Director, Digital/Technical Product Management - CEO MR](https://www.indeed.com/viewjob?jk=619f88331cf76b64) — USAA
-- 📍 **Location:** San Antonio, TX, US
-- 💰 **Salary:** $143k–$274k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-15
-
-### [Executive Director, IT Commercial](https://www.indeed.com/viewjob?jk=a45ca3d05cdf4d37) — Immatics US
+### [Executive Director, Houston VA Research & Education Foundation](https://www.indeed.com/viewjob?jk=c9892dc1f88a115b) — Unknown
 - 📍 **Location:** Houston, TX, US
-- 💰 **Salary:** $245k–$275k/yr
-- **Work mode:** Remote in-state eligible
+- **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
+- 🕒 **Posted:** 2026-09-16
 
-### [DEPUTY DIRECTOR OF CDRA](https://www.indeed.com/viewjob?jk=92b77f5ac6cf48b8) — City of South Fulton
-- 📍 **Location:** South Fulton, GA, US
-- 💰 **Salary:** $133k–$170k/yr
+### [Executive Director | Virgin Islands Museum of Art](https://www.indeed.com/viewjob?jk=7a9883c32027b1f1) — ARCS
+- 📍 **Location:** US
+- 💰 **Salary:** $225k–$275k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-11
+
+### [Director of Development](https://www.indeed.com/viewjob?jk=a3a72f68ebb4cec5) — SAFESPACE INC
+- 📍 **Location:** Stuart, FL, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
+
+### [Chief Development Officer](https://www.indeed.com/viewjob?jk=eb3473b04b4d6b46) — Kansas City Pet Project
+- 📍 **Location:** Kansas City, MO, US
+- 💰 **Salary:** $80k–$90k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-15
+
+### [Director of Philanthropy](https://www.indeed.com/viewjob?jk=191ae31261926cde) — CommonLit
+- 📍 **Location:** US
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-09
+
+### [Interim Deputy Director, Strategy, Planning & Management, HIV/TB Delivery](https://www.indeed.com/viewjob?jk=3810a4a6de13460d) — Gates Foundation
+- 📍 **Location:** Seattle, WA, US
+- 💰 **Salary:** $238k–$406k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
+
+### [Executive Director, QCORE](https://www.indeed.com/viewjob?jk=529f44d9bb1eafc3) — Montana State University
+- 📍 **Location:** Bozeman, MT, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
+
+### [Executive Director](https://www.indeed.com/viewjob?jk=0a8099ded6e5fa52) — Cherished Hearts
+- 📍 **Location:** Laurel, MS, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
+
+### [Program Director](https://www.indeed.com/viewjob?jk=261fdcc3ef11df75) — Sevita
+- 📍 **Location:** Oconto Falls, WI, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
+
+### [Program Director - Residential Single Site](https://www.indeed.com/viewjob?jk=7756be65f8d54bb0) — Vinfen
+- 📍 **Location:** West Hartford, CT, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-10
+
+### [Health System Specialist (Executive Director)](https://www.indeed.com/viewjob?jk=b1dd29d7d847b14c) — US Department of Veterans Affairs
+- 📍 **Location:** Nashville, TN, US
+- 💰 **Salary:** $75k–$97k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-16
