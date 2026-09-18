@@ -1,109 +1,110 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-18 18:49 UTC*
+*Last updated: 2026-09-18 22:03 UTC*
 
 **24 new role(s)** since last run · 24 total in last 1h
 
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4467882948/) — National Veterans Foundation
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $80,000 - $100,000
+### [Director of Operations (West Region)](https://www.linkedin.com/jobs/view/4469249103/) — RHF (Retirement Housing Foundation)
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** $190,000 - $235,000
 - 🕒 **Posted:** 2026-09-18
 
-### [Program Director - Owner's Rep](https://www.linkedin.com/jobs/view/4380804365/) — Skanska
-- 📍 **Location:** Modesto, CA
+### [Program Director, Foster Youth Services Coordinating Program Technical Assistance Provider](https://www.linkedin.com/jobs/view/4469228974/) — Los Angeles County Office of Education
+- 📍 **Location:** Downey, CA
+- 💰 **Salary:** $13,116 to $16,248 Monthly
 - 🕒 **Posted:** 2026-09-18
 
-### [Deputy Director, Thurgood Marshall Institute](https://www.linkedin.com/jobs/view/4366611074/) — Legal Defense Fund
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $147,200-$184,000
+### [Program Director III](https://www.linkedin.com/jobs/view/4469250047/) — Community Solutions, Inc. (CSI)
+- 📍 **Location:** Barstow, CA
 - 🕒 **Posted:** 2026-09-18
 
-### [Head of Business Development - USCC, Managing Director](https://www.linkedin.com/jobs/view/4449760245/) — Citi
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-18
-
-### [Vice President, Investor Partners Group - COO Team](https://www.linkedin.com/jobs/view/4469208489/) — Golub Capital
+### [Executive Director, Gift Planning](https://www.linkedin.com/jobs/view/4466936586/) — Teachers College, Columbia University
 - 📍 **Location:** New York, United States
-- 💰 **Salary:** $200,000 to $250,000
+- 💰 **Salary:** $155,000 - $175,000 annually
 - 🕒 **Posted:** 2026-09-18
 
-### [Managing Director, Head of FX Operations - COO Group](https://www.linkedin.com/jobs/view/4469220149/) — RBC
+### [School Age Program Director](https://www.linkedin.com/jobs/view/4469243209/) — Children's Aid
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $300,000 - $400,000,
 - 🕒 **Posted:** 2026-09-18
 
-### [columbia, sc public housing executive director](https://www.linkedin.com/jobs/view/4469204368/) — HOUSING AUTHORITY OF THE CITY OF Columbia
-- 📍 **Location:** Columbia, SC
+### [Managing Director, Chief Financial Officer - Global Payments](https://www.linkedin.com/jobs/view/4469249089/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $256,500.00/yr - $500,000.00/yr
 - 🕒 **Posted:** 2026-09-18
 
-### [Executive Director of Programs & Operations](https://www.linkedin.com/jobs/view/4469191557/) — Association Innovation and Management, Inc. (AIM)
-- 📍 **Location:** Reston, VA
+### [Director of Development](https://www.linkedin.com/jobs/view/4468026333/) — Open Doors
+- 📍 **Location:** Norwalk, CT
+- 💰 **Salary:** $95,000 - $100,000 per year
 - 🕒 **Posted:** 2026-09-18
 
-### [Managing Director, People & Culture](https://www.linkedin.com/jobs/view/4468008020/) — MacArthur Foundation
-- 📍 **Location:** Chicago, IL
+### [Executive Director](https://www.linkedin.com/jobs/view/4469258091/) — Elite Logos Ltd
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-18
 
-### [Executive Director - Assisted Living](https://www.linkedin.com/jobs/view/4466923111/) — Trustwell Living, LLC
-- 📍 **Location:** Amarillo, TX
+### [Executive Director](https://www.linkedin.com/jobs/view/4469244191/) — Home Halo of New Mexico
+- 📍 **Location:** Santa Fe, NM
 - 🕒 **Posted:** 2026-09-18
 
-### [Associate Program Director- Durable Medical Equipment (DME) & Sleep](https://www.linkedin.com/jobs/view/4443887534/) — Accreditation Commission for Health Care (ACHC)
-- 📍 **Location:** Cary, NC
+### [CHIEF EXECUTIVE OFFICER (CEO)](https://www.linkedin.com/jobs/view/4468035145/) — The Carlisle Group (TCG)
+- 📍 **Location:** Dayton, OH
+- 💰 **Salary:** $90,000 – $115,000
 - 🕒 **Posted:** 2026-09-18
 
-### [Director of Operations and Business Development - York, PA](https://www.linkedin.com/jobs/view/4468003119/) — Cornerstone Caregiving
-- 📍 **Location:** York, PA
-- 🕒 **Posted:** 2026-09-18
-
-### [Deputy Director of Sales](https://www.linkedin.com/jobs/view/4468000192/) — Safari Club International
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-09-18
-
-### [Managing Director II Trade Finance](https://www.linkedin.com/jobs/view/4441276192/) — First Citizens Bank
-- 📍 **Location:** Charlotte, NC
-- 🕒 **Posted:** 2026-09-18
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4465528032/) — Trustwell Living, LLC
-- 📍 **Location:** Ruston, LA
-- 🕒 **Posted:** 2026-09-18
-
-### [Chief Executive Officer – Highly Engineered Metal Products and Components Manufacturing – Private Equity - 78970](https://www.linkedin.com/jobs/view/4468010393/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** Minneapolis, MN
-- 🕒 **Posted:** 2026-09-18
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4448468118/) — InterSystems
+### [Managing Director](https://www.linkedin.com/jobs/view/4467808440/) — Omni Hotels & Resorts
 - 📍 **Location:** Boston, MA
-- 💰 **Salary:** $222,000—$272,000 USD
 - 🕒 **Posted:** 2026-09-18
 
-### [Associate Director of Advancement](https://www.linkedin.com/jobs/view/4468012288/) — Semester At Sea / ISE
-- 📍 **Location:** Fort Collins, CO
-- 💰 **Salary:** $76,000.00/yr - $80,000.00/yr
+### [Director of Operations](https://www.linkedin.com/jobs/view/4469242541/) — HCA Healthcare
+- 📍 **Location:** Gainesville, FL
 - 🕒 **Posted:** 2026-09-18
 
-### [Sr. Business Development Director](https://www.linkedin.com/jobs/view/4469212377/) — IQVIA
-- 📍 **Location:** Durham, NC
-- 💰 **Salary:** $129,800.00 - $361,800.00
+### [Director of Operations and Sales - Anchorage, AK](https://www.linkedin.com/jobs/view/4468035126/) — Cornerstone Caregiving
+- 📍 **Location:** Anchorage, AK
 - 🕒 **Posted:** 2026-09-18
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4468689805/) — Stircor
-- 📍 **Location:** Greater Chattanooga
+### [Director of Operations & Business Development - Fairbanks, AK](https://www.linkedin.com/jobs/view/4468020417/) — Cornerstone Caregiving
+- 📍 **Location:** Fairbanks, AK
 - 🕒 **Posted:** 2026-09-18
 
-### [Global Program Director](https://www.linkedin.com/jobs/view/4420127154/) — PSA BDP
+### [Director of Operations](https://www.linkedin.com/jobs/view/4469246477/) — HCA Healthcare
+- 📍 **Location:** Fort Walton Beach, FL
+- 🕒 **Posted:** 2026-09-18
+
+### [Director of Operations](https://www.linkedin.com/jobs/view/4469257229/) — HCA Healthcare
+- 📍 **Location:** Niceville, FL
+- 🕒 **Posted:** 2026-09-18
+
+### [VICE PRESIDENT, ARKANSAS MARKET CHIEF OPERATING OFFICER](https://www.linkedin.com/jobs/view/4468025384/) — Freeman Health System
+- 📍 **Location:** Freeman, SD
+- 🕒 **Posted:** 2026-09-18
+
+### [Director of Development](https://www.linkedin.com/jobs/view/4469246527/) — Girl Talk, Inc Knoxville
+- 📍 **Location:** Knoxville, TN
+- 🕒 **Posted:** 2026-09-18
+
+### [Director of Development, Athletics](https://www.linkedin.com/jobs/view/4447581803/) — University of Cincinnati Foundation
+- 📍 **Location:** Cincinnati, OH
+- 💰 **Salary:** $85,000-$100,000 annually
+- 🕒 **Posted:** 2026-09-18
+
+### [Director of Development](https://www.linkedin.com/jobs/view/4466933619/) — North Central Missouri College
+- 📍 **Location:** Trenton, MO
+- 🕒 **Posted:** 2026-09-18
+
+### [Program Director 3 - College of Pharmacy](https://www.linkedin.com/jobs/view/4469239517/) — University of Houston
 - 📍 **Location:** Houston, TX
+- 💰 **Salary:** $75,100 - $85,450
 - 🕒 **Posted:** 2026-09-18
 
-### [Executive Director, Warehouse Management Systems Central Team Leader](https://www.linkedin.com/jobs/view/4469216084/) — CVS Health
-- 📍 **Location:** Woonsocket, RI
-- 💰 **Salary:** $131,500.00 - $303,195.00
+### [Deputy Director II](https://www.linkedin.com/jobs/view/4469237697/) — Connecticut Judicial Branch
+- 📍 **Location:** Hartford, CT
+- 💰 **Salary:** $131,308 - $171,959/year
 - 🕒 **Posted:** 2026-09-18
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4466925135/) — Confidential
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $300,000.00/yr - $350,000.00/yr
+### [Executive Director-Internal Communications](https://www.linkedin.com/jobs/view/4466937292/) — Indiana University Health
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-09-18
 
-### [National Program Director](https://www.linkedin.com/jobs/view/4458904847/) — Syneos Health Commercial Solutions
-- 📍 **Location:** Charlotte, NC
+### [Operational Program Director / 245D Designated Manager * Up to $5000 sign on bonus *](https://www.linkedin.com/jobs/view/4468036054/) — Dungarvin
+- 📍 **Location:** Champlin, MN
+- 💰 **Salary:** $65,000.00 - $66,787.50 annually
 - 🕒 **Posted:** 2026-09-18
