@@ -1,114 +1,113 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-17 22:44 UTC*
+*Last updated: 2026-09-18 00:57 UTC*
 
-**16 new role(s)** since last run · 45 total in last 24h
+**16 new role(s)** since last run · 43 total in last 24h
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=c943041f7aea0923) — The Children's Network of Solano County
-- 📍 **Location:** Fairfield, CA, US
-- 💰 **Salary:** $85k–$105k/yr
+### [Chief Program Officer](https://www.indeed.com/viewjob?jk=50fcc544c5531f33) — Brilliant Corners
+- 📍 **Location:** Sacramento, CA, US
+- 💰 **Salary:** $235k–$245k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=a3a8d779ec0f07dd) — Solana Beach Chamber of Commerce
-- 📍 **Location:** Solana Beach, CA, US
-- 💰 **Salary:** $55k–$70k/yr
+### [Associate Director of Philanthropy and Community Affairs (5836)](https://www.indeed.com/viewjob?jk=21bae8a244dea1db) — People Assisting The Homeless (PATH)
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $81k–$99k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Chief Program Officer](https://www.indeed.com/viewjob?jk=7b01b8bae6e46965) — Brilliant Corners
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $235k–$245k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [J.P. Morgan Wealth Management - Executive Director, Banking & Liquidity Strategy & Execution Lead](https://www.indeed.com/viewjob?jk=1800a604afba522d) — JPMorganChase
+### [Chief Program Officer](https://www.indeed.com/viewjob?jk=13eadc13d9a12a14) — Brilliant Corners
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $235k–$245k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Chief Program Officer](https://www.indeed.com/viewjob?jk=139f9f31cd0975f5) — Brilliant Corners
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $235k–$245k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Executive Director, Banking Payments - Small Business Banking Payables](https://www.indeed.com/viewjob?jk=5deaa5087761f3d8) — JPMorganChase
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $157k–$285k/yr
+- 💰 **Salary:** $180k–$285k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=0725181323fb99f7) — Unknown
-- 📍 **Location:** Chapel Hill, NC, US
-- 💰 **Salary:** $95k–$115k/yr
+### [Executive Director, Channel Execution Transformation and Martech Operations](https://www.indeed.com/viewjob?jk=6d55175707c0e9cc) — JPMorganChase
+- 📍 **Location:** Wilmington, DE, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=4e4e0fbdd263cd83) — Unknown
-- 📍 **Location:** Chapel Hill, NC, US
-- 💰 **Salary:** $95k–$115k/yr
+### [CHIEF OPERATING OFFICER](https://www.indeed.com/viewjob?jk=9ad51edcb322f842) — Gospel Rescue Mission
+- 📍 **Location:** Tucson, AZ, US
+- 💰 **Salary:** $100k–$110k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [J.P. Morgan Wealth Management - Executive Director, Advanced Planner (Wealth Strategist)](https://www.indeed.com/viewjob?jk=f0fb5f4f9d43edea) — JPMorganChase
-- 📍 **Location:** Houston, TX, US
-- 💰 **Salary:** $200k–$300k/yr
+### [Director of Development, Planned Giving](https://www.indeed.com/viewjob?jk=823944a86ae1ada9) — Volunteers of America
+- 📍 **Location:** Denver, CO, US
+- 💰 **Salary:** $85k–$100k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=ab244671dedfa846) — Safer Path Family Violence Shelter, Inc.
-- 📍 **Location:** Pleasanton, TX, US
-- 💰 **Salary:** $90k–$110k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-17
-
-### [Executive Director- STATION DC](https://www.indeed.com/viewjob?jk=c84d34d1c8108851) — Capital Factory
-- 📍 **Location:** Washington, DC, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-17
-
-### [Senior Director of Development](https://www.indeed.com/viewjob?jk=267680e8c352ead7) — Freedom House
-- 📍 **Location:** Washington, DC, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-17
-
-### [Director of Development](https://www.indeed.com/viewjob?jk=c8b167ae51a6b097) — Unknown
-- 📍 **Location:** Hyannis, MA, US
-- 💰 **Salary:** $78k–$80k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-17
-
-### [Director of Development](https://www.indeed.com/viewjob?jk=07741b33561542a0) — National Science & Technology Medals Foundation
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $80k–$110k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-17
-
-### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=4c56e546b682bd91) — Habitat For Humanity
-- 📍 **Location:** Lexington, KY, US
-- 💰 **Salary:** $160k–$180k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-17
-
-### [Executive Director of Development, Individual Giving & Campaign Priorities](https://www.indeed.com/viewjob?jk=49c10622aefc8cda) — Temple University Health System
-- 📍 **Location:** Philadelphia, PA, US
-- 💰 **Salary:** $110k–$130k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-17
-
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=a672c59b443de3da) — Nazo
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $97k–$117k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-09-17
-
-### [Deputy Community Development Director](https://www.indeed.com/viewjob?jk=d49ef04694df780b) — City of Las Vegas
-- 📍 **Location:** Las Vegas, NV, US
-- 💰 **Salary:** $123k–$161k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-16
-
-### [Business Development Director](https://www.indeed.com/viewjob?jk=77e13c9e5b073731) — Equip
+### [Director of Development](https://www.indeed.com/viewjob?jk=f956f94c2064a748) — Unknown
 - 📍 **Location:** US
-- 💰 **Salary:** $128k–$160k/yr
 - **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Director of Development](https://www.indeed.com/viewjob?jk=c96554020f3aca85) — Gifford Youth Achievement Center
+- 📍 **Location:** Vero Beach, FL, US
+- 💰 **Salary:** $75k–$85k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Director of Development & Relationships](https://www.indeed.com/viewjob?jk=8a9d923debe38a6e) — Cultivate Initiatives
+- 📍 **Location:** Portland, OR, US
+- 💰 **Salary:** $80k–$88k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-12
+
+### [Director of Operations](https://www.indeed.com/viewjob?jk=d6b62584c99e11b8) — Cultivate Initiatives
+- 📍 **Location:** Portland, OR, US
+- 💰 **Salary:** $82k–$88k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-12
+
+### [Executive Director - Environmental Education Center](https://www.indeed.com/viewjob?jk=79dbc811bf5b20c5) — Friends of Rogers Environmental Education Center
+- 📍 **Location:** Sherburne, NY, US
+- 💰 **Salary:** $65k–$75k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Associate Director of Development, MGB for Children](https://www.indeed.com/viewjob?jk=66ea34a9812a41b3) — Massachusetts General Hospital
+- 📍 **Location:** Boston, MA, US
+- 💰 **Salary:** $80k–$116k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-17
+
+### [Sr. Director of Philanthropy, SECS](https://www.indeed.com/viewjob?jk=e15948d59685f00a) — Oakland University
+- 📍 **Location:** Rochester, MI, US
+- 💰 **Salary:** $103k–$119k/yr
+- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-17
