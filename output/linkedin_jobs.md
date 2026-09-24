@@ -1,118 +1,84 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-24 19:32 UTC*
+*Last updated: 2026-09-24 22:45 UTC*
 
-**25 new role(s)** since last run · 25 total in last 1h
+**19 new role(s)** since last run · 19 total in last 1h
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4460544179/) — Harbor Regional Center
-- 📍 **Location:** Torrance, CA
-- 💰 **Salary:** $177,516.00/yr - $197,579.75/yr
+### [National Amusement Deputy Director](https://www.linkedin.com/jobs/view/4470023953/) — Aliquantum International
+- 📍 **Location:** Ontario, CA
+- 💰 **Salary:** $125,000 - $160,000
 - 🕒 **Posted:** 2026-09-24
 
-### [Director of Advancement](https://www.linkedin.com/jobs/view/4470025100/) — Outside The Lens
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $85,000–$93,600 annually
+### [Director of Communications](https://www.linkedin.com/jobs/view/4470038614/) — UCLA Teaching and Learning Center
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-09-24
 
-### [Senior Director of Institutional Giving](https://www.linkedin.com/jobs/view/4470014758/) — LifeMoves
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $155,000.00/yr - $190,000.00/yr
+### [Director of Partnerships](https://www.linkedin.com/jobs/view/4470047111/) — NW Recruiting Partners
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $150K - $175K
 - 🕒 **Posted:** 2026-09-24
 
-### [Advocacy Director](https://www.linkedin.com/jobs/view/4470013776/) — Permit Power
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Managing Director, BCRF Venture Philanthropy Program](https://www.linkedin.com/jobs/view/4471647426/) — The Breast Cancer Research Foundation
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $450,000.00/yr - $475,000.00/yr
-- 🕒 **Posted:** 2026-09-24
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4447555883/) — Project Healthy Minds
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $150,000 to $200,000,
-- 🕒 **Posted:** 2026-09-24
-
-### [Program Director](https://www.linkedin.com/jobs/view/4471646942/) — Postgraduate Center for Mental Health
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-09-24
-
-### [Managing Director - Capital Formation](https://www.linkedin.com/jobs/view/4460647321/) — Established Private Capital Advisory Firm
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-24
-
-### [Managing Director- Cybersecurity](https://www.linkedin.com/jobs/view/4471630799/) — Sia
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000–$280,000
-- 🕒 **Posted:** 2026-09-24
-
-### [Managing Director, Chief Marketing Officer](https://www.linkedin.com/jobs/view/4444467939/) — ProShares
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $300,000–$385,000
-- 🕒 **Posted:** 2026-09-24
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4471651882/) — Association for Death Education and Counseling (ADEC)
+### [Chief Operating Officer & VP, Administration Apex Technical School](https://www.linkedin.com/jobs/view/4466613947/) — The Fedcap Group
 - 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-09-24
 
-### [Executive Director-Lead a Transformational New Arts Center](https://www.linkedin.com/jobs/view/4470030043/) — Meyer Art Center
-- 📍 **Location:** Stanwood, WA
-- 💰 **Salary:** $85,000 – $140,000 annually
+### [Executive Director](https://www.linkedin.com/jobs/view/4471800005/) — Access Opportunity Colorado
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-09-24
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4471652111/) — Allure Lifestyle Communities
-- 📍 **Location:** Greater Philadelphia
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4471687563/) — Project Return Tennessee
+- 📍 **Location:** Nashville Metropolitan Area
 - 🕒 **Posted:** 2026-09-24
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4471659055/) — LeaderStat
-- 📍 **Location:** Columbus, OH
-- 💰 **Salary:** $100k - $115k
+### [President and CEO](https://www.linkedin.com/jobs/view/4470041452/) — Sparrow Company Executive Search & Staffing
+- 📍 **Location:** El Paso, TX
 - 🕒 **Posted:** 2026-09-24
 
-### [Program Director](https://www.linkedin.com/jobs/view/4470035025/) — Insight Global
-- 📍 **Location:** Franklin, TN
-- 💰 **Salary:** $130,000.00/yr - $165,000.00/yr
+### [Executive Director, Business Services (Revenue Cycle)](https://www.linkedin.com/jobs/view/4471699443/) — UNT Health Fort Worth
+- 📍 **Location:** Fort Worth, TX
 - 🕒 **Posted:** 2026-09-24
 
-### [ASL Program Director - Residential Services](https://www.linkedin.com/jobs/view/4471675085/) — Northeast Arc
-- 📍 **Location:** Swampscott, MA
+### [President / Chief Executive Officer (CEO)](https://www.linkedin.com/jobs/view/4469051861/) — Thurston County Chamber of Commerce
+- 📍 **Location:** Olympia, WA
 - 🕒 **Posted:** 2026-09-24
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4470015450/) — LifeCampUSA
-- 📍 **Location:** Delafield, WI
-- 💰 **Salary:** $75,000–$90,000 annually
+### [Youth Development Director](https://www.linkedin.com/jobs/view/4471800365/) — Greater Austin YMCA
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-24
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4471665502/) — Maryland Nonprofits
-- 📍 **Location:** Lutherville, MD
+### [Director of Operations - EHM](https://www.linkedin.com/jobs/view/4471677946/) — HCA Healthcare
+- 📍 **Location:** Largo, FL
 - 🕒 **Posted:** 2026-09-24
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4471667481/) — Maryland Nonprofits
-- 📍 **Location:** Columbia, MD
+### [Director of Operations - EHM](https://www.linkedin.com/jobs/view/4471690447/) — HCA Healthcare
+- 📍 **Location:** Palm Harbor, FL
 - 🕒 **Posted:** 2026-09-24
 
-### [Director of Development, College of Social Sciences and Public Policy](https://www.linkedin.com/jobs/view/4459356406/) — Florida State University
-- 📍 **Location:** Tallahassee Metropolitan Area
+### [Director of Operations - EHM](https://www.linkedin.com/jobs/view/4471686555/) — HCA Healthcare
+- 📍 **Location:** St. Petersburg, FL
 - 🕒 **Posted:** 2026-09-24
 
-### [Director of Development, Anne Spencer Daves College of Education, Health, and Human Sciences](https://www.linkedin.com/jobs/view/4459356388/) — Florida State University
-- 📍 **Location:** Tallahassee Metropolitan Area
+### [Director of Operations - EHM](https://www.linkedin.com/jobs/view/4471688449/) — HCA Healthcare
+- 📍 **Location:** Stuart, FL
 - 🕒 **Posted:** 2026-09-24
 
-### [Managing Director, Development](https://www.linkedin.com/jobs/view/4435818741/) — Teach For America
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $90,000 - $118,100
+### [Director of Operations - EHM](https://www.linkedin.com/jobs/view/4471679799/) — HCA Healthcare
+- 📍 **Location:** Palm Beach Gardens, FL
 - 🕒 **Posted:** 2026-09-24
 
-### [Managing Director / Partner, Business Development (Private Equity)](https://www.linkedin.com/jobs/view/4469319674/) — First Water Finance
-- 📍 **Location:** Houston, TX
+### [Associate Director of Advancement (Development Officer)](https://www.linkedin.com/jobs/view/4471697213/) — Indiana University Bloomington
+- 📍 **Location:** Bloomington, IN
+- 💰 **Salary:** $63,000-$68,000 annually
 - 🕒 **Posted:** 2026-09-24
 
-### [Program Director - Crisis Response](https://www.linkedin.com/jobs/view/4464158373/) — Northern Pines Mental Health Center
-- 📍 **Location:** Mora, MN
-- 💰 **Salary:** $74,000 - $104,000 annually
+### [Doctor of Nursing Practice (DNP) Program Director University of Kansas](https://www.linkedin.com/jobs/view/4471694655/) — American Association of Colleges of Nursing (AACN)
+- 📍 **Location:** Kansas City, KS
 - 🕒 **Posted:** 2026-09-24
 
-### [Associate Director / Director of Development](https://www.linkedin.com/jobs/view/4470029138/) — Constructive Dialogue Institute
-- 📍 **Location:** United States
-- 💰 **Salary:** $101,000.00/yr - $147,000.00/yr
+### [Managing Director – Portfolio Operations & Value Creation](https://www.linkedin.com/jobs/view/4471691555/) — East 57th Street Partners
+- 📍 **Location:** Dallas-Fort Worth Metroplex
+- 🕒 **Posted:** 2026-09-24
+
+### [Director of Operations - EHM](https://www.linkedin.com/jobs/view/4471682580/) — HCA Healthcare
+- 📍 **Location:** Sarasota, FL
 - 🕒 **Posted:** 2026-09-24
