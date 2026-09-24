@@ -1,58 +1,48 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-23 22:35 UTC*
+*Last updated: 2026-09-24 01:41 UTC*
 
-**12 new role(s)** since last run · 13 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Chief Development Officer](https://www.linkedin.com/jobs/view/4471137269/) — Executive Integrity | B Corp®
-- 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-09-23
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4469630338/) — Challenged Athletes Foundation
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $150,000 - $170,000
+- 🕒 **Posted:** 2026-09-24
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4469619196/) — ALL In Education
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $165,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-09-23
+### [Director of Development](https://www.linkedin.com/jobs/view/4469617712/) — CatholicJobs.com
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $70k to $80k
+- 🕒 **Posted:** 2026-09-24
 
-### [Chief Program Officer](https://www.linkedin.com/jobs/view/4471130413/) — Cook Inlet Tribal Council, Inc.
-- 📍 **Location:** Anchorage, AK
-- 🕒 **Posted:** 2026-09-23
+### [Program Director](https://www.linkedin.com/jobs/view/4469612609/) — Boys & Girls Club of Paterson and Passaic
+- 📍 **Location:** Paterson, NJ
+- 🕒 **Posted:** 2026-09-24
 
-### [Community Development Director](https://www.linkedin.com/jobs/view/4471130704/) — City of Forest Park
-- 📍 **Location:** Forest Park, GA
-- 💰 **Salary:** $127,750 - $159,700
-- 🕒 **Posted:** 2026-09-23
+### [Managing Director](https://www.linkedin.com/jobs/view/4471158762/) — Washington State University
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $14,364.00 - $20,833.33
+- 🕒 **Posted:** 2026-09-24
 
-### [Executive Director, Clinical Operations](https://www.linkedin.com/jobs/view/4469342965/) — Immatics
-- 📍 **Location:** United States
-- 💰 **Salary:** $270,000 to $300,000
-- 🕒 **Posted:** 2026-09-23
+### [Deputy Director](https://www.linkedin.com/jobs/view/4471160826/) — City of Boston
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-09-24
 
-### [Senior Vice President of Development](https://www.linkedin.com/jobs/view/4469612523/) — Hennepin Arts
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $190,000 - $200,000
-- 🕒 **Posted:** 2026-09-23
+### [Residence Director (Executive Director)](https://www.linkedin.com/jobs/view/4471162592/) — Legend Senior Living®
+- 📍 **Location:** Lakewood Ranch, FL
+- 🕒 **Posted:** 2026-09-24
 
-### [Deputy Director (Housing Development)](https://www.linkedin.com/jobs/view/4468174023/) — Bernalillo County
-- 📍 **Location:** Albuquerque, NM
-- 💰 **Salary:** $89,128.00- $111,946.00
-- 🕒 **Posted:** 2026-09-23
+### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4469604904/) — VIKR Technologies, Inc.
+- 📍 **Location:** District of Columbia, United States
+- 💰 **Salary:** $150,000 to $185,000
+- 🕒 **Posted:** 2026-09-24
 
-### [Senior Director of Advocacy and HCP Education](https://www.linkedin.com/jobs/view/4471124597/) — Merz Aesthetics
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-09-23
+### [Director of Development, Tippie College of Business](https://www.linkedin.com/jobs/view/4469639123/) — University of Iowa Center for Advancement
+- 📍 **Location:** Iowa City, IA
+- 🕒 **Posted:** 2026-09-24
 
-### [Managing Director, Alternative Investment Distribution](https://www.linkedin.com/jobs/view/4471135567/) — Rex
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-23
+### [APP Program Director](https://www.linkedin.com/jobs/view/4471154914/) — Panoramic Health
+- 📍 **Location:** Pennsylvania, United States
+- 🕒 **Posted:** 2026-09-24
 
-### [Community Development Director](https://www.linkedin.com/jobs/view/4471135586/) — DDA Human Resources, Inc.
-- 📍 **Location:** Elko New Market, MN
-- 💰 **Salary:** $131,060.00/yr - $163,945.00/yr
-- 🕒 **Posted:** 2026-09-23
-
-### [Director Of Development Services And Current Planning](https://www.linkedin.com/jobs/view/4469499793/) — Chatham County-Savannah Metropolitan Planning Commission
-- 📍 **Location:** Savannah, GA
-- 🕒 **Posted:** 2026-09-23
-
-### [Clean Power Institute Executive Director](https://www.linkedin.com/jobs/view/4469606789/) — American Clean Power Association (ACP)
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-09-23
+### [Director of Operations Support](https://www.linkedin.com/jobs/view/4469632373/) — Banner Health
+- 📍 **Location:** Mesa, AZ
+- 🕒 **Posted:** 2026-09-24
