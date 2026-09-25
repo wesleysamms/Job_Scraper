@@ -1,89 +1,96 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-25 08:09 UTC*
+*Last updated: 2026-09-25 19:38 UTC*
 
-**19 new role(s)** since last run · 20 total in last 1h
+**21 new role(s)** since last run · 21 total in last 1h
 
-### [JPL Deputy Director](https://www.linkedin.com/jobs/view/4471864611/) — NASA Jet Propulsion Laboratory
-- 📍 **Location:** Pasadena, CA
-- 💰 **Salary:** $500,000 - $750,000
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4469630338/) — Challenged Athletes Foundation
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $150,000 - $170,000
 - 🕒 **Posted:** 2026-09-25
 
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4469055398/) — Crossover
-- 📍 **Location:** Greenwich, CT
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Chief Advancement Officer](https://www.linkedin.com/jobs/view/4455466559/) — Merito Group
+- 📍 **Location:** Staten Island, NY
+- 💰 **Salary:** $120,000.00/yr - $125,000.00/yr
 - 🕒 **Posted:** 2026-09-25
 
-### [Housing Executive Director- Open Until Filled](https://www.linkedin.com/jobs/view/4471873277/) — Confederated Tribes of Siletz Indians
-- 📍 **Location:** Siletz, OR
+### [Executive Director-Digital Product - Medical Cost Initiatives](https://www.linkedin.com/jobs/view/4471850721/) — CVS Health
+- 📍 **Location:** Albany, NY
+- 💰 **Salary:** $175,100.00 - $334,750.00
 - 🕒 **Posted:** 2026-09-25
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4471855990/) — Allure Lifestyle Communities
-- 📍 **Location:** Wayne, PA
+### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4471869268/) — Restaurant Associates
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $145,000 - $155,000
 - 🕒 **Posted:** 2026-09-25
 
-### [Business: Executive Director, Bethel Institute for Business Engagement](https://www.linkedin.com/jobs/view/4471874108/) — Bethel University
-- 📍 **Location:** St Paul, MN
-- 💰 **Salary:** $74,499 to $93,853
+### [Executive Director – Health Plan Administration](https://www.linkedin.com/jobs/view/4470195368/) — UFCW National Health and Welfare Fund
+- 📍 **Location:** Englewood, NJ
+- 💰 **Salary:** $250,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-09-25
 
-### [Development Director](https://www.linkedin.com/jobs/view/4471877018/) — The Link Minnesota
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $96,004.00-$112,005.00/year
+### [Chief Executive Officer - nonprofit](https://www.linkedin.com/jobs/view/4472052996/) — Athena Recruiting
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-09-25
 
-### [Director of Advancement - Antonian College Preparatory High School](https://www.linkedin.com/jobs/view/4471865744/) — Archdiocese of San Antonio Careers
-- 📍 **Location:** San Antonio, TX
+### [Chief Program Officer](https://www.linkedin.com/jobs/view/4472074019/) — Future Caucus
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $151,000.00/yr - $163,000.00/yr
 - 🕒 **Posted:** 2026-09-25
 
-### [Business Development Director, OGC](https://www.linkedin.com/jobs/view/4469356098/) — SGS
-- 📍 **Location:** Deer Park, TX
+### [Executive Director, Office of Student Financial Aid](https://www.linkedin.com/jobs/view/4472084064/) — University of Washington
+- 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-09-25
 
-### [Business Development Director](https://www.linkedin.com/jobs/view/4471869603/) — WEITZ-ABITAT MISSION CRITICAL
-- 📍 **Location:** Phoenix, AZ
+### [Executive Director](https://www.linkedin.com/jobs/view/4472074001/) — Netrolynx AI
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-25
 
-### [Associate Director of Advancement - Antonian College Preparatory High School](https://www.linkedin.com/jobs/view/4471860961/) — Archdiocese of San Antonio Careers
-- 📍 **Location:** San Antonio, TX
+### [DIRECTOR/CHIEF EXECUTIVE OFFICER](https://www.linkedin.com/jobs/view/4470192442/) — NAVY EXCHANGE SERVICE COMMAND (NEXCOM)
+- 📍 **Location:** Virginia Beach, VA
 - 🕒 **Posted:** 2026-09-25
 
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4469047624/) — Crossover
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Associate Director of Operations - Head Start](https://www.linkedin.com/jobs/view/4472068564/) — Mid-Willamette Valley Community Action Agency
+- 📍 **Location:** Salem, OR
 - 🕒 **Posted:** 2026-09-25
 
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4469049509/) — Crossover
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Executive Director of Advancement, Sam Fox School of Design & Visual Arts - University Advancement](https://www.linkedin.com/jobs/view/4470374864/) — Washington University in St. Louis
+- 📍 **Location:** Greater St. Louis
 - 🕒 **Posted:** 2026-09-25
 
-### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4469054427/) — Crossover
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+### [Director of Operations](https://www.linkedin.com/jobs/view/4470375922/) — Seattle Social Housing Developer
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $145,000 - $185,000
 - 🕒 **Posted:** 2026-09-25
 
-### [director of development](https://www.linkedin.com/jobs/view/4470076938/) — WNC Nonprofit Pathways
-- 📍 **Location:** Home, KS
+### [Director of Development](https://www.linkedin.com/jobs/view/4472079180/) — Maryland Nonprofits
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $70,000.00 - $85,000.00 per year
 - 🕒 **Posted:** 2026-09-25
 
-### [development director](https://www.linkedin.com/jobs/view/4470083751/) — WNC Nonprofit Pathways
-- 📍 **Location:** Home, KS
+### [Director of Fundraising and Development](https://www.linkedin.com/jobs/view/4472060963/) — The Arc of Palm Beach County
+- 📍 **Location:** West Palm Beach, FL
 - 🕒 **Posted:** 2026-09-25
 
-### [Director of Partnerships](https://www.linkedin.com/jobs/view/4471855877/) — selfpublishing.com
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $85,000 to $200,000 annually
+### [Development Director](https://www.linkedin.com/jobs/view/4470388414/) — YMCA Camp Coniston
+- 📍 **Location:** New Hampshire, United States
 - 🕒 **Posted:** 2026-09-25
 
-### [executive director](https://www.linkedin.com/jobs/view/4470079925/) — WNC Nonprofit Pathways
-- 📍 **Location:** Home, KS
+### [Program Director, Advanced Heart Failure and Cardiac Transplant](https://www.linkedin.com/jobs/view/4442661229/) — Penn State Health
+- 📍 **Location:** Hershey, PA
 - 🕒 **Posted:** 2026-09-25
 
-### [Program Director - FRC](https://www.linkedin.com/jobs/view/4462307698/) — Behavioral Health Network, Inc (BHN)
-- 📍 **Location:** Ware, MA
-- 💰 **Salary:** $80,000-$86,000
+### [Program Director](https://www.linkedin.com/jobs/view/4472068460/) — State of Indiana
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-09-25
 
-### [director of development & engagement](https://www.linkedin.com/jobs/view/4470094140/) — WNC Nonprofit Pathways
-- 📍 **Location:** Home, KS
+### [Deputy Director Youth and Family Services](https://www.linkedin.com/jobs/view/4472082095/) — City of Albuquerque
+- 📍 **Location:** Albuquerque, NM
+- 🕒 **Posted:** 2026-09-25
+
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4470192452/) — SKYAN Energy Solutions
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-25
+
+### [Director of Development](https://www.linkedin.com/jobs/view/4470392316/) — Sightline
+- 📍 **Location:** Plano, TX
 - 🕒 **Posted:** 2026-09-25
