@@ -1,63 +1,45 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-25 22:48 UTC*
+*Last updated: 2026-09-26 01:51 UTC*
 
-**13 new role(s)** since last run · 13 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Chief Advancement Officer, California Academy of Sciences (San Francisco)](https://www.linkedin.com/jobs/view/4470193973/) — Association of Fundraising Professionals, Golden Gate Chapter (AFP Golden Gate)
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $325,000 – $350,000
-- 🕒 **Posted:** 2026-09-25
-
-### [Executive Director, Information Technology Services](https://www.linkedin.com/jobs/view/4470728080/) — Ohlone College
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $175,445.00 - $223,920.00 Annually
-- 🕒 **Posted:** 2026-09-25
-
-### [Director of Community Engagement](https://www.linkedin.com/jobs/view/4472096315/) — Goodwill Southern Los Angeles County
-- 📍 **Location:** Long Beach, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4470728144/) — Downtown Modesto Partnership
+### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4470747471/) — Zenique Hotels
 - 📍 **Location:** Modesto, CA
-- 💰 **Salary:** $100,000 - $115,000
-- 🕒 **Posted:** 2026-09-25
+- 💰 **Salary:** $145,000 to $155,000 per year
+- 🕒 **Posted:** 2026-09-26
 
-### [Managing Director of Operations Transformation](https://www.linkedin.com/jobs/view/4472082869/) — Zeta Charter Schools
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
+### [Executive Director, Brand Strategy & Social Innovation](https://www.linkedin.com/jobs/view/4470761134/) — Panda Restaurant Group
+- 📍 **Location:** Rosemead, CA
+- 💰 **Salary:** $205,000 - $288,000
+- 🕒 **Posted:** 2026-09-26
 
-### [School Age Program Director](https://www.linkedin.com/jobs/view/4470188999/) — Partnership for After School Education (PASE)
-- 📍 **Location:** Manhattan, NY
-- 🕒 **Posted:** 2026-09-25
+### [Managing Director, Transition Management Executive](https://www.linkedin.com/jobs/view/4472218895/) — NTT DATA North America
+- 📍 **Location:** Plano, TX
+- 💰 **Salary:** $150,000 - $350,000 per year
+- 🕒 **Posted:** 2026-09-26
 
-### [Special Assistant (Deputy Director of Field Response)](https://www.linkedin.com/jobs/view/4472207401/) — NYS Division of Homeland Security & Emergency Services
-- 📍 **Location:** Albany, NY
-- 💰 **Salary:** $133,245.00/yr - $168,152.00/yr
-- 🕒 **Posted:** 2026-09-25
+### [Financial Consulting Managing Director - Interim Staffing](https://www.linkedin.com/jobs/view/4470751495/) — RSM US LLP
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $181,900 - $397,700
+- 🕒 **Posted:** 2026-09-26
 
-### [Deputy Director Neighborhood Safety & Engagement](https://www.linkedin.com/jobs/view/4470705946/) — City of Memphis
-- 📍 **Location:** Memphis, TN
-- 💰 **Salary:** $93,302.04 - $123,625.32
-- 🕒 **Posted:** 2026-09-25
+### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4469198348/) — Solution Tree
+- 📍 **Location:** Bloomington, IN
+- 🕒 **Posted:** 2026-09-26
 
-### [Deputy Director, Commissioner Support (Director I)](https://www.linkedin.com/jobs/view/4470503524/) — Texas Education Agency
-- 📍 **Location:** Austin, Texas Metropolitan Area
-- 💰 **Salary:** $6,377.50/mo - $8,581.66/mo
-- 🕒 **Posted:** 2026-09-25
+### [Deputy Director of Operations](https://www.linkedin.com/jobs/view/4472073396/) — City of Boston
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-09-26
 
-### [Director of Development, National Capital Region Chapter](https://www.linkedin.com/jobs/view/4472207343/) — Blue Star Families
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $87,000 - 120,000 per year
-- 🕒 **Posted:** 2026-09-25
+### [Director of Advancement and Alumni Services - Client Experience - Advancement and Alumni Engagement](https://www.linkedin.com/jobs/view/4469788744/) — Emory University
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-09-26
 
-### [Managing Director, Real Estate Capital Markets](https://www.linkedin.com/jobs/view/4470512087/) — Metapixle
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-09-25
+### [Program Director - ATLANTA](https://www.linkedin.com/jobs/view/4472223772/) — Behavioral Health Connections
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-09-26
 
-### [Chief Operating Officer (COO) – Volunteer Executive Role](https://www.linkedin.com/jobs/view/4472200358/) — The Donovan's Venom 501c3
-- 📍 **Location:** Lilburn, GA
-- 🕒 **Posted:** 2026-09-25
-
-### [Director of Communications, Educating Character Initiative](https://www.linkedin.com/jobs/view/4470359908/) — Wake Forest University
-- 📍 **Location:** Winston-Salem, NC
-- 🕒 **Posted:** 2026-09-25
+### [Director of Philanthropy Operations](https://www.linkedin.com/jobs/view/4470752655/) — The Nature Conservancy
+- 📍 **Location:** Florida, United States
+- 💰 **Salary:** $108,00.00 – $135,000.00
+- 🕒 **Posted:** 2026-09-26
