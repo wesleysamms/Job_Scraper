@@ -1,88 +1,81 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-26 02:14 UTC*
+*Last updated: 2026-09-26 08:08 UTC*
 
-**13 new role(s)** since last run · 41 total in last 24h
+**12 new role(s)** since last run · 40 total in last 24h
 
-### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=7c8225c0fd9b7c3a) — Morongo Casino, Resort & Spa
-- 📍 **Location:** Cabazon, CA, US
+### [Executive Director](https://www.indeed.com/viewjob?jk=3ac6d9277fdc3aaa) — Envision Consulting
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $100k–$135k/yr
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-26
 
-### [Tax Mergers & Acquisitions (M&A) Managing Director](https://www.indeed.com/viewjob?jk=b7fa2c9b8117cc34) — ghj
+### [Executive Director](https://www.indeed.com/viewjob?jk=df9d0f7c582cb086) — R3 Ag Consulting, LLC
+- 📍 **Location:** Modesto, CA, US
+- 💰 **Salary:** $100k–$115k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-26
+
+### [Director of Philanthropy](https://www.indeed.com/viewjob?jk=92966e48520dda87) — Rancho Cielo
+- 📍 **Location:** Salinas, CA, US
+- 💰 **Salary:** $110k–$130k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-25
+
+### [Chief Operating Officer (COO)](https://www.indeed.com/viewjob?jk=e2793694b5929da8) — for the people
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $160k–$200k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-25
+
+### [Director of Partnerships and Civic Engagement](https://www.indeed.com/viewjob?jk=8135c88c95267367) — Los Angeles Unified School District
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $224k–$320k/yr
+- 💰 **Salary:** $173k–$215k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-25
+
+### [Strategy Program Director - CBD Strategy Growth & Operations](https://www.indeed.com/viewjob?jk=da762356b04f28f2) — JPMorganChase
+- 📍 **Location:** Wilmington, DE, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-25
 
-### [Director of Development, National Capital Region Chapter](https://www.indeed.com/viewjob?jk=5486392eb15c1ea0) — Blue Star Families, Inc
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $87k–$120k/yr
+### [Executive Director](https://www.indeed.com/viewjob?jk=622abb2dd969497a) — Allelon Hospice & Palliative Care
+- 📍 **Location:** Pueblo, CO, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-25
+
+### [Executive Director, Chief of Staff - Pharmacy Services Operations](https://www.indeed.com/viewjob?jk=89db9dc118581d4d) — CVS Health
+- 📍 **Location:** Northbrook, IL, US
+- 💰 **Salary:** $132k–$303k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-26
+
+### [Executive Director, Chief of Staff - Pharmacy Services Operations](https://www.indeed.com/viewjob?jk=36f1cdd6de3bc4fb) — CVS Health
+- 📍 **Location:** Chicago, IL, US
+- 💰 **Salary:** $132k–$303k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-26
+
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=29bb00a669ef18e4) — True companies
+- 📍 **Location:** Casper, WY, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-25
+
+### [Director of Development & Marketing](https://www.indeed.com/viewjob?jk=2e90f0459f47d48e) — Equinox, Inc
+- 📍 **Location:** Albany, NY, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-25
+
+### [Deputy Director (Housing Development)](https://www.indeed.com/viewjob?jk=d734b2493669bd6d) — Bernalillo County
+- 📍 **Location:** Albuquerque, NM, US
+- 💰 **Salary:** $89k–$112k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [Director of Marketing and Communications](https://www.indeed.com/viewjob?jk=c34c14a8097dd40b) — Habitat for Humanity Central Arkansas
-- 📍 **Location:** Little Rock, AR, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [Chief Operating Officer- University Hospital - UH Administration - University Hospital](https://www.indeed.com/viewjob?jk=2ecb589267f0f7a3) — USA Health
-- 📍 **Location:** Mobile, AL, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [Director of External Relations & Advancement](https://www.indeed.com/viewjob?jk=8af9f6b3415c52f0) — Bay Atlantic University
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $65k–$75k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [Tax Mergers & Acquisitions (M&A) Managing Director](https://www.indeed.com/viewjob?jk=45b0d00f94a0f978) — ghj
-- 📍 **Location:** Buffalo, NY, US
-- 💰 **Salary:** $224k–$320k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [Tax Mergers & Acquisitions (M&A) Managing Director](https://www.indeed.com/viewjob?jk=e58ee593c4f4826d) — ghj
-- 📍 **Location:** Denver, CO, US
-- 💰 **Salary:** $224k–$320k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [Managing Director, Global Web Marketing](https://www.indeed.com/viewjob?jk=28a06bdd8cb21808) — Humane Society Legislative Fund
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $95k–$135k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [Managing Director of Corporate Relations](https://www.indeed.com/viewjob?jk=9909fa4a7d56c34f) — Ducks Unlimited
-- 📍 **Location:** Memphis, TN, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [Executive Director, Office of Student Financial Aid](https://www.indeed.com/viewjob?jk=ee4e73afb30119b0) — University Of Washington
-- 📍 **Location:** Seattle, WA, US
-- 💰 **Salary:** $185k–$215k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
-
-### [Executive Director, NASAA Investor Protection and Education Foundation](https://www.indeed.com/viewjob?jk=e8174ccf71118a6f) — North American Securities Administrators Association NASAA
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $110k–$120k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-25
-
-### [Director of Operations, Men's Basketball](https://www.indeed.com/viewjob?jk=5ef59c09b2db7c9e) — Yale University
-- 📍 **Location:** New Haven, CT, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
+- 🕒 **Posted:** 2026-09-26
