@@ -1,37 +1,23 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-27 19:22 UTC*
+*Last updated: 2026-09-27 22:42 UTC*
 
-**5 new role(s)** since last run · 10 total in last 24h
+**3 new role(s)** since last run · 12 total in last 24h
 
-### [CEO](https://www.indeed.com/viewjob?jk=8a678d8eaa1369ce) — The Joy Culture Foundation
-- 📍 **Location:** Menlo Park, CA, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-27
-
-### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=060eb42b82f9cf7f) — The Joy Culture Foundation
-- 📍 **Location:** Menlo Park, CA, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-27
-
-### [Program Director](https://www.indeed.com/viewjob?jk=4398934b95274462) — Centers Health Care
-- 📍 **Location:** Brooklyn, NY, US
-- 💰 **Salary:** $58k–$65k/yr
+### [CHIEF OPERATING OFFICER — PLAINTIFF PERSONAL INJURY LAW FIRM](https://www.indeed.com/viewjob?jk=a4930bcb185f1db9) — Kansas City Accident Injury Attorneys
+- 📍 **Location:** Kansas City, MO, US
+- 💰 **Salary:** $175k–$250k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-27
 
-### [Development and Program Director](https://www.indeed.com/viewjob?jk=36da5c4975bf4d87) — YouthEntity
-- 📍 **Location:** Carbondale, CO, US
-- 💰 **Salary:** $68k–$90k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-09-27
-
-### [Senior Director of Development, Engineering](https://www.indeed.com/viewjob?jk=7a711d9eac0da385) — Case Western Reserve University
-- 📍 **Location:** Cleveland, OH, US
-- 💰 **Salary:** $89k–$113k/yr
+### [democracyFIRST Data Deputy Director](https://www.indeed.com/viewjob?jk=4c17d9d66c224eb9) — Progressive Turnout Project
+- 📍 **Location:** Chicago, IL, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-25
+- 🕒 **Posted:** 2026-05-19
+
+### [Executive Director and Assistant, Associate or Professor of Medicine, Student Health Services](https://www.indeed.com/viewjob?jk=deeba6b7643d21df) — University of Central Florida
+- 📍 **Location:** Orlando, FL, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-27
