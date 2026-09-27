@@ -1,9 +1,23 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-27 06:51 UTC*
+*Last updated: 2026-09-27 19:15 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Program Director](https://www.linkedin.com/jobs/view/4470587594/) — Discovery Behavioral Health
-- 📍 **Location:** Addison, TX
-- 💰 **Salary:** $85,000.00/yr - $100,000.00/yr
+### [Director of Operations](https://www.linkedin.com/jobs/view/4444381566/) — SBM Management Services, LP
+- 📍 **Location:** Queens, NY
+- 💰 **Salary:** $150,000-$160,000 per year
+- 🕒 **Posted:** 2026-09-27
+
+### [Executive Director](https://www.linkedin.com/jobs/view/4472445973/) — Impact46, inc.
+- 📍 **Location:** Lawrenceville, GA
+- 💰 **Salary:** $100,000 – $125,000 annually
+- 🕒 **Posted:** 2026-09-27
+
+### [EXECUTIVE DIRECTOR](https://www.linkedin.com/jobs/view/4470810583/) — GEORGID CONSULTING
+- 📍 **Location:** Tohatchi, NM
+- 🕒 **Posted:** 2026-09-27
+
+### [Senior Director of Development, Engineering](https://www.linkedin.com/jobs/view/4470818369/) — Case Western Reserve University
+- 📍 **Location:** Cleveland, OH
+- 💰 **Salary:** $500,000 to $1,000,000
 - 🕒 **Posted:** 2026-09-27
