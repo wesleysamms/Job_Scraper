@@ -1,17 +1,24 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-28 01:19 UTC*
+*Last updated: 2026-09-28 07:50 UTC*
 
-**2 new role(s)** since last run · 11 total in last 24h
+**3 new role(s)** since last run · 13 total in last 24h
 
-### [COO](https://www.indeed.com/viewjob?jk=be4c2d55dab9f59c) — Unknown
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $17–$20/hr
-- **Work mode:** On-site
-- **Job type:** contract, internship
-- 🕒 **Posted:** 2026-09-27
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=ad92d107c1ad50b2) — Unknown
-- 📍 **Location:** San Juan, PR, US
+### [Executive Director](https://www.indeed.com/viewjob?jk=094cb4cad1ee114a) — Claremont Soup Kitchen
+- 📍 **Location:** Claremont, NH, US
+- 💰 **Salary:** $65k–$72k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-27
+- 🕒 **Posted:** 2026-09-28
+
+### [Executive Director](https://www.indeed.com/viewjob?jk=17651046ceaac714) — Claremont Soup Kitchen
+- 📍 **Location:** Claremont, NH, US
+- 💰 **Salary:** $65k–$72k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-28
+
+### [Non-Profit Finance Director, Funds Development Director and/or Grantwriter](https://www.indeed.com/viewjob?jk=113127c0abf479e2) — Mana Maoli
+- 📍 **Location:** Honolulu, HI, US
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime, fulltime, contract
+- 🕒 **Posted:** 2026-09-28
