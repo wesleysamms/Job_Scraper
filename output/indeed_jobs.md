@@ -1,23 +1,17 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-27 22:42 UTC*
+*Last updated: 2026-09-28 01:19 UTC*
 
-**3 new role(s)** since last run · 12 total in last 24h
+**2 new role(s)** since last run · 11 total in last 24h
 
-### [CHIEF OPERATING OFFICER — PLAINTIFF PERSONAL INJURY LAW FIRM](https://www.indeed.com/viewjob?jk=a4930bcb185f1db9) — Kansas City Accident Injury Attorneys
-- 📍 **Location:** Kansas City, MO, US
-- 💰 **Salary:** $175k–$250k/yr
+### [COO](https://www.indeed.com/viewjob?jk=be4c2d55dab9f59c) — Unknown
+- 📍 **Location:** Sacramento, CA, US
+- 💰 **Salary:** $17–$20/hr
 - **Work mode:** On-site
-- **Job type:** fulltime
+- **Job type:** contract, internship
 - 🕒 **Posted:** 2026-09-27
 
-### [democracyFIRST Data Deputy Director](https://www.indeed.com/viewjob?jk=4c17d9d66c224eb9) — Progressive Turnout Project
-- 📍 **Location:** Chicago, IL, US
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-05-19
-
-### [Executive Director and Assistant, Associate or Professor of Medicine, Student Health Services](https://www.indeed.com/viewjob?jk=deeba6b7643d21df) — University of Central Florida
-- 📍 **Location:** Orlando, FL, US
+### [Executive Director](https://www.indeed.com/viewjob?jk=ad92d107c1ad50b2) — Unknown
+- 📍 **Location:** San Juan, PR, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-27
