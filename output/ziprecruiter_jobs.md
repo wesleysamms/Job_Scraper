@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-29 02:09 UTC*
+*Last updated: 2026-09-29 08:47 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
