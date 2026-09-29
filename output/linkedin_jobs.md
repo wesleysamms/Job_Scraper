@@ -1,92 +1,74 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-28 21:33 UTC*
+*Last updated: 2026-09-29 01:19 UTC*
 
-**19 new role(s)** since last run · 19 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Chief Executive Officer _ Non Profit](https://www.linkedin.com/jobs/view/4471542750/) — The Joy Culture Foundation
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-09-28
+### [Development Director](https://www.linkedin.com/jobs/view/4471570623/) — American Heart Association
+- 📍 **Location:** Modesto, CA
+- 💰 **Salary:** $70,400 to $88,000 annually
+- 🕒 **Posted:** 2026-09-29
 
-### [Executive Director (Palo Alto)](https://www.linkedin.com/jobs/view/4473000856/) — Eskaton
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $200,000 to $225,000
-- 🕒 **Posted:** 2026-09-28
+### [Program Director - Laurel Hall](https://www.linkedin.com/jobs/view/4471593059/) — LANTERN COMMUNITY SERVICES, INC
+- 📍 **Location:** Queens, NY
+- 🕒 **Posted:** 2026-09-29
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4471554225/) — The K12 Search Group
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-09-28
+### [Executive Director](https://www.linkedin.com/jobs/view/4471563981/) — Beyond Homeless Inc
+- 📍 **Location:** Greencastle, IN
+- 🕒 **Posted:** 2026-09-29
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4471531571/) — The Foster Museum
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-28
+### [Executive Director, HIMS Services](https://www.linkedin.com/jobs/view/4471573751/) — City of Hope
+- 📍 **Location:** United States
+- 💰 **Salary:** $92.00/hr - $153.00/hr
+- 🕒 **Posted:** 2026-09-29
 
-### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4471547516/) — Crabtree & Eller, LLC
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 💰 **Salary:** $180,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-09-28
+### [Executive Director, Human Resources](https://www.linkedin.com/jobs/view/4471579562/) — City of Hope
+- 📍 **Location:** Newnan, GA
+- 💰 **Salary:** $72.00/hr - $126.00/hr
+- 🕒 **Posted:** 2026-09-29
 
-### [School Age Program Director @ Bicultural Bilingual School](https://www.linkedin.com/jobs/view/4470963307/) — Children's Aid
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $70,000 - $76,000
-- 🕒 **Posted:** 2026-09-28
+### [Deputy Assistant Secretary & Chief Program Officer PROGRAM MANAGER SENIOR IV](https://www.linkedin.com/jobs/view/4473054227/) — State of Maryland
+- 📍 **Location:** Maryland, United States
+- 🕒 **Posted:** 2026-09-29
 
-### [Program Director](https://www.linkedin.com/jobs/view/4468506017/) — Children's Aid
-- 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $65,000 - $66,300
-- 🕒 **Posted:** 2026-09-28
+### [Associate Director of Operations](https://www.linkedin.com/jobs/view/4473056158/) — C.R. Neal Academy, a Rooted School
+- 📍 **Location:** Columbia, South Carolina Metropolitan Area
+- 🕒 **Posted:** 2026-09-29
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4471545476/) — New York City Department of Consumer and Worker Protection
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $145,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-09-28
+### [Program Director, Family Foundations Home Visitor](https://www.linkedin.com/jobs/view/4471569789/) — Great Lakes Inter-Tribal Epidemiology Center (GLITEC)
+- 📍 **Location:** Lac du Flambeau, WI
+- 💰 **Salary:** $64,000 - $67,000 annually
+- 🕒 **Posted:** 2026-09-29
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4471555114/) — New York City Department of Consumer and Worker Protection
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $69,736.00/yr - $112,883.00/yr
-- 🕒 **Posted:** 2026-09-28
+### [CHIEF DEVELOPMENT OFFICER](https://www.linkedin.com/jobs/view/4471230367/) — Youth For Christ USA Inc.
+- 📍 **Location:** Bradenton, FL
+- 🕒 **Posted:** 2026-09-29
 
-### [Assistant Program Director (Employer Engagement)](https://www.linkedin.com/jobs/view/4472794988/) — UCNJ Union College of Union County, NJ
-- 📍 **Location:** Elizabeth, NJ
-- 🕒 **Posted:** 2026-09-28
+### [Director of Development, College of Social Sciences and Public Policy](https://www.linkedin.com/jobs/view/4459356406/) — Florida State University
+- 📍 **Location:** Tallahassee Metropolitan Area
+- 🕒 **Posted:** 2026-09-29
 
-### [Workforce Services Executive Director - WorkLink](https://www.linkedin.com/jobs/view/4473012745/) — National Association of Development Organizations (NADO)
-- 📍 **Location:** Greenville, SC
-- 🕒 **Posted:** 2026-09-28
+### [Media Gallery Deputy Director #113](https://www.linkedin.com/jobs/view/4471586208/) — United States Senate Sergeant at Arms
+- 📍 **Location:** District of Columbia, United States
+- 💰 **Salary:** $156,563 - $165,000
+- 🕒 **Posted:** 2026-09-29
 
-### [Executive Director Rouson Center for Substance Use & Mental Health Research](https://www.linkedin.com/jobs/view/4469792085/) — University of South Florida
-- 📍 **Location:** Greater Tampa Bay Area
-- 🕒 **Posted:** 2026-09-28
+### [DIRECTOR OF GOVERNMENT RELATIONS Administrative Program Manager II](https://www.linkedin.com/jobs/view/4473050646/) — State of Maryland
+- 📍 **Location:** Maryland, United States
+- 🕒 **Posted:** 2026-09-29
 
-### [President & Chief Executive Officer](https://www.linkedin.com/jobs/view/4473011189/) — The Greater Pasco Chamber
-- 📍 **Location:** Port Richey, FL
-- 💰 **Salary:** $75,000- $85,000
-- 🕒 **Posted:** 2026-09-28
+### [Program Director, Robbinsdale Area Schools Community Education](https://www.linkedin.com/jobs/view/4473040844/) — Robbinsdale Area Schools
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $93,548 to $111,603
+- 🕒 **Posted:** 2026-09-29
 
-### [CEO - Psychiatric Institute of Washington (Washington, DC)](https://www.linkedin.com/jobs/view/4473020410/) — UHS
+### [Program Director, Doctor of Physical Therapy (DPT) Program](https://www.linkedin.com/jobs/view/4471231220/) — University of Minnesota
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-09-29
+
+### [Deputy Director, Labor Standards](https://www.linkedin.com/jobs/view/4473046482/) — DC Department of Human Resources
 - 📍 **Location:** Washington, DC
-- 💰 **Salary:** $190,000.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-09-28
+- 🕒 **Posted:** 2026-09-29
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4473020054/) — RTD
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $411,000-$509,000,
-- 🕒 **Posted:** 2026-09-28
-
-### [Regional Director of Operations](https://www.linkedin.com/jobs/view/4473013624/) — Risus Talent Partners
-- 📍 **Location:** Washington, United States
-- 💰 **Salary:** $100,000–$140,000 annually
-- 🕒 **Posted:** 2026-09-28
-
-### [Director of Development, UNM Hospitals & UNM Children's Hospital](https://www.linkedin.com/jobs/view/4473016227/) — The University of New Mexico Foundation, Inc.
-- 📍 **Location:** Albuquerque-Santa Fe Metropolitan Area
-- 💰 **Salary:** $80,000.00/yr - $93,000.00/yr
-- 🕒 **Posted:** 2026-09-28
-
-### [Director of Development, Grateful Patient & Family, HSC/UNMH](https://www.linkedin.com/jobs/view/4473014368/) — The University of New Mexico Foundation, Inc.
-- 📍 **Location:** Albuquerque-Santa Fe Metropolitan Area
-- 💰 **Salary:** $80,000.00/yr - $105,000.00/yr
-- 🕒 **Posted:** 2026-09-28
-
-### [Market Development Director](https://www.linkedin.com/jobs/view/4466881246/) — Legacy Healthcare Services
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-09-28
+### [Deputy Director, Insurance, Compliance and Reporting (ICR) PROGRAM MANAGER III](https://www.linkedin.com/jobs/view/4473052366/) — State of Maryland
+- 📍 **Location:** Maryland, United States
+- 🕒 **Posted:** 2026-09-29
