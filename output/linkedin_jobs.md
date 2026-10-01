@@ -1,165 +1,84 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-09-30 20:22 UTC*
+*Last updated: 2026-10-01 00:09 UTC*
 
-**36 new role(s)** since last run · 36 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [Director of Operations and Sales - Roseville, CA](https://www.linkedin.com/jobs/view/4472326880/) — Cornerstone Caregiving
-- 📍 **Location:** Roseville, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Program Director, Catalytic Deployment](https://www.linkedin.com/jobs/view/4473947617/) — The OpenAI Foundation
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $270,000 to $330,000 USD
-- 🕒 **Posted:** 2026-09-30
-
-### [Chief Communications Officer](https://www.linkedin.com/jobs/view/4473941637/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $251,322 – $276,576 per annum
-- 🕒 **Posted:** 2026-09-30
-
-### [Director of Institutional Giving](https://www.linkedin.com/jobs/view/4460156194/) — Institute on Aging
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $160,000 – $175,000/annual
-- 🕒 **Posted:** 2026-09-30
-
-### [Program Director, High-Burden Diseases](https://www.linkedin.com/jobs/view/4473956302/) — The OpenAI Foundation
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $300,000 to $370,000 USD
-- 🕒 **Posted:** 2026-09-30
-
-### [Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4473953489/) — Circle
+### [Managing Director of Policy](https://www.linkedin.com/jobs/view/4472344247/) — AAPI Equity Alliance
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $186,000.00/yr - $186,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Managing Director, Experience w/ Annuities, Life Insurance, Investments (NY/NJ)](https://www.linkedin.com/jobs/view/4473943245/) — WealthBridge Financial Group
-- 📍 **Location:** Melville, NY
+### [Director/Managing Director, AI Software Development](https://www.linkedin.com/jobs/view/4473967800/) — CohnReznick
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $211,000 to $290,000
 - 🕒 **Posted:** 2026-09-30
 
-### [Managing Director, Experience w/ Annuities, Life Insurance, Investments (NY/NJ)](https://www.linkedin.com/jobs/view/4473935595/) — WealthBridge Financial Group
-- 📍 **Location:** Elmont, NY
+### [Managing Director, Investor Relations & Strategy (Global Crypto & Payments Platform)](https://www.linkedin.com/jobs/view/4472370431/) — Salient Group
+- 📍 **Location:** New York, United States
+- 💰 **Salary:** $400,000.00/yr - $600,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Director, Global Equities Chief Operating Officer](https://www.linkedin.com/jobs/view/4473922959/) — BNY
+### [Asset & Wealth Management, XIG, Chief Financial Officer (CFO) of Evergreen Funds, Private Markets, Extended Managing Director - New York](https://www.linkedin.com/jobs/view/4472375029/) — Goldman Sachs
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $125000-$250000
 - 🕒 **Posted:** 2026-09-30
 
-### [Director of Strategic Partnerships](https://www.linkedin.com/jobs/view/4473945573/) — Circle
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $186,000.00/yr - $186,000.00/yr
+### [Vice President of Development](https://www.linkedin.com/jobs/view/4472366598/) — The Authors Guild
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-09-30
 
-### [Nursing Program Director](https://www.linkedin.com/jobs/view/4458439119/) — Bryant & Stratton College
-- 📍 **Location:** Rochester, NY
-- 💰 **Salary:** $100,000 - $120,000 per year
+### [Executive Director  - Animal Protection Society of Durham](https://www.linkedin.com/jobs/view/4472376179/) — Armstrong McGuire & Associates
+- 📍 **Location:** Durham, NC
+- 💰 **Salary:** $120,000.00/yr - $145,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Director of Development, Brain Health Institute](https://www.linkedin.com/jobs/view/4448561501/) — Rutgers University Foundation
-- 📍 **Location:** New Brunswick, NJ
-- 🕒 **Posted:** 2026-09-30
-
-### [Managing Director, Experience w/ Annuities, Life Insurance, Investments (NY/NJ)](https://www.linkedin.com/jobs/view/4473953042/) — WealthBridge Financial Group
-- 📍 **Location:** Red Bank, NJ
-- 🕒 **Posted:** 2026-09-30
-
-### [Executive Director/CEO](https://www.linkedin.com/jobs/view/4473955269/) — Accrediting Commission of Career Schools and Colleges (ACCSC)
-- 📍 **Location:** Arlington, VA
-- 💰 **Salary:** $250,000 - $325,000 annually
-- 🕒 **Posted:** 2026-09-30
-
-### [President & Chief Executive Officer](https://www.linkedin.com/jobs/view/4472331847/) — Boys & Girls Club
-- 📍 **Location:** Bellingham, WA
-- 💰 **Salary:** $150,000.00/yr - $195,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Executive Director](https://www.linkedin.com/jobs/view/4472616986/) — Arthritis Foundation
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-09-30
-
-### [President & Chief Executive Officer](https://www.linkedin.com/jobs/view/4472062032/) — INSPIRE Alliance
-- 📍 **Location:** College Station, TX
-- 🕒 **Posted:** 2026-09-30
-
-### [Executive Director, Retirement Policy](https://www.linkedin.com/jobs/view/4471544819/) — U.S. Chamber of Commerce
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $220,500.00 to $250,000.00
-- 🕒 **Posted:** 2026-09-30
-
-### [Executive Director for Development for Endowment Services and Gift Operations](https://www.linkedin.com/jobs/view/4470671016/) — The University of Texas at Austin
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-09-30
-
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4473948134/) — Atlanta Heart Associates Pc
-- 📍 **Location:** McDonough, GA
-- 💰 **Salary:** $100,000 to $150,000 per year
-- 🕒 **Posted:** 2026-09-30
-
-### [Executive Director of University Events](https://www.linkedin.com/jobs/view/4470615095/) — The University of Texas at Austin
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-09-30
-
-### [Managing Director, Organizational Effectiveness](https://www.linkedin.com/jobs/view/4472322997/) — Pioneer Management Consulting
-- 📍 **Location:** Minneapolis, MN
-- 💰 **Salary:** $180,000 - $284,000 annually
-- 🕒 **Posted:** 2026-09-30
-
-### [Development Director](https://www.linkedin.com/jobs/view/4473927994/) — Maryland Nonprofits
-- 📍 **Location:** Baltimore, MD
-- 🕒 **Posted:** 2026-09-30
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4473939649/) — H&B Facility Services
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-30
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4473943162/) — Neighbor Ride, Inc.
-- 📍 **Location:** Columbia, MD
-- 💰 **Salary:** $80,000 to $95,000
-- 🕒 **Posted:** 2026-09-30
-
-### [United to End Polluter Handouts, Campaign Director](https://www.linkedin.com/jobs/view/4473941635/) — THE PARTNERSHIP PROJECT
+### [Executive Director](https://www.linkedin.com/jobs/view/4472381032/) — Ocean Carbon & Biogeochemistry (OCB)
 - 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-09-30
 
-### [Executive Director, Development Resources](https://www.linkedin.com/jobs/view/4473946451/) — University of Miami
-- 📍 **Location:** Coral Gables, FL
+### [Executive Director](https://www.linkedin.com/jobs/view/4472366636/) — Shalom Gardens
+- 📍 **Location:** Henrico, VA
+- 💰 **Salary:** $110,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Executive Director of Operations](https://www.linkedin.com/jobs/view/4472621764/) — Capital Max
-- 📍 **Location:** United States
+### [Executive Director - Center of Advanced Practice](https://www.linkedin.com/jobs/view/4473970969/) — Stanford Medicine Children's Health
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $308,100 - $383,200
 - 🕒 **Posted:** 2026-09-30
 
-### [Director of Advancement](https://www.linkedin.com/jobs/view/4472341381/) — Cushing Academy
-- 📍 **Location:** Ashburnham, MA
-- 💰 **Salary:** $165,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Director of Development - The Southeast Pastoral Institute (SEPI)](https://www.linkedin.com/jobs/view/4473945088/) — Archdiocese of New Orleans
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior Director of Development, Health and Science](https://www.linkedin.com/jobs/view/4472335754/) — University of Montana Foundation
-- 📍 **Location:** Missoula, MT
-- 🕒 **Posted:** 2026-09-30
-
-### [Assistant Director of Partnerships](https://www.linkedin.com/jobs/view/4473940548/) — The University of Texas at Austin
+### [Director/Managing Director, AI Software Development](https://www.linkedin.com/jobs/view/4473979553/) — CohnReznick
 - 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-09-30
 
-### [Director of Development Operations](https://www.linkedin.com/jobs/view/4473943048/) — Montreat Conference Center
-- 📍 **Location:** Montreat, NC
-- 💰 **Salary:** $50,000-$55,000
+### [Director/Managing Director, AI Software Development](https://www.linkedin.com/jobs/view/4473967795/) — CohnReznick
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-09-30
 
-### [Chief of Staff to the CEO](https://www.linkedin.com/jobs/view/4472332547/) — VoltaGrid
-- 📍 **Location:** Houston, TX
+### [Director of Development (5336)](https://www.linkedin.com/jobs/view/4373368247/) — NextPath Workforce Solutions
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $90,000.00/yr - $90,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Director of Development, California](https://www.linkedin.com/jobs/view/4472345423/) — Yad Vashem USA Foundation
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $180,000.00/yr - $200,000.00/yr
+### [Fundraising Development Director](https://www.linkedin.com/jobs/view/4473969971/) — Ivy Tech Community College
+- 📍 **Location:** Evansville, IN
+- 💰 **Salary:** $50,000 to $60,000 per year
 - 🕒 **Posted:** 2026-09-30
 
-### [Director of Development, California](https://www.linkedin.com/jobs/view/4472339781/) — DRG Consulting
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $180,000.00/yr - $200,000.00/yr
+### [Associate Director of Development, Utah Chapter](https://www.linkedin.com/jobs/view/4470470825/) — Blue Star Families
+- 📍 **Location:** Ogden, UT
+- 💰 **Salary:** $79,000 - 109,000 per year
+- 🕒 **Posted:** 2026-09-30
+
+### [Director of Development I (Scheller)](https://www.linkedin.com/jobs/view/4473966634/) — Georgia Institute of Technology
+- 📍 **Location:** Atlanta Metropolitan Area
+- 💰 **Salary:** $25,000 to $1
+- 🕒 **Posted:** 2026-09-30
+
+### [Executive Director - Financial Planning & Analysis](https://www.linkedin.com/jobs/view/4473968987/) — Stanford Medicine Children's Health
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $230,000 - $300,000
+- 🕒 **Posted:** 2026-09-30
+
+### [Director/Managing Director, AI Software Development](https://www.linkedin.com/jobs/view/4473986111/) — CohnReznick
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $211,000 to $290,000
 - 🕒 **Posted:** 2026-09-30
