@@ -1,121 +1,111 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-10-01 00:17 UTC*
+*Last updated: 2026-10-01 06:42 UTC*
 
-**18 new role(s)** since last run · 47 total in last 24h
+**16 new role(s)** since last run · 46 total in last 24h
 
-### [ceo](https://www.indeed.com/viewjob?jk=3e4451a3b8a4050c) — Unknown
-- 📍 **Location:** Carson, CA, US
+### [J.P. Morgan Wealth Management - Executive Director, Advanced Planner Wealth Advisor - San Francisco and San Jose, CA](https://www.indeed.com/viewjob?jk=8f2c1914d16d7459) — JPMorganChase
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $209k–$300k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=9877c179e199670d) — Kingdom Builders Christian Fellowship
+### [Science & Policy Director](https://www.indeed.com/viewjob?jk=3998d1b8d0e08133) — Heal the Bay
+- 📍 **Location:** Santa Monica, CA, US
+- 💰 **Salary:** $120k–$140k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [Program Director--Substance Use Disorder Services](https://www.indeed.com/viewjob?jk=69e75aa60b31554c) — Aviva Family and Children's Services (Hamburger Home)
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $100k–$110k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [Executive Director](https://www.indeed.com/viewjob?jk=0c74bd7a2cd4f71d) — Unknown
 - 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $80k–$100k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Managing Director, Foundation Partnerships](https://www.indeed.com/viewjob?jk=3c326c3530af909c) — United States Fund for Unicef
+### [Executive Director, News & Media Relations](https://www.indeed.com/viewjob?jk=3834b8bbb643babe) — University of California - San Francisco
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $134k–$313k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [Director of Community Engagement](https://www.indeed.com/viewjob?jk=086c51b75ee20c36) — TrueCare
+- 📍 **Location:** Perris, CA, US
+- 💰 **Salary:** $93k–$187k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
+
+### [Executive Director, Partner Product Modernization](https://www.indeed.com/viewjob?jk=49b1659e63a7ae58) — JPMorganChase
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $123k–$165k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-03
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=b03bbd4bb104fc23) — Hawaii Agriculture Research Center
-- 📍 **Location:** Waipahu, HI, US
-- 💰 **Salary:** $150k–$200k/yr
+- 💰 **Salary:** $180k–$285k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Development Director](https://www.indeed.com/viewjob?jk=7fe2d6542d35e657) — Kids First
-- 📍 **Location:** Eugene, OR, US
-- 💰 **Salary:** $80k–$95k/yr
+### [Director of Operations and Facilities](https://www.indeed.com/viewjob?jk=2efbb9ee95bebd36) — brooklyn defender services
+- 📍 **Location:** Brooklyn, NY, US
+- 💰 **Salary:** $125k–$150k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Deputy Director](https://www.indeed.com/viewjob?jk=68b27a6896a80488) — RAINBOW FLEET
-- 📍 **Location:** Oklahoma City, OK, US
-- 💰 **Salary:** $66k–$75k/yr
+### [Executive Director - Care Net Pregnancy Center](https://www.indeed.com/viewjob?jk=dd846b0dbc559659) — Christian Career
+- 📍 **Location:** Vero Beach, FL, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Executive Director, Development Resources](https://www.indeed.com/viewjob?jk=0f8173518804e88c) — University of Miami
-- 📍 **Location:** Coral Gables, FL, US
+### [Executive Assistant to the President and CEO](https://www.indeed.com/viewjob?jk=66eed1121ff7c205) — YMCA
+- 📍 **Location:** Lawrence, MA, US
+- 💰 **Salary:** $75k–$90k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Business Development Director – Higher Education](https://www.indeed.com/viewjob?jk=ab37c76258efbd0e) — Attain Partners
-- 📍 **Location:** McLean, VA, US
-- 💰 **Salary:** $150k–$170k/yr
-- **Work mode:** Remote in-state eligible
-- 🕒 **Posted:** 2026-09-30
-
-### [CEO - Upstate Venture Connect](https://www.indeed.com/viewjob?jk=281eeecb4ff7aaca) — UPVENTURES
-- 📍 **Location:** Little Falls, NY, US
-- 💰 **Salary:** $110k–$130k/yr
+### [Chief Development Officer (F/T, remote)](https://www.indeed.com/viewjob?jk=f03fdada397f43e9) — The Chronicle of Philanthropy
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $200k–$240k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Head of Operations & Growth - Path to COO](https://www.indeed.com/viewjob?jk=a3d69fbcd5991190) — RE/MAX Ultimate
-- 📍 **Location:** US
-- 💰 **Salary:** $100k–$165k/yr
+### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=2bff462cbce81289) — Sentara
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $153k–$188k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-09-30
+
+### [President and Chief Operating Officer – Solestial LLC](https://www.indeed.com/viewjob?jk=643e10e61d2c2705) — York Space Systems
+- 📍 **Location:** Tempe, AZ, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-01
+
+### [Chief Executive Officer, Louisiana Athletics](https://www.indeed.com/viewjob?jk=6844cce0ef67b357) — University of Louisiana at Lafayette
+- 📍 **Location:** Lafayette, LA, US
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-28
+
+### [Executive Director | Atlanta, GA](https://www.indeed.com/viewjob?jk=383b8b6450af6f60) — Arthritis Foundation
+- 📍 **Location:** Atlanta, GA, US
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
 
-### [Director of Operations (Remote)](https://www.indeed.com/viewjob?jk=10276df7c55b8456) — Ballotpedia
-- 📍 **Location:** US
-- 💰 **Salary:** $120k–$135k/yr
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Associate Director of Development](https://www.indeed.com/viewjob?jk=8817048ba0393188) — Albany Medical Center
-- 📍 **Location:** Albany, NY, US
-- 💰 **Salary:** $95k–$147k/yr
+### [Director of Major Gifts and Annual Campaign - Tampa Metro YMCA](https://www.indeed.com/viewjob?jk=981b84293eaabe63) — Tampa Metropolitan Area YMCA
+- 📍 **Location:** Tampa, FL, US
+- 💰 **Salary:** $84k–$88k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
-
-### [Fundraising Development Director](https://www.indeed.com/viewjob?jk=ed268763c14df0db) — Ivy Tech Community College
-- 📍 **Location:** Evansville, IN, US
-- 💰 **Salary:** $50k–$60k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Executive Director, QCORE](https://www.indeed.com/viewjob?jk=121a3449ed46ac98) — Montana State University
-- 📍 **Location:** Bozeman, MT, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Director of Development - College of Law](https://www.indeed.com/viewjob?jk=e03f319b5a0f4101) — University of Nebraska Foundation
-- 📍 **Location:** Lincoln, NE, US
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-30
-
-### [Elliot Health System - Executive Director, Government Relations - Full Time](https://www.indeed.com/viewjob?jk=cdc04e03c14248f3) — Elliot Health System
-- 📍 **Location:** Manchester, NH, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Senior Managing Director, Global Policy and Public Affairs](https://www.indeed.com/viewjob?jk=e8bcf700c68fda46) — United States Fund for Unicef
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $123k–$205k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [Program Director of Survivor Advocacy](https://www.indeed.com/viewjob?jk=735695c6373bb7b1) — Unbound Now
-- 📍 **Location:** Fort Worth, TX, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-11
