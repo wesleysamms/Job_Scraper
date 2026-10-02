@@ -1,57 +1,112 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-10-02 01:03 UTC*
+*Last updated: 2026-10-02 07:17 UTC*
 
-**12 new role(s)** since last run · 12 total in last 1h
+**22 new role(s)** since last run · 22 total in last 1h
 
-### [Director of Development - Northern California](https://www.linkedin.com/jobs/view/4472852033/) — Seneca Family of Agencies
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $124,195 - $138,195 per year
+### [Chief Development Officer, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471958224/) — Crossover
+- 📍 **Location:** Antioch, CA
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Director of Development - Southern California](https://www.linkedin.com/jobs/view/4472834763/) — Seneca Family of Agencies
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $124,195 - $138,195 per year
+### [LOSSAN Deputy Managing Director, Operations & Programs](https://www.linkedin.com/jobs/view/4474592899/) — Orange County Transportation Authority
+- 📍 **Location:** Orange, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Chief Communications Officer](https://www.linkedin.com/jobs/view/4472854054/) — Berkeley Lab
-- 📍 **Location:** Berkeley, CA
-- 💰 **Salary:** $290,000 to $360,000 annually
+### [Senior Director of Institutional Giving](https://www.linkedin.com/jobs/view/4473109551/) — JCI Empresarios La Paz
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** USD $155,000 - $190,000
 - 🕒 **Posted:** 2026-10-02
 
-### [Administrator & CEO- Baptist Memorial Hospital - Leake](https://www.linkedin.com/jobs/view/4443246022/) — Baptist Memorial Health Care
-- 📍 **Location:** Carthage, MS
+### [Chief Development Officer, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471945628/) — Crossover
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Regional Operations Executive Director](https://www.linkedin.com/jobs/view/4395278963/) — Baptist Memorial Health Care
-- 📍 **Location:** Memphis, TN
+### [Chief Development Officer, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471958216/) — Crossover
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Senior Program Director](https://www.linkedin.com/jobs/view/4472846473/) — Koniag Government Services
-- 📍 **Location:** Colorado Springs, CO
+### [Chief Development Officer, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471941914/) — Crossover
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [The General Board of Church and Society Director of Development](https://www.linkedin.com/jobs/view/4474555541/) — Rio Texas Annual Conference, The United Methodist Church
-- 📍 **Location:** San Antonio, TX
+### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471946636/) — Crossover
+- 📍 **Location:** Thousand Oaks, CA
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4472840523/) — DXP Enterprises, Inc.
+### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471946649/) — Crossover
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-10-02
+
+### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471941950/) — Crossover
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-10-02
+
+### [Chief Development Officer, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471949546/) — Crossover
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-10-02
+
+### [Chief Development Officer, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471942926/) — Crossover
+- 📍 **Location:** Clovis, CA
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-10-02
+
+### [Chief Development Officer, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471950447/) — Crossover
+- 📍 **Location:** Santa Barbara, CA
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-10-02
+
+### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471948613/) — Crossover
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-10-02
+
+### [Program Director, GT School (Remote) - $400,000/year USD](https://www.linkedin.com/jobs/view/4471962183/) — Crossover
+- 📍 **Location:** Round Rock, TX
+- 💰 **Salary:** $200.00/hr - $200.00/hr
+- 🕒 **Posted:** 2026-10-02
+
+### [Director of Operations - Texas State University Dining](https://www.linkedin.com/jobs/view/4445472407/) — Aramark
+- 📍 **Location:** San Marcos, TX
+- 🕒 **Posted:** 2026-10-02
+
+### [Chief Development Officer, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471942934/) — Crossover
+- 📍 **Location:** Miami Beach, FL
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-10-02
+
+### [Chief Development Officer, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471940975/) — Crossover
 - 📍 **Location:** Houston, TX
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Managing Director, Project & Development Services](https://www.linkedin.com/jobs/view/4474556476/) — Cushman & Wakefield
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $ 242,250.00 - $285,000.00
+### [Chief Development Officer, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471955325/) — Crossover
+- 📍 **Location:** Las Vegas, NV
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Chief Communications Officer - Oxford College of Emory University](https://www.linkedin.com/jobs/view/4472981781/) — Emory University
-- 📍 **Location:** Oxford, GA
+### [Chief Development Officer, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471953454/) — Crossover
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Associate Director or Director of Communications](https://www.linkedin.com/jobs/view/4473933391/) — University of Oklahoma
-- 📍 **Location:** Norman, OK
+### [Chief Development Officer, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471945640/) — Crossover
+- 📍 **Location:** Orlando, FL
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4472999049/) — Pursuit
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $300,000.00/yr - $330,000.00/yr
+### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471965012/) — Crossover
+- 📍 **Location:** Pembroke Pines, FL
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-10-02
+
+### [Director of Community Engagement, Alpha - $400,000/year USD](https://www.linkedin.com/jobs/view/4471946652/) — Crossover
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $400,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-02
