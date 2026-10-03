@@ -1,131 +1,70 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-10-02 20:17 UTC*
+*Last updated: 2026-10-03 00:06 UTC*
 
-**29 new role(s)** since last run · 29 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [DISTRICT EXECUTIVE DIRECTOR, FOUNDATION](https://www.linkedin.com/jobs/view/4475006952/) — San José - Evergreen Community College District
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $191,798 - $233,132
+### [Program Director](https://www.linkedin.com/jobs/view/4458797033/) — Cross Country Healthcare
+- 📍 **Location:** Emeryville, CA
+- 💰 **Salary:** $85,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Managing Director, STEER](https://www.linkedin.com/jobs/view/4475020551/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $140,000 - $250,000 per annum
+### [Program Director](https://www.linkedin.com/jobs/view/4458792770/) — Cross Country Healthcare
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $85,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Associate Director of Development, Corporate & Foundation Relations, Stanford Law School](https://www.linkedin.com/jobs/view/4475021584/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $159,995 to $184,775 per annum
+### [Program Director](https://www.linkedin.com/jobs/view/4458779943/) — Cross Country Healthcare
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $85,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Program Director](https://www.linkedin.com/jobs/view/4475011977/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $116,966 to $150,114
+### [Program Director](https://www.linkedin.com/jobs/view/4458789873/) — Cross Country Healthcare
+- 📍 **Location:** Alameda, CA
+- 💰 **Salary:** $85,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Chief Communications Officer](https://www.linkedin.com/jobs/view/4475015792/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $251,322 – $276,576 per annum
+### [Landscape Architecture - Business Development Director](https://www.linkedin.com/jobs/view/4462705205/) — Alta Planning + Design
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4465867212/) — Habitat for Humanity International
-- 📍 **Location:** Albany, NY
-- 💰 **Salary:** $100,000 - $120,000 per year
+### [Client Development Director](https://www.linkedin.com/jobs/view/4473199177/) — Ticketmaster
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $136,000.00 USD - $170,000.00 USD
 - 🕒 **Posted:** 2026-10-02
 
-### [Managing Director, Financial Communications | Strategic Communications](https://www.linkedin.com/jobs/view/4475019451/) — FTI Consulting
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4473194546/) — Corning Museum of Glass
+- 📍 **Location:** Corning, NY
+- 💰 **Salary:** $250,000 to $275,000,
+- 🕒 **Posted:** 2026-10-02
+
+### [Assistant Program Director (SOS) - Community Support Program](https://www.linkedin.com/jobs/view/4473813018/) — The Bridge
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-02
 
-### [Per Diem Clinical Program Director - Obs/Gyn Reproductive Science](https://www.linkedin.com/jobs/view/4473383447/) — Mount Sinai Health System
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $71 - $106 Hourly
+### [Executive Director](https://www.linkedin.com/jobs/view/4473398826/) — Scion Staffing
+- 📍 **Location:** Palm Beach Gardens, FL
+- 💰 **Salary:** $135,000.00/yr - $155,000.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Executive Director of National Native Community Fund (NNCF)](https://www.linkedin.com/jobs/view/4475009658/) — Native American Bank, N.A.
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $90,000 - $125,000
+### [Director of Development](https://www.linkedin.com/jobs/view/4473810151/) — New Narrative
+- 📍 **Location:** Portland, OR
 - 🕒 **Posted:** 2026-10-02
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4473390191/) — Hawai'i Agriculture Research Center
-- 📍 **Location:** Waipahu, HI
+### [SYSTEM DELIVERY PROGRAM DIRECTOR ((IT Assistant Director III)) - #26-004492-0004](https://www.linkedin.com/jobs/view/4473818005/) — Maryland Department of Health
+- 📍 **Location:** Maryland, United States
+- 💰 **Salary:** $113,157.00 - $146,388.00/year
 - 🕒 **Posted:** 2026-10-02
 
-### [Executive Director GWGL Mission Support](https://www.linkedin.com/jobs/view/4473386203/) — Goodwill Greater Milwaukee & Chicago
-- 📍 **Location:** Great Lakes, IL
+### [Regional Director of Operations SNF](https://www.linkedin.com/jobs/view/4473805599/) — Evolve Therapy Services, LLC
+- 📍 **Location:** South Euclid, OH
 - 🕒 **Posted:** 2026-10-02
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4473170790/) — Covenant Living Communities and Services
-- 📍 **Location:** Denver Metropolitan Area
-- 💰 **Salary:** $0.00 - $0.00 per hour
+### [Regional Director of Operations SNF](https://www.linkedin.com/jobs/view/4473398789/) — Evolve Therapy Services, LLC
+- 📍 **Location:** Columbus, OH
 - 🕒 **Posted:** 2026-10-02
 
-### [Executive Director Skilled Nursing Facility](https://www.linkedin.com/jobs/view/4473371961/) — Ascension
-- 📍 **Location:** Milwaukee, WI
-- 🕒 **Posted:** 2026-10-02
-
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4475006992/) — HORN MEMORIAL HOSPITAL FOUNDATION
-- 📍 **Location:** Ida Grove, IA
-- 🕒 **Posted:** 2026-10-02
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4473169908/) — Digital Nomad World
-- 📍 **Location:** North Township, IN
-- 💰 **Salary:** $100,000.00 – $160,000.00 per year
-- 🕒 **Posted:** 2026-10-02
-
-### [Chief Executive Officer--High Growth, Health Care Services, 79026](https://www.linkedin.com/jobs/view/4473368986/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** Las Vegas, NV
-- 🕒 **Posted:** 2026-10-02
-
-### [Chief Executive Officer--High Growth, Health Care Services, 79026](https://www.linkedin.com/jobs/view/4473374740/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-10-02
-
-### [Executive Director/LALD](https://www.linkedin.com/jobs/view/4475006827/) — Carefree Living
-- 📍 **Location:** Ely, MN
-- 🕒 **Posted:** 2026-10-02
-
-### [Executive Director/LALD](https://www.linkedin.com/jobs/view/4475022164/) — Carefree Living
-- 📍 **Location:** Babbitt, MN
-- 🕒 **Posted:** 2026-10-02
-
-### [Director of Operations](https://www.linkedin.com/jobs/view/4473373045/) — EFE NEWS SERVICES (U.S.) INC.
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-10-02
-
-### [Chief Executive Officer--High Growth, Health Care Services, 79026](https://www.linkedin.com/jobs/view/4473374738/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-10-02
-
-### [Chief Executive Officer - Pharmacy Services - Private Equity, 79011](https://www.linkedin.com/jobs/view/4473370889/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-10-02
-
-### [Chief Executive Officer – Leading Residential and Commercial Services Company- Equity Opportunity, 79032](https://www.linkedin.com/jobs/view/4473382399/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** Dallas-Fort Worth Metroplex
-- 🕒 **Posted:** 2026-10-02
-
-### [Chief Executive Officer – Private Equity-backed Commercial/Residential Paving Services – High Growth, 78983](https://www.linkedin.com/jobs/view/4473385322/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** Detroit, MI
-- 🕒 **Posted:** 2026-10-02
-
-### [Director of Marketing and Communications](https://www.linkedin.com/jobs/view/4475009648/) — Pine Castle
-- 📍 **Location:** Jacksonville, FL
-- 🕒 **Posted:** 2026-10-02
-
-### [Associate Director of Development, H&S](https://www.linkedin.com/jobs/view/4475027294/) — Stanford University School of Medicine
-- 📍 **Location:** Stanford, CA
-- 💰 **Salary:** $145,539 to $168,544 per annum
-- 🕒 **Posted:** 2026-10-02
-
-### [Deputy Director for Development Review UN](https://www.linkedin.com/jobs/view/4475024049/) — City of Albuquerque
-- 📍 **Location:** Albuquerque, NM
-- 🕒 **Posted:** 2026-10-02
-
-### [Chief Operating Officer, Multi-location Behavioral Healthcare Services, 79059](https://www.linkedin.com/jobs/view/4473392208/) — Truenorth Executive Search, Inc.
-- 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-10-02
-
-### [Director of Development, Foundation Relations, College of Engineering](https://www.linkedin.com/jobs/view/4473800003/) — Wisconsin Foundation and Alumni Association
-- 📍 **Location:** Madison, WI
+### [SW Permitting Program Director](https://www.linkedin.com/jobs/view/4464147358/) — Kansas Department of Health and Environment
+- 📍 **Location:** Shawnee County, KS
+- 💰 **Salary:** $70,491.20 - $85,779.20
 - 🕒 **Posted:** 2026-10-02
