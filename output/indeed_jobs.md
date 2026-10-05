@@ -1,25 +1,37 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-10-05 01:24 UTC*
+*Last updated: 2026-10-05 07:48 UTC*
 
-**3 new role(s)** since last run · 5 total in last 24h
+**5 new role(s)** since last run · 9 total in last 24h
 
-### [K-5 Assistant Program Director (MUST HAVE PRIOR COMPASS DYCD EXPERIENCE)](https://www.indeed.com/viewjob?jk=a9ec431a392d7f41) — Veronica Arts Media
-- 📍 **Location:** Bronx, NY, US
-- 💰 **Salary:** $25–$30/hr
+### [Chief Development Officer](https://www.indeed.com/viewjob?jk=01eea034213ad7bb) — Haynes Family of Programs
+- 📍 **Location:** La Verne, CA, US
+- 💰 **Salary:** $153k–$195k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-04
+
+### [Head of Card Customer Analytics & AI Enablement-Executive Director](https://www.indeed.com/viewjob?jk=2b0f7f37b2f7cb25) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $204k–$285k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-04
 
-### [Executive Director of Operations](https://www.indeed.com/viewjob?jk=91b73b755b1ae9b7) — Mead Institute
-- 📍 **Location:** Rochester Hills, MI, US
-- 💰 **Salary:** $85k–$100k/yr
+### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=2891b4c7ae086191) — BGW Creative Marketing
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $101k–$123k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime, contract
+- 🕒 **Posted:** 2026-10-05
+
+### [DIRECTOR OF OPERATIONS & COMMUNITY DEVELOPMENT](https://www.indeed.com/viewjob?jk=4a7eaf3d4f66abcd) — Renew Clinic Knoxville
+- 📍 **Location:** Knoxville, TN, US
+- 💰 **Salary:** $60k–$70k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-04
+- 🕒 **Posted:** 2026-10-05
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=49edf77bf9e44ab9) — Eastern Colorado Services For the Developmentally Disabled
-- 📍 **Location:** Sterling, CO, US
-- 💰 **Salary:** $88k–$105k/yr
+### [Director of Philanthropy](https://www.indeed.com/viewjob?jk=178352aeb45d2971) — HIA Health
+- 📍 **Location:** Fargo, ND, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-04
