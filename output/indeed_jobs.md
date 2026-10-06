@@ -1,129 +1,95 @@
 # 🟦 Indeed — Nonprofit Executive Leadership Roles
-*Last updated: 2026-10-06 02:42 UTC*
+*Last updated: 2026-10-06 09:31 UTC*
 
-**19 new role(s)** since last run · 55 total in last 24h
+**14 new role(s)** since last run · 58 total in last 24h
 
-### [Business Banking Government Area Manager- Executive Director](https://www.indeed.com/viewjob?jk=ba317f23c898d78f) — JPMorganChase
+### [Founding Department Chair and Program Director Nursing CA, Open Rank](https://www.indeed.com/viewjob?jk=226cfe89e9de93e5) — A T Still University Of Health Sciences
+- 📍 **Location:** San Luis Obispo, CA, US
+- 💰 **Salary:** $116k–$210k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [Senior Director of Development](https://www.indeed.com/viewjob?jk=58c4f485892a74f9) — University of California Los Angeles
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $171k–$210k/yr
+- 💰 **Salary:** $109k–$242k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Chief Operating Officer (COO)](https://www.indeed.com/viewjob?jk=d0c55fa23939b50c) — Caloptima
-- 📍 **Location:** Orange, CA, US
+### [J.P. Morgan Wealth Management - Executive Director, Advanced Planner (Wealth Strategist)](https://www.indeed.com/viewjob?jk=e29a88f390688f0e) — JPMorganChase
+- 📍 **Location:** Palm Beach Gardens, FL, US
+- 💰 **Salary:** $195k–$285k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Executive Director](https://www.indeed.com/viewjob?jk=982e59a3d2094f18) — National Multiple Sclerosis Society
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $160k–$180k/yr
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
-
-### [Executive Director - Seniors Housing](https://www.indeed.com/viewjob?jk=1b20caea545616f4) — The Galley Seafood Grill and Bar
-- 📍 **Location:** St. Louis, MO, US
-- 💰 **Salary:** $85k–$110k/yr
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-10-06
 
-### [Senior Development Director, Institutional Advancement](https://www.indeed.com/viewjob?jk=75e99717e55ac5ac) — Bellevue College
-- 📍 **Location:** Bellevue, WA, US
-- 💰 **Salary:** $108k–$156k/yr
+### [Sr. Director of Development & Board Operation](https://www.indeed.com/viewjob?jk=025de6e695d8c3a5) — Boys & Girls Clubs of America
+- 📍 **Location:** Portland, OR, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Chief Philanthropy Officer](https://www.indeed.com/viewjob?jk=c0be94cfc45bf79d) — Covenant House International
-- 📍 **Location:** Fort Lauderdale, FL, US
+### [Chief Executive Officer (CEO) - Fox Run Center](https://www.indeed.com/viewjob?jk=ae8d4b2a24e267e6) — Fox Run Center for Children and Adolescents
+- 📍 **Location:** Saint Clairsville, OH, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Insurance Risk Oversight, Executive Director](https://www.indeed.com/viewjob?jk=3ca3c27a1e4d5bfe) — JPMorganChase
-- 📍 **Location:** Columbus, OH, US
+### [Chief Operating Officer, Jackson South Medical Center](https://www.indeed.com/viewjob?jk=8130f438eafa0574) — Jackson Health System
+- 📍 **Location:** Miami, FL, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Business Banking Not for Profit Area Manager- Executive Director](https://www.indeed.com/viewjob?jk=638fd68a32171631) — JPMorganChase
-- 📍 **Location:** Washington, DC, US
-- 💰 **Salary:** $171k–$210k/yr
+### [Community Development Director (Full-Time)](https://www.indeed.com/viewjob?jk=956afc7b2cfefaaf) — Lenawee County, MI
+- 📍 **Location:** MI, US
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Director of Development](https://www.indeed.com/viewjob?jk=8f320ff6843e8b71) — Big Sky Youth Empowerment
-- 📍 **Location:** Bozeman, MT, US
-- 💰 **Salary:** $75k–$110k/yr
+### [Senior Youth Development Director](https://www.indeed.com/viewjob?jk=21e3f20343aa3196) — Unknown
+- 📍 **Location:** Pierre, SD, US
+- 💰 **Salary:** $50k–$60k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
 
-### [Executive Director](https://www.indeed.com/viewjob?jk=6650403888ecdc67) — RICK'S PLACE
-- 📍 **Location:** Wilbraham, MA, US
-- 💰 **Salary:** $90k–$100k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Chief Executive Officer](https://www.indeed.com/viewjob?jk=660ce4500481d526) — BizNet Software
+### [Regional Director of Development](https://www.indeed.com/viewjob?jk=7f4be3f88ecc0f68) — National Philanthropic Trust
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $150k–$200k/yr
+- 💰 **Salary:** $140k–$190k/yr
+- **Work mode:** Remote in-state eligible
+- 🕒 **Posted:** 2026-10-05
+
+### [Operations Management Program Director](https://www.indeed.com/viewjob?jk=db10ff7a1cfc7f7f) — Sevita
+- 📍 **Location:** Loudonville, OH, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [Deputy Director (WMS 3) DOH8998](https://www.indeed.com/viewjob?jk=6a94f2f692393c13) — State of Washington
+- 📍 **Location:** WA, US
+- 💰 **Salary:** $123k–$140k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-05
 
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=a9049ea192d67767) — Unknown
+### [Orthopedics, Rehab Medicine, and Neurosurgery Departments Executive Director](https://www.indeed.com/viewjob?jk=e1247a75a900ed38) — Tufts Medical Center
+- 📍 **Location:** Boston, MA, US
+- 💰 **Salary:** $163k–$208k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-05
+
+### [Academic Program Director, School of Nursing and Health Sciences MSN Programs](https://www.indeed.com/viewjob?jk=cc9df500bd65aea4) — Strategic Education, Inc.
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $220k–$280k/yr
+- 💰 **Salary:** $95k–$143k/yr
 - **Work mode:** Remote in-state eligible
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-05
 
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=5bb3c8ec0c7002b8) — Celero Commerce
+### [Academic Program Director, School of Nursing and Health Sciences MSN Programs](https://www.indeed.com/viewjob?jk=d9c12f69f28c15e9) — Capella University
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $286k–$369k/yr
+- 💰 **Salary:** $95k–$143k/yr
 - **Work mode:** Remote in-state eligible
-- **Job type:** fulltime, contract
-- 🕒 **Posted:** 2026-10-06
-
-### [Chief Operating Officer](https://www.indeed.com/viewjob?jk=de2637748149f332) — Yellowhawk Tribal Health Center
-- 📍 **Location:** Pendleton, OR, US
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-05
-
-### [Chief Operating Officer Children's Services](https://www.indeed.com/viewjob?jk=42c14454a3f81f5b) — The Groden Network
-- 📍 **Location:** Providence, RI, US
-- 💰 **Salary:** $140k–$168k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [CTO, COO](https://www.indeed.com/viewjob?jk=9c45a3558fa32501) — Unknown
-- 📍 **Location:** Towson, MD, US
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-10-05
-
-### [Associate Director of Development](https://www.indeed.com/viewjob?jk=56cbd125bb6ba9c6) — University of North Carolina at Chapel Hill
-- 📍 **Location:** Chapel Hill, NC, US
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-15
-
-### [Youth and Family Program Director - Emerson YMCA](https://www.indeed.com/viewjob?jk=7e38874dd77b38c8) — YMCA
-- 📍 **Location:** Ferguson, MO, US
-- 💰 **Salary:** $42k–$51k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-05
-
-### [Program Director – Youth Development - North Hills](https://www.indeed.com/viewjob?jk=cf12b0d1cde62995) — YMCA of Greater Pittsburgh
-- 📍 **Location:** Pittsburgh, PA, US
-- 💰 **Salary:** $46k–$55k/yr
-- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-05
