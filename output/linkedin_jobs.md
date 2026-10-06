@@ -1,79 +1,57 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-10-05 22:18 UTC*
+*Last updated: 2026-10-06 02:36 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Deputy Director of Digital Services](https://www.linkedin.com/jobs/view/4474630526/) — California Department of Motor Vehicles
-- 📍 **Location:** Sacramento County, CA
-- 💰 **Salary:** $13,770.00/mo - $15,338.00/mo
-- 🕒 **Posted:** 2026-10-05
+### [Chief Executive Officer CEO](https://www.linkedin.com/jobs/view/4466781446/) — Vibra Healthcare
+- 📍 **Location:** Folsom, CA
+- 🕒 **Posted:** 2026-10-06
 
-### [Executive Director, Partnerships & Strategy](https://www.linkedin.com/jobs/view/4475890176/) — Stanford University
+### [Executive Director, Partnerships & Strategy](https://www.linkedin.com/jobs/view/4476127326/) — Stanford University School of Medicine
 - 📍 **Location:** Stanford, CA
 - 💰 **Salary:** $214,936 to $260,287 per annum
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-06
 
-### [Chief Executive Officer](https://www.linkedin.com/jobs/view/4475872801/) — Prime Healthcare
-- 📍 **Location:** Ontario, CA
-- 💰 **Salary:** $250,000.00 to $350,000.00
-- 🕒 **Posted:** 2026-10-05
-
-### [Associate Director of Operations](https://www.linkedin.com/jobs/view/4475874980/) — Stanford University
+### [Associate Director of Operations](https://www.linkedin.com/jobs/view/4476119614/) — Stanford University School of Medicine
 - 📍 **Location:** California, United States
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-06
 
-### [Deputy Director, Leadership Giving](https://www.linkedin.com/jobs/view/4475877717/) — Baruch College
+### [Director of Partnerships, Robinhood Money](https://www.linkedin.com/jobs/view/4473696701/) — Robinhood
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-05
+- 💰 **Salary:** $242,000—$285,000 USD
+- 🕒 **Posted:** 2026-10-06
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4474618909/) — Chicago Cultural Alliance
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $90,000-$100,00 annually
-- 🕒 **Posted:** 2026-10-05
+### [Scientific Program Director (PhD) - Genetics & Genomics Research](https://www.linkedin.com/jobs/view/4474655453/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $115494 - $173241 Annually
+- 🕒 **Posted:** 2026-10-06
 
-### [Executive Director at the National Network of Abortion Funds](https://www.linkedin.com/jobs/view/4474628451/) — Riverwalker Talent
-- 📍 **Location:** United States
-- 💰 **Salary:** $243,728–$270,810 annually
-- 🕒 **Posted:** 2026-10-05
+### [Executive Director](https://www.linkedin.com/jobs/view/4474652804/) — Sagora Senior Living
+- 📍 **Location:** Lincoln, NE
+- 🕒 **Posted:** 2026-10-06
 
-### [Executive Director of Critical Care](https://www.linkedin.com/jobs/view/4475873983/) — JPS Health Network
-- 📍 **Location:** Fort Worth, TX
-- 🕒 **Posted:** 2026-10-05
+### [Deputy Director (WMS 3) DOH8998](https://www.linkedin.com/jobs/view/4476127078/) — Washington State Department of Health
+- 📍 **Location:** Washington, United States
+- 🕒 **Posted:** 2026-10-06
 
-### [Chief Operating Officer - Thomas Jefferson University Hospitals](https://www.linkedin.com/jobs/view/4474620935/) — Jefferson Health
-- 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-10-05
+### [Swim Development Director](https://www.linkedin.com/jobs/view/4474004362/) — YMCA of Greater Boston
+- 📍 **Location:** Waltham, MA
+- 💰 **Salary:** $58,000.00/yr - $62,000.00/yr
+- 🕒 **Posted:** 2026-10-06
 
-### [Program Director, Cancer Quality and Accreditations](https://www.linkedin.com/jobs/view/4475858919/) — UChicago Medicine
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $142,400.00/yr - $166,100.00/yr
-- 🕒 **Posted:** 2026-10-05
+### [Director of Communications & Media](https://www.linkedin.com/jobs/view/4474006291/) — Sporting Cascades FC
+- 📍 **Location:** Eugene, OR
+- 🕒 **Posted:** 2026-10-06
 
-### [Campaign Fundraising Director - Visionaries of the Year - Houston](https://www.linkedin.com/jobs/view/4442106928/) — Blood Cancer United
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-10-05
+### [Associate Director of Marketing and Communications AS6548](https://www.linkedin.com/jobs/view/4476119383/) — Oklahoma State University
+- 📍 **Location:** Stillwater, OK
+- 💰 **Salary:** $75,000 - $100,000
+- 🕒 **Posted:** 2026-10-06
 
-### [CEO for Your Custom EHR & BetterMind Mental Health](https://www.linkedin.com/jobs/view/4474609382/) — Credify & BetterMind Mental Health
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-10-05
+### [CTE Program Director & Facility Coordinator – Construction Technologies](https://www.linkedin.com/jobs/view/4476128383/) — Xavier College Preparatory
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-10-06
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4475884211/) — Veritext Legal Solutions
-- 📍 **Location:** Baton Rouge, LA
-- 🕒 **Posted:** 2026-10-05
-
-### [Director of Development](https://www.linkedin.com/jobs/view/4474631565/) — Big Sky Youth Empowerment
-- 📍 **Location:** Bozeman, MT
-- 🕒 **Posted:** 2026-10-05
-
-### [Director of Development, Planned Giving](https://www.linkedin.com/jobs/view/4475884425/) — Yale New Haven Health
-- 📍 **Location:** Hamden, CT
-- 🕒 **Posted:** 2026-10-05
-
-### [Campaign Director - National Bargaining](https://www.linkedin.com/jobs/view/4475872944/) — SEIU
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-10-05
-
-### [Executive Director, Crop Protection & Seed Sales - GROWMARK, Inc. - Bloomington, IL](https://www.linkedin.com/jobs/view/4474628769/) — GROWMARK, Inc.
-- 📍 **Location:** Bloomington, IL
-- 💰 **Salary:** $160,350.00 - $232,500.00
-- 🕒 **Posted:** 2026-10-05
+### [Hospice RN Executive Director II](https://www.linkedin.com/jobs/view/4474649809/) — Gentiva
+- 📍 **Location:** Southaven, MS
+- 🕒 **Posted:** 2026-10-06
