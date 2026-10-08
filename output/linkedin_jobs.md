@@ -1,109 +1,97 @@
 # 🔥 LinkedIn — Nonprofit Executive Leadership Roles
-*Last updated: 2026-10-07 20:56 UTC*
+*Last updated: 2026-10-08 01:19 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [Managing Director, Regional Development](https://www.linkedin.com/jobs/view/4476911907/) — National Jewish Health
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $180,000 - $210,000
-- 🕒 **Posted:** 2026-10-07
+### [Transitional Executive Director for Student Health / Assistant Vice Chancellor for Integrated Care](https://www.linkedin.com/jobs/view/4456968063/) — UC Santa Barbara
+- 📍 **Location:** Santa Barbara, CA
+- 🕒 **Posted:** 2026-10-08
 
-### [Director of Operations](https://www.linkedin.com/jobs/view/4475489385/) — ABBA Project Management
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $150,000 – $175,000,
-- 🕒 **Posted:** 2026-10-07
+### [Transitional Executive Director for Student Health / Assistant Vice Chancellor for Integrated Care](https://www.linkedin.com/jobs/view/4456964300/) — UC Santa Barbara
+- 📍 **Location:** Santa Barbara, CA
+- 💰 **Salary:** $275,000 to $325,000/year
+- 🕒 **Posted:** 2026-10-08
 
-### [Chief of Staff to the CEO](https://www.linkedin.com/jobs/view/4474484148/) — David AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $190,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-07
+### [Director of Development Operations](https://www.linkedin.com/jobs/view/4476961222/) — Services for the UnderServed
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-08
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4475700022/) — CALICO: Child Abuse Listening, Interviewing and Coordination Center
-- 📍 **Location:** San Leandro, CA
-- 💰 **Salary:** $160,000 - $200,000,
-- 🕒 **Posted:** 2026-10-07
+### [Managing Director, Head of Advisor Transitions & Integration](https://www.linkedin.com/jobs/view/4475706971/) — Cresset
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,000 - $255,000
+- 🕒 **Posted:** 2026-10-08
 
-### [CEO](https://www.linkedin.com/jobs/view/4476908285/) — TriSearch
-- 📍 **Location:** Poughkeepsie, NY
-- 🕒 **Posted:** 2026-10-07
+### [Assistant Program Director (IDD, OPWDD, QIDP)](https://www.linkedin.com/jobs/view/4476952643/) — Services for the UnderServed
+- 📍 **Location:** Bronx, NY
+- 🕒 **Posted:** 2026-10-08
 
-### [Executive Director - Omaha Streetcar Authority](https://www.linkedin.com/jobs/view/4474470871/) — Mass Transit magazine
-- 📍 **Location:** Omaha, NE
-- 💰 **Salary:** $187,000-$222,000 annually
-- 🕒 **Posted:** 2026-10-07
+### [Executive Director of NMH Summer Lab and Auxiliary Initiatives](https://www.linkedin.com/jobs/view/4476954712/) — Association of Independent Schools in New England
+- 📍 **Location:** Gill, MA
+- 💰 **Salary:** $110,000-$125,000
+- 🕒 **Posted:** 2026-10-08
 
-### [Executive Director, Laboratory Operations](https://www.linkedin.com/jobs/view/4476914595/) — University of Miami
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-10-07
+### [CEO-Facility Administrator | Golden Triangle Surgicenter](https://www.linkedin.com/jobs/view/4476968335/) — SCA Health
+- 📍 **Location:** Murrieta, CA
+- 💰 **Salary:** $152,000.00/yr - $187,000.00/yr
+- 🕒 **Posted:** 2026-10-08
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4476916731/) — Medical Services of America
-- 📍 **Location:** Seneca, SC
-- 💰 **Salary:** $73,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-10-07
+### [Facility Administrator / CEO - Sand Lake Surgery Center](https://www.linkedin.com/jobs/view/4476969287/) — SCA Health
+- 📍 **Location:** Orlando, FL
+- 💰 **Salary:** $130,000.00/yr - $155,000.00/yr
+- 🕒 **Posted:** 2026-10-08
 
-### [Executive Director, Alumni Programming & Events, Wharton External Affairs](https://www.linkedin.com/jobs/view/4475067614/) — University of Pennsylvania
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $135,327.00 - $170,000.00
-- 🕒 **Posted:** 2026-10-07
+### [CHIEF OPERATING OFFICER (Program Manager Senior II)](https://www.linkedin.com/jobs/view/4476961563/) — State of Maryland
+- 📍 **Location:** Maryland, United States
+- 🕒 **Posted:** 2026-10-08
 
-### [Executive Director (Full-Time) - Carolina Reserve of Durham](https://www.linkedin.com/jobs/view/4476915818/) — Navion Senior Solutions
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-10-07
+### [Executive Director](https://www.linkedin.com/jobs/view/4476958509/) — Purple Tree Café
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-08
 
-### [Hospice RN Executive Director I](https://www.linkedin.com/jobs/view/4475486415/) — Gentiva
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $90,000 - $115,000
-- 🕒 **Posted:** 2026-10-07
+### [Residential Program Director I](https://www.linkedin.com/jobs/view/4474495387/) — Vinfen
+- 📍 **Location:** Stoughton, MA
+- 💰 **Salary:** USD $61,910.00 - USD $61,910.00 /Yr
+- 🕒 **Posted:** 2026-10-08
 
-### [Executive Director Portfolio Management - Professional Services](https://www.linkedin.com/jobs/view/4475485644/) — Toshiba Global Commerce Solutions
-- 📍 **Location:** Durham, NC
-- 🕒 **Posted:** 2026-10-07
+### [Program Director](https://www.linkedin.com/jobs/view/4476954810/) — Washington State University
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $11,397.13 - $16,666.67
+- 🕒 **Posted:** 2026-10-08
 
-### [Executive Director](https://www.linkedin.com/jobs/view/4476930068/) — Singh Management
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-10-07
+### [Executive Director of Graduate and Online Enrollment](https://www.linkedin.com/jobs/view/4475711613/) — Baker University
+- 📍 **Location:** Storm Lake, IA
+- 🕒 **Posted:** 2026-10-08
 
-### [CEO of Counterintelligence Warfare & Executive Partner](https://www.linkedin.com/jobs/view/4475494276/) — Wester Consulting Group LLC
+### [Chief Development Officer](https://www.linkedin.com/jobs/view/4476956648/) — Association of Fundraising Professionals (AFP-DC) Washington, DC Metro Area Chapter
+- 📍 **Location:** Glen Echo, MD
+- 💰 **Salary:** $100,000.00 - $130,000.00 Annually
+- 🕒 **Posted:** 2026-10-08
+
+### [Sr. Associate Director of Development, Center for Talented Youth](https://www.linkedin.com/jobs/view/4476953620/) — Johns Hopkins University & Medicine - Development and Alumni Relations
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $95,000 - $105,000
+- 🕒 **Posted:** 2026-10-08
+
+### [Deputy Director, Corporate and Civil Society Partnerships](https://www.linkedin.com/jobs/view/4474490628/) — UNICEF USA
+- 📍 **Location:** United States
+- 💰 **Salary:** $81,850.00/yr - $106,400.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Program Director](https://www.linkedin.com/jobs/view/4476967190/) — Howard University
 - 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-10-07
+- 💰 **Salary:** $65,000.00/yr - $69,000.00/yr
+- 🕒 **Posted:** 2026-10-08
 
-### [Chief Operating Officer](https://www.linkedin.com/jobs/view/4474471801/) — AMN Healthcare Leadership Solutions | B.E. Smith
-- 📍 **Location:** Hayward, WI
-- 🕒 **Posted:** 2026-10-07
+### [Senior Director of Government Relations](https://www.linkedin.com/jobs/view/4475714494/) — Qcells North America
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $263,300 – $329,200
+- 🕒 **Posted:** 2026-10-08
 
-### [Product Development Director - Auto Telematics](https://www.linkedin.com/jobs/view/4474491060/) — USAA
-- 📍 **Location:** Chesapeake, VA
-- 💰 **Salary:** $127,310-$243,340
-- 🕒 **Posted:** 2026-10-07
+### [Program Director (RN) Hospice](https://www.linkedin.com/jobs/view/4476949740/) — Crescent Hospice
+- 📍 **Location:** Sumter, SC
+- 💰 **Salary:** $110,000 - $120,000 per year
+- 🕒 **Posted:** 2026-10-08
 
-### [Product Development Director - Auto Telematics](https://www.linkedin.com/jobs/view/4474475659/) — USAA
-- 📍 **Location:** Colorado Springs, CO
-- 💰 **Salary:** $127,310-$243,340
-- 🕒 **Posted:** 2026-10-07
-
-### [Product Development Director - Auto Telematics](https://www.linkedin.com/jobs/view/4474489148/) — USAA
-- 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $127,310-$243,340
-- 🕒 **Posted:** 2026-10-07
-
-### [Product Development Director - Auto Telematics](https://www.linkedin.com/jobs/view/4474484336/) — USAA
-- 📍 **Location:** Plano, TX
-- 💰 **Salary:** $127,310-$243,340
-- 🕒 **Posted:** 2026-10-07
-
-### [Product Development Director - Auto Telematics](https://www.linkedin.com/jobs/view/4474479519/) — USAA
-- 📍 **Location:** Tampa, FL
-- 💰 **Salary:** $127,310-$243,340
-- 🕒 **Posted:** 2026-10-07
-
-### [Director of Operations - Anthony Timberland Center](https://www.linkedin.com/jobs/view/4476931304/) — University of Arkansas
-- 📍 **Location:** Fayetteville, AR
-- 🕒 **Posted:** 2026-10-07
-
-### [Deputy Director of Strategic Prog - Mgmt - Prevention Services.](https://www.linkedin.com/jobs/view/4476916720/) — Colorado Department of Public Health and Environment
-- 📍 **Location:** Denver, CO
-- 🕒 **Posted:** 2026-10-07
-
-### [Manager, Business Governance, Office of the COO](https://www.linkedin.com/jobs/view/4474481406/) — Grant Thornton (US)
-- 📍 **Location:** Tulsa, OK
-- 🕒 **Posted:** 2026-10-07
+### [Clinical Instructor – Entrepreneurship / Executive Director, Center for Entrepreneurship and Economic Development (CEED)](https://www.linkedin.com/jobs/view/4474803023/) — NCCU Public Administration
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-10-08
